@@ -1010,6 +1010,342 @@ const toeicTestsData = [
   },
   {
     "id": 4,
+    "title": "BÀI ÔN TẬP 04",
+    "questions": [
+      {
+        "question": "The Board of Directors approved the ______ to expand operations into Europe.",
+        "options": {
+          "A": "propose",
+          "B": "proposal",
+          "C": "proposing",
+          "D": "proposed"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. proposal</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>the</code> và đứng trước giới từ <code>to</code> làm tân ngữ cho động từ <code>approved</code> → cần một danh từ.<br>- Chọn danh từ <strong class=\"hl-vocab\">proposal</strong> (bản đề xuất).<br><br><strong>Dịch câu:</strong><br><em>Ban giám đốc đã thông qua bản đề xuất mở rộng hoạt động sang châu Âu.</em>"
+      },
+      {
+        "question": "Ms. Lopez ______ as the regional sales director for ten years before she retired.",
+        "options": {
+          "A": "serves",
+          "B": "has served",
+          "C": "had served",
+          "D": "serving"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. had served</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả một hành động xảy ra và kéo dài liên tục trước một hành động khác trong quá khứ (before she retired) → chia động từ ở thì quá khứ hoàn thành.<br>- Chọn động từ <strong class=\"hl-vocab\">had served</strong> (đã phục vụ/làm việc trước đó).<br><br><strong>Dịch câu:</strong><br><em>Bà Lopez đã làm việc với tư cách là giám đốc bán hàng khu vực trong mười năm trước khi bà nghỉ hưu.</em>"
+      },
+      {
+        "question": "The new marketing strategy was highly ______ in attracting new clients.",
+        "options": {
+          "A": "effect",
+          "B": "effective",
+          "C": "effectively",
+          "D": "effectiveness"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. effective</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết <code>was</code> và trạng từ mức độ <code>highly</code> → cần một tính từ đóng vai trò tính từ vị ngữ.<br>- Chọn tính từ <strong class=\"hl-vocab\">effective</strong> (hiệu quả).<br><br><strong>Dịch câu:</strong><br><em>Chiến lược tiếp thị mới cực kỳ hiệu quả trong việc thu hút khách hàng mới.</em>"
+      },
+      {
+        "question": "The technical team resolved the system issue ______ after the outage occurred.",
+        "options": {
+          "A": "quick",
+          "B": "quicken",
+          "C": "quickly",
+          "D": "quickness"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. quickly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau và bổ nghĩa cho động từ thường quá khứ <code>resolved</code> → cần trạng từ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">quickly</strong> (một cách nhanh chóng).<br><br><strong>Dịch câu:</strong><br><em>Đội ngũ kỹ thuật đã giải quyết sự cố hệ thống một cách nhanh chóng sau khi sự cố mất điện xảy ra.</em>"
+      },
+      {
+        "question": "All corporate expense reports must ______ by the department head before Friday.",
+        "options": {
+          "A": "approve",
+          "B": "be approved",
+          "C": "approved",
+          "D": "approving"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. be approved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật <code>reports</code> không tự thực hiện hành động phê duyệt, đi kèm động từ khuyết thiếu <code>must</code> → cần chia cấu trúc bị động: <code>must be + phân từ hai</code>.<br>- Chọn cấu trúc bị động <strong class=\"hl-vocab\">be approved</strong> (được phê duyệt).<br><br><strong>Dịch câu:</strong><br><em>Tất cả các báo cáo chi phí của công ty phải được trưởng bộ phận phê duyệt trước thứ Sáu.</em>"
+      },
+      {
+        "question": "Mr. Patel is the consultant ______ designed our new inventory system.",
+        "options": {
+          "A": "which",
+          "B": "whom",
+          "C": "whose",
+          "D": "who"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. who</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần đại từ quan hệ thay thế cho danh từ chỉ người đứng trước <code>the consultant</code> đóng vai trò làm chủ ngữ trước động từ <code>designed</code> trong mệnh đề quan hệ.<br>- Chọn đại từ quan hệ chỉ người <strong class=\"hl-vocab\">who</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Patel là nhà tư vấn đã thiết kế hệ thống kiểm kho mới của chúng tôi.</em>"
+      },
+      {
+        "question": "The list of ingredients for the new menu items ______ available online.",
+        "options": {
+          "A": "is",
+          "B": "are",
+          "C": "be",
+          "D": "being"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. is</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chính của câu là danh từ số ít <code>The list</code> (danh sách), các thành phần phía sau là cụm giới từ bổ nghĩa → động từ to be phải chia số ít ở hiện tại.<br>- Chọn động từ to be số ít <strong class=\"hl-vocab\">is</strong>.<br><br><strong>Dịch câu:</strong><br><em>Danh sách các nguyên liệu cho các món ăn mới trong thực đơn đã có sẵn trực tuyến.</em>"
+      },
+      {
+        "question": "The CEO suggested ______ a third-party audit to ensure financial transparency.",
+        "options": {
+          "A": "conduct",
+          "B": "to conduct",
+          "C": "conducting",
+          "D": "conducted"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. conducting</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ đứng sau cấu trúc gợi ý đề xuất của <code>suggest</code> → cấu trúc: <code>suggest + V-ing</code> (gợi ý làm việc gì).<br>- Chọn danh động từ <strong class=\"hl-vocab\">conducting</strong> (thực hiện/tiến hành).<br><br><strong>Dịch câu:</strong><br><em>Giám đốc điều hành gợi ý tiến hành một cuộc kiểm toán độc lập để đảm bảo tính minh bạch tài chính.</em>"
+      },
+      {
+        "question": "Each employee should check ______ schedule to confirm shift assignments.",
+        "options": {
+          "A": "he",
+          "B": "his",
+          "C": "him",
+          "D": "himself"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. his</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>schedule</code> (lịch trình) → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">his</strong> (của anh ấy/của mình).<br><br><strong>Dịch câu:</strong><br><em>Mỗi nhân viên nên kiểm tra lịch làm việc của mình để xác nhận các ca trực được phân công.</em>"
+      },
+      {
+        "question": "The seminar was canceled ______ the guest speaker fell ill.",
+        "options": {
+          "A": "because",
+          "B": "although",
+          "C": "despite",
+          "D": "therefore"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. because</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ nguyên nhân khiến cuộc hội thảo bị hủy (diễn giả khách mời bị bệnh) → chọn liên từ nguyên nhân.<br>- Chọn liên từ <strong class=\"hl-vocab\">because</strong> (vì/bởi vì).<br><br><strong>Dịch câu:</strong><br><em>Buổi hội thảo đã bị hủy vì diễn giả khách mời bị bệnh.</em>"
+      },
+      {
+        "question": "The annual banquet is scheduled to take place ______ October 15th.",
+        "options": {
+          "A": "at",
+          "B": "in",
+          "C": "on",
+          "D": "to"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. on</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với ngày tháng cụ thể trong năm <code>October 15th</code> → cấu trúc: <code>on + ngày tháng</code>.<br>- Chọn giới từ <strong class=\"hl-vocab\">on</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tiệc chiêu đãi hàng năm được lên lịch diễn ra vào ngày 15 tháng 10.</em>"
+      },
+      {
+        "question": "The second proposal was much ______ than the first one.",
+        "options": {
+          "A": "good",
+          "B": "better",
+          "C": "best",
+          "D": "well"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. better</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Có từ <code>than</code> chỉ cấu trúc so sánh hơn và phó từ nhấn mạnh <code>much</code> đứng trước → cần dạng so sánh hơn bất quy tắc của tính từ <code>good</code>.<br>- Chọn tính từ so sánh hơn <strong class=\"hl-vocab\">better</strong> (tốt hơn).<br><br><strong>Dịch câu:</strong><br><em>Bản đề xuất thứ hai tốt hơn nhiều so với bản đề xuất đầu tiên.</em>"
+      },
+      {
+        "question": "We must ______ new regulations to comply with environmental standards.",
+        "options": {
+          "A": "adapt",
+          "B": "adopt",
+          "C": "adept",
+          "D": "addict"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. adopt</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chọn động từ nguyên mẫu phù hợp ngữ cảnh thông qua/áp dụng các quy định mới → chọn động từ phù hợp nghĩa.<br>- Chọn động từ <strong class=\"hl-vocab\">adopt</strong> (thông qua/áp dụng/nhận làm).<br><br><strong>Dịch câu:</strong><br><em>Chúng ta phải áp dụng các quy định mới để tuân thủ các tiêu chuẩn môi trường.</em>"
+      },
+      {
+        "question": "Ms. Vance completed the annual budget report by ______ without any assistance.",
+        "options": {
+          "A": "she",
+          "B": "her",
+          "C": "herself",
+          "D": "hers"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. herself</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới từ đi kèm đại từ phản thân chỉ việc tự mình thực hiện hành động không cần trợ giúp: <code>by + đại từ phản thân</code>.<br>- Chọn đại từ phản thân <strong class=\"hl-vocab\">herself</strong> (tự bản thân cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Cô Vance tự mình hoàn thành báo cáo ngân sách hàng năm mà không cần bất kỳ sự trợ giúp nào.</em>"
+      },
+      {
+        "question": "______ a sudden drop in sales, the company decided to hire more staff.",
+        "options": {
+          "A": "Despite",
+          "B": "Although",
+          "C": "In spite",
+          "D": "Even though"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Despite</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng đầu câu trước cụm danh từ chỉ sự nhượng bộ <code>a sudden drop in sales</code> → cần giới từ chỉ sự tương phản.<br>- Chọn giới từ <strong class=\"hl-vocab\">Despite</strong> (mặc dù/bất chấp). Không chọn <code>In spite</code> vì thiếu <code>of</code>.<br><br><strong>Dịch câu:</strong><br><em>Bất chấp doanh số sụt giảm đột ngột, công ty vẫn quyết định tuyển thêm nhân viên.</em>"
+      },
+      {
+        "question": "If the shipment ______ tomorrow, we will deliver it to the customer immediately.",
+        "options": {
+          "A": "arrives",
+          "B": "will arrive",
+          "C": "arrived",
+          "D": "arriving"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. arrives</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trong mệnh đề điều kiện <code>If</code> của câu điều kiện loại 1 (mệnh đề chính dùng will + V), động từ ở mệnh đề If chia ở hiện tại đơn phù hợp chủ ngữ số ít <code>the shipment</code>.<br>- Chọn động từ chia số ít <strong class=\"hl-vocab\">arrives</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nếu lô hàng đến vào ngày mai, chúng tôi sẽ giao nó cho khách hàng ngay lập tức.</em>"
+      },
+      {
+        "question": "The company has a strong ______ to corporate social responsibility.",
+        "options": {
+          "A": "commit",
+          "B": "committed",
+          "C": "commitment",
+          "D": "committing"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. commitment</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ <code>strong</code> và trước giới từ <code>to</code> làm tân ngữ cho động từ <code>has</code> → cần danh từ.<br>- Cấu trúc cam kết thực hiện việc gì: <code>commitment to something</code>. Chọn danh từ <strong class=\"hl-vocab\">commitment</strong> (sự cam kết).<br><br><strong>Dịch câu:</strong><br><em>Công ty có cam kết mạnh mẽ đối với trách nhiệm xã hội của doanh nghiệp.</em>"
+      },
+      {
+        "question": "Mr. Tanaka will be out of the office ______ next Tuesday.",
+        "options": {
+          "A": "since",
+          "B": "until",
+          "C": "for",
+          "D": "during"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. until</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ thời gian chỉ một hành động/trạng thái kéo dài liên tục cho đến một thời hạn cụ thể trong tương lai (vắng mặt liên tục cho đến thứ Ba tới) → chọn giới từ phù hợp.<br>- Chọn giới từ <strong class=\"hl-vocab\">until</strong> (cho đến khi).<br><br><strong>Dịch câu:</strong><br><em>Ông Tanaka sẽ vắng mặt ở văn phòng cho đến thứ Ba tuần sau.</em>"
+      },
+      {
+        "question": "The office building ______ we visited yesterday has twenty floors.",
+        "options": {
+          "A": "who",
+          "B": "whose",
+          "C": "where",
+          "D": "that"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần đại từ quan hệ thay thế cho danh từ chỉ vật <code>The office building</code> làm tân ngữ cho động từ <code>visited</code> trong mệnh đề quan hệ.<br>- Chọn đại từ quan hệ chỉ vật <strong class=\"hl-vocab\">that</strong> (hoặc <code>which</code>).<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà văn phòng mà chúng tôi đến thăm hôm qua có hai mươi tầng.</em>"
+      },
+      {
+        "question": "We need to find a ______ supplier of raw materials for our factory.",
+        "options": {
+          "A": "rely",
+          "B": "reliable",
+          "C": "reliability",
+          "D": "reliance"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. reliable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>supplier</code> (nhà cung cấp) và sau mạo từ <code>a</code> → cần tính từ bổ nghĩa chỉ phẩm chất đáng tin cậy.<br>- Chọn tính từ <strong class=\"hl-vocab\">reliable</strong> (đáng tin cậy).<br><br><strong>Dịch câu:</strong><br><em>Chúng ta cần tìm một nhà cung cấp nguyên liệu thô đáng tin cậy cho nhà máy của mình.</em>"
+      },
+      {
+        "question": "Employees are encouraged ______ in the upcoming team-building activities.",
+        "options": {
+          "A": "participate",
+          "B": "to participate",
+          "C": "participating",
+          "D": "participated"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. to participate</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ đứng sau cấu trúc bị động khuyến khích làm gì đó: <code>be encouraged + to-V</code>.<br>- Chọn dạng động từ nguyên mẫu có to <strong class=\"hl-vocab\">to participate</strong> (tham gia).<br><br><strong>Dịch câu:</strong><br><em>Nhân viên được khuyến khích tham gia vào các hoạt động xây dựng đội ngũ sắp tới.</em>"
+      },
+      {
+        "question": "The director spoke ______ about the success of the recent merger.",
+        "options": {
+          "A": "enthusiasm",
+          "B": "enthusiastic",
+          "C": "enthusiastically",
+          "D": "enthusiast"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. enthusiastically</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau và bổ nghĩa cho động từ thường quá khứ <code>spoke</code> → cần trạng từ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">enthusiastically</strong> (một cách nhiệt tình/hăng hái).<br><br><strong>Dịch câu:</strong><br><em>Giám đốc đã nói chuyện đầy nhiệt huyết về sự thành công của vụ sáp nhập gần đây.</em>"
+      },
+      {
+        "question": "This is the ______ project the design team has ever undertaken.",
+        "options": {
+          "A": "challenging",
+          "B": "more challenging",
+          "C": "most challenging",
+          "D": "challenge"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. most challenging</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh cao nhất của tính từ dài <code>challenging</code> đi kèm mạo từ xác định <code>the</code> và mệnh đề hoàn thành bổ trợ (has ever undertaken).<br>- Chọn dạng so sánh nhất <strong class=\"hl-vocab\">most challenging</strong> (đầy thử thách nhất).<br><br><strong>Dịch câu:</strong><br><em>Đây là dự án đầy thử thách nhất mà nhóm thiết kế từng đảm nhận từ trước đến nay.</em>"
+      },
+      {
+        "question": "The package ______ to the client's home address yesterday morning.",
+        "options": {
+          "A": "sent",
+          "B": "was sent",
+          "C": "is sending",
+          "D": "sends"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. was sent</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số ít <code>The package</code> (bưu kiện) không thể tự gửi đi, đi kèm trạng ngữ quá khứ <code>yesterday morning</code> → cần chia bị động ở thì quá khứ đơn.<br>- Chọn cấu trúc bị động quá khứ đơn <strong class=\"hl-vocab\">was sent</strong> (đã được gửi).<br><br><strong>Dịch câu:</strong><br><em>Bưu kiện đã được gửi đến địa chỉ nhà của khách hàng vào sáng hôm qua.</em>"
+      },
+      {
+        "question": "Neither the manager nor the team members ______ present at the meeting.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "is",
+          "D": "being"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. were</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ tương hợp <code>Neither S1 nor S2</code>, động từ chia theo chủ ngữ gần nhất S2 là danh từ số nhiều <code>the team members</code>, bổ ngữ quá khứ chỉ cuộc họp diễn ra → chọn động từ chia số nhiều ở quá khứ.<br>- Chọn động từ to be số nhiều <strong class=\"hl-vocab\">were</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cả quản lý và các thành viên trong nhóm đều không có mặt tại cuộc họp.</em>"
+      },
+      {
+        "question": "The new safety guidelines are intended to ______ workplace accidents.",
+        "options": {
+          "A": "prevent",
+          "B": "protect",
+          "C": "promote",
+          "D": "pretend"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. prevent</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chọn động từ nguyên mẫu đứng sau <code>to</code> chỉ mục tiêu phòng ngừa sự cố tai nạn lao động → chọn động từ thích hợp.<br>- Chọn động từ <strong class=\"hl-vocab\">prevent</strong> (ngăn ngừa/phòng chống).<br><br><strong>Dịch câu:</strong><br><em>Các hướng dẫn an toàn mới nhằm mục đích ngăn ngừa tai nạn tại nơi làm việc.</em>"
+      },
+      {
+        "question": "The accounting department is located ______ the third floor.",
+        "options": {
+          "A": "at",
+          "B": "in",
+          "C": "on",
+          "D": "by"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. on</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với số tầng của tòa nhà <code>the third floor</code> → cấu trúc: <code>on + số tầng</code>.<br>- Chọn giới từ <strong class=\"hl-vocab\">on</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận kế toán nằm ở tầng ba.</em>"
+      },
+      {
+        "question": "The project will proceed on schedule ______ we receive the necessary funding.",
+        "options": {
+          "A": "once",
+          "B": "although",
+          "C": "unless",
+          "D": "rather than"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. once</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ thời gian chỉ điều kiện khi một việc hoàn tất thì việc khác tiếp tục diễn ra ngay: <code>once + mệnh đề</code> (ngay sau khi/một khi).<br>- Chọn liên từ <strong class=\"hl-vocab\">once</strong>.<br><br><strong>Dịch câu:</strong><br><em>Dự án sẽ tiến triển đúng tiến độ một khi chúng tôi nhận được nguồn kinh phí cần thiết.</em>"
+      },
+      {
+        "question": "The human resources department handles all ______ regarding payroll.",
+        "options": {
+          "A": "inquire",
+          "B": "inquiries",
+          "C": "inquirers",
+          "D": "inquiring"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. inquiries</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ bổ nghĩa lượng từ <code>all</code> đóng vai trò làm tân ngữ cho động từ <code>handles</code> → cần danh từ đếm được số nhiều để chỉ nhiều thắc mắc thỉnh cầu từ nhân viên.<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">inquiries</strong> (các câu hỏi/thắc mắc).<br><br><strong>Dịch câu:</strong><br><em>Bộ phận nhân sự giải quyết tất cả các thắc mắc liên quan đến bảng lương.</em>"
+      },
+      {
+        "question": "By the time Mr. Gomez arrived at the station, his train ______.",
+        "options": {
+          "A": "leaves",
+          "B": "has left",
+          "C": "had left",
+          "D": "will leave"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. had left</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chỉ thời gian <code>By the time + mệnh đề quá khứ đơn</code>, mệnh đề chính phải chia thì quá khứ hoàn thành để chỉ hành động đã xảy ra trước thời điểm đó.<br>- Chọn động từ quá khứ hoàn thành <strong class=\"hl-vocab\">had left</strong> (đã rời đi).<br><br><strong>Dịch câu:</strong><br><em>Vào lúc ông Gomez đến ga, đoàn tàu của ông ấy đã rời đi rồi.</em>"
+      }
+    ]
+  },
+  {
+    "id": 5,
     "title": "ETS 2026 - TEST 01",
     "questions": [
       {
@@ -1345,7 +1681,7 @@ const toeicTestsData = [
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "ETS 2026 - TEST 02",
     "questions": [
       {
@@ -1681,7 +2017,7 @@ const toeicTestsData = [
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "ETS 2026 - TEST 03",
     "questions": [
       {
@@ -2017,7 +2353,7 @@ const toeicTestsData = [
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "ETS 2026 - TEST 04",
     "questions": [
       {
@@ -2353,7 +2689,7 @@ const toeicTestsData = [
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "ETS 2026 - TEST 05",
     "questions": [
       {

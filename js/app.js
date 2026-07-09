@@ -369,10 +369,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Initialize Test Contents
         const testData = toeicTestsData[currentTestIndex];
-        if (testId <= 3) {
-            chapterSub.textContent = "BÀI ÔN TẬP TỔNG HỢP";
+        if (testId <= 4) {
+            chapterSub.textContent = "PHẦN 02: ÔN TẬP";
         } else {
-            chapterSub.textContent = "LUYỆN ĐỀ ETS 2026";
+            chapterSub.textContent = "PHẦN 03: LUYỆN ĐỀ";
         }
         chapterTitle.textContent = testData.title;
         
@@ -409,7 +409,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Initialize Chapter Contents
         const chapterData = toeicReadingData[currentChapter];
-        chapterSub.textContent = `Chủ điểm ${chapterId < 10 ? '0' + chapterId : chapterId}`;
+        chapterSub.textContent = `PHẦN 01: TRỌNG TÂM KIẾN THỨC - Chủ điểm ${chapterId < 10 ? '0' + chapterId : chapterId}`;
         chapterTitle.textContent = chapterData.title;
         
         // Restore tab switcher and default to Lesson tab
