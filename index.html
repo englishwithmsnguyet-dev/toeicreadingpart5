@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOEIC READING PART 05 - ENGLISHWITHMISSNGUYET</title>
+    
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom Style Sheet -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- Canvas for Confetti celebrations -->
+    <canvas id="confettiCanvas" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; z-index: 1000;"></canvas>
+
+    <!-- Glowing Background Blobs -->
+    <div class="bg-blobs-container" style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; overflow: hidden; z-index: -1; pointer-events: none;">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <!-- Mobile Navigation Toggle Button -->
+    <button class="menu-toggle-btn" id="menuToggleBtn">
+        <i class="fa-solid fa-bars"></i>
+    </button>
+
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="sidebar-logo">
+                    <div class="logo-icon">N</div>
+                    <span>TOEIC READING</span>
+                </div>
+                <button class="toggle-sidebar-btn" id="toggleSidebarBtn">
+                    <i class="fa-solid fa-angles-left" id="toggleIcon"></i>
+                </button>
+            </div>
+            
+            <div class="sidebar-profile" id="sidebarProfileBox" style="display: none; padding: 12px 20px; border-bottom: 1px solid var(--border-color); background: rgba(255, 255, 255, 0.01); align-items: center; gap: 12px;">
+                <div class="profile-avatar" id="profileAvatar" style="width: 38px; height: 38px; border-radius: 50%; background: linear-gradient(135deg, var(--color-purple), var(--color-pink)); display: flex; align-items: center; justify-content: center; font-weight: 700; color: #fff; flex-shrink: 0;">H</div>
+                <div style="display: flex; flex-direction: column; overflow: hidden; flex-grow: 1;">
+                    <span style="font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; line-height: 1.2;">Học viên</span>
+                    <span id="sidebarStudentName" style="font-weight: 600; font-size: 0.9rem; color: var(--text-primary); text-overflow: ellipsis; overflow: hidden; white-space: nowrap; line-height: 1.3;">Nguyễn Văn A</span>
+                </div>
+                <button id="changeNameBtn" title="Đổi tên học viên" style="background: none; border: none; color: var(--text-muted); cursor: pointer; font-size: 0.95rem; padding: 4px; border-radius: 6px; transition: all 0.2s; flex-shrink: 0;"><i class="fa-solid fa-user-pen"></i></button>
+            </div>
+            
+            <nav class="sidebar-nav">
+                <div class="nav-item active" id="navHomeBtn">
+                    <span class="nav-item-icon"><i class="fa-solid fa-house"></i></span>
+                    <span class="nav-item-text">TRANG CHỦ</span>
+                </div>
+                
+                <!-- Bật/Tắt Đèn (Light/Dark Mode Theme Toggle) -->
+                <div class="nav-item" id="themeToggleBtn">
+                    <span class="nav-item-icon"><i class="fa-solid fa-moon" id="themeIcon"></i></span>
+                    <span class="nav-item-text" id="themeText">TẮT ĐÈN</span>
+                </div>
+                
+                <div class="sidebar-nav-section-title">LUYỆN ĐỀ ETS 2026</div>
+                <div class="sidebar-submenu" id="testsSubmenu">
+                    <div class="submenu-item test-item" data-test-id="1"><i class="fa-solid fa-file-signature"></i> ETS 2026 - TEST 01</div>
+                    <div class="submenu-item test-item" data-test-id="2"><i class="fa-solid fa-file-signature"></i> ETS 2026 - TEST 02</div>
+                    <div class="submenu-item test-item" data-test-id="3"><i class="fa-solid fa-file-signature"></i> ETS 2026 - TEST 03</div>
+                    <div class="submenu-item test-item" data-test-id="4"><i class="fa-solid fa-file-signature"></i> ETS 2026 - TEST 04</div>
+                    <div class="submenu-item test-item" data-test-id="5"><i class="fa-solid fa-file-signature"></i> ETS 2026 - TEST 05</div>
+                </div>
+
+                <div class="sidebar-nav-section-title">CHỦ ĐIỂM NGỮ PHÁP</div>
+                
+                <div class="sidebar-submenu" id="grammarSubmenu">
+                    <!-- Dynamic submenu items will be inserted here, or hardcoded for resilience -->
+                    <div class="submenu-item" data-id="1">1. DANH TỪ (NOUNS)</div>
+                    <div class="submenu-item" data-id="2">2. ĐỘNG TỪ (VERBS)</div>
+                    <div class="submenu-item" data-id="3">3. TÍNH TỪ (ADJECTIVES)</div>
+                    <div class="submenu-item" data-id="4">4. TRẠNG TỪ (ADVERBS)</div>
+                    <div class="submenu-item" data-id="5">5. CÂU BỊ ĐỘNG (PASSIVE VOICE)</div>
+                    <div class="submenu-item" data-id="6">6. MỆNH ĐỀ QUAN HỆ (RELATIVE CLAUSES)</div>
+                    <div class="submenu-item" data-id="7">7. SỰ HÒA HỢP CHỦ - VỊ (SUBJECT-VERB AGREEMENT)</div>
+                    <div class="submenu-item" data-id="8">8. DANH ĐỘNG TỪ & ĐỘNG TỪ NGUYÊN MẪU (GERUNDS & INFINITIVES)</div>
+                    <div class="submenu-item" data-id="9">9. LIÊN TỪ (CONJUNCTIONS)</div>
+                    <div class="submenu-item" data-id="10">10. GIỚI TỪ (PREPOSITIONS)</div>
+                    <div class="submenu-item" data-id="11">11. TỪ HẠN ĐỊNH & TỪ CHỈ SỐ LƯỢNG (DETERMINERS & QUANTIFIERS)</div>
+                    <div class="submenu-item" data-id="12">12. SO SÁNH (COMPARISONS)</div>
+                    <div class="submenu-item" data-id="13">13. LỰA CHỌN TỪ VỰNG (WORD CHOICE)</div>
+                </div>
+            </nav>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Top Navbar with brand header -->
+            <header class="top-navbar">
+                <a href="https://www.facebook.com/nguyetpham28" target="_blank" class="galaxy-brand" title="Ghé thăm Facebook của tôi!">
+                    ENGLISH WITH MISS NGUYET
+                </a>
+            </header>
+
+            <!-- Content Area wrapper -->
+            <div class="content-wrapper">
+                
+                <!-- 1. Home View -->
+                <section class="app-view active" id="homeView">
+                    <div class="glass-panel welcome-card">
+                        <div class="welcome-hero">
+                            <h1 class="welcome-title">TOEIC READING PART 05</h1>
+                            <p class="welcome-subtitle">
+                                Chào mừng bạn đến với hệ thống học tập tương tác TOEIC READING PART 5 cùng Miss Nguyệt. 
+                                Chương trình được biên soạn kỹ lưỡng giúp bạn nắm vững ngữ pháp cốt lõi và chinh phục điểm số mong ước.
+                            </p>
+                        </div>
+                        
+                        <div class="welcome-stats">
+                            <div class="stat-card">
+                                <div class="stat-value">11</div>
+                                <div class="stat-label">Chủ điểm ngữ pháp</div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="stat-value">180+</div>
+                                <div class="stat-label">Câu hỏi luyện tập & BTVN</div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="stat-value">100%</div>
+                                <div class="stat-label">Tương tác trực quan</div>
+                            </div>
+                        </div>
+                        
+                        <div class="cta-group">
+                            <button class="btn btn-primary" id="startStudyingBtn">
+                                <i class="fa-solid fa-graduation-cap"></i> BẮT ĐẦU HỌC NGAY
+                            </button>
+                            <a href="https://www.facebook.com/nguyetpham28" target="_blank" class="btn btn-secondary">
+                                <i class="fa-brands fa-facebook"></i> LIÊN HỆ MISS NGUYỆT
+                            </a>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- 2. Chapter Dashboard View -->
+                <section class="app-view" id="chapterView">
+                    <div class="glass-panel">
+                        <div class="chapter-header">
+                            <div class="chapter-title-group">
+                                <span class="chapter-subtitle" id="chapterSub">Chủ đề 01</span>
+                                <h2 class="chapter-title" id="chapterTitle">Danh từ</h2>
+                            </div>
+                            
+                            <!-- Tab switches between Lesson Theory and Practice Quiz -->
+                            <div class="tab-switcher">
+                                <button class="tab-btn active" id="tabLessonBtn">
+                                    <i class="fa-solid fa-book-open"></i> BÀI HỌC
+                                </button>
+                                <button class="tab-btn" id="tabPracticeBtn">
+                                    <i class="fa-solid fa-file-signature"></i> LUYỆN TẬP
+                                </button>
+                                <button class="tab-btn" id="tabHomeworkBtn">
+                                    <i class="fa-solid fa-house-laptop"></i> BÀI TẬP VỀ NHÀ
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Theory Slides Viewer -->
+                        <div class="tab-content" id="lessonContent">
+                            <div class="slide-player-container">
+                                <div class="slide-canvas" id="slideCanvas">
+                                    <div class="slide-content-area" id="slideContentArea">
+                                        <!-- Dynamic slide content will go here -->
+                                    </div>
+                                </div>
+                                
+                                <div class="slide-player-controls">
+                                    <button class="btn btn-secondary" id="prevSlideBtn">
+                                        <i class="fa-solid fa-arrow-left"></i> TRANG TRƯỚC
+                                    </button>
+                                    
+                                    <div class="slide-progress-container">
+                                        <div class="slide-progress-bar-bg">
+                                            <div class="slide-progress-bar-fill" id="slideProgressBarFill"></div>
+                                        </div>
+                                        <span class="slide-progress-text" id="slideProgressText">Trang 1 / 15</span>
+                                    </div>
+                                    
+                                    <button class="btn btn-secondary" id="nextSlideBtn">
+                                        TRANG SAU <i class="fa-solid fa-arrow-right"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Interactive Practice Quiz Viewer -->
+                        <div class="tab-content" id="practiceContent" style="display: none;">
+                            <div class="quiz-container" id="quizActiveArea">
+                                <div class="quiz-progress-header">
+                                    <span id="quizProgressText">Câu hỏi 1 / 10</span>
+                                    <div class="quiz-score-badge">Đúng: <span id="quizScoreText">0/0</span></div>
+                                </div>
+                                
+                                <div class="quiz-card">
+                                    <!-- Question sentence with high contrast -->
+                                    <div class="question-text" id="questionText">
+                                        <!-- Question will be inserted here -->
+                                    </div>
+                                    
+                                    <!-- 4 multiple choice option buttons -->
+                                    <div class="options-list" id="optionsList">
+                                        <!-- Options will be inserted here -->
+                                    </div>
+                                    
+                                    <!-- Grammar explanation panel (slides down on answer) -->
+                                    <div class="explanation-panel" id="explanationPanel">
+                                        <div class="explanation-title">
+                                            <i class="fa-solid fa-circle-info"></i> Giải thích ngữ pháp
+                                        </div>
+                                        <div class="explanation-text" id="explanationText">
+                                            <!-- Explanation will be inserted here -->
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="quiz-actions">
+                                    <button class="btn btn-primary" id="nextQuestionBtn" style="display: none;">
+                                        CÂU TIẾP THEO <i class="fa-solid fa-arrow-right"></i>
+                                    </button>
+                                </div>
+                            </div>
+
+                             <!-- Quiz Score Card Summary (renders when quiz is done) -->
+                             <div class="quiz-summary-card" id="quizSummaryArea" style="display: none;">
+                                 <div class="summary-icon">
+                                     <i class="fa-solid fa-circle-check"></i>
+                                 </div>
+                                 <h3 class="welcome-title">HOÀN THÀNH BÀI LÀM!</h3>
+                                 
+                                 <!-- BÁO CÁO KẾT QUẢ CHO HỌC VIÊN CHỤP ẢNH -->
+                                 <div class="report-card" style="background: rgba(255, 255, 255, 0.02); border: 2px solid var(--border-color); border-radius: 20px; padding: 24px; max-width: 500px; margin: 20px auto; position: relative; overflow: hidden; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);">
+                                     <div class="report-card-glow" style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(0, 242, 254, 0.05) 0%, transparent 70%); pointer-events: none;"></div>
+                                     
+                                     <h4 style="font-family: var(--font-heading); color: var(--color-gold); font-size: 1.15rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.1em; margin-top: 0; margin-bottom: 18px; border-bottom: 1px solid var(--border-color); padding-bottom: 10px; display: flex; align-items: center; justify-content: center; gap: 8px;">
+                                         <i class="fa-solid fa-medal"></i> BÁO CÁO KẾT QUẢ HỌC TẬP
+                                     </h4>
+                                     
+                                     <div class="report-info" style="display: flex; flex-direction: column; gap: 12px; text-align: left; margin-bottom: 18px;">
+                                         <div style="display: flex; justify-content: space-between; border-bottom: 1px dashed rgba(255, 255, 255, 0.08); padding-bottom: 6px;">
+                                             <span style="color: var(--text-muted); font-size: 0.95rem;">Học viên:</span>
+                                             <strong id="reportStudentName" style="color: var(--text-primary); font-size: 1rem;">Nguyễn Văn A</strong>
+                                         </div>
+                                         <div style="display: flex; justify-content: space-between; border-bottom: 1px dashed rgba(255, 255, 255, 0.08); padding-bottom: 6px;">
+                                             <span style="color: var(--text-muted); font-size: 0.95rem;">Chủ đề / Đề:</span>
+                                             <strong id="reportChapterTitle" style="color: var(--text-primary); font-size: 1rem; max-width: 250px; text-align: right; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">1. DANH TỪ</strong>
+                                         </div>
+                                         <div style="display: flex; justify-content: space-between; border-bottom: 1px dashed rgba(255, 255, 255, 0.08); padding-bottom: 6px;">
+                                             <span style="color: var(--text-muted); font-size: 0.95rem;">Phân loại:</span>
+                                             <strong id="reportQuizType" style="color: var(--color-purple); font-size: 1rem;">Luyện tập</strong>
+                                         </div>
+                                         <div style="display: flex; justify-content: space-between; border-bottom: 1px dashed rgba(255, 255, 255, 0.08); padding-bottom: 6px;">
+                                             <span style="color: var(--text-muted); font-size: 0.95rem;">Thời gian nộp:</span>
+                                             <strong id="reportTimestamp" style="color: var(--text-secondary); font-size: 0.9rem;">12:00:00 - 01/01/2026</strong>
+                                         </div>
+                                     </div>
+                                     
+                                     <div style="margin: 10px 0; background: rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.05);">
+                                         <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">ĐIỂM SỐ ĐẠT ĐƯỢC</div>
+                                         <div class="summary-score-value" style="margin-bottom: 0; font-size: 3.2rem;"><span id="summaryScore">0</span> / <span id="summaryTotal">0</span></div>
+                                     </div>
+                                     
+                                     <div id="summaryComment" style="margin-top: 15px; font-size: 0.95rem; line-height: 1.5; color: var(--text-secondary);">
+                                         <!-- Custom comment text will go here -->
+                                     </div>
+                                 </div>
+                                
+                                <div class="cta-group">
+                                    <button class="btn btn-primary" id="retryQuizBtn">
+                                        <i class="fa-solid fa-rotate-right"></i> LUYỆN TẬP LẠI
+                                    </button>
+                                    <button class="btn btn-secondary" id="backToLessonBtn">
+                                        <i class="fa-solid fa-book-open"></i> ĐỌC LẠI LÝ THUYẾT
+                                    </button>
+                                </div>
+                            </div>
+
+                            <!-- Quiz Placeholder (for empty quizzes) -->
+                            <div class="quiz-summary-card" id="quizPlaceholderArea" style="display: none; padding: 60px 40px;">
+                                <div class="summary-icon" style="color: var(--color-purple); filter: drop-shadow(0 0 12px rgba(168, 85, 247, 0.4));">
+                                    <i class="fa-solid fa-hourglass-half"></i>
+                                </div>
+                                <h3 class="welcome-title" style="font-size: 2.2rem; margin-bottom: 20px;">Bài tập ôn luyện</h3>
+                                <p class="summary-text" style="font-size: 1.15rem; color: var(--text-secondary); max-width: 500px; margin: 0 auto 30px auto; line-height: 1.7;">
+                                    Hệ thống bài tập tự luyện cho chủ điểm này đang được biên soạn bởi Miss Nguyệt và sẽ được cập nhật trong thời gian sớm nhất! Vui lòng ôn tập kỹ lý thuyết trong phần Bài học.
+                                </p>
+                                <button class="btn btn-primary" id="backToLessonFromPlaceholderBtn">
+                                    <i class="fa-solid fa-book-open"></i> XEM PHẦN BÀI HỌC
+                                </button>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+            </div>
+        </main>
+    </div>
+
+    <!-- Name Entry Screen overlay -->
+    <div id="nameEntryOverlay" style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background: rgba(9, 8, 18, 0.85); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px); z-index: 9999; display: flex; align-items: center; justify-content: center; opacity: 1; transition: opacity 0.5s ease;">
+        <div class="glass-panel" style="max-width: 480px; width: 90%; padding: 40px; border-radius: 24px; text-align: center; border: 1px solid var(--border-color); box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);">
+            <div style="width: 70px; height: 70px; border-radius: 50%; background: linear-gradient(135deg, #a855f7, #ec4899); display: flex; align-items: center; justify-content: center; margin: 0 auto 24px auto; font-size: 2rem; color: white; box-shadow: 0 0 20px rgba(168, 85, 247, 0.4);">
+                <i class="fa-solid fa-graduation-cap"></i>
+            </div>
+            <h2 class="welcome-title" style="font-size: 1.8rem; margin-bottom: 12px; font-weight: 800; font-family: var(--font-heading);">BẮT ĐẦU HỌC TẬP</h2>
+            <p style="color: var(--text-secondary); font-size: 1rem; line-height: 1.6; margin-bottom: 28px;">Chào mừng bạn đến với chuyên trang luyện đọc TOEIC. Vui lòng nhập họ và tên của bạn để bắt đầu bài học.</p>
+            
+            <div style="position: relative; margin-bottom: 24px;">
+                <i class="fa-solid fa-user" style="position: absolute; left: 16px; top: 50%; transform: translateY(-50%); color: var(--text-muted); font-size: 1.1rem;"></i>
+                <input type="text" id="studentNameInput" placeholder="Nhập họ và tên của bạn..." style="width: 100%; padding: 14px 16px 14px 44px; border-radius: 14px; background: rgba(0, 0, 0, 0.2); border: 1px solid var(--border-color); color: var(--text-primary); font-size: 1.05rem; outline: none; transition: border-color 0.2s;" />
+                <div id="nameInputError" style="color: var(--color-error); font-size: 0.85rem; margin-top: 6px; text-align: left; display: none;">Họ và tên không được để trống!</div>
+            </div>
+            
+            <button class="btn btn-primary" id="startLearningBtn" style="width: 100%; padding: 14px; font-size: 1.05rem; border-radius: 14px; display: flex; align-items: center; justify-content: center; gap: 8px;">
+                BẮT ĐẦU HỌC <i class="fa-solid fa-arrow-right-to-bracket"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- Password Unlock Modal for Chapter 11 -->
+    <div id="passwordModal" style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background: rgba(9, 8, 18, 0.7); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); z-index: 9998; display: none; align-items: center; justify-content: center; opacity: 0; transition: opacity 0.3s ease;">
+        <div class="glass-panel" style="max-width: 420px; width: 90%; padding: 35px; border-radius: 24px; text-align: center; border: 1px solid var(--border-color); box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);">
+            <div style="width: 60px; height: 60px; border-radius: 50%; background: rgba(245, 158, 11, 0.15); border: 1px solid rgba(245, 158, 11, 0.3); display: flex; align-items: center; justify-content: center; margin: 0 auto 20px auto; font-size: 1.6rem; color: var(--color-gold);">
+                <i class="fa-solid fa-lock"></i>
+            </div>
+            <h3 class="welcome-title" style="font-size: 1.5rem; margin-bottom: 8px; font-weight: 700; font-family: var(--font-heading);">CHỦ ĐIỂM BỊ KHÓA</h3>
+            <p style="color: var(--text-secondary); font-size: 0.95rem; line-height: 1.5; margin-bottom: 24px;">Chủ điểm 11 yêu cầu mật khẩu truy cập từ Miss Nguyệt để vào học.</p>
+            
+            <div style="position: relative; margin-bottom: 20px;">
+                <i class="fa-solid fa-key" style="position: absolute; left: 16px; top: 50%; transform: translateY(-50%); color: var(--text-muted); font-size: 1rem;"></i>
+                <input type="password" id="chapterPasswordInput" placeholder="Nhập mật khẩu..." style="width: 100%; padding: 12px 16px 12px 42px; border-radius: 12px; background: rgba(0, 0, 0, 0.2); border: 1px solid var(--border-color); color: var(--text-primary); font-size: 1rem; outline: none; transition: border-color 0.2s;" />
+                <div id="passwordError" style="color: var(--color-error); font-size: 0.85rem; margin-top: 6px; text-align: left; display: none;">Mật khẩu không đúng!</div>
+            </div>
+            
+            <div style="display: flex; gap: 12px;">
+                <button class="btn btn-secondary" id="cancelUnlockBtn" style="flex: 1; padding: 12px; border-radius: 12px;">HỦY</button>
+                <button class="btn btn-primary" id="confirmUnlockBtn" style="flex: 1; padding: 12px; border-radius: 12px;">XÁC NHẬN</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Data JS file -->
+    <script src="js/data.js"></script>
+    <script src="js/tests_data.js"></script>
+    
+    <!-- Application Logic JS -->
+    <script src="js/app.js"></script>
+</body>
+</html>
