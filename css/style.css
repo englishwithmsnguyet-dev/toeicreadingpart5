@@ -323,13 +323,17 @@ body.light-theme .nav-item.active {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    color: var(--text-muted);
+    color: #94a3b8;
     margin-top: 20px;
     margin-bottom: 6px;
     padding-left: 18px;
     white-space: nowrap;
     overflow: hidden;
     transition: opacity var(--transition-speed);
+}
+
+body.light-theme .sidebar-nav-section-title {
+    color: #475569;
 }
 
 .sidebar.collapsed .sidebar-nav-section-title {
