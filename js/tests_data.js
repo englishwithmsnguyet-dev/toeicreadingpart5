@@ -1013,334 +1013,334 @@ const toeicTestsData = [
     "title": "ETS 2026 - TEST 01",
     "questions": [
       {
-        "question": "Former Sendai Company CEO Ken Nakata spoke about ______ career experiences.",
+        "question": "The lecture will take place at 6:00 P.M., ______ which attendees may ask questions.",
         "options": {
-          "A": "he",
-          "B": "his",
-          "C": "him",
-          "D": "himself"
+          "A": "across",
+          "B": "after",
+          "C": "inside",
+          "D": "among"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. his</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước cụm danh từ <code>career experiences</code> (các trải nghiệm sự nghiệp) → cần tính từ sở hữu.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">his</strong> (của ông ấy).<br><br><strong>Dịch câu:</strong><br><em>Cựu Giám đốc điều hành Công ty Sendai, Ken Nakata, đã phát biểu về những trải nghiệm sự nghiệp của mình.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. after</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chọn giới từ phù hợp ngữ cảnh chỉ thời gian diễn ra phần hỏi đáp sau khi bài giảng kết thúc → cấu trúc: <code>after which + mệnh đề</code> (sau đó).<br><br><strong>Dịch câu:</strong><br><em>Bài giảng sẽ diễn ra lúc 6:00 chiều, sau đó người tham dự có thể đặt câu hỏi.</em>"
       },
       {
-        "question": "Passengers who will be taking a ______ domestic flight should go to Terminal A.",
+        "question": "The ______ antique shop in Pepper Valley will close down next month.",
         "options": {
-          "A": "connectivity",
-          "B": "connects",
-          "C": "connect",
-          "D": "connecting"
+          "A": "last",
+          "B": "lasts",
+          "C": "lasted",
+          "D": "lasting"
         },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. connecting</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống bổ nghĩa cho cụm danh từ <code>domestic flight</code> để chỉ \"chuyến bay chuyển tiếp\" → cụm danh từ thông dụng: <code>connecting flight</code> (chuyến bay chuyển tiếp/nối chuyến).<br>- Chọn phân từ hiện tại làm tính từ <strong class=\"hl-vocab\">connecting</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hành khách đi chuyến bay nội địa chuyển tiếp nên đến Ga A.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. last</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>antique shop</code> và sau mạo từ xác định <code>The</code> → cần một tính từ bổ nghĩa.<br>- Chọn tính từ <strong class=\"hl-vocab\">last</strong> (cuối cùng).<br><br><strong>Dịch câu:</strong><br><em>Cửa hàng đồ cổ cuối cùng ở Thung lũng Pepper sẽ đóng cửa vào tháng tới.</em>"
       },
       {
-        "question": "Fresh and ______ apple-cider donuts are available at Oakcrest Orchard's retail shop for $6 per dozen.",
-        "options": {
-          "A": "eaten",
-          "B": "open",
-          "C": "tasty",
-          "D": "free"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. tasty</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống song song với tính từ <code>Fresh</code> (tươi) liên kết bởi từ <code>and</code> để bổ nghĩa cho danh từ <code>donuts</code> → cần một tính từ phù hợp ngữ cảnh ẩm thực.<br>- Chọn tính từ <strong class=\"hl-vocab\">tasty</strong> (ngon, đầy hương vị).<br><br><strong>Dịch câu:</strong><br><em>Bánh donuts táo tươi và ngon có sẵn tại cửa hàng bán lẻ của Oakcrest Orchard với giá $6 mỗi tá.</em>"
-      },
-      {
-        "question": "Zahn Flooring has the widest selection of ______ in the United Kingdom.",
-        "options": {
-          "A": "paints",
-          "B": "tiles",
-          "C": "furniture",
-          "D": "curtains"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. tiles</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Do chủ thể là <code>Zahn Flooring</code> (Công ty lát sàn Zahn) → mặt hàng kinh doanh phù hợp nhất là gạch lát nền/lát tường.<br>- Chọn danh từ <strong class=\"hl-vocab\">tiles</strong> (gạch lát).<br><br><strong>Dịch câu:</strong><br><em>Zahn Flooring có sự lựa chọn gạch lát đa dạng nhất tại Vương quốc Anh.</em>"
-      },
-      {
-        "question": "One responsibility of the IT department is to ensure that the company is using ______ software.",
+        "question": "Merryville residents will receive an online status ______ about the ongoing bridge construction project.",
         "options": {
           "A": "update",
-          "B": "updating",
-          "C": "updates",
-          "D": "updated"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. updated</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>software</code> → cần một tính từ/phân từ bổ nghĩa.<br>- Chọn quá khứ phân từ làm tính từ <strong class=\"hl-vocab\">updated</strong> (đã được cập nhật/mới nhất).<br><br><strong>Dịch câu:</strong><br><em>Một trách nhiệm của bộ phận CNTT là đảm bảo rằng công ty đang sử dụng phần mềm đã được cập nhật.</em>"
-      },
-      {
-        "question": "It is wise to check a company's dress code ______ visiting its head office.",
-        "options": {
-          "A": "so",
-          "B": "how",
-          "C": "like",
-          "D": "before"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. before</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau chỗ trống là danh động từ <code>visiting</code> chỉ mốc thời gian hành động → cần một giới từ phù hợp ngữ cảnh khuyên bảo.<br>- Chọn giới từ <strong class=\"hl-vocab\">before</strong> (trước khi).<br><br><strong>Dịch câu:</strong><br><em>Kiểm tra quy định về trang phục của một công ty trước khi đến thăm trụ sở chính của họ là điều khôn ngoan.</em>"
-      },
-      {
-        "question": "Wexler Store's management team expects that employees will ______ support any new hires.",
-        "options": {
-          "A": "enthusiastically",
-          "B": "enthusiasm",
-          "C": "enthusiastic",
-          "D": "enthused"
+          "B": "change",
+          "C": "payment",
+          "D": "request"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. enthusiastically</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ thường <code>support</code> và sau trợ động từ khuyết thiếu <code>will</code> → cần trạng từ bổ nghĩa.<br>- Chọn trạng từ <strong class=\"hl-vocab\">enthusiastically</strong> (một cách nhiệt tình).<br><br><strong>Dịch câu:</strong><br><em>Nhóm quản lý của Wexler Store mong đợi rằng nhân viên sẽ hỗ trợ nhiệt tình cho bất kỳ nhân viên mới nào.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. update</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi với danh từ <code>status</code> tạo thành cụm danh từ ghép chỉ việc cập nhật tình hình dự án → cụm từ thông dụng: <code>status update</code> (cập nhật trạng thái/tình hình).<br>- Chọn danh từ <strong class=\"hl-vocab\">update</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cư dân Merryville sẽ nhận được một bản cập nhật tình hình trực tuyến về dự án xây dựng cầu đang diễn ra.</em>"
       },
       {
-        "question": "Wheel alignments and brake system ______ are part of our vehicle service plan.",
+        "question": "As a result of ______ many years leading media organizations, Ms. Ayo was selected for the Dowel Journalism Prize.",
         "options": {
-          "A": "inspects",
-          "B": "inspector",
-          "C": "inspected",
-          "D": "inspections"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. inspections</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ ghép <code>brake system</code> (hệ thống phanh) và làm chủ ngữ số nhiều của động từ tobe <code>are</code> → cần danh từ số nhiều.<br>- Chọn danh từ <strong class=\"hl-vocab\">inspections</strong> (việc kiểm tra).<br><br><strong>Dịch câu:</strong><br><em>Cân chỉnh bánh xe và kiểm tra hệ thống phanh là một phần trong kế hoạch dịch vụ xe của chúng tôi.</em>"
-      },
-      {
-        "question": "Registration for the Marketing Coalition Conference is now open ______ September 30.",
-        "options": {
-          "A": "until",
-          "B": "into",
-          "C": "yet",
-          "D": "while"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. until</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi với mốc thời gian <code>September 30</code> chỉ một trạng thái kéo dài liên tục cho tới thời hạn đó → chọn giới từ <strong class=\"hl-vocab\">until</strong> (cho đến/tới lúc).<br><br><strong>Dịch câu:</strong><br><em>Đăng ký tham gia Hội nghị Liên minh Tiếp thị hiện đang mở cho đến ngày 30 tháng 9.</em>"
-      },
-      {
-        "question": "Growth in the home entertainment industry has been ______ this quarter.",
-        "options": {
-          "A": "separate",
-          "B": "limited",
-          "C": "willing",
-          "D": "assorted"
+          "A": "she",
+          "B": "her",
+          "C": "hers",
+          "D": "herself"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. limited</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết <code>has been</code> → cần một tính từ phù hợp ngữ cảnh thị trường.<br>- Chọn tính từ/phân từ <strong class=\"hl-vocab\">limited</strong> (bị hạn chế/giới hạn).<br><br><strong>Dịch câu:</strong><br><em>Sự tăng trưởng trong ngành công nghiệp giải trí gia đình đã bị hạn chế trong quý này.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. her</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ <code>many years...</code> → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">her</strong> (của cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Nhờ nhiều năm lãnh đạo các tổ chức truyền thông của mình, bà Ayo đã được chọn cho Giải thưởng Báo chí Dowel.</em>"
       },
       {
-        "question": "Hawson Furniture will be making ______ on the east side of town on Thursday.",
+        "question": "To stop the ______ of computer viruses, do not open suspicious e-mails.",
         "options": {
-          "A": "deliveries",
-          "B": "delivered",
-          "C": "deliver",
-          "D": "deliverable"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. deliveries</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ thường <code>making</code> đóng vai trò tân ngữ → cần danh từ.<br>- Cụm từ cố định: <code>make deliveries</code> (giao hàng). Chọn danh từ số nhiều <strong class=\"hl-vocab\">deliveries</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hawson Furniture sẽ thực hiện giao hàng ở phía đông thị trấn vào thứ Năm.</em>"
-      },
-      {
-        "question": "The Marlton City Council does not have the authority to ______ parking on city streets.",
-        "options": {
-          "A": "drive",
-          "B": "prohibit",
-          "C": "bother",
-          "D": "travel"
+          "A": "break",
+          "B": "spread",
+          "C": "balance",
+          "D": "surface"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. prohibit</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau <code>to</code> chỉ mục đích của quyền hạn → cần động từ nguyên mẫu phù hợp ngữ cảnh luật lệ.<br>- Chọn động từ <strong class=\"hl-vocab\">prohibit</strong> (cấm/ngăn cấm).<br><br><strong>Dịch câu:</strong><br><em>Hội đồng Thành phố Marlton không có thẩm quyền cấm đỗ xe trên các đường phố của thành phố.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. spread</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>the</code> và trước giới từ <code>of</code> → cần danh từ phù hợp ngữ cảnh ngăn chặn virus lây lan.<br>- Chọn danh từ <strong class=\"hl-vocab\">spread</strong> (sự lây lan/phát tán).<br><br><strong>Dịch câu:</strong><br><em>Để ngăn chặn sự lây lan của virus máy tính, không mở các email khả nghi.</em>"
       },
       {
-        "question": "Project Earth Group is ______ for ways to reduce transport-related greenhouse gas emissions.",
+        "question": "The hiring manager ______ considered each applicant's résumé and qualifications.",
         "options": {
-          "A": "looking",
-          "B": "seeing",
-          "C": "driving",
-          "D": "leaning"
+          "A": "caring",
+          "B": "careful",
+          "C": "carefully",
+          "D": "carefulness"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. carefully</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ thường chia ở quá khứ <code>considered</code> → cần trạng từ bổ nghĩa.<br>- Chọn trạng từ <strong class=\"hl-vocab\">carefully</strong> (một cách cẩn thận).<br><br><strong>Dịch câu:</strong><br><em>Trưởng bộ phận tuyển dụng đã xem xét cẩn thận sơ yếu lý lịch và trình độ chuyên môn của từng ứng viên.</em>"
+      },
+      {
+        "question": "In October, Mr. Sakamoto will leave for New Zealand ______ will oversee the opening of the new Auckland branch.",
+        "options": {
+          "A": "because",
+          "B": "in addition",
+          "C": "and",
+          "D": "prior to"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. and</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ nối hai mệnh đề song song cùng chủ ngữ Mr. Sakamoto (will leave... and will oversee...) → chọn liên từ liên kết.<br>- Chọn liên từ <strong class=\"hl-vocab\">and</strong> (và).<br><br><strong>Dịch câu:</strong><br><em>Vào tháng Mười, ông Sakamoto sẽ lên đường đi New Zealand và sẽ giám sát việc khai trương chi nhánh mới tại Auckland.</em>"
+      },
+      {
+        "question": "Tarateer Pharmaceuticals is varying its product ______ to include over-the-counter medications.",
+        "options": {
+          "A": "to line",
+          "B": "lining",
+          "C": "lined",
+          "D": "line"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. line</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm danh từ ghép chỉ danh mục các dòng sản phẩm của công ty: <code>product line</code> (dòng sản phẩm).<br>- Chọn danh từ <strong class=\"hl-vocab\">line</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hãng dược phẩm Tarateer đang đa dạng hóa dòng sản phẩm của mình để bao gồm cả các loại thuốc không kê đơn.</em>"
+      },
+      {
+        "question": "Dynart, Inc., continuously ______ new ways to reduce its use of plastics.",
+        "options": {
+          "A": "seeks",
+          "B": "seeker",
+          "C": "to seek",
+          "D": "seeking"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. looking</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ đi kèm giới từ <code>for</code> chỉ mục đích tìm kiếm: <code>look for something / ways to do something</code> (tìm kiếm cái gì/tìm cách làm gì).<br>- Chọn động từ dạng V-ing <strong class=\"hl-vocab\">looking</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm Project Earth đang tìm kiếm các cách để giảm thiểu lượng khí thải nhà kính liên quan đến giao thông vận tải.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. seeks</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần động từ chính chia ở thì hiện tại đơn phù hợp chủ ngữ ngôi thứ ba số ít <code>Dynart, Inc.</code> → chọn động từ chia số ít.<br>- Chọn động từ <strong class=\"hl-vocab\">seeks</strong> (tìm kiếm).<br><br><strong>Dịch câu:</strong><br><em>Công ty Dynart, Inc. liên tục tìm kiếm những cách thức mới để giảm thiểu việc sử dụng nhựa.</em>"
       },
       {
-        "question": "Our skilled tailors are happy to design a custom-made suit that fits your style and budget ______.",
+        "question": "The cash registers at Pirkle Books automatically ______ the remaining inventory of books available.",
         "options": {
-          "A": "perfect",
-          "B": "perfects",
-          "C": "perfectly",
-          "D": "perfection"
+          "A": "calculate",
+          "B": "calculator",
+          "C": "calculating",
+          "D": "calculation"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. calculate</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần động từ chính chia ở hiện tại đơn phù hợp chủ ngữ số nhiều <code>The cash registers</code> → chọn động từ nguyên mẫu.<br>- Chọn động từ <strong class=\"hl-vocab\">calculate</strong> (tính toán).<br><br><strong>Dịch câu:</strong><br><em>Các máy tính tiền tại Pirkle Books tự động tính toán số lượng sách tồn kho còn lại.</em>"
+      },
+      {
+        "question": "The product team is designing mapping software that can ______ locate underground minerals.",
+        "options": {
+          "A": "infinitely",
+          "B": "sincerely",
+          "C": "precisely",
+          "D": "greatly"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. perfectly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng ở cuối câu và bổ nghĩa cho động từ thường <code>fits</code> (vừa vặn) → cần trạng từ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">perfectly</strong> (một cách hoàn hảo).<br><br><strong>Dịch câu:</strong><br><em>Các thợ may lành nghề của chúng tôi rất vui lòng được thiết kế một bộ đồ may riêng vừa vặn hoàn hảo với phong cách và ngân sách của bạn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. precisely</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ định vị <code>locate</code> chỉ độ chính xác cao của phần mềm → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">precisely</strong> (một cách chính xác).<br><br><strong>Dịch câu:</strong><br><em>Nhóm sản phẩm đang thiết kế phần mềm bản đồ có thể xác định chính xác vị trí khoáng sản dưới lòng đất.</em>"
       },
       {
-        "question": "Project manager Hannah Chung has proved to be very ______ with completing company projects.",
+        "question": "According to CEO Mayu Yamada, it would not be ______ responsible to expand the warehouse at this time.",
         "options": {
-          "A": "helpfulness",
-          "B": "help",
-          "C": "helpfully",
-          "D": "helpful"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. helpful</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết <code>proved to be</code> và trạng từ chỉ mức độ <code>very</code> → cần tính từ làm vị ngữ.<br>- Chọn tính từ <strong class=\"hl-vocab\">helpful</strong> (có ích/đầy giúp đỡ).<br><br><strong>Dịch câu:</strong><br><em>Quản lý dự án Hannah Chung đã chứng tỏ mình rất có ích trong việc hoàn thành các dự án của công ty.</em>"
-      },
-      {
-        "question": "Lehua Vacation Club members will receive double points ______ the month of August at participating hotels.",
-        "options": {
-          "A": "onto",
-          "B": "above",
-          "C": "during",
-          "D": "between"
+          "A": "finance",
+          "B": "financial",
+          "C": "financially",
+          "D": "financing"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. during</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi với khoảng thời gian xác định <code>the month of August</code> để chỉ hành động xảy ra trong suốt thời gian đó → chọn giới từ <strong class=\"hl-vocab\">during</strong> (trong suốt/trong khoảng).<br><br><strong>Dịch câu:</strong><br><em>Các thành viên của Lehua Vacation Club sẽ nhận được điểm gấp đôi trong tháng 8 tại các khách sạn tham gia chương trình.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. financially</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước và bổ nghĩa cho tính từ <code>responsible</code> → cần trạng từ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">financially</strong> (về mặt tài chính). Cụm từ: <code>financially responsible</code> (có trách nhiệm về tài chính/hợp lý về tài chính).<br><br><strong>Dịch câu:</strong><br><em>Theo Giám đốc điều hành Mayu Yamada, việc mở rộng kho hàng vào thời điểm này là không khôn ngoan về mặt tài chính.</em>"
       },
       {
-        "question": "The costumes were not received ______ enough to be used in the first dress rehearsal.",
+        "question": "Analysts cannot say with any ______ what the regional demand for electric trucks will be.",
         "options": {
-          "A": "far",
-          "B": "very",
-          "C": "almost",
-          "D": "soon"
+          "A": "certainty",
+          "B": "justice",
+          "C": "excellence",
+          "D": "denial"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. certainty</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ <code>with</code> và lượng từ <code>any</code> → cần danh từ phù hợp ngữ cảnh dự đoán của nhà phân tích.<br>- Chọn danh từ <strong class=\"hl-vocab\">certainty</strong> (sự chắc chắn). Cụm từ: <code>say with certainty</code> (khẳng định chắc chắn).<br><br><strong>Dịch câu:</strong><br><em>Các nhà phân tích không thể khẳng định chắc chắn nhu cầu khu vực đối với xe tải điện sẽ như thế nào.</em>"
+      },
+      {
+        "question": "As part of its marketing campaign, Elegancia Dishware is ______ soliciting feedback from customers.",
+        "options": {
+          "A": "lightly",
+          "B": "loyally",
+          "C": "actively",
+          "D": "cleanly"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. actively</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho hành động thu thập phản hồi <code>soliciting feedback</code> → chọn trạng từ chỉ sự tích cực chủ động thực hiện.<br>- Chọn trạng từ <strong class=\"hl-vocab\">actively</strong> (tích cực/chủ động).<br><br><strong>Dịch câu:</strong><br><em>Là một phần của chiến dịch tiếp thị, Elegancia Dishware đang tích cực thu thập phản hồi từ khách hàng.</em>"
+      },
+      {
+        "question": "Rain gardens are intended to ______ water to prevent flooding of local roads.",
+        "options": {
+          "A": "engage",
+          "B": "undergo",
+          "C": "absorb",
+          "D": "overwhelm"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. absorb</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chọn động từ nguyên mẫu đứng sau <code>to</code> chỉ khả năng thấm hút nước của vườn hứng mưa → chọn động từ phù hợp.<br>- Chọn động từ <strong class=\"hl-vocab\">absorb</strong> (hấp thụ/thấm hút).<br><br><strong>Dịch câu:</strong><br><em>Vườn hứng mưa được thiết kế để thấm hút nước nhằm ngăn ngừa ngập lụt các tuyến đường địa phương.</em>"
+      },
+      {
+        "question": "Theta Industries' training program aims to increase the ______ of its manufacturing systems.",
+        "options": {
+          "A": "producer",
+          "B": "produced",
+          "C": "productive",
+          "D": "productivity"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. soon</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước trạng từ <code>enough</code> chỉ thời gian nhận sản phẩm trước buổi tập kịch tổng duyệt → chọn trạng từ thời gian <strong class=\"hl-vocab\">soon</strong> (sớm). Cụm từ: <code>soon enough</code> (đủ sớm).<br><br><strong>Dịch câu:</strong><br><em>Các trang phục đã không được nhận đủ sớm để sử dụng trong buổi tập kịch tổng duyệt đầu tiên.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. productivity</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>the</code> và trước giới từ <code>of</code> → cần danh từ.<br>- Chọn danh từ <strong class=\"hl-vocab\">productivity</strong> (năng suất).<br><br><strong>Dịch câu:</strong><br><em>Chương trình đào tạo của Theta Industries nhằm mục đích nâng cao năng suất của hệ thống sản xuất của họ.</em>"
       },
       {
-        "question": "As a former publicist for several renowned orchestras, Mr. Wu would excel in the role of event ______.",
+        "question": "The board of directors has voted to award Mr. Mitrakos a bonus for his role ______ obtaining the international contract.",
         "options": {
-          "A": "organized",
-          "B": "organizer",
-          "C": "organizes",
-          "D": "organizational"
+          "A": "in",
+          "B": "at",
+          "C": "except",
+          "D": "apart"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. in</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới từ đi kèm danh từ chỉ vai trò trong việc gì: <code>role in doing something</code> (vai trò trong việc làm gì).<br>- Chọn giới từ <strong class=\"hl-vocab\">in</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ban giám đốc đã bỏ phiếu trao thưởng cho ông Mitrakos một khoản tiền thưởng vì vai trò của ông trong việc giành được hợp đồng quốc tế.</em>"
+      },
+      {
+        "question": "The finance director gave his approval ______ the project can move forward.",
+        "options": {
+          "A": "along",
+          "B": "furthermore",
+          "C": "cautiously",
+          "D": "so that"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. so that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ mục đích của sự phê duyệt (để dự án có thể tiến triển) → chọn liên từ mục đích.<br>- Chọn liên từ <strong class=\"hl-vocab\">so that</strong> (để/để mà).<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tài chính đã phê duyệt để dự án có thể tiến triển.</em>"
+      },
+      {
+        "question": "The newspaper article describes ways job seekers can ______ for having little workplace experience.",
+        "options": {
+          "A": "reply",
+          "B": "capture",
+          "C": "compensate",
+          "D": "accumulate"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. compensate</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ đi kèm giới từ <code>for</code> chỉ sự bù đắp cho điều gì: <code>compensate for something</code> (bù đắp cho cái gì).<br>- Chọn động từ <strong class=\"hl-vocab\">compensate</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bài báo trên báo mô tả những cách người tìm việc có thể bù đắp cho việc có ít kinh nghiệm làm việc.</em>"
+      },
+      {
+        "question": "Mr. Ellis and Ms. Barnes were both highly qualified, but ______ got the job.",
+        "options": {
+          "A": "myself",
+          "B": "neither",
+          "C": "anybody",
+          "D": "whoever"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. organizer</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ ghép chỉ vai trò: <code>role of event ______</code> (vai trò của người tổ chức sự kiện) → cần danh từ chỉ người.<br>- Chọn danh từ chỉ người <strong class=\"hl-vocab\">organizer</strong> (nhà tổ chức).<br><br><strong>Dịch câu:</strong><br><em>Là một cựu nhân viên truyền thông của một số dàn nhạc nổi tiếng, ông Wu sẽ xuất sắc trong vai trò là nhà tổ chức sự kiện.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. neither</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đại từ chỉ sự phủ định cả hai đối tượng được nhắc đến trước (both qualified) làm chủ ngữ → chọn đại từ phù hợp.<br>- Chọn đại từ <strong class=\"hl-vocab\">neither</strong> (không ai trong cả hai).<br><br><strong>Dịch câu:</strong><br><em>Cả ông Ellis và bà Barnes đều rất đủ năng lực, nhưng không ai trong số họ nhận được công việc.</em>"
       },
       {
-        "question": "The northbound lane on Davis Street will be ______ closed because of the city's bridge reinforcement project.",
+        "question": "Ennis Photography purchased all new lighting equipment ______ the high cost.",
         "options": {
-          "A": "temporarily",
-          "B": "competitively",
-          "C": "recently",
-          "D": "collectively"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. temporarily</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ bị động <code>closed</code> chỉ tính chất tạm thời do có công trình sửa chữa → chọn trạng từ phù hợp ngữ cảnh giao thông.<br>- Chọn trạng từ <strong class=\"hl-vocab\">temporarily</strong> (tạm thời).<br><br><strong>Dịch câu:</strong><br><em>Làn đường hướng bắc trên Phố Davis sẽ bị đóng cửa tạm thời do dự án gia cố cầu của thành phố.</em>"
-      },
-      {
-        "question": "Airline representatives must handle a wide range of passenger issues, ______ missed connections to lost luggage.",
-        "options": {
-          "A": "from",
-          "B": "under",
-          "C": "on",
-          "D": "against"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. from</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới từ chỉ phạm vi từ điểm đầu đến điểm cuối: <code>from A to B</code> (từ A đến B).<br>- Chọn giới từ <strong class=\"hl-vocab\">from</strong>.<br><br><strong>Dịch câu:</strong><br><em>Đại diện hãng hàng không phải xử lý một loạt các vấn đề của hành khách, từ nhầm chuyến bay nối chuyến cho đến thất lạc hành lý.</em>"
-      },
-      {
-        "question": "The meeting notes were ______ deleted, but Mr. Hahm was able to recreate them from memory.",
-        "options": {
-          "A": "accident",
-          "B": "accidental",
-          "C": "accidents",
-          "D": "accidentally"
+          "A": "even though",
+          "B": "however",
+          "C": "until",
+          "D": "despite"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. accidentally</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ bị động <code>were</code> và phân từ hai <code>deleted</code> → cần trạng từ bổ nghĩa.<br>- Chọn trạng từ <strong class=\"hl-vocab\">accidentally</strong> (vô tình, ngẫu nhiên).<br><br><strong>Dịch câu:</strong><br><em>Các ghi chú cuộc họp đã bị xóa vô tình, nhưng ông Hahm đã có thể tái tạo lại chúng từ trí nhớ.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. despite</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ chỉ sự nhượng bộ <code>the high cost</code> → cần giới từ mang nghĩa mặc dù.<br>- Chọn giới từ <strong class=\"hl-vocab\">despite</strong> (mặc dù). Không chọn <code>even though</code> vì theo sau phải là mệnh đề.<br><br><strong>Dịch câu:</strong><br><em>Ennis Photography đã mua toàn bộ thiết bị chiếu sáng mới bất chấp chi phí cao.</em>"
       },
       {
-        "question": "The current issue of Farming Scene magazine predicts that the price of corn will rise 5 percent over the ______ year.",
+        "question": "Marburton residents who wish to ______ a home should contact the award-winning team at Kwan Real Estate.",
         "options": {
-          "A": "next",
-          "B": "with",
-          "C": "which",
-          "D": "now"
+          "A": "seller",
+          "B": "sold",
+          "C": "sell",
+          "D": "selling"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. next</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ chỉ thời gian tương lai <code>year</code> và sau mạo từ <code>the</code> → cần tính từ chỉ mốc tiếp theo.<br>- Chọn tính từ <strong class=\"hl-vocab\">next</strong>. Cụm từ: <code>over the next year</code> (trong năm tới).<br><br><strong>Dịch câu:</strong><br><em>Số hiện tại của tạp chí Cảnh Sắc Nông Nghiệp dự báo rằng giá ngô sẽ tăng 5% trong năm tới.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. sell</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cấu trúc chỉ mong muốn <code>wish to</code> → cần động từ nguyên mẫu (V_bare).<br>- Chọn động từ <strong class=\"hl-vocab\">sell</strong> (bán).<br><br><strong>Dịch câu:</strong><br><em>Cư dân Marburton muốn bán nhà nên liên hệ với đội ngũ từng đoạt giải thưởng tại Kwan Real Estate.</em>"
       },
       {
-        "question": "Anyone who still ______ to take the fire safety training should do so before the end of the month.",
+        "question": "Maswa Bistro began a ______ agreement with local farmers to purchase a set amount of produce each week.",
         "options": {
-          "A": "needing",
-          "B": "needs",
-          "C": "has needed",
-          "D": "were needing"
+          "A": "disruptive",
+          "B": "cooperative",
+          "C": "grateful",
+          "D": "concerned"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. needs</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Mệnh đề quan hệ bổ nghĩa cho đại từ số ít <code>Anyone</code> → cần chia động từ ở ngôi thứ ba số ít hiện tại đơn.<br>- Chọn động từ chia số ít <strong class=\"hl-vocab\">needs</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bất cứ ai vẫn cần tham gia khóa đào tạo an toàn phòng cháy chữa cháy nên thực hiện việc đó trước cuối tháng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. cooperative</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>agreement</code> để chỉ thỏa thuận mang tính hợp tác cùng có lợi → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">cooperative</strong> (hợp tác). Cụm từ: <code>cooperative agreement</code> (thỏa thuận hợp tác).<br><br><strong>Dịch câu:</strong><br><em>Maswa Bistro đã bắt đầu một thỏa thuận hợp tác với các nông dân địa phương để mua một lượng nông sản nhất định mỗi tuần.</em>"
       },
       {
-        "question": "Emerging technologies have ______ begun to transform the shipping industry in ways that were once unimaginable.",
+        "question": "The City of Doyle's new downtown parking ______ have been met with opposition by residents and visitors.",
         "options": {
-          "A": "already",
-          "B": "exactly",
-          "C": "hardly",
-          "D": "closely"
+          "A": "restricts",
+          "B": "restricted",
+          "C": "restrictions",
+          "D": "restricting"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. restrictions</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm chủ ngữ chính đi kèm động từ chia ở số nhiều dạng bị động <code>have been met</code> → cần danh từ số nhiều.<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">restrictions</strong> (sự hạn chế/quy định hạn chế). Cụm danh từ: <code>parking restrictions</code> (quy định hạn chế đỗ xe).<br><br><strong>Dịch câu:</strong><br><em>Các quy định hạn chế đỗ xe mới ở trung tâm Thành phố Doyle đã vấp phải sự phản đối của cư dân và du khách.</em>"
+      },
+      {
+        "question": "The plumbing position requires extensive training, even for those who studied ______ in technical school.",
+        "options": {
+          "A": "diligently",
+          "B": "scientifically",
+          "C": "objectively",
+          "D": "decidedly"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. already</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa cấu trúc hiện tại hoàn thành <code>have... begun</code> chỉ một sự việc đã bắt đầu xảy ra thực tế → chọn trạng từ tần suất chỉ sự hoàn tất.<br>- Chọn trạng từ <strong class=\"hl-vocab\">already</strong> (đã/rồi).<br><br><strong>Dịch câu:</strong><br><em>Các công nghệ mới nổi đã bắt đầu thay đổi ngành vận chuyển theo những cách từng không thể tưởng tượng nổi.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. diligently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ học tập nghiên cứu <code>studied</code> chỉ sự chăm chỉ học tập → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">diligently</strong> (một cách chăm chỉ/nỗ lực).<br><br><strong>Dịch câu:</strong><br><em>Vị trí thợ sửa ống nước yêu cầu đào tạo chuyên sâu, ngay cả đối với những người đã học tập chăm chỉ ở trường kỹ thuật.</em>"
       },
       {
-        "question": "The company handbook outlines the high ______ that employees are expected to meet every day.",
+        "question": "With its fixed price ______, Omega Cellular guarantees no phone bill increases for three years.",
         "options": {
-          "A": "experts",
-          "B": "accounts",
-          "C": "recommendations",
-          "D": "standards"
+          "A": "assurance",
+          "B": "assuredly",
+          "C": "assuring",
+          "D": "assures"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. assurance</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi sau cụm danh từ bổ nghĩa <code>fixed price</code> đóng vai trò danh từ chính của cụm từ chỉ sự đảm bảo/cam kết giá cố định → chọn danh từ phù hợp.<br>- Chọn danh từ <strong class=\"hl-vocab\">assurance</strong> (sự cam kết/bảo đảm).<br><br><strong>Dịch câu:</strong><br><em>Với cam kết giá cố định, Omega Cellular đảm bảo không tăng hóa đơn điện thoại trong ba năm.</em>"
+      },
+      {
+        "question": "As chief analytics officer, Mr. Ko has worked at Lochston Ltd. with great ______ for more than twenty years.",
+        "options": {
+          "A": "deduction",
+          "B": "duplication",
+          "C": "declaration",
+          "D": "dedication"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. standards</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi với tính từ bổ nghĩa <code>high</code> và động từ đáp ứng phía sau <code>meet</code> để chỉ tiêu chuẩn chất lượng làm việc → cụm từ: <code>meet high standards</code> (đáp ứng tiêu chuẩn cao).<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">standards</strong> (tiêu chuẩn).<br><br><strong>Dịch câu:</strong><br><em>Sổ tay công ty phác thảo các tiêu chuẩn cao mà nhân viên được kỳ vọng phải đáp ứng mỗi ngày.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. dedication</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ <code>great</code> và giới từ <code>with</code> → cần danh từ chỉ phẩm chất làm việc cống hiến tốt.<br>- Chọn danh từ <strong class=\"hl-vocab\">dedication</strong> (sự cống hiến/tận tụy).<br><br><strong>Dịch câu:</strong><br><em>Với tư cách là giám đốc phân tích, ông Ko đã làm việc tại Lochston Ltd. với sự tận tụy lớn trong hơn hai mươi năm.</em>"
       },
       {
-        "question": "Because ______ of the board members have scheduling conflicts, the board meeting will be moved to a date when all can attend.",
+        "question": "Milltown Hospital's cafeteria serves lunch seven days a week ______ only on weekdays.",
         "options": {
-          "A": "any",
-          "B": "everybody",
-          "C": "those",
-          "D": "some"
+          "A": "up to",
+          "B": "as though",
+          "C": "each time",
+          "D": "rather than"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. some</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống làm chủ ngữ đi kèm cụm giới từ chỉ một vài bộ phận thành viên <code>of the board members</code> trong câu khẳng định → chọn lượng từ phù hợp.<br>- Chọn đại từ chỉ số lượng <strong class=\"hl-vocab\">some</strong> (một vài). Do <code>everybody</code> không đi với cụm <code>of the...</code> trực tiếp làm chủ ngữ số nhiều (động từ đang chia số nhiều <code>have</code>).<br><br><strong>Dịch câu:</strong><br><em>Vì một số thành viên ban quản trị bị trùng lịch trình, cuộc họp hội đồng quản trị sẽ được chuyển sang ngày mà tất cả mọi người có thể tham dự.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. rather than</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết chỉ sự lựa chọn thay thế thay vì chỉ làm một việc (phục vụ 7 ngày một tuần thay vì chỉ các ngày trong tuần) → chọn cụm liên từ thích hợp.<br>- Chọn cụm liên từ <strong class=\"hl-vocab\">rather than</strong> (thay vì).<br><br><strong>Dịch câu:</strong><br><em>Nhà ăn của Bệnh viện Milltown phục vụ bữa trưa bảy ngày một tuần thay vì chỉ phục vụ vào các ngày trong tuần.</em>"
       },
       {
-        "question": "The project ______ the collaboration of several teams across the company.",
+        "question": "The store's entire inventory of lumber comes from a nearby ______ supplier.",
         "options": {
-          "A": "passed",
-          "B": "decided",
-          "C": "required",
-          "D": "performed"
+          "A": "financial",
+          "B": "promotional",
+          "C": "chemical",
+          "D": "commercial"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. required</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Câu cần động từ chính phù hợp ngữ nghĩa nói về sự cộng tác nhóm bắt buộc → chọn động từ phù hợp nhất.<br>- Chọn động từ <strong class=\"hl-vocab\">required</strong> (đòi hỏi, yêu cầu).<br><br><strong>Dịch câu:</strong><br><em>Dự án đã đòi hỏi sự hợp tác của một số nhóm trong toàn công ty.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. commercial</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>supplier</code> → cần tính từ bổ nghĩa chỉ loại hình cung cấp thương mại quy mô lớn → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">commercial</strong> (thương mại).<br><br><strong>Dịch câu:</strong><br><em>Toàn bộ kho gỗ của cửa hàng đến từ một nhà cung cấp thương mại gần đó.</em>"
       },
       {
-        "question": "We cannot send the store's coupon booklet to the printers until it ______ by Ms. Jeon.",
+        "question": "For a $95 ______ fee, our mechanics will determine what repairs are needed.",
         "options": {
-          "A": "is approving",
-          "B": "approves",
-          "C": "has been approved",
-          "D": "will be approved"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. has been approved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trong mệnh đề chỉ thời gian bắt đầu bằng <code>until</code>, hành động phải được hoàn thành trước rồi hành động ở mệnh đề chính mới xảy ra → động từ chia ở dạng hiện tại hoàn thành bị động (chủ ngữ là vật <code>it</code> chỉ cuốn booklet).<br>- Chọn dạng bị động hoàn thành <strong class=\"hl-vocab\">has been approved</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi không thể gửi cuốn sách nhỏ phiếu mua hàng của cửa hàng cho nhà in cho đến khi nó được bà Jeon phê duyệt.</em>"
-      },
-      {
-        "question": "______ the closure of Verdigold Transport Services, we are looking for a new shipping company.",
-        "options": {
-          "A": "In spite of",
-          "B": "Just as",
-          "C": "In light of",
-          "D": "According to"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. In light of</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ chỉ nguyên nhân cân nhắc quyết định: <code>In light of something</code> (sau khi xem xét cái gì / bởi vì cái gì).<br>- Chọn cụm giới từ <strong class=\"hl-vocab\">In light of</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vì việc đóng cửa của Verdigold Transport Services, chúng tôi đang tìm kiếm một công ty vận chuyển mới.</em>"
-      },
-      {
-        "question": "The ______ information provided by Uniss Bank's brochure helps applicants understand the terms of their loans.",
-        "options": {
-          "A": "arbitrary",
-          "B": "supplemental",
-          "C": "superfluous",
-          "D": "potential"
+          "A": "diagnosed",
+          "B": "diagnostic",
+          "C": "diagnosable",
+          "D": "diagnose"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. supplemental</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>information</code> để chỉ thông tin đính kèm hữu ích → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">supplemental</strong> (phụ, bổ sung).<br><br><strong>Dịch câu:</strong><br><em>Thông tin bổ sung được cung cấp bởi sách quảng cáo của Ngân hàng Uniss giúp người nộp đơn hiểu được các điều khoản của khoản vay của họ.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. diagnostic</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>fee</code> tạo thành cụm danh từ chỉ chi phí chuẩn đoán lỗi xe hơi → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">diagnostic</strong> (thuộc về chẩn đoán). Cụm danh từ: <code>diagnostic fee</code> (phí chẩn đoán).<br><br><strong>Dịch câu:</strong><br><em>Với mức phí chẩn đoán $95, các thợ máy của chúng tôi sẽ xác định những sửa chữa nào là cần thiết.</em>"
       }
     ]
   },
@@ -1349,334 +1349,334 @@ const toeicTestsData = [
     "title": "ETS 2026 - TEST 02",
     "questions": [
       {
-        "question": "Before operating your handheld device, please ______ the enclosed cable to charge it.",
+        "question": "The all-new Amore sports sedan is engineered for maximum reliability ______ gas mileage.",
         "options": {
-          "A": "plan",
-          "B": "remain",
-          "C": "use",
-          "D": "finish"
+          "A": "so",
+          "B": "but",
+          "C": "and",
+          "D": "nor"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. use</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chọn động từ phù hợp ngữ cảnh chỉ hành động dùng cáp đi kèm để sạc pin → chọn <strong class=\"hl-vocab\">use</strong> (sử dụng).<br><br><strong>Dịch câu:</strong><br><em>Trước khi vận hành thiết bị cầm tay của bạn, vui lòng sử dụng cáp đính kèm để sạc pin cho nó.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. and</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ liên kết hai phẩm chất ưu điểm song song của xe hơi (reliability và gas mileage) → chọn liên từ <strong class=\"hl-vocab\">and</strong> (và).<br><br><strong>Dịch câu:</strong><br><em>Chiếc sedan thể thao Amore hoàn toàn mới được thiết kế để đạt độ tin cậy tối đa và tiết kiệm xăng tối ưu.</em>"
       },
       {
-        "question": "Safile's new external hard drive can ______ store up to one terabyte of data.",
+        "question": "The staff was grateful for the ______ that Mr. Schuller distributed at the meeting.",
         "options": {
-          "A": "secure",
-          "B": "security",
-          "C": "securely",
-          "D": "secured"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. securely</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ khuyết thiếu <code>can</code> và động từ thường <code>store</code> → cần trạng từ bổ nghĩa.<br>- Chọn trạng từ <strong class=\"hl-vocab\">securely</strong> (một cách an toàn/bảo mật).<br><br><strong>Dịch câu:</strong><br><em>Ổ cứng gắn ngoài mới của Safile có thể lưu trữ an toàn tới một terabyte dữ liệu.</em>"
-      },
-      {
-        "question": "Mr. Peterson will travel ______ the Tokyo office for the annual meeting.",
-        "options": {
-          "A": "to",
-          "B": "through",
-          "C": "in",
-          "D": "over"
+          "A": "information",
+          "B": "informed",
+          "C": "informs",
+          "D": "inform"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ chỉ sự di chuyển hướng đến một địa điểm: <code>travel to somewhere</code> (đi du lịch/đi công tác đến nơi nào).<br>- Chọn giới từ <strong class=\"hl-vocab\">to</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Peterson sẽ đi công tác đến văn phòng Tokyo để dự cuộc họp thường niên.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. information</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước mệnh đề quan hệ xác định và sau mạo từ xác định <code>the</code> đóng vai trò làm tân ngữ cho giới từ <code>for</code> → cần danh từ.<br>- Chọn danh từ <strong class=\"hl-vocab\">information</strong> (thông tin).<br><br><strong>Dịch câu:</strong><br><em>Các nhân viên rất biết ơn về thông tin mà ông Schuller đã phân phát tại cuộc họp.</em>"
       },
       {
-        "question": "Yong-Soo Cosmetics will not charge for items on back order until ______ have left our warehouse.",
+        "question": "The next meeting of the planning committee will be held ______ at 2 P.M.",
         "options": {
-          "A": "them",
-          "B": "they",
-          "C": "themselves",
-          "D": "their"
+          "A": "barely",
+          "B": "closely",
+          "C": "evenly",
+          "D": "promptly"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. promptly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ đứng trước mốc thời gian cụ thể <code>at 2 P.M.</code> để chỉ việc diễn ra đúng giờ không chậm trễ → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">promptly</strong> (đúng giờ/ngay lập tức).<br><br><strong>Dịch câu:</strong><br><em>Cuộc họp tiếp theo của ủy ban kế hoạch sẽ được tổ chức đúng 2 giờ chiều.</em>"
+      },
+      {
+        "question": "Reimbursement for travel expenses will be included in ______ October 1 paycheck.",
+        "options": {
+          "A": "you",
+          "B": "your",
+          "C": "yours",
+          "D": "yourself"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. they</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm chủ ngữ cho động từ chia số nhiều ở hiện tại hoàn thành <code>have left</code> → cần đại từ đóng vai trò chủ ngữ đại diện cho danh từ số nhiều <code>items</code>.<br>- Chọn chủ ngữ <strong class=\"hl-vocab\">they</strong> (chúng).<br><br><strong>Dịch câu:</strong><br><em>Mỹ phẩm Yong-Soo sẽ không tính phí cho các mặt hàng nợ đơn cho đến khi chúng rời khỏi kho của chúng tôi.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. your</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ <code>October 1 paycheck</code> (phiếu lương ngày 1 tháng 10) → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">your</strong> (của bạn).<br><br><strong>Dịch câu:</strong><br><em>Khoản hoàn trả chi phí đi lại sẽ được bao gồm trong phiếu lương ngày 1 tháng 10 của bạn.</em>"
       },
       {
-        "question": "Our premium day tour takes visitors to historic sites ______ the Aprico River.",
+        "question": "The ______ design engineer on the drone camera project is Iseul Bae.",
         "options": {
-          "A": "onto",
-          "B": "since",
-          "C": "inside",
-          "D": "along"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. along</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ vị trí trải dài dọc theo con sông: <code>along the river</code> (dọc theo sông).<br>- Chọn giới từ <strong class=\"hl-vocab\">along</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chuyến tham quan cao cấp trong ngày của chúng tôi đưa du khách đến các di tích lịch sử dọc theo Sông Aprico.</em>"
-      },
-      {
-        "question": "Eighty percent of drivers surveyed said they would consider buying a vehicle that runs on ______.",
-        "options": {
-          "A": "electricity",
-          "B": "electrically",
-          "C": "electricians",
-          "D": "electrify"
+          "A": "lead",
+          "B": "each",
+          "C": "front",
+          "D": "most"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. electricity</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ <code>on</code> đóng vai trò tân ngữ chỉ loại nhiên liệu hoạt động của xe → cần danh từ chỉ sự vật/năng lượng.<br>- Chọn danh từ <strong class=\"hl-vocab\">electricity</strong> (điện).<br><br><strong>Dịch câu:</strong><br><em>Tám mươi phần trăm tài xế được khảo sát cho biết họ sẽ cân nhắc mua một chiếc xe chạy bằng điện.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. lead</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ ghép chỉ vai trò kỹ sư trưởng: <code>______ design engineer</code> → chọn danh từ/tính từ phù hợp chỉ người dẫn đầu dự án.<br>- Chọn từ <strong class=\"hl-vocab\">lead</strong> (chính/trưởng). Cụm từ: <code>lead design engineer</code> (kỹ sư thiết kế chính).<br><br><strong>Dịch câu:</strong><br><em>Kỹ sư thiết kế chính trong dự án máy ảnh flycam là Iseul Bae.</em>"
       },
       {
-        "question": "Xinzhe Zu has ______ Petrin Engineering as the vice president of operations.",
+        "question": "After reading several reviews, Mr. Kim was able to decide which printer ______ for the office.",
         "options": {
-          "A": "attached",
-          "B": "resigned",
-          "C": "joined",
-          "D": "combined"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. joined</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chọn động từ phù hợp ngữ cảnh bắt đầu làm việc tại một công ty với tư cách là phó chủ tịch → chọn <strong class=\"hl-vocab\">joined</strong> (gia nhập/tham gia).<br><br><strong>Dịch câu:</strong><br><em>Xinzhe Zu đã gia nhập Petrin Engineering với tư cách là phó chủ tịch điều hành.</em>"
-      },
-      {
-        "question": "Next month, Barder House Books will be holding ______ third author's hour in Cleveland.",
-        "options": {
-          "A": "it",
-          "B": "itself",
-          "C": "its own",
-          "D": "its"
+          "A": "buying",
+          "B": "had bought",
+          "C": "buy",
+          "D": "to buy"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. its</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ chỉ số thứ tự sở hữu <code>third author's hour</code> → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">its</strong> (của nó, thay thế cho Barder House Books).<br><br><strong>Dịch câu:</strong><br><em>Tháng tới, Barder House Books sẽ tổ chức giờ giao lưu tác giả lần thứ ba tại Cleveland.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. to buy</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ sau đại từ nghi vấn chỉ sự lựa chọn làm tân ngữ cho động từ <code>decide</code>: <code>which + danh từ + to-V</code> (quyết định mua loại máy in nào).<br>- Chọn <strong class=\"hl-vocab\">to buy</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sau khi đọc một số bài đánh giá, ông Kim đã có thể quyết định nên mua chiếc máy in nào cho văn phòng.</em>"
       },
       {
-        "question": "Chester's Tiles ______ expanded to a second location in Turnington.",
+        "question": "Please remove the boxes left in the staff lounge ______ 5 P.M.",
         "options": {
-          "A": "severely",
-          "B": "usually",
-          "C": "recently",
-          "D": "exactly"
+          "A": "of",
+          "B": "to",
+          "C": "as",
+          "D": "by"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. by</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với mốc thời gian chỉ giới hạn trước hoặc muộn nhất vào thời điểm đó: <code>by + mốc thời gian</code> (trước/vào lúc).<br>- Chọn giới từ <strong class=\"hl-vocab\">by</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng dọn sạch các hộp còn lại trong phòng chờ của nhân viên trước 5 giờ chiều.</em>"
+      },
+      {
+        "question": "The Southport ______ plant is expected to begin production in three days.",
+        "options": {
+          "A": "manufacture",
+          "B": "manufactured",
+          "C": "manufacturing",
+          "D": "manufactures"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. recently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phù hợp ngữ cảnh chỉ hành động mới diễn ra gần đây → chọn trạng từ thời gian <strong class=\"hl-vocab\">recently</strong> (gần đây).<br><br><strong>Dịch câu:</strong><br><em>Chester's Tiles gần đây đã mở rộng sang địa điểm thứ hai ở Turnington.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. manufacturing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>plant</code> để tạo thành cụm danh từ kép chỉ nhà máy sản xuất công nghiệp: <code>manufacturing plant</code>.<br>- Chọn danh động từ đóng vai trò tính từ <strong class=\"hl-vocab\">manufacturing</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhà máy sản xuất Southport dự kiến sẽ bắt đầu sản xuất sau ba ngày nữa.</em>"
       },
       {
-        "question": "Tabrino's has ______ increased the number of almonds in the Nut Medley snack pack.",
+        "question": "After accepting a job offer, a candidate must ______ all onboarding tasks before the start date.",
         "options": {
-          "A": "significant",
+          "A": "complete",
+          "B": "proceed",
+          "C": "recover",
+          "D": "enlist"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. complete</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu <code>must</code> → cần động từ nguyên mẫu phù hợp ngữ cảnh hoàn thành các nhiệm vụ hội nhập nhân sự mới.<br>- Chọn động từ <strong class=\"hl-vocab\">complete</strong> (hoàn thành).<br><br><strong>Dịch câu:</strong><br><em>Sau khi chấp nhận lời mời làm việc, ứng viên phải hoàn thành tất cả các nhiệm vụ hội nhập trước ngày bắt đầu làm việc.</em>"
+      },
+      {
+        "question": "Although ______ training has just begun, Ms. Yu has already mastered the company's proprietary accounting software.",
+        "options": {
+          "A": "her",
+          "B": "she",
+          "C": "hers",
+          "D": "herself"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. her</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>training</code> làm chủ ngữ của mệnh đề phụ → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">her</strong> (của cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Mặc dù việc đào tạo của cô ấy mới bắt đầu, cô Yu đã làm chủ được phần mềm kế toán độc quyền của công ty.</em>"
+      },
+      {
+        "question": "Ms. Clayton was ______ to find that none of her files had been lost during the power failure.",
+        "options": {
+          "A": "easy",
+          "B": "delightful",
+          "C": "relieved",
+          "D": "absolute"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. relieved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết <code>was</code> và bổ nghĩa cho chủ ngữ chỉ người Ms. Clayton chỉ trạng thái cảm xúc nhẹ nhõm sau khi trút bỏ lo lắng mất file dữ liệu → chọn tính từ chỉ cảm xúc bị động.<br>- Chọn tính từ <strong class=\"hl-vocab\">relieved</strong> (nhẹ nhõm/an tâm).<br><br><strong>Dịch câu:</strong><br><em>Cô Clayton đã nhẹ nhõm khi thấy không có tệp nào của mình bị mất trong sự cố mất điện.</em>"
+      },
+      {
+        "question": "During Mr. Nagahori's tenure as CEO at Unten Properties, the company has grown ______.",
+        "options": {
+          "A": "signify",
           "B": "significance",
-          "C": "signifies",
+          "C": "significant",
           "D": "significantly"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. significantly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ <code>has</code> và phân từ hai <code>increased</code> → cần trạng từ bổ nghĩa.<br>- Chọn trạng từ <strong class=\"hl-vocab\">significantly</strong> (đáng kể).<br><br><strong>Dịch câu:</strong><br><em>Tabrino's đã tăng đáng kể số lượng hạnh nhân trong gói đồ ăn nhẹ Nut Medley.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. significantly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ thường ở dạng hoàn thành <code>has grown</code> → cần trạng từ bổ nghĩa cho hành động tăng trưởng.<br>- Chọn trạng từ <strong class=\"hl-vocab\">significantly</strong> (một cách đáng kể).<br><br><strong>Dịch câu:</strong><br><em>Trong nhiệm kỳ làm Giám đốc điều hành của ông Nagahori tại Unten Properties, công ty đã phát triển đáng kể.</em>"
       },
       {
-        "question": "______ she travels, Jacintha Flores collects samples of local fabrics and patterns.",
+        "question": "Safety must always be the top ______ in each step of the glassblowing process.",
         "options": {
-          "A": "Wherever",
-          "B": "In addition to",
-          "C": "Either",
-          "D": "In contrast to"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Wherever</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng ở đầu câu làm liên từ kết nối mệnh đề chỉ bất kỳ nơi nào cô ấy đi qua → chọn liên từ trạng ngữ chỉ nơi chốn <strong class=\"hl-vocab\">Wherever</strong> (bất cứ nơi nào).<br><br><strong>Dịch câu:</strong><br><em>Bất cứ nơi nào cô đi qua, Jacintha Flores đều thu thập các mẫu vải và hoa văn địa phương.</em>"
-      },
-      {
-        "question": "Most picture ______ at Glowing Photo Lab go on sale at 3:00 P.M. today.",
-        "options": {
-          "A": "framer",
-          "B": "framing",
-          "C": "framed",
-          "D": "frames"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. frames</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm chủ ngữ cho động từ chia số nhiều <code>go on sale</code> → cần danh từ số nhiều.<br>- Chọn danh từ chỉ vật số nhiều <strong class=\"hl-vocab\">frames</strong> (khung ảnh). Cụm danh từ: <code>picture frames</code> (khung ảnh).<br><br><strong>Dịch câu:</strong><br><em>Hầu hết các khung ảnh tại Glowing Photo Lab sẽ được giảm giá vào lúc 3:00 chiều hôm nay.</em>"
-      },
-      {
-        "question": "All students in the business management class hold ______ college degrees.",
-        "options": {
-          "A": "late",
-          "B": "developed",
-          "C": "advanced",
-          "D": "elated"
+          "A": "surface",
+          "B": "material",
+          "C": "priority",
+          "D": "position"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. advanced</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho danh từ <code>college degrees</code> để chỉ \"bằng cấp cao\" (như thạc sĩ, tiến sĩ) → cụm từ thông dụng: <code>advanced degrees</code>.<br>- Chọn tính từ <strong class=\"hl-vocab\">advanced</strong> (tiên tiến/cao cấp).<br><br><strong>Dịch câu:</strong><br><em>Tất cả học sinh trong lớp quản lý kinh doanh đều có bằng cấp đại học nâng cao.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. priority</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi sau tính từ <code>top</code> đóng vai trò làm danh từ bổ ngữ chỉ yếu tố quan trọng hàng đầu → cụm từ thông dụng: <code>top priority</code> (ưu tiên hàng đầu).<br>- Chọn danh từ <strong class=\"hl-vocab\">priority</strong> (sự ưu tiên).<br><br><strong>Dịch câu:</strong><br><em>An toàn phải luôn là ưu tiên hàng đầu trong từng bước của quy trình thổi thủy tinh.</em>"
       },
       {
-        "question": "We hired Noah Wan of Shengyao Accounting Ltd. ______ our company's financial assets.",
+        "question": "Central Science Museum hosts online seminars by experts who ______ topics related to information technology.",
         "options": {
-          "A": "to evaluate",
-          "B": "to be evaluated",
-          "C": "will be evaluated",
-          "D": "evaluate"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. to evaluate</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ chỉ mục đích chủ động thuê ai để làm gì: <code>hire someone + to-V (chủ động)</code>.<br>- Chọn <strong class=\"hl-vocab\">to evaluate</strong> (để đánh giá).<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đã thuê Noah Wan của Công ty Kế toán Shengyao để đánh giá tài sản tài chính của công ty chúng tôi.</em>"
-      },
-      {
-        "question": "Ms. Charisse is taking on a new account ______ she finishes the Morrison project.",
-        "options": {
-          "A": "with",
-          "B": "going",
-          "C": "after",
-          "D": "between"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. after</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ thời gian hành động diễn ra sau khi hoàn thành dự án cũ → chọn liên từ thời gian <strong class=\"hl-vocab\">after</strong> (sau khi).<br><br><strong>Dịch câu:</strong><br><em>Cô Charisse sẽ tiếp nhận một tài khoản mới sau khi cô hoàn thành dự án Morrison.</em>"
-      },
-      {
-        "question": "Cormet Motors' profits are ______ this year than last year.",
-        "options": {
-          "A": "higher",
-          "B": "high",
-          "C": "highly",
-          "D": "highest"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. higher</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Có từ nhận biết so sánh hơn <code>than</code> ở phía sau → cần tính từ chia ở dạng so sánh hơn.<br>- Chọn tính từ so sánh hơn <strong class=\"hl-vocab\">higher</strong> (cao hơn).<br><br><strong>Dịch câu:</strong><br><em>Lợi nhuận của Cormet Motors năm nay cao hơn năm ngoái.</em>"
-      },
-      {
-        "question": "In its ______ advertising campaign, Jaymor Tools demonstrates how reliable its products are.",
-        "options": {
-          "A": "current",
-          "B": "relative",
-          "C": "spacious",
-          "D": "collected"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. current</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>advertising campaign</code> để chỉ chiến dịch quảng cáo hiện tại → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">current</strong> (hiện tại, hiện hành).<br><br><strong>Dịch câu:</strong><br><em>Trong chiến dịch quảng cáo hiện tại của mình, Jaymor Tools chứng minh các sản phẩm của mình đáng tin cậy như thế nào.</em>"
-      },
-      {
-        "question": "Remember to submit receipts for reimbursement ______ returning from a business trip.",
-        "options": {
-          "A": "such as",
-          "B": "when",
-          "C": "then",
-          "D": "within"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. when</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước phân từ/danh động từ <code>returning</code> để chỉ thời điểm rút gọn cùng chủ ngữ: <code>when returning</code> (khi trở về) = <code>when you return</code>.<br>- Chọn liên từ rút gọn <strong class=\"hl-vocab\">when</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hãy nhớ nộp biên lai để được hoàn tiền khi trở về sau chuyến công tác.</em>"
-      },
-      {
-        "question": "Patrons will be able to access Westside Library's ______ acquired collection of books on Tuesday.",
-        "options": {
-          "A": "instantly",
-          "B": "newly",
-          "C": "early",
-          "D": "natural"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. newly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước quá khứ phân từ làm tính từ <code>acquired</code> bổ nghĩa cho danh từ collection → cần trạng từ bổ nghĩa.<br>- Cụm từ thông dụng: <code>newly acquired</code> (mới được thu thập/mua lại). Chọn trạng từ <strong class=\"hl-vocab\">newly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách quen sẽ có thể tiếp cận bộ sưu tập sách mới mua của Thư viện Westside vào thứ Ba.</em>"
-      },
-      {
-        "question": "Please ______ any questions about time sheets to Tabitha Jones in the payroll department.",
-        "options": {
-          "A": "direction",
-          "B": "directive",
-          "C": "directed",
-          "D": "direct"
+          "A": "are covered",
+          "B": "covering",
+          "C": "to cover",
+          "D": "cover"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. direct</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng ở đầu câu mệnh lệnh sau từ lịch sự <code>Please</code> → cần động từ nguyên mẫu làm vị ngữ chính.<br>- Chọn động từ <strong class=\"hl-vocab\">direct</strong> (hướng/gửi thẳng câu hỏi đến ai).<br><br><strong>Dịch câu:</strong><br><em>Vui lòng chuyển bất kỳ câu hỏi nào về bảng chấm công đến Tabitha Jones ở bộ phận bảng lương.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. cover</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần động từ chính làm vị ngữ cho đại từ quan hệ chủ ngữ số nhiều <code>who</code> (thay thế cho danh từ <code>experts</code>) chia ở hiện tại đơn chủ động → chọn động từ nguyên mẫu không chia.<br>- Chọn động từ <strong class=\"hl-vocab\">cover</strong> (bao quát/đề cập đến).<br><br><strong>Dịch câu:</strong><br><em>Bảo tàng Khoa học Trung ương tổ chức các hội thảo trực tuyến bởi các chuyên gia đề cập đến các chủ đề liên quan đến công nghệ thông tin.</em>"
       },
       {
-        "question": "Before signing a delivery ______ be sure to double-check that all the items ordered are in the shipment.",
+        "question": "Conradia Computers ______ changed the direction of its marketing strategy last week.",
         "options": {
-          "A": "decision",
-          "B": "announcement",
-          "C": "receipt",
-          "D": "limit"
+          "A": "thickly",
+          "B": "abruptly",
+          "C": "formerly",
+          "D": "frequently"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. abruptly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ thường <code>changed</code> chỉ tính chất thay đổi đột ngột nhanh chóng → chọn trạng từ phù hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">abruptly</strong> (đột ngột/bất ngờ).<br><br><strong>Dịch câu:</strong><br><em>Conradia Computers đã đột ngột thay đổi hướng đi của chiến lược tiếp thị vào tuần trước.</em>"
+      },
+      {
+        "question": "Because of an abundance of ______ candidates, Xaniper Industries may take longer than expected to name a new CEO.",
+        "options": {
+          "A": "qualify",
+          "B": "qualifier",
+          "C": "qualified",
+          "D": "qualifies"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. receipt</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi sau danh từ <code>delivery</code> tạo thành cụm danh từ kép chỉ giấy biên nhận giao hàng → cụm từ: <code>delivery receipt</code> (biên nhận giao hàng).<br>- Chọn danh từ <strong class=\"hl-vocab\">receipt</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trước khi ký biên bản giao hàng, hãy chắc chắn kiểm tra kỹ để đảm bảo tất cả các mặt hàng đã đặt đều có trong lô hàng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. qualified</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ chỉ người số nhiều <code>candidates</code> → cần tính từ phân từ biểu thị năng lực được chứng nhận.<br>- Cụm từ thông dụng: <code>qualified candidates</code> (các ứng viên đủ trình độ/năng lực). Chọn tính từ <strong class=\"hl-vocab\">qualified</strong>.<br><br><strong>Dịch câu:</strong><br><em>Do có rất nhiều ứng viên đủ trình độ, Xaniper Industries có thể mất nhiều thời gian hơn dự kiến để bổ nhiệm Giám đốc điều hành mới.</em>"
       },
       {
-        "question": "Funds have been added to the budget for expenses ______ with the new building.",
+        "question": "All of our tablet computers come with a one-year warranty ______ includes hardware repairs and replacements.",
         "options": {
-          "A": "associated",
-          "B": "association",
-          "C": "associate",
-          "D": "associates"
+          "A": "that",
+          "B": "who",
+          "C": "what",
+          "D": "it"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. associated</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Rút gọn mệnh đề quan hệ dạng bị động bổ nghĩa cho danh từ <code>expenses</code>: <code>expenses which are associated with...</code> rút gọn thành <code>expenses associated with...</code> (chi phí liên quan đến).<br>- Chọn phân từ hai <strong class=\"hl-vocab\">associated</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các khoản kinh phí đã được thêm vào ngân sách cho các chi phí liên quan đến tòa nhà mới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần đại từ quan hệ thay thế cho danh từ chỉ vật số ít <code>warranty</code> làm chủ ngữ trong mệnh đề quan hệ xác định.<br>- Chọn đại từ quan hệ <strong class=\"hl-vocab\">that</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả các máy tính bảng của chúng tôi đều đi kèm với chế độ bảo hành một năm bao gồm cả việc sửa chữa và thay thế phần cứng.</em>"
       },
       {
-        "question": "Ms. Bernard ______ that a deadline was approaching, so she requested some assistance.",
+        "question": "The Exprite Foundation Board of Directors is ______ of nine members who are elected annually by the public.",
         "options": {
-          "A": "noticed",
-          "B": "obscured",
-          "C": "withdrew",
-          "D": "appeared"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. noticed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Câu kể ở quá khứ cần động từ chính phù hợp ngữ nghĩa nhận thấy thời hạn đang cận kề → chọn động từ phù hợp.<br>- Chọn động từ quá khứ <strong class=\"hl-vocab\">noticed</strong> (nhận thấy, chú ý).<br><br><strong>Dịch câu:</strong><br><em>Cô Bernard nhận thấy rằng hạn chót đang đến gần, vì vậy cô ấy đã yêu cầu sự trợ giúp.</em>"
-      },
-      {
-        "question": "Mr. Moscowitz is ______ that Dr. Tanaka will agree to present the keynote speech at this year's conference.",
-        "options": {
-          "A": "hopes",
-          "B": "hoped",
-          "C": "hopeful",
-          "D": "hopefully"
+          "A": "expected",
+          "B": "described",
+          "C": "composed",
+          "D": "announced"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. hopeful</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ tobe <code>is</code> đóng vai trò tính từ làm vị ngữ bổ nghĩa cho chủ ngữ chỉ người Mr. Moscowitz → cần tính từ chủ động mang nghĩa hy vọng.<br>- Chọn tính từ <strong class=\"hl-vocab\">hopeful</strong> (đầy hy vọng).<br><br><strong>Dịch câu:</strong><br><em>Ông Moscowitz hy vọng rằng Tiến sĩ Tanaka sẽ đồng ý trình bày bài phát biểu chính tại hội nghị năm nay.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. composed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ ở dạng bị động đi kèm giới từ <code>of</code> để chỉ sự cấu thành/bao gồm: <code>be composed of something</code> (bao gồm/được cấu thành từ cái gì).<br>- Chọn phân từ hai <strong class=\"hl-vocab\">composed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ban Giám đốc của Quỹ Exprite bao gồm chín thành viên được công chúng bầu chọn hàng năm.</em>"
       },
       {
-        "question": "Two Australian companies are developing new smartphones, but it is unclear ______ phone will become available first.",
+        "question": "Mortgage brokers generally prefer to review all the financial documents ______ meeting with a new client.",
         "options": {
-          "A": "if",
-          "B": "which",
-          "C": "before",
-          "D": "because"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Từ nghi vấn đóng vai trò lựa chọn giữa các đối tượng xác định được nhắc đến trước (two companies) đứng trước danh từ <code>phone</code> → chọn đại từ nghi vấn chỉ sự lựa chọn.<br>- Chọn <strong class=\"hl-vocab\">which</strong> (cái nào/chiếc điện thoại nào).<br><br><strong>Dịch câu:</strong><br><em>Hai công ty Úc đang phát triển điện thoại thông minh mới, nhưng chưa rõ chiếc điện thoại nào sẽ có mặt trên thị trường trước.</em>"
-      },
-      {
-        "question": "Corners Gym offers its members a free lesson in how to use ______ properly.",
-        "options": {
-          "A": "weighs",
-          "B": "weights",
-          "C": "weighty",
-          "D": "weighed"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. weights</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ <code>use</code> đóng vai trò làm danh từ tân ngữ chỉ dụng cụ tập tạ ở phòng gym → cần danh từ số nhiều.<br>- Chọn danh từ <strong class=\"hl-vocab\">weights</strong> (tạ tập/quả tạ).<br><br><strong>Dịch câu:</strong><br><em>Corners Gym cung cấp cho các thành viên một bài học miễn phí về cách sử dụng tạ đúng cách.</em>"
-      },
-      {
-        "question": "______ the rules, overnight parking is not permitted at the clubhouse facility.",
-        "options": {
-          "A": "Prior to",
-          "B": "Except for",
-          "C": "Instead of",
-          "D": "According to"
+          "A": "toward",
+          "B": "further",
+          "C": "lately",
+          "D": "before"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. According to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm giới từ mang ý nghĩa đối chiếu dựa theo các quy định ban hành → chọn cụm giới từ thích hợp.<br>- Chọn <strong class=\"hl-vocab\">According to</strong> (theo như).<br><br><strong>Dịch câu:</strong><br><em>Theo quy định, việc đỗ xe qua đêm không được cho phép tại cơ sở nhà điều hành.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. before</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước phân từ V-ing <code>meeting</code> chỉ mốc thời gian hành động diễn ra trước đó → cần giới từ thời gian.<br>- Chọn giới từ <strong class=\"hl-vocab\">before</strong> (trước khi).<br><br><strong>Dịch câu:</strong><br><em>Các nhà môi giới thế chấp thường muốn xem xét tất cả các tài liệu tài chính trước khi gặp khách hàng mới.</em>"
       },
       {
-        "question": "Once everyone ______, we can begin the conference call.",
+        "question": "Management ______ candidates for promotion by the end of the month.",
         "options": {
-          "A": "arrived",
-          "B": "is arriving",
-          "C": "to arrive",
-          "D": "has arrived"
+          "A": "identify",
+          "B": "identifying",
+          "C": "will identify",
+          "D": "to identify"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. will identify</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Câu chưa có động từ chính chia thì làm vị ngữ, có trạng ngữ chỉ thời gian tương lai <code>by the end of the month</code> → cần chia động từ ở thì tương lai đơn.<br>- Chọn động từ tương lai <strong class=\"hl-vocab\">will identify</strong> (sẽ xác định/nhận diện).<br><br><strong>Dịch câu:</strong><br><em>Ban quản lý sẽ xác định các ứng viên được thăng chức vào cuối tháng.</em>"
+      },
+      {
+        "question": "While we typically charge $25 for missed appointments, we understand that ______ circumstances may arise.",
+        "options": {
+          "A": "unforeseen",
+          "B": "excessive",
+          "C": "approximate",
+          "D": "acclaimed"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. unforeseen</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>circumstances</code> để chỉ các tình huống phát sinh đột xuất ngoài ý muốn → cụm từ thông dụng: <code>unforeseen circumstances</code> (tình huống bất khả kháng/không lường trước được).<br>- Chọn tính từ <strong class=\"hl-vocab\">unforeseen</strong>.<br><br><strong>Dịch câu:</strong><br><em>Mặc dù chúng tôi thường tính phí $25 cho các cuộc hẹn bị lỡ, chúng tôi hiểu rằng các tình huống không lường trước được có thể phát sinh.</em>"
+      },
+      {
+        "question": "At Blu Hedge, clients receive 1 percent interest, pay no account fees, and can make unlimited ______.",
+        "options": {
+          "A": "transfer",
+          "B": "transfers",
+          "C": "transferred",
+          "D": "transferring"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. transfers</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ <code>unlimited</code> đóng vai trò làm tân ngữ cho động từ hành động <code>make</code> → cần danh từ số nhiều đếm được để chỉ nhiều giao dịch chuyển tiền.<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">transfers</strong> (các giao dịch chuyển khoản).<br><br><strong>Dịch câu:</strong><br><em>Tại Blu Hedge, khách hàng nhận lãi suất 1%, không phải trả phí tài khoản và có thể thực hiện chuyển khoản không giới hạn.</em>"
+      },
+      {
+        "question": "Farist Bakery, which specializes in dessert catering, is located ______ the Liverpool Convention Complex.",
+        "options": {
+          "A": "near",
+          "B": "without",
+          "C": "since",
+          "D": "following"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. near</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ vị trí gần địa điểm trung tâm hội nghị → chọn giới từ phù hợp ngữ cảnh không gian.<br>- Chọn giới từ <strong class=\"hl-vocab\">near</strong> (gần).<br><br><strong>Dịch câu:</strong><br><em>Farist Bakery, nơi chuyên phục vụ tiệc đồ tráng miệng, nằm gần Khu phức hợp Hội nghị Liverpool.</em>"
+      },
+      {
+        "question": "The presentations were ______ than we expected, so there was ample time left for questions.",
+        "options": {
+          "A": "brief",
+          "B": "briefly",
+          "C": "briefer",
+          "D": "briefest"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. briefer</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Có từ nhận biết so sánh hơn <code>than</code> ở phía sau → cần tính từ ngắn chia ở dạng so sánh hơn.<br>- Chọn tính từ so sánh hơn <strong class=\"hl-vocab\">briefer</strong> (ngắn hơn/tóm tắt hơn).<br><br><strong>Dịch câu:</strong><br><em>Các bài thuyết trình ngắn hơn chúng tôi mong đợi, vì vậy còn lại nhiều thời gian cho các câu hỏi.</em>"
+      },
+      {
+        "question": "According to our ______ your order will arrive in three days or we will refund 50 percent of the cost.",
+        "options": {
+          "A": "distribution",
+          "B": "guarantee",
+          "C": "exception",
+          "D": "discount"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. guarantee</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ sở hữu <code>our</code> làm danh từ chủ ngữ chỉ cam kết bảo đảm của dịch vụ bán hàng → chọn danh từ phù hợp.<br>- Chọn danh từ <strong class=\"hl-vocab\">guarantee</strong> (sự bảo đảm/cam kết bảo hành).<br><br><strong>Dịch câu:</strong><br><em>Theo cam kết bảo đảm của chúng tôi, đơn đặt hàng của bạn sẽ đến sau ba ngày hoặc chúng tôi sẽ hoàn lại 50% chi phí.</em>"
+      },
+      {
+        "question": "Several Seoul-based companies have ______ redesigned their workplaces to be more colorful and comfortable.",
+        "options": {
+          "A": "note",
+          "B": "noted",
+          "C": "notable",
+          "D": "notably"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. has arrived</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trong mệnh đề chỉ thời gian đi sau liên từ <code>Once</code>, khi muốn nhấn mạnh một hành động hoàn thành trước khi hành động khác diễn ra ở tương lai đơn (we can begin...) → dùng thì hiện tại hoàn thành.<br>- Chủ ngữ đại từ bất định <code>everyone</code> chia động từ số ít → chọn <strong class=\"hl-vocab\">has arrived</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khi tất cả mọi người đã đến đông đủ, chúng ta có thể bắt đầu cuộc họp trực tuyến.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. notably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chia ở dạng phân từ <code>redesigned</code> để nhấn mạnh mức độ thay đổi thiết kế rõ rệt → cần trạng từ bổ nghĩa.<br>- Chọn trạng từ <strong class=\"hl-vocab\">notably</strong> (đáng kể/đặc biệt).<br><br><strong>Dịch câu:</strong><br><em>Một số công ty có trụ sở tại Seoul đã thiết kế lại đáng kể nơi làm việc của họ để trở nên đầy màu sắc và thoải mái hơn.</em>"
       },
       {
-        "question": "Each summer a motivational video that highlights the past year's ______ is shown to all company employees.",
+        "question": "The employee picnic will be postponed until next Friday because of the ______ cold temperatures this week.",
         "options": {
-          "A": "preferences",
-          "B": "accomplishments",
-          "C": "communications",
-          "D": "uncertainties"
+          "A": "deceptively",
+          "B": "unnecessarily",
+          "C": "irresponsibly",
+          "D": "unseasonably"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. accomplishments</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ sở hữu cách bổ nghĩa phù hợp ngữ cảnh tôn vinh thành tích đạt được của công ty trong năm qua → chọn danh từ phù hợp.<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">accomplishments</strong> (thành tích, thành tựu).<br><br><strong>Dịch câu:</strong><br><em>Mỗi mùa hè, một video truyền cảm hứng nêu bật các thành tựu của năm qua sẽ được chiếu cho tất cả nhân viên công ty xem.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. unseasonably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước tính từ <code>cold</code> bổ nghĩa cho cụm danh từ chỉ thời tiết lạnh bất thường so với thời điểm mùa trong năm → chọn trạng từ phù hợp thời tiết.<br>- Chọn trạng từ <strong class=\"hl-vocab\">unseasonably</strong> (lạnh bất thường so với mùa).<br><br><strong>Dịch câu:</strong><br><em>Buổi dã ngoại của nhân viên sẽ bị hoãn lại cho đến thứ Sáu tuần sau vì thời tiết lạnh bất thường so với mùa trong tuần này.</em>"
       },
       {
-        "question": "Employees who wish to attend the retirement dinner ______ Ms. Howell's 30 years of service should contact Mr. Lee.",
+        "question": "The accounting department is in first place in the office fund-raising challenge, ______ just two more days to go.",
         "options": {
-          "A": "honor",
-          "B": "to honor",
-          "C": "will honor",
-          "D": "will be honored"
+          "A": "against",
+          "B": "namely",
+          "C": "with",
+          "D": "else"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. with</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới từ chỉ điều kiện hoàn cảnh đi kèm: <code>with + cụm danh từ + to-V</code> (với việc chỉ còn...).<br>- Chọn giới từ <strong class=\"hl-vocab\">with</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận kế toán đang đứng ở vị trí đầu tiên trong thử thách gây quỹ của văn phòng, khi chỉ còn hai ngày nữa là kết thúc.</em>"
+      },
+      {
+        "question": "Pink Geranium Coffee has struggled to ______ its new bottled espresso from similar beverages on the market.",
+        "options": {
+          "A": "participate",
+          "B": "distinguish",
+          "C": "overturn",
+          "D": "revoke"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. to honor</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ nguyên mẫu chỉ mục đích của bữa tiệc tối tri ân: <code>dinner + to-V</code> (bữa tiệc tối nhằm vinh danh/tri ân).<br>- Chọn <strong class=\"hl-vocab\">to honor</strong> (để vinh danh).<br><br><strong>Dịch câu:</strong><br><em>Những nhân viên muốn tham dự bữa tiệc tối nghỉ hưu nhằm tri ân 30 năm cống hiến của cô Howell nên liên hệ với ông Lee.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. distinguish</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ đi kèm giới từ <code>from</code> chỉ sự phân biệt giữa hai nhóm đối tượng: <code>distinguish A from B</code> (phân biệt A với B).<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">distinguish</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cà phê Pink Geranium đã phải chật vật để phân biệt sản phẩm espresso đóng chai mới của mình với các loại đồ uống tương tự trên thị trường.</em>"
+      },
+      {
+        "question": "______ it is occasionally inconvenient, Mr. Ohtani expects all team members to attend his weekly meeting.",
+        "options": {
+          "A": "Though",
+          "B": "As soon as",
+          "C": "Because",
+          "D": "When"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Though</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ sự tương phản nhượng bộ (mặc dù thỉnh thoảng hơi bất tiện nhưng vẫn phải họp) → chọn liên từ thích hợp.<br>- Chọn liên từ <strong class=\"hl-vocab\">Though</strong> (mặc dù).<br><br><strong>Dịch câu:</strong><br><em>Mặc dù đôi khi có chút bất tiện, ông Ohtani vẫn mong đợi tất cả các thành viên trong nhóm tham dự cuộc họp hàng tuần của mình.</em>"
       }
     ]
   },
@@ -1685,334 +1685,334 @@ const toeicTestsData = [
     "title": "ETS 2026 - TEST 03",
     "questions": [
       {
-        "question": "______ your order is being processed, please call customer service with any questions.",
+        "question": "Despite ______ youth, Ms. Cho is already quite popular on social media.",
         "options": {
-          "A": "Still",
-          "B": "Either",
-          "C": "While",
-          "D": "Also"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. While</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ thời gian kéo dài trong khi một quá trình đang diễn ra → chọn liên từ thời gian <strong class=\"hl-vocab\">While</strong> (trong khi).<br><br><strong>Dịch câu:</strong><br><em>Trong khi đơn hàng của bạn đang được xử lý, vui lòng gọi cho bộ phận dịch vụ khách hàng nếu có bất kỳ câu hỏi nào.</em>"
-      },
-      {
-        "question": "ABC Truck Supplies has the ______ selection of mufflers in the state.",
-        "options": {
-          "A": "natural",
-          "B": "widest",
-          "C": "overall",
-          "D": "positive"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. widest</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ xác định <code>the</code> và đứng trước danh từ <code>selection</code> chỉ sự so sánh cao nhất về độ phong phú hàng hóa → dùng tính từ so sánh cực cấp.<br>- Chọn tính từ so sánh nhất <strong class=\"hl-vocab\">widest</strong> (rộng lớn nhất/phong phú nhất).<br><br><strong>Dịch câu:</strong><br><em>ABC Truck Supplies có sự lựa chọn bộ giảm thanh phong phú nhất trong bang.</em>"
-      },
-      {
-        "question": "Sharswood Landscaping has received dozens of five-star ______ for its work.",
-        "options": {
-          "A": "reviews",
-          "B": "reviewer",
-          "C": "reviewed",
-          "D": "reviewing"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. reviews</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau lượng từ chỉ số lượng nhiều <code>dozens of</code> và cụm danh từ ghép <code>five-star</code> → cần danh từ số nhiều đếm được.<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">reviews</strong> (đánh giá, nhận xét).<br><br><strong>Dịch câu:</strong><br><em>Sharswood Landscaping đã nhận được hàng tá đánh giá năm sao cho công việc của mình.</em>"
-      },
-      {
-        "question": "Dr. Cho will visit the Teledarr Lab during the annual open house, since ______ may not have another chance to see it.",
-        "options": {
-          "A": "hers",
-          "B": "she",
-          "C": "her",
+          "A": "she",
+          "B": "her",
+          "C": "hers",
           "D": "herself"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. she</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm chủ ngữ cho động từ khuyết thiếu <code>may not have</code> trong mệnh đề phụ chỉ nguyên nhân bắt đầu bằng <code>since</code> → cần đại từ nhân xưng chủ ngữ thay thế cho Dr. Cho.<br>- Chọn đại từ chủ ngữ <strong class=\"hl-vocab\">she</strong> (cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Tiến sĩ Cho sẽ đến thăm Phòng thí nghiệm Teledarr trong buổi mở cửa thường niên, vì cô ấy có thể không có cơ hội khác để xem nó.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. her</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>youth</code> (tuổi trẻ) và sau giới từ nhượng bộ <code>Despite</code> → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">her</strong> (của cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Bất chấp tuổi trẻ của mình, cô Cho đã khá nổi tiếng trên mạng xã hội.</em>"
       },
       {
-        "question": "Dorn Department Store decided to ______ its already large selection of housewares.",
+        "question": "Most of the materials distributed at last month's accounting conference are now ______ online.",
         "options": {
-          "A": "create",
-          "B": "enforce",
-          "C": "apply",
-          "D": "expand"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. expand</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau <code>to</code> chỉ mục đích của quyết định đối với mặt hàng đa dạng của cửa hàng → chọn động từ nguyên mẫu phù hợp ngữ cảnh phát triển quy mô.<br>- Chọn động từ <strong class=\"hl-vocab\">expand</strong> (mở rộng).<br><br><strong>Dịch câu:</strong><br><em>Cửa hàng bách hóa Dorn quyết định mở rộng danh mục đồ gia dụng vốn đã đa dạng của mình.</em>"
-      },
-      {
-        "question": "We ______ that you bring a portfolio of work samples to the interview.",
-        "options": {
-          "A": "was asking",
-          "B": "having asked",
-          "C": "ask",
-          "D": "asks"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. ask</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ chính đi kèm chủ ngữ ngôi thứ nhất số nhiều <code>We</code> ở hiện tại đơn → động từ giữ nguyên mẫu không chia s/es.<br>- Chọn động từ <strong class=\"hl-vocab\">ask</strong> (yêu cầu).<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi yêu cầu bạn mang theo một hồ sơ năng lực chứa các mẫu tác phẩm đến buổi phỏng vấn.</em>"
-      },
-      {
-        "question": "Members of the Bold Stone Farm Store receive ______ discounts on all purchases.",
-        "options": {
-          "A": "depth",
-          "B": "deepen",
-          "C": "deep",
-          "D": "deeply"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. deep</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ số nhiều <code>discounts</code> → cần tính từ bổ nghĩa.<br>- Chọn tính từ <strong class=\"hl-vocab\">deep</strong> (sâu/lớn). Cụm từ: <code>deep discounts</code> (giảm giá sâu/lớn).<br><br><strong>Dịch câu:</strong><br><em>Thành viên của Bold Stone Farm Store được giảm giá sâu cho tất cả các giao dịch mua hàng.</em>"
-      },
-      {
-        "question": "If your plans change, please contact us at least 24 hours before the time of your ______.",
-        "options": {
-          "A": "reserved",
-          "B": "reservation",
-          "C": "reservable",
-          "D": "reserve"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. reservation</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ sở hữu <code>your</code> và giới từ <code>of</code> → cần danh từ.<br>- Chọn danh từ chỉ sự đặt trước <strong class=\"hl-vocab\">reservation</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nếu kế hoạch của bạn thay đổi, vui lòng liên hệ với chúng tôi ít nhất 24 giờ trước thời điểm đặt chỗ của bạn.</em>"
-      },
-      {
-        "question": "Hold the tomato seedling gently by the stem in order to avoid harming ______ roots.",
-        "options": {
-          "A": "its",
-          "B": "at",
-          "C": "that",
-          "D": "in"
+          "A": "available",
+          "B": "intended",
+          "C": "comparable",
+          "D": "decisive"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. its</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>roots</code> → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu số ít thay thế cho tomato seedling: <strong class=\"hl-vocab\">its</strong> (của nó).<br><br><strong>Dịch câu:</strong><br><em>Giữ cây cà chua non nhẹ nhàng bằng thân để tránh làm tổn hại đến rễ của nó.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. available</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ tobe làm tính từ vị ngữ biểu thị tính chất có sẵn có thể tìm thấy trực tuyến → cụm từ thông dụng: <code>available online</code> (có sẵn trực tuyến).<br>- Chọn tính từ <strong class=\"hl-vocab\">available</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hầu hết các tài liệu được phân phát tại hội thảo kế toán tháng trước hiện đã có sẵn trực tuyến.</em>"
       },
       {
-        "question": "At the registration table, be sure to collect your name tag ______ entering the conference.",
+        "question": "A full-scale ______ will be conducted by the accounting department.",
         "options": {
-          "A": "very",
-          "B": "often",
-          "C": "always",
-          "D": "before"
+          "A": "reviewer",
+          "B": "review",
+          "C": "reviewed",
+          "D": "reviews"
         },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. before</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh động từ V-ing <code>entering</code> chỉ mốc thời gian diễn ra trước khi bước vào phòng hội nghị → cần giới từ thời gian phù hợp.<br>- Chọn giới từ <strong class=\"hl-vocab\">before</strong> (trước khi).<br><br><strong>Dịch câu:</strong><br><em>Tại bàn đăng ký, hãy nhớ nhận thẻ tên của bạn trước khi vào hội nghị.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. review</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ bổ nghĩa <code>full-scale</code> và mạo từ <code>A</code> làm chủ ngữ số ít của động từ bị động <code>will be conducted</code> → cần danh từ số ít chỉ sự vật sự việc.<br>- Chọn danh từ <strong class=\"hl-vocab\">review</strong> (sự đánh giá/xem xét).<br><br><strong>Dịch câu:</strong><br><em>Một cuộc đánh giá toàn diện sẽ được thực hiện bởi bộ phận kế toán.</em>"
       },
       {
-        "question": "Maihama vehicles include an extended ______ to cover engine repairs.",
+        "question": "Poshy Shoes vice president Lucille Jeris has been ______ to president of the company.",
         "options": {
-          "A": "record",
-          "B": "operation",
-          "C": "budget",
-          "D": "warranty"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. warranty</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ bổ nghĩa <code>extended</code> (kéo dài) để chỉ chính sách bảo hành động cơ xe hơi → cụm danh từ thông dụng: <code>extended warranty</code> (chế độ bảo hành mở rộng).<br>- Chọn danh từ <strong class=\"hl-vocab\">warranty</strong> (sự bảo hành/giấy bảo hành).<br><br><strong>Dịch câu:</strong><br><em>Các xe của hãng Maihama có chính sách bảo hành mở rộng để chi trả cho các sửa chữa động cơ.</em>"
-      },
-      {
-        "question": "The hotel's new Web site features an ______ collection of high-quality images.",
-        "options": {
-          "A": "absolute",
-          "B": "efficient",
-          "C": "impressive",
-          "D": "undefeated"
+          "A": "provided",
+          "B": "decorated",
+          "C": "promoted",
+          "D": "responded"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. impressive</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>collection</code> để miêu tả vẻ đẹp bắt mắt của các hình ảnh → chọn tính từ phù hợp ngữ cảnh quảng cáo.<br>- Chọn tính từ <strong class=\"hl-vocab\">impressive</strong> (ấn tượng).<br><br><strong>Dịch câu:</strong><br><em>Trang web mới của khách sạn có một bộ sưu tập hình ảnh chất lượng cao đầy ấn tượng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. promoted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trong cấu trúc bị động chỉ việc được thăng tiến lên chức vụ cao hơn: <code>be promoted to + chức vụ</code> (được thăng chức lên).<br>- Chọn phân từ hai <strong class=\"hl-vocab\">promoted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Phó chủ tịch Poshy Shoes, Lucille Jeris, đã được thăng chức lên làm chủ tịch công ty.</em>"
       },
       {
-        "question": "On behalf of everyone at Uniontown Bank, we ______ thank you for your continued patronage.",
+        "question": "The report found that employees who take regular breaks are more ______ than those who take no breaks.",
         "options": {
-          "A": "deservedly",
-          "B": "commonly",
-          "C": "sincerely",
-          "D": "perfectly"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. sincerely</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ cảm ơn <code>thank</code> trong văn phong trang trọng gửi tới khách hàng → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">sincerely</strong> (chân thành).<br><br><strong>Dịch câu:</strong><br><em>Thay mặt cho tất cả mọi người tại Ngân hàng Uniontown, chúng tôi xin chân thành cảm ơn sự ủng hộ liên tục của bạn.</em>"
-      },
-      {
-        "question": "Fragile equipment must be stored in a secure location so that nothing is ______ damaged.",
-        "options": {
-          "A": "accident",
-          "B": "accidents",
-          "C": "accidental",
-          "D": "accidentally"
+          "A": "production",
+          "B": "productively",
+          "C": "productivity",
+          "D": "productive"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. accidentally</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ bị động <code>is</code> và phân từ hai <code>damaged</code> → cần trạng từ bổ nghĩa.<br>- Chọn trạng từ <strong class=\"hl-vocab\">accidentally</strong> (vô tình, ngoài ý muốn).<br><br><strong>Dịch câu:</strong><br><em>Thiết bị dễ vỡ phải được lưu trữ ở vị trí an toàn để không thứ gì bị hư hỏng một cách vô tình.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. productive</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết tobe <code>are</code> và trạng từ so sánh hơn <code>more</code> để làm tính từ so sánh hơn trước từ <code>than</code> → cần tính từ gốc.<br>- Chọn tính từ <strong class=\"hl-vocab\">productive</strong> (làm việc hiệu quả/năng suất).<br><br><strong>Dịch câu:</strong><br><em>Báo cáo cho thấy những nhân viên nghỉ giải lao đều đặn làm việc hiệu quả hơn những người không nghỉ giải lao.</em>"
       },
       {
-        "question": "Ms. Sampson will not arrive at the convention ______ after our team's presentation.",
+        "question": "Customers of Twins Photocopiers are encouraged to contact a ______ if their machines need repairs.",
+        "options": {
+          "A": "replacement",
+          "B": "technician",
+          "C": "renewal",
+          "D": "structure"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. technician</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> làm tân ngữ chỉ người xử lý sự cố kỹ thuật máy photocopy cần liên hệ → chọn danh từ chỉ người phù hợp nghề nghiệp.<br>- Chọn danh từ chỉ người <strong class=\"hl-vocab\">technician</strong> (kỹ thuật viên).<br><br><strong>Dịch câu:</strong><br><em>Khách hàng của Twins Photocopiers được khuyến khích liên hệ với một kỹ thuật viên nếu máy móc của họ cần sửa chữa.</em>"
+      },
+      {
+        "question": "The heavy traffic on the way to the airport ______ caused Ms. Ikeda to miss her flight.",
+        "options": {
+          "A": "nearly",
+          "B": "near",
+          "C": "nears",
+          "D": "nearness"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. nearly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ thường quá khứ <code>caused</code> chỉ tình trạng suýt chút nữa xảy ra hậu quả do kẹt xe → chọn trạng từ chỉ mức độ gần như.<br>- Chọn trạng từ <strong class=\"hl-vocab\">nearly</strong> (gần như/suýt nữa).<br><br><strong>Dịch câu:</strong><br><em>Tình trạng kẹt xe nghiêm trọng trên đường đến sân bay suýt nữa đã khiến cô Ikeda bị lỡ chuyến bay.</em>"
+      },
+      {
+        "question": "A news source suggested that the merger will ______ take place next year.",
+        "options": {
+          "A": "originally",
+          "B": "probably",
+          "C": "regularly",
+          "D": "thoughtfully"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. probably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ đứng giữa trợ động từ khuyết thiếu <code>will</code> và động từ nguyên mẫu <code>take place</code> chỉ khả năng dự kiến sự việc xảy ra → chọn trạng từ chỉ khả năng.<br>- Chọn trạng từ <strong class=\"hl-vocab\">probably</strong> (có lẽ/nhiều khả năng).<br><br><strong>Dịch câu:</strong><br><em>Một nguồn tin tức gợi ý rằng vụ sáp nhập có lẽ sẽ diễn ra vào năm tới.</em>"
+      },
+      {
+        "question": "The Seaborne Inn has ______ beautiful guest rooms that can be booked on a monthly basis.",
+        "options": {
+          "A": "various",
+          "B": "among",
+          "C": "throughout",
+          "D": "itself"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. various</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ số nhiều đếm được <code>guest rooms</code> làm lượng từ chỉ tính chất phong phú đa dạng phòng nghỉ → chọn lượng từ thích hợp.<br>- Chọn lượng từ/tính từ <strong class=\"hl-vocab\">various</strong> (nhiều/khác nhau).<br><br><strong>Dịch câu:</strong><br><em>Nhà nghỉ Seaborne Inn có nhiều phòng khách đẹp khác nhau có thể được đặt theo tháng.</em>"
+      },
+      {
+        "question": "Ahearn Accessories' retail shop is located ______ Gordon Avenue and Hutch Street.",
         "options": {
           "A": "until",
-          "B": "lately",
-          "C": "from",
-          "D": "when"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. until</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc phủ định đi kèm giới từ chỉ giới hạn thời điểm hành động bắt đầu diễn ra: <code>not... until + mốc thời gian</code> (không... cho tới khi).<br>- Chọn giới từ <strong class=\"hl-vocab\">until</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cô Sampson sẽ không đến hội nghị cho đến sau buổi trình bày của nhóm chúng tôi.</em>"
-      },
-      {
-        "question": "The community picnic will be held ______ the park behind the Seltzer Public Library.",
-        "options": {
-          "A": "in",
-          "B": "all",
-          "C": "for",
-          "D": "here"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. in</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước địa điểm không gian công viên <code>the park</code> để chỉ nơi chốn diễn ra sự kiện → dùng giới từ vị trí.<br>- Chọn giới từ <strong class=\"hl-vocab\">in</strong> (ở trong/tại).<br><br><strong>Dịch câu:</strong><br><em>Buổi dã ngoại cộng đồng sẽ được tổ chức tại công viên phía sau Thư viện Công cộng Seltzer.</em>"
-      },
-      {
-        "question": "The new hires ______ for an orientation on May 10 at 9:00 A.M.",
-        "options": {
-          "A": "to be gathering",
-          "B": "will gather",
-          "C": "gathering",
-          "D": "to gather"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will gather</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Câu chưa có động từ chính chia thì để làm vị ngữ của chủ ngữ <code>The new hires</code> → cần một động từ chia ở thì tương lai đơn (phù hợp với mốc thời gian May 10 trong tương lai).<br>- Chọn động từ chia thì tương lai <strong class=\"hl-vocab\">will gather</strong> (sẽ tập hợp).<br><br><strong>Dịch câu:</strong><br><em>Nhân viên mới sẽ tập hợp cho một buổi định hướng vào ngày 10 tháng 5 lúc 9:00 sáng.</em>"
-      },
-      {
-        "question": "When Mr. Young approached the desk, the receptionist ______ offered him a seat in the waiting room.",
-        "options": {
-          "A": "politely",
-          "B": "politue",
-          "C": "politeness",
-          "D": "politest"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. politely</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước và bổ nghĩa cho động từ thường <code>offered</code> → cần trạng từ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">politely</strong> (một cách lịch sự).<br><br><strong>Dịch câu:</strong><br><em>Khi ông Young đến gần bàn làm việc, nhân viên tiếp tân đã lịch sự mời ông một chỗ ngồi trong phòng chờ.</em>"
-      },
-      {
-        "question": "Members of the Marvale marketing team claimed that ______ was the best design for the new corporate logo.",
-        "options": {
-          "A": "they",
-          "B": "them",
-          "C": "theirs",
-          "D": "their"
+          "B": "against",
+          "C": "at",
+          "D": "aside from"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. theirs</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm chủ ngữ cho mệnh đề phụ sau từ <code>that</code> và mang ý nghĩa sở hữu thay thế cho cụm danh từ \"bản thiết kế của họ\" (their design) để tránh lặp từ → cần đại từ sở hữu.<br>- Chọn đại từ sở hữu <strong class=\"hl-vocab\">theirs</strong> (cái của họ/bản của họ).<br><br><strong>Dịch câu:</strong><br><em>Các thành viên của nhóm tiếp thị Marvale khẳng định rằng thiết kế của họ là thiết kế tốt nhất cho logo mới của công ty.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. at</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ vị trí cụ thể tọa lạc tại ngã tư hoặc góc phố giao nhau: <code>be located at + góc đường</code>.<br>- Chọn giới từ địa điểm <strong class=\"hl-vocab\">at</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cửa hàng bán lẻ của Ahearn Accessories nằm tại góc Đại lộ Gordon và Phố Hutch.</em>"
       },
       {
-        "question": "The new Kitsuna video camera is currently on sale for $375, not ______ tax.",
+        "question": "A majority of the city's residents rated its transportation app ______.",
         "options": {
-          "A": "excepting",
-          "B": "alongside",
-          "C": "within",
-          "D": "including"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. including</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ chỉ biểu giá chưa bao gồm thuế: <code>not including tax</code> (chưa bao gồm thuế).<br>- Chọn giới từ <strong class=\"hl-vocab\">including</strong>.<br><br><strong>Dịch câu:</strong><br><em>Máy quay video Kitsuna mới hiện đang được giảm giá với giá $375, chưa bao gồm thuế.</em>"
-      },
-      {
-        "question": "All associates are ______ to follow the standard operating procedures outlined in the handbook.",
-        "options": {
-          "A": "concerned",
-          "B": "tended",
-          "C": "maintained",
-          "D": "expected"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. expected</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ dạng bị động chỉ sự kỳ vọng bắt buộc: <code>be expected to do something</code> (được kỳ vọng/yêu cầu phải làm gì).<br>- Chọn phân từ hai <strong class=\"hl-vocab\">expected</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả các cộng sự được kỳ vọng sẽ tuân theo các quy trình vận hành tiêu chuẩn được phác thảo trong sổ tay.</em>"
-      },
-      {
-        "question": "This month Framley Publishing House is embarking on its ______ expansion so far.",
-        "options": {
-          "A": "ambitiously",
-          "B": "most ambitiously",
-          "C": "ambition",
-          "D": "most ambitious"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. most ambitious</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>expansion</code> và sau tính từ sở hữu <code>its</code> bổ nghĩa cho danh từ chỉ mức độ cao nhất đi kèm từ nhận biết <code>so far</code> → cần tính từ so sánh cực cấp.<br>- Chọn dạng tính từ so sánh nhất <strong class=\"hl-vocab\">most ambitious</strong> (đầy tham vọng nhất).<br><br><strong>Dịch câu:</strong><br><em>Tháng này, Nhà xuất bản Framley đang bắt tay vào đợt mở rộng đầy tham vọng nhất của mình từ trước đến nay.</em>"
-      },
-      {
-        "question": "After months of collaboration, Matricks Technology's software developers ______ released a top-quality product.",
-        "options": {
-          "A": "profoundly",
-          "B": "overly",
-          "C": "finally",
-          "D": "intensely"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. finally</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ chỉ kết quả mong đợi sau khoảng thời gian dài nỗ lực → chọn trạng từ phù hợp ngữ cảnh phát triển sản phẩm.<br>- Chọn trạng từ <strong class=\"hl-vocab\">finally</strong> (cuối cùng thì/sau cùng).<br><br><strong>Dịch câu:</strong><br><em>Sau nhiều tháng hợp tác, các nhà phát triển phần mềm của Công nghệ Matricks cuối cùng đã phát hành một sản phẩm chất lượng hàng đầu.</em>"
-      },
-      {
-        "question": "Tickets are valid for one-time access and do not allow for ______ into the venue.",
-        "options": {
-          "A": "duplication",
-          "B": "reentry",
-          "C": "permission",
-          "D": "turnover"
+          "A": "acceptability",
+          "B": "acceptable",
+          "C": "acceptance",
+          "D": "accepting"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. reentry</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ <code>for</code> chỉ hành động không được phép quay trở lại rạp/địa điểm sự kiện → chọn danh từ phù hợp ngữ cảnh vé xem.<br>- Chọn danh từ <strong class=\"hl-vocab\">reentry</strong> (sự vào lại/quay trở lại).<br><br><strong>Dịch câu:</strong><br><em>Vé có giá trị cho một lần vào cổng và không cho phép quay trở lại địa điểm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. acceptable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ đánh giá điều gì đạt tính chất thế nào: <code>rate + something + adjective (tính từ làm tân ngữ phụ bổ nghĩa)</code>.<br>- Chọn tính từ <strong class=\"hl-vocab\">acceptable</strong> (chấp nhận được/đạt yêu cầu).<br><br><strong>Dịch câu:</strong><br><em>Đa số người dân thành phố đánh giá ứng dụng giao thông của họ ở mức chấp nhận được.</em>"
       },
       {
-        "question": "We hired Okafor Construction to do the renovation ______ it was not the lowest bidder on the project.",
+        "question": "Dr. Cheung ______ Silk Valley Hospital at next weekend's medical fair.",
         "options": {
-          "A": "if only",
-          "B": "alternatively",
+          "A": "represent",
+          "B": "did represent",
+          "C": "is representing",
+          "D": "had represented"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. is representing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Câu diễn tả một lịch trình chắc chắn sẽ diễn ra vào cuối tuần tới (next weekend) → dùng thì hiện tại tiếp diễn chỉ kế hoạch tương lai.<br>- Chủ ngữ là ngôi thứ ba số ít <code>Dr. Cheung</code> → chọn <strong class=\"hl-vocab\">is representing</strong> (sẽ đại diện/đang đại diện).<br><br><strong>Dịch câu:</strong><br><em>Bác sĩ Cheung sẽ đại diện cho Bệnh viện Thung lũng Silk tại hội chợ y tế vào cuối tuần tới.</em>"
+      },
+      {
+        "question": "Frankie's Boutique had a financially ______ quarter after taking measures to reduce costs.",
+        "options": {
+          "A": "plain",
+          "B": "profitable",
+          "C": "full",
+          "D": "additional"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. profitable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trạng từ <code>financially</code> và trước danh từ <code>quarter</code> → cần tính từ phù hợp ngữ cảnh sinh lời kinh tế sau khi cắt giảm chi phí.<br>- Chọn tính từ <strong class=\"hl-vocab\">profitable</strong> (có lãi/sinh lời).<br><br><strong>Dịch câu:</strong><br><em>Frankie's Boutique đã có một quý sinh lời về mặt tài chính sau khi thực hiện các biện pháp giảm chi phí.</em>"
+      },
+      {
+        "question": "Because it submitted the lowest bid, Deb's Gifting has been chosen as the ______ of this year's holiday cards.",
+        "options": {
+          "A": "supply",
+          "B": "supplier",
+          "C": "supplies",
+          "D": "supplying"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. supplier</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ xác định <code>the</code> và trước giới từ <code>of</code> để chỉ đơn vị trúng thầu cung cấp hàng hóa → cần danh từ chỉ đối tượng cung cấp.<br>- Chọn danh từ chỉ người/đơn vị cung cấp <strong class=\"hl-vocab\">supplier</strong> (nhà cung cấp).<br><br><strong>Dịch câu:</strong><br><em>Vì nộp mức giá đấu thầu thấp nhất, Deb's Gifting đã được chọn làm nhà cung cấp thiệp chúc mừng năm nay.</em>"
+      },
+      {
+        "question": "The Whitetail Institute is the only ______ that tracks deer populations in rapidly expanding suburban areas.",
+        "options": {
+          "A": "leadership",
+          "B": "neighborhood",
+          "C": "official",
+          "D": "organization"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. organization</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi kèm từ bổ nghĩa <code>the only</code> để chỉ viện nghiên cứu Whitetail là một tổ chức duy nhất làm nhiệm vụ theo dõi sinh vật → chọn danh từ phù hợp.<br>- Chọn danh từ <strong class=\"hl-vocab\">organization</strong> (tổ chức/cơ quan).<br><br><strong>Dịch câu:</strong><br><em>Viện Whitetail là tổ chức duy nhất theo dõi quần thể hươu ở các vùng ngoại ô đang mở rộng nhanh chóng.</em>"
+      },
+      {
+        "question": "The committee members ______ attended the meeting are listed in the appendix.",
+        "options": {
+          "A": "who",
+          "B": "they",
+          "C": "when",
+          "D": "some"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. who</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần đại từ quan hệ làm chủ ngữ thay thế cho danh từ chỉ người số nhiều <code>The committee members</code> trong mệnh đề quan hệ xác định.<br>- Chọn đại từ quan hệ chỉ người <strong class=\"hl-vocab\">who</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các thành viên ủy ban đã tham dự cuộc họp được liệt kê trong phụ lục.</em>"
+      },
+      {
+        "question": "Our new app is ______ designed to provide data-driven insights to investment professionals.",
+        "options": {
+          "A": "specify",
+          "B": "specific",
+          "C": "specificity",
+          "D": "specifically"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. specifically</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa cấu trúc bị động <code>is... designed</code> để bổ nghĩa cho phương thức thiết kế đặc trưng → cần trạng từ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">specifically</strong> (được thiết kế riêng/một cách đặc biệt).<br><br><strong>Dịch câu:</strong><br><em>Ứng dụng mới của chúng tôi được thiết kế đặc biệt để cung cấp thông tin chuyên sâu dựa trên dữ liệu cho các chuyên gia đầu tư.</em>"
+      },
+      {
+        "question": "The results of the study suggest that more people ______ with night driving than previously believed.",
+        "options": {
+          "A": "strugles",
+          "B": "struggling",
+          "C": "to struggle",
+          "D": "struggle"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. struggle</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Mệnh đề phụ sau từ <code>that</code> cần động từ chính chia thì hiện tại đơn phù hợp chủ ngữ danh từ số nhiều <code>people</code> → chọn động từ dạng nguyên mẫu.<br>- Chọn động từ <strong class=\"hl-vocab\">struggle</strong> (gặp khó khăn/chật vật).<br><br><strong>Dịch câu:</strong><br><em>Kết quả nghiên cứu cho thấy nhiều người gặp khó khăn khi lái xe ban đêm hơn so với dự đoán trước đây.</em>"
+      },
+      {
+        "question": "Each department has been asked to develop an action plan in ______ to the budget cuts announced last week.",
+        "options": {
+          "A": "response",
+          "B": "effect",
+          "C": "apology",
+          "D": "confirmation"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. response</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm giới từ cố định chỉ việc hành động đối phó, phản hồi lại một tác động: <code>in response to something</code> (để phản phó/phản hồi lại cái gì).<br>- Chọn danh từ <strong class=\"hl-vocab\">response</strong>.<br><br><strong>Dịch câu:</strong><br><em>Mỗi bộ phận được yêu cầu xây dựng một kế hoạch hành động nhằm đối phó với việc cắt giảm ngân sách được công bố vào tuần trước.</em>"
+      },
+      {
+        "question": "Our popular online training materials have ______ been shown to improve job seekers' skills.",
+        "options": {
+          "A": "consistently",
+          "B": "emotionally",
+          "C": "spaciously",
+          "D": "randomly"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. consistently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước phân từ <code>been shown</code> bổ nghĩa cho tính chất hiệu quả ổn định liên tục theo thời gian → chọn trạng từ chỉ sự nhất quán.<br>- Chọn trạng từ <strong class=\"hl-vocab\">consistently</strong> (một cách nhất quán/liên tục).<br><br><strong>Dịch câu:</strong><br><em>Các tài liệu đào tạo trực tuyến phổ biến của chúng tôi đã liên tục được chứng minh là giúp cải thiện kỹ năng của người tìm việc.</em>"
+      },
+      {
+        "question": "Ms. Yamada, ______ director of the Midlands Chamber of Commerce, was recently appointed to the state trade commission.",
+        "options": {
+          "A": "formed",
+          "B": "former",
+          "C": "formalize",
+          "D": "formality"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. former</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ chỉ chức danh <code>director</code> để chỉ người giữ chức vụ này trong quá khứ → chọn tính từ thích hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">former</strong> (cựu/trước đây).<br><br><strong>Dịch câu:</strong><br><em>Bà Yamada, cựu giám đốc Phòng Thương mại Midlands, gần đây đã được bổ nhiệm vào ủy ban thương mại tiểu bang.</em>"
+      },
+      {
+        "question": "The software uses computer memory efficiently, allowing users to open ______ five files simultaneously.",
+        "options": {
+          "A": "far from",
+          "B": "as for",
+          "C": "up to",
+          "D": "out of"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. up to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ chỉ số lượng tối đa cho phép đi kèm con số <code>five files</code> → chọn cụm từ chỉ giới hạn trên.<br>- Chọn cụm từ <strong class=\"hl-vocab\">up to</strong> (lên tới/tối đa).<br><br><strong>Dịch câu:</strong><br><em>Phần mềm sử dụng bộ nhớ máy tính một cách hiệu quả, cho phép người dùng mở tối đa năm tệp cùng một lúc.</em>"
+      },
+      {
+        "question": "A monthly newsletter is an excellent way to ______ your group's activities and events.",
+        "options": {
+          "A": "realize",
+          "B": "propose",
+          "C": "observe",
+          "D": "promote"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. promote</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau <code>to</code> chỉ mục đích hành động đối với các hoạt động nhóm nhằm quảng bá hình ảnh rộng rãi → chọn động từ phù hợp nghĩa.<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">promote</strong> (quảng bá/thúc đẩy).<br><br><strong>Dịch câu:</strong><br><em>Bản tin hàng tháng là một cách tuyệt vời để quảng bá các hoạt động và sự kiện của nhóm bạn.</em>"
+      },
+      {
+        "question": "______ the hotel does not have a restaurant on site, there are many dining options nearby.",
+        "options": {
+          "A": "While",
+          "B": "Such as",
+          "C": "Unless",
+          "D": "Without"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. While</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ sự tương phản nhượng bộ đứng ở đầu câu (mặc dù khách sạn không có nhà hàng tại chỗ nhưng xung quanh có nhiều quán ăn) → chọn liên từ phù hợp.<br>- Chọn liên từ <strong class=\"hl-vocab\">While</strong> (mặc dù/trong khi).<br><br><strong>Dịch câu:</strong><br><em>Mặc dù khách sạn không có nhà hàng trong khuôn viên, nhưng có nhiều lựa chọn ăn uống gần đó.</em>"
+      },
+      {
+        "question": "______ a slight decline in revenue from the previous quarter, Blakely Components is moving forward with its expansion plan.",
+        "options": {
+          "A": "Aside",
+          "B": "Despite",
+          "C": "Becoming",
+          "D": "Often"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. Despite</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ chỉ sự nhượng bộ <code>a slight decline in revenue</code> → cần giới từ mang nghĩa bất chấp/mặc dù.<br>- Chọn giới từ <strong class=\"hl-vocab\">Despite</strong> (bất chấp/mặc dù).<br><br><strong>Dịch câu:</strong><br><em>Bất chấp doanh thu giảm nhẹ so với quý trước, Blakely Components vẫn đang tiến hành kế hoạch mở rộng của mình.</em>"
+      },
+      {
+        "question": "Abelia Dairy Company has undergone several changes in leadership ______ the past ten years.",
+        "options": {
+          "A": "over",
+          "B": "into",
+          "C": "since",
+          "D": "beside"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. over</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với khoảng thời gian để chỉ tiến trình xảy ra liên tục trong suốt thời gian đó: <code>over the past ten years</code> (trong suốt 10 năm qua).<br>- Chọn giới từ <strong class=\"hl-vocab\">over</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty sữa Abelia đã trải qua một số thay đổi trong ban lãnh đạo trong suốt mười năm qua.</em>"
+      },
+      {
+        "question": "Opal City's Community Theater is holding ______ for its spring production during the first week of December.",
+        "options": {
+          "A": "to audition",
+          "B": "auditioned",
+          "C": "auditions",
+          "D": "audition"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. auditions</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ chỉ hoạt động tổ chức <code>holding</code> đóng vai trò làm danh từ tân ngữ số nhiều để chỉ nhiều buổi thử vai → cụm từ: <code>hold auditions</code> (tổ chức các buổi thử vai).<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">auditions</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhà hát Cộng đồng của Thành phố Opal đang tổ chức các buổi thử vai cho vở kịch mùa xuân của mình trong tuần đầu tiên của tháng Chạp.</em>"
+      },
+      {
+        "question": "Mr. Kane said he packed so ______ this morning that he forgot to bring a suit and tie for tomorrow's dinner.",
+        "options": {
+          "A": "enormously",
+          "B": "briefly",
+          "C": "hastily",
+          "D": "mysteriously"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. hastily</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ thường <code>packed</code> chỉ hành động thu dọn đồ đạc quá vội vã dẫn tới bỏ quên quần áo → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">hastily</strong> (vội vã/hấp tấp).<br><br><strong>Dịch câu:</strong><br><em>Ông Kane cho biết sáng nay ông thu dọn đồ đạc vội vã đến mức quên mang theo bộ vest và cà vạt cho bữa tối ngày mai.</em>"
+      },
+      {
+        "question": "Long before the training program began, Ms. Morris ______ the schedule to allow her team to attend.",
+        "options": {
+          "A": "was revised",
+          "B": "is revising",
+          "C": "had revised",
+          "D": "has to revise"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. had revised</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả một hành động đã hoàn thành trước một thời điểm hoặc một hành động khác trong quá khứ (long before it began) → chia động từ ở thì quá khứ hoàn thành.<br>- Chọn dạng quá khứ hoàn thành chủ động <strong class=\"hl-vocab\">had revised</strong> (đã sửa đổi trước đó).<br><br><strong>Dịch câu:</strong><br><em>Lâu trước khi chương trình đào tạo bắt đầu, cô Morris đã sửa đổi lịch trình để cho phép nhóm của mình tham dự.</em>"
+      },
+      {
+        "question": "Mr. Swan will return to the planning meeting ______ the interns have arrived.",
+        "options": {
+          "A": "once",
+          "B": "unlike",
           "C": "whereas",
-          "D": "even though"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. even though</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ sự đối lập giữa lý do đắt hơn nhưng vẫn thuê thầu xây dựng → chọn liên từ chỉ sự nhượng bộ.<br>- Chọn liên từ <strong class=\"hl-vocab\">even though</strong> (mặc dù).<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đã thuê Công ty Xây dựng Okafor để tiến hành cải tạo mặc dù họ không phải là bên đấu thầu có giá thấp nhất cho dự án.</em>"
-      },
-      {
-        "question": "The first ______ of the training will introduce staff to certain workplace responsibilities.",
-        "options": {
-          "A": "part",
-          "B": "parted",
-          "C": "parting",
-          "D": "partial"
+          "D": "regarding"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. part</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ và tính từ số thứ tự <code>The first</code> làm chủ ngữ cho động từ <code>will introduce</code> → cần danh từ số ít.<br>- Chọn danh từ <strong class=\"hl-vocab\">part</strong> (phần/giai đoạn).<br><br><strong>Dịch câu:</strong><br><em>Phần đầu tiên của buổi đào tạo sẽ giới thiệu cho nhân viên về một số trách nhiệm nhất định tại nơi làm việc.</em>"
-      },
-      {
-        "question": "According to industry ______, Ghira Company plans to relocate its headquarters to Australia.",
-        "options": {
-          "A": "reported",
-          "B": "reportedly",
-          "C": "reporter",
-          "D": "reports"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. reports</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ ghép chỉ các nguồn tin báo chí ngành công nghiệp: <code>industry reports</code> (báo cáo ngành).<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">reports</strong>.<br><br><strong>Dịch câu:</strong><br><em>Theo các báo cáo trong ngành, Công ty Ghira có kế hoạch chuyển trụ sở chính sang Úc.</em>"
-      },
-      {
-        "question": "Next month, the Kneath House will host an exhibition of ______ furniture and clothing from the eighteenth century.",
-        "options": {
-          "A": "authentic",
-          "B": "authentically",
-          "C": "authenticate",
-          "D": "authenticity"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. authentic</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ <code>furniture and clothing</code> → cần tính từ bổ nghĩa chỉ hàng chính gốc cổ xưa.<br>- Chọn tính từ <strong class=\"hl-vocab\">authentic</strong> (chân thực, đích thực/nguyên bản).<br><br><strong>Dịch câu:</strong><br><em>Tháng tới, Kneath House sẽ tổ chức một cuộc triển lãm đồ nội thất và trang phục nguyên bản từ thế kỷ thứ mười tám.</em>"
-      },
-      {
-        "question": "PKTM's regional managers serve ______ the direction of the vice president.",
-        "options": {
-          "A": "among",
-          "B": "under",
-          "C": "behind",
-          "D": "opposite"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. under</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ cố định chỉ sự làm việc dưới sự chỉ đạo của cấp trên: <code>serve under the direction of someone</code> (làm việc dưới sự chỉ đạo của ai).<br>- Chọn giới từ <strong class=\"hl-vocab\">under</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các giám đốc khu vực của PKTM làm việc dưới sự chỉ đạo của phó chủ tịch.</em>"
-      },
-      {
-        "question": "______ a recent surge in demand, Vanita's Catering is hiring four additional servers.",
-        "options": {
-          "A": "Everywhere",
-          "B": "Possibly",
-          "C": "In total",
-          "D": "Owing to"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. Owing to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng ở đầu câu trước cụm danh từ chỉ lý do đưa đến việc tuyển dụng thêm nhân viên phục vụ → cần giới từ chỉ nguyên nhân.<br>- Chọn cụm giới từ <strong class=\"hl-vocab\">Owing to</strong> (bởi vì/do).<br><br><strong>Dịch câu:</strong><br><em>Do nhu cầu tăng đột biến gần đây, dịch vụ ăn uống của Vanita đang tuyển thêm bốn người phục vụ.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. once</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ chỉ điều kiện thời gian khi một việc vừa hoàn thành xong thì việc sau diễn ra ngay: <code>once + mệnh đề hoàn thành/hiện tại</code> (một khi/ngay sau khi).<br>- Chọn liên từ <strong class=\"hl-vocab\">once</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Swan sẽ quay lại cuộc họp lập kế hoạch ngay sau khi các thực tập sinh đến đông đủ.</em>"
       }
     ]
   },
@@ -2021,334 +2021,334 @@ const toeicTestsData = [
     "title": "ETS 2026 - TEST 04",
     "questions": [
       {
-        "question": "Mr. Barrientos has worked at the company ______ six years.",
+        "question": "Ms. Chiu recently announced that ______ is planning to retire in September.",
         "options": {
-          "A": "for",
-          "B": "since",
-          "C": "with",
-          "D": "lately"
+          "A": "her",
+          "B": "hers",
+          "C": "herself",
+          "D": "she"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. for</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi với khoảng thời gian <code>six years</code> để chỉ độ dài của thời gian hành động diễn ra trong thì hiện tại hoàn thành → chọn giới từ <strong class=\"hl-vocab\">for</strong> (trong khoảng).<br>- Giới từ <code>since</code> đi với mốc thời gian (như since 2020).<br><br><strong>Dịch câu:</strong><br><em>Ông Barrientos đã làm việc tại công ty được sáu năm.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. she</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm chủ ngữ cho mệnh đề phụ đứng trước động từ chia ở số ít <code>is planning</code> → cần đại từ nhân xưng chủ ngữ thay cho Ms. Chiu.<br>- Chọn đại từ chủ ngữ <strong class=\"hl-vocab\">she</strong> (cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Bà Chiu gần đây đã thông báo rằng bà dự định nghỉ hưu vào tháng Chín.</em>"
       },
       {
-        "question": "The staff cafeteria stops ______ lunch at 2:00 P.M.",
+        "question": "Mr. Kashnitz will interview the applicants ______ the holiday.",
         "options": {
-          "A": "taking",
-          "B": "buying",
-          "C": "serving",
-          "D": "working"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. serving</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chọn động từ phù hợp ngữ cảnh nhà ăn nhân viên dừng phục vụ bữa trưa → chọn động từ V-ing <strong class=\"hl-vocab\">serving</strong> (phục vụ).<br><br><strong>Dịch câu:</strong><br><em>Nhà ăn của nhân viên dừng phục vụ bữa trưa lúc 2:00 chiều.</em>"
-      },
-      {
-        "question": "The annual report will be ready after ______ make the necessary revisions.",
-        "options": {
-          "A": "I",
-          "B": "me",
-          "C": "myself",
-          "D": "my"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. I</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chia ở dạng nguyên mẫu <code>make</code> và sau liên từ <code>after</code> → cần đại từ nhân xưng làm chủ ngữ cho mệnh đề phụ.<br>- Chọn đại từ chủ ngữ <strong class=\"hl-vocab\">I</strong> (tôi).<br><br><strong>Dịch câu:</strong><br><em>Báo cáo thường niên sẽ sẵn sàng sau khi tôi thực hiện các chỉnh sửa cần thiết.</em>"
-      },
-      {
-        "question": "Mr. Louden was offered a full-time position at Fortelio Corporation ______ a division manager.",
-        "options": {
-          "A": "about",
-          "B": "as",
-          "C": "after",
-          "D": "around"
+          "A": "above",
+          "B": "before",
+          "C": "among",
+          "D": "along"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. as</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ chỉ chức vụ/vị trí công việc <code>a division manager</code> → cần giới từ chỉ vai trò.<br>- Chọn giới từ <strong class=\"hl-vocab\">as</strong> (với tư cách là/như là).<br><br><strong>Dịch câu:</strong><br><em>Ông Louden được mời làm việc toàn thời gian tại Tập đoàn Fortelio với tư cách là quản lý bộ phận.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. before</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với danh từ chỉ mốc thời gian ngày lễ để chỉ việc diễn ra trước mốc đó → chọn giới từ thời gian phù hợp.<br>- Chọn giới từ <strong class=\"hl-vocab\">before</strong> (trước/trước khi).<br><br><strong>Dịch câu:</strong><br><em>Ông Kashnitz sẽ phỏng vấn các ứng viên trước ngày nghỉ lễ.</em>"
       },
       {
-        "question": "Kennedy Sports will ______ its end-of-season sale through the month of January.",
+        "question": "The real estate agent may ______ a buyer with a neighborhood analysis upon request.",
         "options": {
-          "A": "continuing",
-          "B": "continued",
-          "C": "continues",
-          "D": "continue"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. continue</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trợ động từ khuyết thiếu <code>will</code> → cần động từ nguyên mẫu (V_bare).<br>- Chọn động từ <strong class=\"hl-vocab\">continue</strong> (tiếp tục).<br><br><strong>Dịch câu:</strong><br><em>Kennedy Sports will tiếp tục đợt giảm giá cuối mùa trong suốt tháng Giêng.</em>"
-      },
-      {
-        "question": "Ms. Najjar is going to give a presentation ______ workplace regulations at noon.",
-        "options": {
-          "A": "near",
-          "B": "to",
-          "C": "past",
-          "D": "on"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. on</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi sau danh từ <code>presentation</code> để chỉ chủ đề của bài thuyết trình: <code>presentation on/about something</code> (bài thuyết trình về cái gì).<br>- Chọn giới từ <strong class=\"hl-vocab\">on</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bà Najjar sẽ có bài thuyết trình về các quy định tại nơi làm việc vào buổi trưa.</em>"
-      },
-      {
-        "question": "Mr. Telguld submitted the ______ surveys before the monthly board meeting.",
-        "options": {
-          "A": "complete",
-          "B": "completion",
-          "C": "completing",
-          "D": "completed"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. completed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>surveys</code> → cần phân từ làm tính từ bổ nghĩa chỉ các bản khảo sát đã hoàn tất.<br>- Chọn quá khứ phân từ <strong class=\"hl-vocab\">completed</strong> (đã hoàn thành).<br><br><strong>Dịch câu:</strong><br><em>Ông Telguld đã nộp các bản khảo sát đã hoàn thành trước cuộc họp hội đồng quản trị hàng tháng.</em>"
-      },
-      {
-        "question": "Travel funds are available to student presenters coming to the conference from a significant ______.",
-        "options": {
-          "A": "location",
-          "B": "amount",
-          "C": "reason",
-          "D": "distance"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. distance</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho tính từ <code>significant</code> để chỉ khoảng cách địa lý xa xôi cần hỗ trợ kinh phí đi lại → cụm từ: <code>from a significant distance</code> (từ một khoảng cách đáng kể/ở xa).<br>- Chọn danh từ <strong class=\"hl-vocab\">distance</strong> (khoảng cách).<br><br><strong>Dịch câu:</strong><br><em>Kinh phí đi lại có sẵn cho các sinh viên thuyết trình đến tham dự hội nghị từ một khoảng cách đáng kể (ở xa).</em>"
-      },
-      {
-        "question": "Ms. Okada is ______ a new social media campaign at the request of our office manager.",
-        "options": {
-          "A": "organize",
-          "B": "organized",
-          "C": "organizing",
-          "D": "organization"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. organizing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ tobe <code>is</code> tạo thành thì hiện tại tiếp diễn chỉ hành động đang diễn ra → chọn V-ing.<br>- Chọn động từ <strong class=\"hl-vocab\">organizing</strong> (tổ chức/thiết lập).<br><br><strong>Dịch câu:</strong><br><em>Cô Okada đang thiết lập một chiến dịch truyền thông xã hội mới theo yêu cầu của quản lý văn phòng của chúng tôi.</em>"
-      },
-      {
-        "question": "The speaker will offer five tips for making wise purchasing ______.",
-        "options": {
-          "A": "items",
-          "B": "decisions",
-          "C": "values",
-          "D": "remedies"
+          "A": "providing",
+          "B": "provide",
+          "C": "provided",
+          "D": "provides"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. decisions</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm danh từ ghép chỉ việc đưa ra các quyết định mua sắm: <code>purchasing decisions</code>. Cụm động từ: <code>make decisions</code> (đưa ra quyết định).<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">decisions</strong>.<br><br><strong>Dịch câu:</strong><br><em>Diễn giả sẽ đưa ra năm lời khuyên để đưa ra những quyết định mua sắm khôn ngoan.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. provide</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu <code>may</code> → cần động từ nguyên mẫu (V_bare). Cấu trúc: <code>provide someone with something</code> (cung cấp cho ai cái gì).<br>- Chọn động từ <strong class=\"hl-vocab\">provide</strong>.<br><br><strong>Dịch câu:</strong><br><em>Đại lý bất động sản có thể cung cấp cho người mua bản phân tích khu lân cận theo yêu cầu.</em>"
       },
       {
-        "question": "Please log on to your online checking account ______ the next 30 days in order to keep it active.",
+        "question": "The city's development committee is looking for a ______ to plant a community garden.",
         "options": {
-          "A": "within",
-          "B": "how",
-          "C": "whether",
-          "D": "and"
+          "A": "flower",
+          "B": "topic",
+          "C": "location",
+          "D": "show"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. within</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với khoảng thời gian để chỉ giới hạn trong vòng bao lâu: <code>within + khoảng thời gian</code> (trong vòng).<br>- Chọn giới từ <strong class=\"hl-vocab\">within</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng đăng nhập vào tài khoản thanh toán trực tuyến của bạn trong vòng 30 ngày tới để duy trì hoạt động của tài khoản.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. location</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> làm danh từ tân ngữ chỉ mặt bằng/vị trí địa lý phù hợp để làm vườn → chọn danh từ phù hợp ngữ cảnh địa điểm.<br>- Chọn danh từ <strong class=\"hl-vocab\">location</strong> (địa điểm/vị trí).<br><br><strong>Dịch câu:</strong><br><em>Ủy ban phát triển của thành phố đang tìm kiếm một địa điểm thích hợp để trồng một khu vườn cộng đồng.</em>"
       },
       {
-        "question": "The Bradyville Inn ______ live jazz music in the dining area on Friday evenings.",
+        "question": "We hope our customer service team has answered your questions in a ______ manner.",
         "options": {
-          "A": "features",
-          "B": "marks",
-          "C": "sounds",
-          "D": "collectives"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. features</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chọn động từ chính chia số ít ở hiện tại đơn phù hợp ngữ cảnh của khách sạn có điểm nổi bật/chương trình đặc sắc là nhạc jazz → chọn <strong class=\"hl-vocab\">features</strong> (có điểm đặc sắc là/trình diễn chính).<br><br><strong>Dịch câu:</strong><br><em>Khách sạn Bradyville Inn trình diễn nhạc jazz trực tiếp tại khu vực ăn uống vào các buổi tối thứ Sáu.</em>"
-      },
-      {
-        "question": "Leeann's Organic Fruit Spreads can be purchased ______ from the company's Web site.",
-        "options": {
-          "A": "direction",
-          "B": "directly",
-          "C": "directness",
-          "D": "directed"
+          "A": "satisfy",
+          "B": "satisfactory",
+          "C": "satisfaction",
+          "D": "satisfactorily"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. directly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ thường ở dạng bị động <code>be purchased</code> → cần trạng từ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">directly</strong> (trực tiếp).<br><br><strong>Dịch câu:</strong><br><em>Sản phẩm mứt trái cây hữu cơ của Leeann có thể được mua trực tiếp từ trang web của công ty.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. satisfactory</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>manner</code> (cách thức/phong cách) và sau mạo từ <code>a</code> → cần tính từ bổ nghĩa.<br>- Chọn tính từ <strong class=\"hl-vocab\">satisfactory</strong> (thỏa đáng/hài lòng). Cụm từ: <code>in a satisfactory manner</code> (theo cách thức thỏa đáng).<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi hy vọng đội ngũ dịch vụ khách hàng của chúng tôi đã trả lời các câu hỏi của bạn một cách thỏa đáng.</em>"
       },
       {
-        "question": "______ the event organizers' best efforts, they have been unable to attract enough volunteers this spring.",
+        "question": "Mr. Hanley expressed interest in the position ______ held by Ms. Akello.",
         "options": {
-          "A": "Behind",
-          "B": "Versus",
-          "C": "Among",
-          "D": "Despite"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. Despite</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng ở đầu câu trước cụm danh từ chỉ sự nhượng bộ, tương phản giữa nỗ lực và kết quả → cần giới từ mang nghĩa mặc dù.<br>- Chọn giới từ <strong class=\"hl-vocab\">Despite</strong> (mặc dù/bất chấp). Do sau chỗ trống là cụm danh từ <code>the event organizers' best efforts</code> nên không chọn liên từ như although/even though.<br><br><strong>Dịch câu:</strong><br><em>Mặc dù có những nỗ lực tốt nhất của những người tổ chức sự kiện, họ đã không thể thu hút đủ tình nguyện viên trong mùa xuân này.</em>"
-      },
-      {
-        "question": "Mr. Perez ______ as an industrial engineer at Gaberly Logistics for almost twenty years.",
-        "options": {
-          "A": "employs",
-          "B": "to be employed",
-          "C": "is employing",
-          "D": "has been employed"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. has been employed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Câu có trạng ngữ chỉ thời gian kéo dài <code>for almost twenty years</code> làm việc bị động được thuê → chia động từ ở thì hiện tại hoàn thành bị động.<br>- Chọn dạng bị động hoàn thành <strong class=\"hl-vocab\">has been employed</strong> (đã được thuê làm việc/đã làm việc).<br><br><strong>Dịch câu:</strong><br><em>Ông Perez đã làm việc như một kỹ sư công nghiệp tại Gaberly Logistics trong gần hai mươi năm.</em>"
-      },
-      {
-        "question": "Soon after Ms. Manilla was hired, the sales department's productivity began to increase ______.",
-        "options": {
-          "A": "mainly",
-          "B": "respectively",
-          "C": "noticeably",
-          "D": "closely"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. noticeably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng ở cuối câu và bổ nghĩa cho động từ thường <code>increase</code> chỉ mức độ tăng lên rõ rệt → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">noticeably</strong> (một cách rõ rệt/đáng chú ý).<br><br><strong>Dịch câu:</strong><br><em>Ngay sau khi bà Manilla được thuê, năng suất của bộ phận bán hàng bắt đầu tăng lên một cách rõ rệt.</em>"
-      },
-      {
-        "question": "Small businesses ______ participate in the Get Ahead program will receive marketing tools to help them attract customers.",
-        "options": {
-          "A": "that",
-          "B": "they",
-          "C": "what",
-          "D": "whoever"
+          "A": "previously",
+          "B": "slowly",
+          "C": "widely",
+          "D": "loosely"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần một đại từ quan hệ thay thế cho danh từ chỉ vật/tập thể <code>Small businesses</code> và làm chủ ngữ cho động từ <code>participate</code> ở mệnh đề quan hệ.<br>- Chọn đại từ quan hệ <strong class=\"hl-vocab\">that</strong> (hoặc which).<br><br><strong>Dịch câu:</strong><br><em>Các doanh nghiệp nhỏ tham gia chương trình Get Ahead sẽ nhận được các công cụ tiếp thị để giúp họ thu hút khách hàng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. previously</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho phân từ quá khứ <code>held</code> chỉ vị trí công việc trước đây do người khác nắm giữ → chọn trạng từ chỉ thời gian trước đây.<br>- Chọn trạng từ <strong class=\"hl-vocab\">previously</strong> (trước đây).<br><br><strong>Dịch câu:</strong><br><em>Ông Hanley bày tỏ sự quan tâm đến vị trí trước đây do bà Akello nắm giữ.</em>"
       },
       {
-        "question": "Our copy editors will review the manuscript ______ will not return it until the end of next week.",
+        "question": "Once Ms. Jeong ______ the contract, she will sign and return it to Allory Pharmaceuticals.",
         "options": {
-          "A": "or",
-          "B": "once",
-          "C": "either",
-          "D": "but"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. but</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ liên kết hai vế tương phản (sẽ soát lỗi bản thảo nhưng không trả lại ngay) → chọn liên từ chỉ sự tương phản.<br>- Chọn liên từ <strong class=\"hl-vocab\">but</strong> (nhưng).<br><br><strong>Dịch câu:</strong><br><em>Các biên tập viên bản sao của chúng tôi sẽ xem xét bản thảo nhưng sẽ không trả lại cho đến cuối tuần tới.</em>"
-      },
-      {
-        "question": "Mira Kumar was probably the ______ of all the interns at Kolbry Media last summer.",
-        "options": {
-          "A": "ambitious",
-          "B": "most ambitious",
-          "C": "ambitiously",
-          "D": "more ambitiously"
+          "A": "to receive",
+          "B": "receives",
+          "C": "was received",
+          "D": "receiving"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. most ambitious</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ xác định <code>the</code> và có trạng ngữ so sánh phạm vi <code>of all the interns</code> (trong số tất cả thực tập sinh) → dùng cấu trúc so sánh cao nhất của tính từ.<br>- Chọn tính từ so sánh nhất <strong class=\"hl-vocab\">most ambitious</strong> (tham vọng nhất/đầy hoài bão nhất).<br><br><strong>Dịch câu:</strong><br><em>Mira Kumar có lẽ là người tham vọng nhất trong số tất cả các thực tập sinh tại Kolbry Media vào mùa hè năm ngoái.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. receives</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi sau liên từ chỉ thời gian tương lai <code>Once</code>, khi mệnh đề chính chia thì tương lai đơn (she will sign...) → mệnh đề phụ chia ở hiện tại đơn chủ động phù hợp chủ ngữ số ít Ms. Jeong.<br>- Chọn động từ chia số ít <strong class=\"hl-vocab\">receives</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một khi cô Jeong nhận được hợp đồng, cô ấy sẽ ký và gửi lại cho Allory Pharmaceuticals.</em>"
       },
       {
-        "question": "Orbin's Fish Company expanded to a total of 26 stores ______ its takeover of a rival chain.",
+        "question": "Ten board members plan to attend, which is just ______ to approve the proposal.",
         "options": {
-          "A": "whenever",
-          "B": "toward",
-          "C": "following",
-          "D": "usually"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. following</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ thứ tự thời gian sau một sự kiện: <code>following + danh từ</code> = <code>after + danh từ</code> (sau khi/theo sau).<br>- Chọn giới từ <strong class=\"hl-vocab\">following</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty cá Orbin đã mở rộng lên tổng cộng 26 cửa hàng sau khi tiếp quản một chuỗi đối thủ cạnh tranh.</em>"
-      },
-      {
-        "question": "Ms. Cartwright told her team members that she wanted ______ to streamline the company's assembly process.",
-        "options": {
-          "A": "theirs",
-          "B": "they",
-          "C": "them",
-          "D": "themselves"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. them</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ mong muốn ai đó thực hiện hành động: <code>want + someone (tân ngữ) + to-V</code>.<br>- Chọn đại từ tân ngữ số nhiều <strong class=\"hl-vocab\">them</strong> (họ/họ làm việc đó).<br><br><strong>Dịch câu:</strong><br><em>Bà Cartwright nói với các thành viên trong nhóm của mình rằng bà muốn họ hợp lý hóa quy trình lắp ráp của công ty.</em>"
-      },
-      {
-        "question": "Rupert's Food Service uses ______ technology to track all of its shipments.",
-        "options": {
-          "A": "strict",
-          "B": "numerous",
-          "C": "advanced",
-          "D": "crowded"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. advanced</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho danh từ chỉ hệ thống kỹ thuật <code>technology</code> → cụm từ thông dụng: <code>advanced technology</code> (công nghệ tiên tiến/hiện đại).<br>- Chọn tính từ <strong class=\"hl-vocab\">advanced</strong>.<br><br><strong>Dịch câu:</strong><br><em>Dịch vụ thực phẩm của Rupert sử dụng công nghệ tiên tiến để theo dõi tất cả các lô hàng của mình.</em>"
-      },
-      {
-        "question": "Our app includes a ______ so that users can determine whether they are within their budget goals.",
-        "options": {
-          "A": "calculator",
-          "B": "calculated",
-          "C": "calculating",
-          "D": "calculations"
+          "A": "enough",
+          "B": "several",
+          "C": "most",
+          "D": "those"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. calculator</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> làm danh từ chỉ công cụ tính toán số tiền → cần danh từ số ít chỉ vật dụng cụ.<br>- Chọn danh từ chỉ vật <strong class=\"hl-vocab\">calculator</strong> (máy tính/công cụ tính toán).<br><br><strong>Dịch câu:</strong><br><em>Ứng dụng của chúng tôi bao gồm một công cụ tính toán để người dùng có thể xác định liệu họ có nằm trong mục tiêu ngân sách của mình hay không.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. enough</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chỉ mức độ đầy đủ để làm một việc gì đó: <code>be + enough + to-V</code> (đủ để làm gì).<br>- Chọn trạng từ <strong class=\"hl-vocab\">enough</strong> (đủ).<br><br><strong>Dịch câu:</strong><br><em>Mười thành viên hội đồng quản trị có kế hoạch tham dự, số lượng này vừa đủ để phê duyệt đề xuất.</em>"
       },
       {
-        "question": "To ______ that its facilities are cleaned every day, the Selboa Company has hired more janitors.",
+        "question": "Mr. Aziz is often alone in the shop while his partner is out making a ______.",
+        "options": {
+          "A": "deliver",
+          "B": "delivery",
+          "C": "delivered",
+          "D": "delivering"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. delivery</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ <code>making</code> và mạo từ <code>a</code> đóng vai trò tân ngữ → cần danh từ.<br>- Cụm từ cố định: <code>make a delivery</code> (thực hiện giao hàng). Chọn danh từ <strong class=\"hl-vocab\">delivery</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Aziz thường ở cửa hàng một mình trong khi đối tác của ông ra ngoài giao hàng.</em>"
+      },
+      {
+        "question": "The Pacific Coast Sunset Run has been ______ to August 31 because of bad weather.",
+        "options": {
+          "A": "canceled",
+          "B": "combined",
+          "C": "rescheduled",
+          "D": "administered"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. rescheduled</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cấu trúc bị động <code>has been</code> chỉ việc dời lịch giải chạy sang ngày khác do thời tiết xấu → chọn động từ phù hợp nghĩa.<br>- Chọn phân từ hai <strong class=\"hl-vocab\">rescheduled</strong> (được đổi lịch/lên lịch lại).<br><br><strong>Dịch câu:</strong><br><em>Giải chạy Hoàng hôn Bờ biển Thái Bình Dương đã được đổi lịch sang ngày 31 tháng 8 vì thời tiết xấu.</em>"
+      },
+      {
+        "question": "Graber hair and nail growth supplements come in ______ pill and liquid form.",
+        "options": {
+          "A": "these",
+          "B": "both",
+          "C": "almost",
+          "D": "likely"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. both</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ liên kết hai đối tượng song song dạng A và B: <code>both A and B</code> (cả A và B).<br>- Chọn liên từ <strong class=\"hl-vocab\">both</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thực phẩm bổ sung hỗ trợ mọc tóc và móng của Graber có cả ở dạng viên và dạng lỏng.</em>"
+      },
+      {
+        "question": "The posters must be completed soon ______ they can be put up in advance of the gala.",
+        "options": {
+          "A": "so that",
+          "B": "despite",
+          "C": "whenever",
+          "D": "as if"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. so that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ mục đích của hành động hoàn thành áp phích sớm (để chúng có thể được dán lên trước đêm hội) → chọn liên từ mục đích.<br>- Chọn liên từ <strong class=\"hl-vocab\">so that</strong> (để/để mà).<br><br><strong>Dịch câu:</strong><br><em>Các áp phích phải được hoàn thành sớm để chúng có thể được dán lên trước sự kiện gala.</em>"
+      },
+      {
+        "question": "Mr. Olivero praised the film in his review, even though he ______ disliked its aesthetic style.",
+        "options": {
+          "A": "personal",
+          "B": "personally",
+          "C": "personals",
+          "D": "person"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. personally</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ thường <code>disliked</code> bổ nghĩa cho cảm nhận cá nhân ông ấy → cần trạng từ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">personally</strong> (về mặt cá nhân/đích thân).<br><br><strong>Dịch câu:</strong><br><em>Ông Olivero đã ca ngợi bộ phim trong bài đánh giá của mình, mặc dù cá nhân ông không thích phong cách thẩm mỹ của nó.</em>"
+      },
+      {
+        "question": "______ weeks of record-setting rain, expect only blue skies this weekend.",
+        "options": {
+          "A": "After",
+          "B": "Besides",
+          "C": "Opposite",
+          "D": "Alongside"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. after</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ thứ tự thời gian xảy ra sau chuỗi ngày mưa kéo dài kỷ lục → chọn giới từ thời gian phù hợp.<br>- Chọn giới từ <strong class=\"hl-vocab\">after</strong> (sau/sau khi).<br><br><strong>Dịch câu:</strong><br><em>Sau nhiều tuần mưa kỷ lục, hãy kỳ vọng bầu trời sẽ hoàn toàn trong xanh vào cuối tuần này.</em>"
+      },
+      {
+        "question": "The Serenica dining table comes with levelers ______ its stability on uneven surfaces.",
         "options": {
           "A": "ensure",
-          "B": "affect",
-          "C": "provide",
-          "D": "secure"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. ensure</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau <code>To</code> chỉ mục đích đi kèm mệnh đề sau từ <code>that</code> chỉ việc đảm bảo một sự việc diễn ra → cụm cấu trúc: <code>ensure that + mệnh đề</code> (đảm bảo rằng).<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">ensure</strong>.<br><br><strong>Dịch câu:</strong><br><em>Để đảm bảo rằng các cơ sở của mình được dọn dẹp hàng ngày, Công ty Selboa đã thuê thêm nhân viên dọn dẹp.</em>"
-      },
-      {
-        "question": "During his term as a legislator, Jeremy Moran ______ promoted public awareness of the need for infrastructure improvements.",
-        "options": {
-          "A": "act",
-          "B": "action",
-          "C": "active",
-          "D": "actively"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. actively</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ thường chia ở quá khứ <code>promoted</code> → cần trạng từ bổ nghĩa.<br>- Chọn trạng từ <strong class=\"hl-vocab\">actively</strong> (một cách tích cực/chủ động).<br><br><strong>Dịch câu:</strong><br><em>Trong nhiệm kỳ lập pháp của mình, Jeremy Moran đã tích cực nâng cao nhận thức của công chúng về nhu cầu cải thiện cơ sở hạ tầng.</em>"
-      },
-      {
-        "question": "Pyxie Print's business is so new that we need to explain the full range of our services to ______ clients.",
-        "options": {
-          "A": "trained",
-          "B": "potential",
-          "C": "elected",
-          "D": "paid"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. potential</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho danh từ <code>clients</code> chỉ nhóm khách hàng triển vọng trong tương lai do doanh nghiệp mới thành lập → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">potential</strong> (tiềm năng/triển vọng).<br><br><strong>Dịch câu:</strong><br><em>Hoạt động kinh doanh của Pyxie Print còn quá mới nên chúng tôi cần giải thích toàn bộ các dịch vụ của mình cho khách hàng tiềm năng.</em>"
-      },
-      {
-        "question": "Phone orders that are ______ to local stores by 11:00 A.M. are eligible for same-day pickup.",
-        "options": {
-          "A": "submitted",
-          "B": "submission",
-          "C": "submitting",
-          "D": "submits"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. submitted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trong cấu trúc bị động của mệnh đề quan hệ bổ nghĩa cho chủ ngữ vật <code>orders</code>: <code>are + V3/V_ed</code> chỉ các đơn hàng được nộp/gửi đi.<br>- Chọn phân từ hai <strong class=\"hl-vocab\">submitted</strong> (được nộp/đệ trình).<br><br><strong>Dịch câu:</strong><br><em>Các đơn đặt hàng qua điện thoại được gửi đến các cửa hàng địa phương trước 11:00 sáng sẽ đủ điều kiện để nhận hàng trong cùng ngày.</em>"
-      },
-      {
-        "question": "An Oswald Hardware associate will ______ place an order for customers who need larger quantities than what is in stock.",
-        "options": {
-          "A": "slightly",
-          "B": "wholly",
-          "C": "busily",
-          "D": "gladly"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. gladly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ bổ nghĩa cho hành động phục vụ khách hàng vui vẻ làm việc giúp đỡ → chọn trạng từ thích hợp ngữ cảnh dịch vụ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">gladly</strong> (rất vui lòng/hân hoan).<br><br><strong>Dịch câu:</strong><br><em>Một cộng tác viên của Oswald Hardware sẽ rất vui lòng đặt hàng cho những khách hàng cần số lượng lớn hơn số lượng có sẵn trong kho.</em>"
-      },
-      {
-        "question": "Mia Daushvili performed with the Bayhead Orchestra on Monday evening, ______ her virtuosic skills on the piccolo.",
-        "options": {
-          "A": "displays",
-          "B": "had displayed",
-          "C": "displaying",
-          "D": "was displayed"
+          "B": "ensures",
+          "C": "to ensure",
+          "D": "to be ensured"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. displaying</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sử dụng cấu trúc phân từ hiện tại V-ing ở mệnh đề phụ rút gọn đồng chủ ngữ chỉ hành động chủ động diễn ra đồng thời: <code>she displayed...</code> rút gọn thành <code>displaying...</code> (thể hiện/phô diễn).<br>- Chọn dạng phân từ chủ động <strong class=\"hl-vocab\">displaying</strong>.<br><br><strong>Dịch câu:</strong><br><em>Mia Daushvili đã biểu diễn cùng Dàn nhạc Bayhead vào tối thứ Hai, thể hiện kỹ năng điêu luyện của mình trên cây kèn piccolo.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. to ensure</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ công cụ <code>levelers</code> chỉ mục đích chủ động đảm bảo độ thăng bằng → cần dạng to-V chủ động.<br>- Chọn <strong class=\"hl-vocab\">to ensure</strong> (để đảm bảo).<br><br><strong>Dịch câu:</strong><br><em>Bàn ăn Serenica đi kèm với các chân cân bằng để đảm bảo độ ổn định của nó trên các bề mặt không bằng phẳng.</em>"
       },
       {
-        "question": "When reviewing applicants for the clerk position, Ms. Ng will consider both education and ______ experience.",
+        "question": "Applicants to any open position at Allcrest Engineering can expect a ______ within three business days.",
         "options": {
-          "A": "prior",
-          "B": "quick",
-          "C": "lean",
-          "D": "calm"
+          "A": "degree",
+          "B": "raise",
+          "C": "change",
+          "D": "response"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. response</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> làm tân ngữ chỉ sự phản hồi từ công ty mà ứng viên mong đợi nhận được → chọn danh từ phù hợp ngữ cảnh tuyển dụng.<br>- Chọn danh từ <strong class=\"hl-vocab\">response</strong> (sự phản hồi/trả lời).<br><br><strong>Dịch câu:</strong><br><em>Ứng viên ứng tuyển vào bất kỳ vị trí mở nào tại Allcrest Engineering có thể mong đợi nhận được phản hồi trong vòng ba ngày làm việc.</em>"
+      },
+      {
+        "question": "______ prepares the patient's medical records is required to maintain confidentiality.",
+        "options": {
+          "A": "Whoever",
+          "B": "Who",
+          "C": "Whose",
+          "D": "What"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. prior</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>experience</code> chỉ kinh nghiệm làm việc trước đây → cụm từ thông dụng: <code>prior experience</code> (kinh nghiệm có trước/kinh nghiệm làm việc trước đó).<br>- Chọn tính từ <strong class=\"hl-vocab\">prior</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khi xem xét các ứng viên cho vị trí thư ký, cô Ng sẽ xem xét cả học vấn và kinh nghiệm làm việc trước đây.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Whoever</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm đại từ quan hệ đóng vai trò chủ ngữ đại diện cho bất kỳ ai thực hiện hành động chuẩn bị hồ sơ bệnh án → chọn đại từ quan hệ phù hợp.<br>- Chọn <strong class=\"hl-vocab\">Whoever</strong> (bất cứ ai/bất kỳ người nào).<br><br><strong>Dịch câu:</strong><br><em>Bất cứ ai chuẩn bị hồ sơ bệnh án của bệnh nhân đều được yêu cầu giữ bí mật thông tin.</em>"
+      },
+      {
+        "question": "Because of the high demand for our services, our office was ______ expanded last year.",
+        "options": {
+          "A": "significantly",
+          "B": "tightly",
+          "C": "remotely",
+          "D": "identically"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. significantly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ bị động <code>was expanded</code> chỉ mức độ mở rộng quy mô văn phòng đáng kể do nhu cầu cao → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">significantly</strong> (đáng kể/nhiều).<br><br><strong>Dịch câu:</strong><br><em>Do nhu cầu cao đối với các dịch vụ của chúng tôi, văn phòng của chúng tôi đã được mở rộng đáng kể vào năm ngoái.</em>"
+      },
+      {
+        "question": "The Terry Hoig Prize for ______ architecture was awarded to Ms. Helblon on Tuesday.",
+        "options": {
+          "A": "sustain",
+          "B": "sustainable",
+          "C": "sustainer",
+          "D": "sustains"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. sustainable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>architecture</code> (kiến trúc) để chỉ phong cách thiết kế bền vững bảo vệ môi trường → cần tính từ bổ nghĩa.<br>- Chọn tính từ <strong class=\"hl-vocab\">sustainable</strong> (bền vững/thân thiện môi trường).<br><br><strong>Dịch câu:</strong><br><em>Giải thưởng Terry Hoig cho kiến trúc bền vững đã được trao cho bà Helblon vào thứ Ba.</em>"
+      },
+      {
+        "question": "We have been ______ problems with the thermostat in the western end of the warehouse.",
+        "options": {
+          "A": "experiencing",
+          "B": "regarding",
+          "C": "repurposing",
+          "D": "establishing"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. experiencing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cấu trúc hoàn thành tiếp diễn <code>have been</code> chỉ sự việc đang trải qua các sự cố hỏng hóc kỹ thuật → chọn động từ phù hợp nghĩa.<br>- Cụm từ thông dụng: <code>experience problems</code> (gặp phải các vấn đề/sự cố). Chọn động từ dạng V-ing <strong class=\"hl-vocab\">experiencing</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đã và đang gặp phải các vấn đề với bộ điều chỉnh nhiệt độ ở phía tây của kho hàng.</em>"
+      },
+      {
+        "question": "Two students from Wrisley University worked ______ on the design of the new library in Lorth Park.",
+        "options": {
+          "A": "collaborate",
+          "B": "collaborative",
+          "C": "collaboratively",
+          "D": "collaborated"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. collaboratively</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ thường quá khứ <code>worked</code> chỉ hành động cộng tác cùng nhau thực hiện dự án → cần trạng từ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">collaboratively</strong> (một cách cộng tác/hợp tác).<br><br><strong>Dịch câu:</strong><br><em>Hai sinh viên từ Đại học Wrisley đã hợp tác cùng nhau trong việc thiết kế thư viện mới ở Công viên Lorth.</em>"
+      },
+      {
+        "question": "The images displayed on our gallery's Web site may not reflect the ______ colors of the artwork for sale.",
+        "options": {
+          "A": "loyal",
+          "B": "smart",
+          "C": "close",
+          "D": "exact"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. exact</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ chỉ đặc trưng <code>colors</code> để bổ nghĩa chỉ màu sắc thực tế nguyên bản → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">exact</strong> (chính xác/đích thực).<br><br><strong>Dịch câu:</strong><br><em>Các hình ảnh hiển thị trên trang web của phòng trưng bày có thể không phản ánh màu sắc chính xác của tác phẩm nghệ thuật đang được bán.</em>"
+      },
+      {
+        "question": "At Beautyvale Cosmetics, our representatives answer customers' ______ within 24 hours of receipt.",
+        "options": {
+          "A": "inquirers",
+          "B": "inquired",
+          "C": "to inquire",
+          "D": "inquiries"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. inquiries</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ sở hữu cách <code>customers'</code> làm danh từ tân ngữ chỉ các thắc mắc/câu hỏi gửi đến đại diện dịch vụ → cần danh từ số nhiều.<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">inquiries</strong> (câu hỏi/thắc mắc).<br><br><strong>Dịch câu:</strong><br><em>Tại Beautyvale Cosmetics, đại diện của chúng tôi trả lời các thắc mắc của khách hàng trong vòng 24 giờ kể từ khi nhận được.</em>"
+      },
+      {
+        "question": "We would like to attend the retreat, but ______ we are unavailable on that date.",
+        "options": {
+          "A": "regrettably",
+          "B": "scarcely",
+          "C": "exceptionally",
+          "D": "annually"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. regrettably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng ở đầu câu làm trạng từ liên kết biểu lộ sự tiếc nuối khi không thể tham gia sự kiện → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">regrettably</strong> (đáng tiếc là).<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi rất muốn tham dự buổi dã ngoại tập thể, nhưng đáng tiếc là chúng tôi không rảnh vào ngày đó.</em>"
+      },
+      {
+        "question": "In celebration of Ms. Tseng's promotion, tea and cookies will be served ______ the meeting.",
+        "options": {
+          "A": "later",
+          "B": "as soon as",
+          "C": "following",
+          "D": "in case of"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. following</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ thứ tự thời gian xảy ra sự việc sau khi cuộc họp kết thúc: <code>following + danh từ</code> = <code>after + danh từ</code> (sau/sau khi).<br>- Chọn giới từ <strong class=\"hl-vocab\">following</strong>.<br><br><strong>Dịch câu:</strong><br><em>Để chúc mừng sự thăng chức của cô Tseng, trà và bánh quy sẽ được phục vụ sau cuộc họp.</em>"
+      },
+      {
+        "question": "Beginning next month, all employees at Sartson Analytics will have the ______ of working from home two days per week.",
+        "options": {
+          "A": "place",
+          "B": "combination",
+          "C": "range",
+          "D": "option"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. option</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chỉ quyền được lựa chọn làm gì của nhân viên: <code>have the option of doing something</code> (có quyền lựa chọn làm gì).<br>- Chọn danh từ <strong class=\"hl-vocab\">option</strong> (sự lựa chọn/quyền lựa chọn).<br><br><strong>Dịch câu:</strong><br><em>Bắt đầu từ tháng tới, tất cả nhân viên tại Sartson Analytics sẽ có quyền lựa chọn làm việc tại nhà hai ngày mỗi tuần.</em>"
+      },
+      {
+        "question": "The accounting department's new policy outlines the ______ process for the procurement of office equipment.",
+        "options": {
+          "A": "preferring",
+          "B": "preferably",
+          "C": "preferred",
+          "D": "preferability"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. preferred</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>process</code> → cần tính từ/phân từ bổ nghĩa chỉ quy trình được ưu tiên áp dụng.<br>- Chọn quá khứ phân từ làm tính từ <strong class=\"hl-vocab\">preferred</strong> (được ưa thích hơn/được ưu tiên).<br><br><strong>Dịch câu:</strong><br><em>Chính sách mới của bộ phận kế toán phác thảo quy trình được ưu tiên cho việc mua sắm thiết bị văn phòng.</em>"
+      },
+      {
+        "question": "All documents ______ to the company merger will become available to the public within one year.",
+        "options": {
+          "A": "assigning",
+          "B": "facilitating",
+          "C": "pertaining",
+          "D": "embarking"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. pertaining</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phân từ rút gọn bổ nghĩa cho danh từ chỉ tài liệu liên quan đến vụ sáp nhập đi kèm giới từ <code>to</code>: <code>documents pertaining to...</code> (các tài liệu liên quan đến...).<br>- Chọn phân từ hiện tại <strong class=\"hl-vocab\">pertaining</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả các tài liệu liên quan đến việc sáp nhập công ty sẽ được công bố rộng rãi trong vòng một năm.</em>"
+      },
+      {
+        "question": "Granta Hospital has added several pediatric nurses to its staff as part of its new ______ with the Friel School of Nursing.",
+        "options": {
+          "A": "affiliation",
+          "B": "affiliated",
+          "C": "affiliating",
+          "D": "affiliates"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. affiliation</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ bổ nghĩa <code>new</code> và tính từ sở hữu <code>its</code> → cần danh từ chỉ mối liên kết hợp tác giữa hai cơ sở giáo dục và y tế.<br>- Chọn danh từ <strong class=\"hl-vocab\">affiliation</strong> (sự liên kết/sự sáp nhập hợp tác).<br><br><strong>Dịch câu:</strong><br><em>Bệnh viện Granta đã bổ sung một số y tá nhi khoa vào đội ngũ nhân viên của mình như một phần của sự liên kết mới với Trường Điều dưỡng Friel.</em>"
+      },
+      {
+        "question": "During checkout, cashiers must be able to scan purchased items accurately ______ field questions from customers.",
+        "options": {
+          "A": "but",
+          "B": "for instance",
+          "C": "although",
+          "D": "as well as"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. as well as</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ liên kết hai hành động song song nhiệm vụ của thu ngân (scan items... và field questions...) → chọn cụm từ thích hợp.<br>- Chọn cụm liên từ <strong class=\"hl-vocab\">as well as</strong> (cũng như là).<br><br><strong>Dịch câu:</strong><br><em>Trong quá trình thanh toán, thu ngân phải có khả năng quét các mặt hàng đã mua một cách chính xác cũng như trả lời các câu hỏi từ khách hàng.</em>"
       }
     ]
   },
@@ -2357,334 +2357,334 @@ const toeicTestsData = [
     "title": "ETS 2026 - TEST 05",
     "questions": [
       {
-        "question": "After upgrading to Pro Data Whiz, our clients began ______ problems with spreadsheets.",
+        "question": "Mr. Choi, who recently joined the advisory board, is an experienced accountant ______ investor.",
         "options": {
-          "A": "has",
-          "B": "had",
-          "C": "have",
-          "D": "having"
+          "A": "but",
+          "B": "that",
+          "C": "and",
+          "D": "yet"
         },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. having</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ <code>begin</code> bắt đầu một hành động kéo dài → đi kèm động từ dạng V-ing.<br>- Chọn danh động từ <strong class=\"hl-vocab\">having</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sau khi nâng cấp lên Pro Data Whiz, các khách hàng của chúng tôi bắt đầu gặp phải các vấn đề với bảng tính.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. and</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ liên kết hai vai trò song song của ông Choi (một kế toán kinh nghiệm và là một nhà đầu tư) → chọn liên từ <strong class=\"hl-vocab\">and</strong> (và).<br><br><strong>Dịch câu:</strong><br><em>Ông Choi, người gần đây đã tham gia ban cố vấn, là một kế toán và nhà đầu tư giàu kinh nghiệm.</em>"
       },
       {
-        "question": "Requests for additional days off are ______ by Ms. Chung in Human Resources.",
+        "question": "The first 150 visitors to the new fitness park will each receive a complimentary water ______.",
         "options": {
-          "A": "approved",
-          "B": "dropped",
-          "C": "reached",
-          "D": "reminded"
+          "A": "bottle",
+          "B": "bottled",
+          "C": "bottling",
+          "D": "to bottle"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. approved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trong cấu trúc bị động chỉ các yêu cầu nghỉ phép được phê duyệt bởi trưởng bộ phận nhân sự → chọn động từ phù hợp nghĩa.<br>- Chọn phân từ hai <strong class=\"hl-vocab\">approved</strong> (được phê duyệt).<br><br><strong>Dịch câu:</strong><br><em>Các yêu cầu xin thêm ngày nghỉ sẽ được phê duyệt bởi cô Chung ở bộ phận Nhân sự.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. bottle</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ <code>water</code> tạo thành cụm danh từ kép chỉ bình nước uống thể thao: <code>water bottle</code> (bình/chai đựng nước).<br>- Chọn danh từ số ít <strong class=\"hl-vocab\">bottle</strong>.<br><br><strong>Dịch câu:</strong><br><em>150 khách tham quan đầu tiên đến công viên thể dục mới sẽ nhận được một chai đựng nước miễn phí.</em>"
       },
       {
-        "question": "The programmers have a list of changes ______ the next software update.",
+        "question": "Operating instructions for the printer will be e-mailed to employees ______.",
         "options": {
-          "A": "between",
-          "B": "of",
-          "C": "for",
-          "D": "above"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. for</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ mục đích hoặc đối tượng áp dụng cho danh sách các thay đổi: <code>changes for the update</code> (các thay đổi dành cho bản cập nhật tới).<br>- Chọn giới từ <strong class=\"hl-vocab\">for</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các lập trình viên có một danh sách các thay đổi dành cho bản cập nhật phần mềm tiếp theo.</em>"
-      },
-      {
-        "question": "Let Farida Banquet Service ______ professional catering for your important corporate events.",
-        "options": {
-          "A": "providing",
-          "B": "provide",
-          "C": "provides",
-          "D": "to provide"
+          "A": "short",
+          "B": "shortly",
+          "C": "shorter",
+          "D": "shortening"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. provide</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ để cho phép/nhờ cậy ai đó làm gì: <code>let + someone (tân ngữ) + V_bare (nguyên mẫu không chia)</code>.<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">provide</strong> (cung cấp).<br><br><strong>Dịch câu:</strong><br><em>Hãy để Dịch vụ tiệc Farida cung cấp dịch vụ ăn uống chuyên nghiệp cho các sự kiện quan trọng của doanh nghiệp bạn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. shortly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ đứng cuối câu để chỉ thời gian hành động sẽ diễn ra sớm/ngay sau đây trong tương lai đơn → chọn trạng từ thời gian.<br>- Chọn trạng từ <strong class=\"hl-vocab\">shortly</strong> (sớm/trong thời gian ngắn tới).<br><br><strong>Dịch câu:</strong><br><em>Hướng dẫn vận hành máy in sẽ được gửi email cho nhân viên trong thời gian sớm tới.</em>"
       },
       {
-        "question": "Using various innovative techniques, Boyd Industries has improved the ______ of its tiles.",
+        "question": "Dozens of ______ customers have posted positive reviews of Stellenbosch Cycle Works.",
         "options": {
-          "A": "closure",
-          "B": "product",
-          "C": "quality",
-          "D": "method"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. quality</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chọn danh từ phù hợp ngữ cảnh nâng cao chất lượng sản phẩm gạch lát lát nền → chọn <strong class=\"hl-vocab\">quality</strong> (chất lượng).<br><br><strong>Dịch câu:</strong><br><em>Bằng cách sử dụng nhiều kỹ thuật đổi mới khác nhau, Boyd Industries đã cải thiện chất lượng sản phẩm gạch lát của mình.</em>"
-      },
-      {
-        "question": "______ of all cosmetics are final, and refunds will not be given under any circumstances.",
-        "options": {
-          "A": "Sale",
-          "B": "Sales",
-          "C": "Sells",
-          "D": "Selling"
+          "A": "satisfy",
+          "B": "satisfied",
+          "C": "satisfaction",
+          "D": "satisfies"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. Sales</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đóng vai trò làm chủ ngữ số nhiều kết hợp với động từ tobe chia ở số nhiều <code>are</code> → cần danh từ số nhiều.<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">Sales</strong> (các giao dịch bán hàng). Cụm từ thông dụng: <code>sales are final</code> (hàng đã bán không được đổi trả).<br><br><strong>Dịch câu:</strong><br><em>Tất cả doanh số bán mỹ phẩm là cuối cùng, và việc hoàn tiền sẽ không được thực hiện trong bất kỳ hoàn cảnh nào.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. satisfied</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ chỉ người số nhiều <code>customers</code> → cần tính từ phân từ chỉ trạng thái hài lòng của khách hàng về dịch vụ.<br>- Chọn tính từ phân từ <strong class=\"hl-vocab\">satisfied</strong> (hài lòng).<br><br><strong>Dịch câu:</strong><br><em>Hàng tá khách hàng hài lòng đã đăng những đánh giá tích cực về Cửa hàng xe đạp Stellenbosch.</em>"
       },
       {
-        "question": "If you have already submitted your response, no ______ action is required.",
+        "question": "Ms. Lim's best-selling novel has been ______ praised.",
         "options": {
-          "A": "bright",
-          "B": "further",
-          "C": "previous",
-          "D": "average"
+          "A": "respectively",
+          "B": "tightly",
+          "C": "unhappily",
+          "D": "widely"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. further</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>action</code> chỉ hoạt động bổ sung thêm sau đó → cụm từ thông dụng: <code>no further action</code> (không cần hành động gì thêm).<br>- Chọn tính từ <strong class=\"hl-vocab\">further</strong> (thêm nữa/hơn nữa).<br><br><strong>Dịch câu:</strong><br><em>Nếu bạn đã gửi phản hồi của mình, không cần thực hiện thêm hành động nào nữa.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. widely</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa cấu trúc bị động <code>has been... praised</code> để chỉ việc cuốn sách được đón nhận ca ngợi rộng rãi bởi công chúng → chọn trạng từ chỉ phạm vi.<br>- Chọn trạng từ <strong class=\"hl-vocab\">widely</strong> (rộng rãi). Cụm từ: <code>widely praised</code> (được ca ngợi rộng rãi).<br><br><strong>Dịch câu:</strong><br><em>Cuốn tiểu thuyết bán chạy nhất của cô Lim đã được ca ngợi rộng rãi.</em>"
       },
       {
-        "question": "Ms. Sieglak stated that the app design was based on ______ own research.",
+        "question": "The marketing manager, Ms. Abyola, plans to meet with the press following ______ meeting with the vice president.",
         "options": {
-          "A": "she",
-          "B": "hers",
-          "C": "her",
+          "A": "her",
+          "B": "she",
+          "C": "hers",
           "D": "herself"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. her</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm từ nhấn mạnh sở hữu <code>own research</code> → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu ngôi ba số ít nữ <strong class=\"hl-vocab\">her</strong> (của cô ấy). Cụm từ: <code>her own research</code> (nghiên cứu của riêng cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Cô Sieglak tuyên bố rằng thiết kế ứng dụng được dựa trên nghiên cứu của riêng cô ấy.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. her</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>meeting</code> → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu ngôi ba số ít nữ <strong class=\"hl-vocab\">her</strong> (của cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị, cô Abyola, có kế hoạch gặp gỡ báo chí sau cuộc họp của cô với phó chủ tịch.</em>"
       },
       {
-        "question": "______ the organization has doubled its outreach efforts, it has yet to see an increase in new clients.",
+        "question": "Last weekend, Terriville Community Center held a ______ game night for neighborhood children.",
         "options": {
-          "A": "Until",
-          "B": "Because",
-          "C": "Although",
-          "D": "Therefore"
+          "A": "removable",
+          "B": "plentiful",
+          "C": "lively",
+          "D": "current"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. Although</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ sự tương phản nhượng bộ (nhân đôi nỗ lực tiếp cận nhưng chưa thấy số lượng khách hàng mới tăng lên) → chọn liên từ chỉ sự nhượng bộ.<br>- Chọn liên từ <strong class=\"hl-vocab\">Although</strong> (mặc dù).<br><br><strong>Dịch câu:</strong><br><em>Mặc dù tổ chức đã nỗ lực tiếp cận gấp đôi, họ vẫn chưa thấy số lượng khách hàng mới tăng lên.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. lively</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ <code>game night</code> để chỉ buổi tối vui chơi đầy sôi động náo nhiệt cho trẻ em → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">lively</strong> (sôi nổi/sinh động).<br><br><strong>Dịch câu:</strong><br><em>Cuối tuần trước, Trung tâm Cộng đồng Terriville đã tổ chức một đêm trò chơi sôi nổi cho trẻ em trong khu lân cận.</em>"
       },
       {
-        "question": "Starting on October 8, ______ board of education meetings will be streamed live on the school district's Web site.",
+        "question": "Mr. Lenthe will distribute ______ of the workshop agenda to all managers by Tuesday morning.",
         "options": {
-          "A": "all",
-          "B": "so",
-          "C": "that",
-          "D": "to"
+          "A": "copies",
+          "B": "copier",
+          "C": "copy",
+          "D": "copying"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. all</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ số nhiều làm chủ ngữ <code>meetings</code> → cần lượng từ chỉ toàn bộ số lượng.<br>- Chọn lượng từ <strong class=\"hl-vocab\">all</strong> (tất cả). Các từ khác không đi trực tiếp bổ nghĩa danh từ số nhiều phù hợp ngữ cảnh.<br><br><strong>Dịch câu:</strong><br><em>Bắt đầu từ ngày 8 tháng 10, tất cả các cuộc họp của ban giáo dục sẽ được phát trực tiếp trên trang web của học khu.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. copies</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đóng vai trò làm danh từ tân ngữ chỉ các bản sao chương trình nghị sự được phân phát → cần danh từ đếm được số nhiều.<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">copies</strong> (các bản sao).<br><br><strong>Dịch câu:</strong><br><em>Ông Lenthe sẽ phân phát các bản sao chương trình hội thảo cho tất cả các quản lý trước sáng thứ Ba.</em>"
       },
       {
-        "question": "The hairstylists at Urbanite Salon have ______ experience working with a variety of hair products.",
+        "question": "Employees are eligible for more vacation time ______ they have been employed for five years.",
         "options": {
-          "A": "considers",
-          "B": "considerable",
-          "C": "considerate",
-          "D": "considering"
+          "A": "after",
+          "B": "neither",
+          "C": "so",
+          "D": "thus"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. after</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ điều kiện thời gian khi nhân viên đủ thâm niên làm việc 5 năm mới nhận thêm ngày phép → chọn liên từ thời gian phù hợp.<br>- Chọn liên từ <strong class=\"hl-vocab\">after</strong> (sau khi).<br><br><strong>Dịch câu:</strong><br><em>Nhân viên đủ điều kiện nhận thêm thời gian nghỉ phép sau khi họ đã làm việc được năm năm.</em>"
+      },
+      {
+        "question": "Managers at Afton Accounting are urged to provide ______ feedback to employees on a regular basis.",
+        "options": {
+          "A": "construct",
+          "B": "constructor",
+          "C": "constructive",
+          "D": "construction"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. constructive</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>feedback</code> để chỉ ý kiến phản hồi mang tính xây dựng giúp tiến bộ → cần tính từ bổ nghĩa.<br>- Chọn tính từ <strong class=\"hl-vocab\">constructive</strong> (mang tính xây dựng). Cụm từ: <code>constructive feedback</code>.<br><br><strong>Dịch câu:</strong><br><em>Các quản lý tại Afton Accounting được khuyến khích cung cấp phản hồi mang tính xây dựng cho nhân viên một cách thường xuyên.</em>"
+      },
+      {
+        "question": "Many farmers markets operate on a seasonal ______ opening in spring and closing in late autumn.",
+        "options": {
+          "A": "topic",
+          "B": "basis",
+          "C": "root",
+          "D": "sum"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. considerable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ không đếm được <code>experience</code> → cần tính từ bổ nghĩa.<br>- Chọn tính từ <strong class=\"hl-vocab\">considerable</strong> (đáng kể/nhiều).<br><br><strong>Dịch câu:</strong><br><em>Các thợ làm tóc tại Urbanite Salon có nhiều kinh nghiệm làm việc với nhiều loại sản phẩm chăm sóc tóc.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. basis</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ chỉ phương thức <code>seasonal</code> tạo thành cụm giới từ chỉ cơ sở/phương thức hoạt động theo mùa → cụm từ thông dụng: <code>on a seasonal basis</code> (trên cơ sở thời vụ/theo mùa).<br>- Chọn danh từ <strong class=\"hl-vocab\">basis</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhiều chợ nông sản hoạt động theo mùa, mở cửa vào mùa xuân và đóng cửa vào cuối mùa thu.</em>"
       },
       {
-        "question": "Both candidates are ______ suitable for the assistant manager position.",
+        "question": "______ in the housing market has continued to drag down real estate profits.",
         "options": {
-          "A": "permanently",
-          "B": "promptly",
-          "C": "equally",
-          "D": "gradually"
+          "A": "Weak",
+          "B": "Weakly",
+          "C": "Weakness",
+          "D": "Weakened"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. equally</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ bổ nghĩa cho tính từ <code>suitable</code> chỉ sự tương đồng giữa hai ứng viên (both candidates) → chọn trạng từ mang tính so sánh bằng.<br>- Chọn trạng từ <strong class=\"hl-vocab\">equally</strong> (ngang nhau/như nhau).<br><br><strong>Dịch câu:</strong><br><em>Cả hai ứng viên đều phù hợp ngang nhau cho vị trí trợ lý quản lý.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. Weakness</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng đầu câu làm chủ ngữ chính cho động từ chia số ít <code>has continued</code> → cần danh từ làm chủ ngữ.<br>- Chọn danh từ <strong class=\"hl-vocab\">Weakness</strong> (sự suy yếu/yếu kém).<br><br><strong>Dịch câu:</strong><br><em>Sự suy yếu của thị trường nhà đất đã tiếp tục kéo giảm lợi nhuận bất động sản.</em>"
       },
       {
-        "question": "With the acquisition of Bloom Circuit, Wellstrom Hardware has ______ expanded its offerings and services.",
+        "question": "The sudden merger of Alvy Brothers and Craford Enterprises ______ most financial analysts.",
         "options": {
-          "A": "greater",
-          "B": "greatness",
-          "C": "great",
-          "D": "greatly"
+          "A": "enabled",
+          "B": "arranged",
+          "C": "surprised",
+          "D": "suspected"
         },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. greatly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ <code>has</code> và phân từ hai <code>expanded</code> → cần trạng từ bổ nghĩa cho hành động mở rộng.<br>- Chọn trạng từ <strong class=\"hl-vocab\">greatly</strong> (rất nhiều/đáng kể).<br><br><strong>Dịch câu:</strong><br><em>Với việc mua lại Bloom Circuit, Wellstrom Hardware đã mở rộng rất nhiều các sản phẩm và dịch vụ của mình.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. surprised</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần động từ chính làm vị ngữ chia ở thì quá khứ phù hợp ngữ nghĩa chỉ việc vụ sáp nhập đột ngột làm bất ngờ giới phân tích → chọn động từ thích hợp.<br>- Chọn động từ quá khứ <strong class=\"hl-vocab\">surprised</strong> (làm bất ngờ/kinh ngạc).<br><br><strong>Dịch câu:</strong><br><em>Vụ sáp nhập đột ngột giữa Alvy Brothers và Craford Enterprises đã làm bất ngờ hầu hết các nhà phân tích tài chính.</em>"
       },
       {
-        "question": "Please note that file names should not ______ capital letters or spaces.",
+        "question": "Of all the mistakes people make in the office, not proofreading their e-mails is one of the ______.",
         "options": {
-          "A": "differ",
-          "B": "contain",
-          "C": "match",
-          "D": "pick"
+          "A": "commoners",
+          "B": "most common",
+          "C": "in common",
+          "D": "more commonly"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. contain</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trợ động từ khuyết thiếu phủ định <code>should not</code> → cần động từ nguyên mẫu chỉ tính chất bao gồm ký tự đặc biệt → chọn động từ phù hợp.<br>- Chọn động từ <strong class=\"hl-vocab\">contain</strong> (chứa/bao gồm).<br><br><strong>Dịch câu:</strong><br><em>Vui lòng lưu ý rằng tên tệp không được chứa ký tự viết hoa hoặc khoảng trắng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. most common</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh cao nhất chỉ một trong những lỗi phổ biến nhất: <code>one of the + most + adjective</code>.<br>- Chọn dạng tính từ so sánh nhất <strong class=\"hl-vocab\">most common</strong> (phổ biến nhất).<br><br><strong>Dịch câu:</strong><br><em>Trong số tất cả những sai lầm mà mọi người mắc phải ở văn phòng, việc không soát lỗi email là một trong những lỗi phổ biến nhất.</em>"
       },
       {
-        "question": "The Sun-Tech ceiling fan has received more than 15,000 five-star reviews from ______ customers.",
+        "question": "Cayfair Global's ______ mission is to transport and deliver client goods in a timely manner.",
         "options": {
-          "A": "satisfied",
-          "B": "checked",
-          "C": "adjusted",
-          "D": "allowed"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. satisfied</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ chỉ người <code>customers</code> → cần tính từ phân từ biểu thị trạng thái hài lòng với sản phẩm.<br>- Chọn tính từ phân từ <strong class=\"hl-vocab\">satisfied</strong> (hài lòng/thỏa mãn).<br><br><strong>Dịch câu:</strong><br><em>Quạt trần Sun-Tech đã nhận được hơn 15.000 đánh giá năm sao từ những khách hàng hài lòng.</em>"
-      },
-      {
-        "question": "Please ______ the Returns section of our Website if you are unhappy with any part of your order.",
-        "options": {
-          "A": "visit",
-          "B": "visits",
-          "C": "visited",
-          "D": "visiting"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. visit</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc câu mệnh lệnh lịch sự bắt đầu bằng <code>Please</code> → cần động từ nguyên mẫu không chia làm vị ngữ chính.<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">visit</strong> (ghé thăm/truy cập).<br><br><strong>Dịch câu:</strong><br><em>Vui lòng truy cập phần Trả hàng trên trang web của chúng tôi nếu bạn không hài lòng với bất kỳ phần nào của đơn hàng.</em>"
-      },
-      {
-        "question": "Ito Auto Group is offering excellent ______ on pre-owned vehicles this month.",
-        "options": {
-          "A": "trips",
-          "B": "reasons",
-          "C": "customs",
-          "D": "deals"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. deals</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho tính từ <code>excellent</code> để chỉ các ưu đãi/giao dịch giá tốt khi mua xe cũ → cụm từ thông dụng: <code>excellent deals</code> (thỏa thuận/ưu đãi mua sắm xuất sắc).<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">deals</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tập đoàn Ito Auto đang đưa ra những ưu đãi mua sắm xuất sắc cho các dòng xe đã qua sử dụng trong tháng này.</em>"
-      },
-      {
-        "question": "Product prices are influenced ______ such factors as consumer demand and retail competition.",
-        "options": {
-          "A": "by",
-          "B": "under",
-          "C": "those",
-          "D": "nearly"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. by</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc câu bị động chỉ tác nhân gây ra ảnh hưởng: <code>be influenced + by + danh từ chỉ tác nhân</code> (bị ảnh hưởng bởi).<br>- Chọn giới từ chỉ tác nhân <strong class=\"hl-vocab\">by</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giá cả sản phẩm bị ảnh hưởng bởi các yếu tố như nhu cầu của người tiêu dùng và sự cạnh tranh bán lẻ.</em>"
-      },
-      {
-        "question": "Monmouth Enterprises will be ______ prefabricated houses online starting on April 1.",
-        "options": {
-          "A": "predicting",
-          "B": "passing",
-          "C": "retaining",
-          "D": "marketing"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. marketing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trong cấu trúc tương lai tiếp diễn <code>will be + V-ing</code> chỉ hành động quảng cáo, tiếp thị, bán sản phẩm nhà lắp ghép → chọn động từ phù hợp nghĩa.<br>- Chọn động từ <strong class=\"hl-vocab\">marketing</strong> (tiếp thị/quảng bá thương mại).<br><br><strong>Dịch câu:</strong><br><em>Doanh nghiệp Monmouth sẽ tiếp thị nhà lắp ghép trực tuyến bắt đầu từ ngày 1 tháng 4.</em>"
-      },
-      {
-        "question": "All employees should familiarize ______ with the company's policies and procedures.",
-        "options": {
-          "A": "their",
-          "B": "them",
-          "C": "theirs",
-          "D": "themselves"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. themselves</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ phản thân tự làm cho bản thân quen thuộc với cái gì: <code>familiarize + đại từ phản thân + with something</code>.<br>- Chủ ngữ là <code>All employees</code> (số nhiều) → chọn đại từ phản thân số nhiều <strong class=\"hl-vocab\">themselves</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả nhân viên nên tự làm quen với các chính sách và quy trình của công ty.</em>"
-      },
-      {
-        "question": "Custom furniture orders require a 50 percent deposit ______ the time of the order.",
-        "options": {
-          "A": "as",
-          "B": "off",
-          "C": "into",
-          "D": "at"
-        },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. at</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi kèm cụm từ chỉ thời điểm cụ thể đặt hàng: <code>at the time of something</code> (tại thời điểm diễn ra cái gì).<br>- Chọn giới từ <strong class=\"hl-vocab\">at</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các đơn đặt hàng đồ nội thất theo yêu cầu yêu cầu đặt cọc 50% tại thời điểm đặt hàng.</em>"
-      },
-      {
-        "question": "We are planning a ______ for the Klemner Corporation's twentieth anniversary.",
-        "options": {
-          "A": "celebration",
-          "B": "celebrated",
-          "C": "celebrity",
-          "D": "celebrate"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. celebration</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> làm tân ngữ cho động từ <code>planning</code> → cần danh từ.<br>- Chọn danh từ chỉ buổi lễ kỷ niệm <strong class=\"hl-vocab\">celebration</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đang lên kế hoạch cho một buổi lễ kỷ niệm ngày thành lập thứ hai mươi của Tập đoàn Klemner.</em>"
-      },
-      {
-        "question": "Though she lacks political experience, Ms. Diaz has been ______ impressive in her first term as mayor.",
-        "options": {
-          "A": "quite",
-          "B": "soon",
-          "C": "ever",
-          "D": "next"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. quite</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ mức độ đứng trước và bổ nghĩa cho tính từ <code>impressive</code> → chọn trạng từ thích hợp chỉ mức độ khá/rất.<br>- Chọn trạng từ mức độ <strong class=\"hl-vocab\">quite</strong> (khá/hoàn toàn).<br><br><strong>Dịch câu:</strong><br><em>Mặc dù thiếu kinh nghiệm chính trị, cô Diaz đã làm việc khá ấn tượng trong nhiệm kỳ thị trưởng đầu tiên của mình.</em>"
-      },
-      {
-        "question": "The university library usually acquires ______ copies of best-selling books to meet students' demand.",
-        "options": {
-          "A": "multiply",
-          "B": "multiple",
-          "C": "multiples",
-          "D": "multiplicity"
+          "A": "prompt",
+          "B": "primary",
+          "C": "bright",
+          "D": "nearest"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. multiple</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ số nhiều đếm được <code>copies</code> để chỉ số lượng nhiều bản sao → cần tính từ bổ nghĩa.<br>- Chọn tính từ <strong class=\"hl-vocab\">multiple</strong> (nhiều/đa dạng).<br><br><strong>Dịch câu:</strong><br><em>Thư viện trường đại học thường mua nhiều bản sao của những cuốn sách bán chạy nhất để đáp ứng nhu cầu của sinh viên.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. primary</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>mission</code> để chỉ mục tiêu, nhiệm vụ chính của doanh nghiệp vận tải → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">primary</strong> (chính/hàng đầu). Cụm từ: <code>primary mission</code> (nhiệm vụ hàng đầu/chính).<br><br><strong>Dịch câu:</strong><br><em>Nhiệm vụ hàng đầu của Cayfair Global là vận chuyển và giao hàng hóa của khách hàng một cách kịp thời.</em>"
       },
       {
-        "question": "This year's conference tote bags were ______ donated by Etani Designs.",
+        "question": "The department supervisor is ______ for ensuring that all safety gear is stowed properly at the end of the shift.",
         "options": {
-          "A": "generous",
-          "B": "generosity",
-          "C": "generously",
-          "D": "generosities"
+          "A": "responsibilities",
+          "B": "responsibility",
+          "C": "responsibly",
+          "D": "responsible"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. responsible</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết <code>is</code> và đi kèm giới từ <code>for</code> chỉ trách nhiệm phụ trách công việc → cụm tính từ: <code>be responsible for something/doing something</code> (chịu trách nhiệm về cái gì).<br>- Chọn tính từ <strong class=\"hl-vocab\">responsible</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám sát bộ phận chịu trách nhiệm đảm bảo rằng tất cả các thiết bị an toàn được xếp gọn gàng vào cuối ca làm việc.</em>"
+      },
+      {
+        "question": "A three-year project deepened the ______, allowing it to accommodate the largest cargo ships.",
+        "options": {
+          "A": "tide",
+          "B": "boat",
+          "C": "harbor",
+          "D": "island"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. generously</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ bị động <code>were</code> và phân từ hai <code>donated</code> → cần trạng từ bổ nghĩa.<br>- Chọn trạng từ <strong class=\"hl-vocab\">generously</strong> (một cách hào phóng/rộng rãi).<br><br><strong>Dịch câu:</strong><br><em>Túi tote của hội nghị năm nay đã được quyên góp một cách hào phóng bởi Etani Designs.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. harbor</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm danh từ tân ngữ chỉ địa điểm bến cảng được nạo vét làm sâu giúp tàu hàng trọng tải lớn neo đậu → chọn danh từ phù hợp ngữ cảnh hàng hải.<br>- Chọn danh từ <strong class=\"hl-vocab\">harbor</strong> (cảng/bến cảng).<br><br><strong>Dịch câu:</strong><br><em>Một dự án kéo dài ba năm đã làm sâu thêm bến cảng, cho phép nó tiếp nhận những con tàu chở hàng lớn nhất.</em>"
       },
       {
-        "question": "We will be holding a ______ on Friday to honor the 30-year engineering career of Mr. Kuan.",
+        "question": "The experiment's initial results were ______ different from what was expected.",
         "options": {
-          "A": "record",
-          "B": "share",
-          "C": "reception",
-          "D": "place"
+          "A": "wild",
+          "B": "wildest",
+          "C": "wildly",
+          "D": "wildness"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. reception</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi với động từ <code>holding</code> để chỉ việc tổ chức một buổi tiệc chiêu đãi chào mừng/tri ân → cụm từ: <code>hold a reception</code> (tổ chức tiệc chiêu đãi).<br>- Chọn danh từ <strong class=\"hl-vocab\">reception</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi sẽ tổ chức một buổi tiệc chiêu đãi vào thứ Sáu để vinh danh sự nghiệp kỹ thuật 30 năm của ông Kuan.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. wildly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước và bổ nghĩa cho tính từ <code>different</code> để nhấn mạnh mức độ khác biệt cực kỳ lớn → cần trạng từ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">wildly</strong> (cực kỳ/hoang dã). Cụm từ: <code>wildly different</code> (khác biệt một trời một vực/khác xa).<br><br><strong>Dịch câu:</strong><br><em>Kết quả ban đầu của thí nghiệm đã khác xa so với những gì được mong đợi.</em>"
       },
       {
-        "question": "Groove Background creates soothing playlists of instrumental music, ______ classical and jazz.",
+        "question": "______ critical reviews, the movie was a great success at the box office.",
         "options": {
-          "A": "instead",
-          "B": "including",
-          "C": "in addition",
-          "D": "indeed"
+          "A": "During",
+          "B": "About",
+          "C": "Despite",
+          "D": "Over"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. Despite</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng ở đầu câu trước cụm danh từ chỉ sự nhượng bộ, tương phản giữa phản hồi phê bình và doanh thu thành công → cần giới từ mang nghĩa mặc dù.<br>- Chọn giới từ <strong class=\"hl-vocab\">Despite</strong> (mặc dù/bất chấp).<br><br><strong>Dịch câu:</strong><br><em>Bất chấp những lời phê bình gay gắt, bộ phim đã thành công lớn tại phòng vé.</em>"
+      },
+      {
+        "question": "The spray-on sealant ______ as a protective layer that keeps your tiles from getting scratched.",
+        "options": {
+          "A": "acts",
+          "B": "acting",
+          "C": "action",
+          "D": "actively"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. acts</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần động từ chính làm vị ngữ chia ở hiện tại đơn phù hợp chủ ngữ số ít <code>The spray-on sealant</code>. Cấu trúc đóng vai trò như là cái gì: <code>act as + danh từ</code>.<br>- Chọn động từ chia số ít <strong class=\"hl-vocab\">acts</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chất xịt phủ bảo vệ hoạt động như một lớp bảo vệ giúp gạch lát của bạn không bị trầy xước.</em>"
+      },
+      {
+        "question": "The contract for the renovation of the park will not be awarded ______ all bids have been submitted.",
+        "options": {
+          "A": "nor",
+          "B": "next",
+          "C": "until",
+          "D": "because"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. until</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc phủ định kết hợp liên từ chỉ thời hạn bắt đầu hành động xảy ra sau khi hoàn thành toàn bộ thủ tục nộp hồ sơ thầu: <code>not... until + mệnh đề</code> (không... cho đến khi).<br>- Chọn liên từ <strong class=\"hl-vocab\">until</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hợp đồng cải tạo công viên sẽ không được trao cho đến khi tất cả các hồ sơ thầu được nộp đầy đủ.</em>"
+      },
+      {
+        "question": "A recent study showed that substituting refined sugars with maple syrup may have some important ______ benefits.",
+        "options": {
+          "A": "only",
+          "B": "full",
+          "C": "legal",
+          "D": "health"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. health</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>benefits</code> tạo thành cụm danh từ ghép chỉ các lợi ích sức khỏe con người → cụm danh từ thông dụng: <code>health benefits</code>.<br>- Chọn danh từ <strong class=\"hl-vocab\">health</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một nghiên cứu gần đây cho thấy việc thay thế đường tinh luyện bằng xi-rô phong có thể mang lại một số lợi ích sức khỏe quan trọng.</em>"
+      },
+      {
+        "question": "Margie Fung was ______ the winners at Sternetz Institute's art competition.",
+        "options": {
+          "A": "from",
+          "B": "upon",
+          "C": "among",
+          "D": "beyond"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. among</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với danh từ số nhiều chỉ việc là một trong số những đối tượng đó: <code>among + danh từ số nhiều</code> (nằm trong số/giữa các).<br>- Chọn giới từ <strong class=\"hl-vocab\">among</strong>.<br><br><strong>Dịch câu:</strong><br><em>Margie Fung nằm trong số những người chiến thắng tại cuộc thi nghệ thuật của Viện Sternetz.</em>"
+      },
+      {
+        "question": "Posting updates too infrequently on social media can cause small businesses ______ by their customers.",
+        "options": {
+          "A": "forgets",
+          "B": "to forget",
+          "C": "been forgotten",
+          "D": "to be forgotten"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. to be forgotten</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ nguyên nhân dẫn tới tác động ở thể bị động: <code>cause + tân ngữ + to be + V3/V_ed (bị động)</code>.<br>- Chọn dạng bị động nguyên mẫu <strong class=\"hl-vocab\">to be forgotten</strong> (bị lãng quên).<br><br><strong>Dịch câu:</strong><br><em>Đăng cập nhật quá ít trên mạng xã hội có thể khiến các doanh nghiệp nhỏ bị khách hàng lãng quên.</em>"
+      },
+      {
+        "question": "Ideal for conference rooms, our soundproof panels have been specially designed to ______ unwanted background noise.",
+        "options": {
+          "A": "compete",
+          "B": "absorb",
+          "C": "surpass",
+          "D": "remain"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. including</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đóng vai trò giới từ để liệt kê các thành phần ví dụ đi kèm danh từ nhạc không lời (instrumental music) → chọn <strong class=\"hl-vocab\">including</strong> (bao gồm).<br><br><strong>Dịch câu:</strong><br><em>Groove Background tạo ra các danh sách nhạc không lời êm dịu, bao gồm nhạc cổ điển và nhạc jazz.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. absorb</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau <code>to</code> chỉ mục đích chức năng hút tiếng ồn của tấm cách âm → chọn động từ phù hợp nghĩa.<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">absorb</strong> (hấp thụ/hút).<br><br><strong>Dịch câu:</strong><br><em>Lý tưởng cho phòng hội nghị, các tấm cách âm của chúng tôi đã được thiết kế đặc biệt để tiêu âm nền không mong muốn.</em>"
       },
       {
-        "question": "Members of the finance department ______ to Mr. Chua's lecture on risk avoidance.",
+        "question": "Mr. Sato will call into the meeting ______ the hotel's wireless network.",
         "options": {
-          "A": "to be invited",
-          "B": "inviting",
-          "C": "invite",
-          "D": "are invited"
+          "A": "used",
+          "B": "using",
+          "C": "use",
+          "D": "had used"
         },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. are invited</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Câu cần động từ chính làm vị ngữ chia ở dạng bị động chỉ các thành viên được mời tham gia bài giảng → chủ ngữ số nhiều <code>Members</code>.<br>- Chọn dạng bị động hiện tại đơn số nhiều <strong class=\"hl-vocab\">are invited</strong> (được mời).<br><br><strong>Dịch câu:</strong><br><em>Các thành viên của bộ phận tài chính được mời đến bài giảng của ông Chua về phòng tránh rủi ro.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. using</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phân từ hiện tại rút gọn bổ nghĩa chỉ hành động chủ động sử dụng công cụ kết nối để gọi họp → chọn V-ing.<br>- Chọn <strong class=\"hl-vocab\">using</strong> (sử dụng/bằng cách dùng).<br><br><strong>Dịch câu:</strong><br><em>Ông Sato sẽ gọi vào cuộc họp bằng cách sử dụng mạng không dây của khách sạn.</em>"
       },
       {
-        "question": "The board of trustees debated for hours ______ the revised hiring policies.",
+        "question": "Not only has Mr. Ogbu ______ worked on the project, but he has also trained Ms. Jeong to continue the work.",
         "options": {
-          "A": "during",
-          "B": "above",
-          "C": "over",
-          "D": "across"
+          "A": "accessibly",
+          "B": "diligently",
+          "C": "eventfully",
+          "D": "completely"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. diligently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chia ở phân từ <code>worked</code> chỉ thái độ làm việc chăm chỉ bền bỉ thực hiện dự án → chọn trạng từ chỉ sự chăm chỉ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">diligently</strong> (một cách chăm chỉ/cần mẫn).<br><br><strong>Dịch câu:</strong><br><em>Không chỉ ông Ogbu đã làm việc chăm chỉ trong dự án, mà ông còn đào tạo cô Jeong tiếp tục công việc.</em>"
+      },
+      {
+        "question": "Belker Auto offers a ten-year warranty for ______ who want greater peace of mind.",
+        "options": {
+          "A": "this",
+          "B": "those",
+          "C": "somebody",
+          "D": "everyone"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. those</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm đại từ quan hệ chủ ngữ chỉ người số nhiều <code>who want</code> → cụm từ thông dụng chỉ nhóm đối tượng: <code>those who + V_plural</code> (những người mà).<br>- Chọn đại từ <strong class=\"hl-vocab\">those</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hãng xe Belker Auto cung cấp chế độ bảo hành mười năm cho những ai muốn an tâm hơn.</em>"
+      },
+      {
+        "question": "After months of planning, the Lanton Bookstore school reading program will finally ______ in October.",
+        "options": {
+          "A": "observe",
+          "B": "represent",
+          "C": "commence",
+          "D": "access"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. over</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới từ đi kèm động từ tranh luận/thảo luận thảo luận về một vấn đề: <code>debate over something / on something</code> (tranh luận về cái gì).<br>- Chọn giới từ <strong class=\"hl-vocab\">over</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ban cố quản trị đã tranh luận hàng giờ liền về các chính sách tuyển dụng đã sửa đổi.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. commence</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trợ động từ khuyết thiếu và trạng từ <code>will finally</code> chỉ việc một chương trình dự án chính thức bắt đầu diễn ra → chọn động từ phù hợp nghĩa.<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">commence</strong> (bắt đầu/khởi công).<br><br><strong>Dịch câu:</strong><br><em>Sau nhiều tháng lập kế hoạch, chương trình đọc sách học đường của Nhà sách Lanton sẽ chính thức bắt đầu vào tháng Mười.</em>"
       },
       {
-        "question": "The participants closely ______ the fitness instructor's movements tend to learn the proper technique more quickly.",
+        "question": "Independent consultants can be a valuable source of ______ advice to new entrepreneurs.",
         "options": {
-          "A": "imitate",
-          "B": "imitations",
-          "C": "imitative",
-          "D": "imitating"
+          "A": "unfulfilled",
+          "B": "indefinite",
+          "C": "obedient",
+          "D": "impartial"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. imitating</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Mệnh đề quan hệ rút gọn chủ động bổ nghĩa cho chủ ngữ chính <code>The participants</code>: <code>The participants who closely imitate...</code> rút gọn thành <code>The participants closely imitating...</code> (những người tham gia bắt chước kỹ...).<br>- Chọn phân từ hiện tại <strong class=\"hl-vocab\">imitating</strong>.<br><br><strong>Dịch câu:</strong><br><em>Những người tham gia bắt chước sát sao các chuyển động của huấn luyện viên thể hình có xu hướng học kỹ thuật đúng nhanh hơn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. impartial</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>advice</code> để chỉ lời khuyên mang tính công bằng khách quan không thiên vị từ tư vấn viên độc lập → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">impartial</strong> (khách quan/không thiên vị).<br><br><strong>Dịch câu:</strong><br><em>Các tư vấn viên độc lập có thể là một nguồn cung cấp lời khuyên khách quan quý giá cho các nhà khởi nghiệp mới.</em>"
       }
     ]
   }

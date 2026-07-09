@@ -430,7 +430,9 @@ document.addEventListener('DOMContentLoaded', () => {
     submenuItems.forEach(item => {
         item.addEventListener('click', () => {
             const chId = parseInt(item.getAttribute('data-id'));
-            showChapterView(chId);
+            if (!isNaN(chId)) {
+                showChapterView(chId);
+            }
         });
     });
 
