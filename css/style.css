@@ -319,25 +319,26 @@ body.light-theme .nav-item.active {
 
 .sidebar-nav-section-title {
     font-family: var(--font-heading);
-    font-size: 0.8rem;
-    font-weight: 700;
+    font-size: 0.85rem !important;
+    font-weight: 700 !important;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    color: #94a3b8;
-    margin-top: 20px;
-    margin-bottom: 6px;
-    padding-left: 18px;
-    white-space: nowrap;
-    overflow: hidden;
-    transition: opacity var(--transition-speed);
+    color: #94a3b8 !important;
+    margin-top: 24px !important;
+    margin-bottom: 8px !important;
+    padding-left: 18px !important;
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
 }
 
 body.light-theme .sidebar-nav-section-title {
-    color: #475569;
+    color: #475569 !important;
 }
 
 .sidebar.collapsed .sidebar-nav-section-title {
-    opacity: 0;
+    display: none !important;
+    opacity: 0 !important;
 }
 
 /* Sidebar submenu for grammar topics */
