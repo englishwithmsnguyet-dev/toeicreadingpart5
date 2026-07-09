@@ -369,7 +369,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Initialize Test Contents
         const testData = toeicTestsData[currentTestIndex];
-        chapterSub.textContent = "ĐỀ THI THỬ PART 5";
+        if (testId <= 3) {
+            chapterSub.textContent = "BÀI ÔN TẬP TỔNG HỢP";
+        } else {
+            chapterSub.textContent = "LUYỆN ĐỀ ETS 2026";
+        }
         chapterTitle.textContent = testData.title;
         
         // Hide theory/homework tabs since it's a test
