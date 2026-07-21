@@ -1357,7 +1357,7 @@ const toeicTestsData = [
           "D": "among"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. after</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chọn giới từ phù hợp ngữ cảnh chỉ thời gian diễn ra phần hỏi đáp sau khi bài giảng kết thúc → cấu trúc: <code>after which + mệnh đề</code> (sau đó).<br><br><strong>Dịch câu:</strong><br><em>Bài giảng sẽ diễn ra lúc 6:00 chiều, sau đó người tham dự có thể đặt câu hỏi.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. after</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chọn giới từ phù hợp ngữ cảnh chỉ thời gian diễn ra phần hỏi đáp sau khi bài giảng kết thúc → cấu trúc: <code>after which + mệnh đề</code> (sau đó).<br><br><strong>Dịch câu:</strong><br><em>Bài giảng sẽ diễn ra lúc 6:00 chiều, sau đó người tham dự có thể đặt câu hỏi.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>across</b>: sang<br>- <b>inside</b>: bên trong<br>- <b>among</b>: giữa"
       },
       {
         "question": "The ______ antique shop in Pepper Valley will close down next month.",
@@ -1379,7 +1379,7 @@ const toeicTestsData = [
           "D": "request"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. update</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi với danh từ <code>status</code> tạo thành cụm danh từ ghép chỉ việc cập nhật tình hình dự án → cụm từ thông dụng: <code>status update</code> (cập nhật trạng thái/tình hình).<br>- Chọn danh từ <strong class=\"hl-vocab\">update</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cư dân Merryville sẽ nhận được một bản cập nhật tình hình trực tuyến về dự án xây dựng cầu đang diễn ra.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. update</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi với danh từ <code>status</code> tạo thành cụm danh từ ghép chỉ việc cập nhật tình hình dự án → cụm từ thông dụng: <code>status update</code> (cập nhật trạng thái/tình hình).<br>- Chọn danh từ <strong class=\"hl-vocab\">update</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cư dân Merryville sẽ nhận được một bản cập nhật tình hình trực tuyến về dự án xây dựng cầu đang diễn ra.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>change</b>: thay đổi<br>- <b>payment</b>: sự chi trả<br>- <b>request</b>: lời yêu cầu"
       },
       {
         "question": "As a result of ______ many years leading media organizations, Ms. Ayo was selected for the Dowel Journalism Prize.",
@@ -1390,7 +1390,7 @@ const toeicTestsData = [
           "D": "herself"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. her</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ <code>many years...</code> → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">her</strong> (của cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Nhờ nhiều năm lãnh đạo các tổ chức truyền thông của mình, bà Ayo đã được chọn cho Giải thưởng Báo chí Dowel.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. her</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ <code>many years...</code> → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">her</strong> (của cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Nhờ nhiều năm lãnh đạo các tổ chức truyền thông của mình, bà Ayo đã được chọn cho Giải thưởng Báo chí Dowel.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>she</b>: cô ấy<br>- <b>hers</b>: của cô ấy<br>- <b>herself</b>: bản thân cô ấy"
       },
       {
         "question": "To stop the ______ of computer viruses, do not open suspicious e-mails.",
@@ -1401,7 +1401,7 @@ const toeicTestsData = [
           "D": "surface"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. spread</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>the</code> và trước giới từ <code>of</code> → cần danh từ phù hợp ngữ cảnh ngăn chặn virus lây lan.<br>- Chọn danh từ <strong class=\"hl-vocab\">spread</strong> (sự lây lan/phát tán).<br><br><strong>Dịch câu:</strong><br><em>Để ngăn chặn sự lây lan của virus máy tính, không mở các email khả nghi.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. spread</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>the</code> và trước giới từ <code>of</code> → cần danh từ phù hợp ngữ cảnh ngăn chặn virus lây lan.<br>- Chọn danh từ <strong class=\"hl-vocab\">spread</strong> (sự lây lan/phát tán).<br><br><strong>Dịch câu:</strong><br><em>Để ngăn chặn sự lây lan của virus máy tính, không mở các email khả nghi.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>break</b>: phá vỡ<br>- <b>balance</b>: thăng bằng<br>- <b>surface</b>: bề mặt"
       },
       {
         "question": "The hiring manager ______ considered each applicant's résumé and qualifications.",
@@ -1412,7 +1412,7 @@ const toeicTestsData = [
           "D": "carefulness"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. carefully</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ thường chia ở quá khứ <code>considered</code> → cần trạng từ bổ nghĩa.<br>- Chọn trạng từ <strong class=\"hl-vocab\">carefully</strong> (một cách cẩn thận).<br><br><strong>Dịch câu:</strong><br><em>Trưởng bộ phận tuyển dụng đã xem xét cẩn thận sơ yếu lý lịch và trình độ chuyên môn của từng ứng viên.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. carefully</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ thường chia ở quá khứ <code>considered</code> → cần trạng từ bổ nghĩa.<br>- Chọn trạng từ <strong class=\"hl-vocab\">carefully</strong> (một cách cẩn thận).<br><br><strong>Dịch câu:</strong><br><em>Trưởng bộ phận tuyển dụng đã xem xét cẩn thận sơ yếu lý lịch và trình độ chuyên môn của từng ứng viên.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>caring</b>: quan tâm<br>- <b>careful</b>: cẩn thận<br>- <b>carefulness</b>: sự cẩn thận"
       },
       {
         "question": "In October, Mr. Sakamoto will leave for New Zealand ______ will oversee the opening of the new Auckland branch.",
@@ -1423,7 +1423,7 @@ const toeicTestsData = [
           "D": "prior to"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. and</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ nối hai mệnh đề song song cùng chủ ngữ Mr. Sakamoto (will leave... and will oversee...) → chọn liên từ liên kết.<br>- Chọn liên từ <strong class=\"hl-vocab\">and</strong> (và).<br><br><strong>Dịch câu:</strong><br><em>Vào tháng Mười, ông Sakamoto sẽ lên đường đi New Zealand và sẽ giám sát việc khai trương chi nhánh mới tại Auckland.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. and</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ nối hai mệnh đề song song cùng chủ ngữ Mr. Sakamoto (will leave... and will oversee...) → chọn liên từ liên kết.<br>- Chọn liên từ <strong class=\"hl-vocab\">and</strong> (và).<br><br><strong>Dịch câu:</strong><br><em>Vào tháng Mười, ông Sakamoto sẽ lên đường đi New Zealand và sẽ giám sát việc khai trương chi nhánh mới tại Auckland.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>because</b>: bởi vì<br>- <b>in addition</b>: ngoài ra<br>- <b>prior to</b>: trước"
       },
       {
         "question": "Tarateer Pharmaceuticals is varying its product ______ to include over-the-counter medications.",
@@ -1434,7 +1434,7 @@ const toeicTestsData = [
           "D": "line"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. line</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm danh từ ghép chỉ danh mục các dòng sản phẩm của công ty: <code>product line</code> (dòng sản phẩm).<br>- Chọn danh từ <strong class=\"hl-vocab\">line</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hãng dược phẩm Tarateer đang đa dạng hóa dòng sản phẩm của mình để bao gồm cả các loại thuốc không kê đơn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. line</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm danh từ ghép chỉ danh mục các dòng sản phẩm của công ty: <code>product line</code> (dòng sản phẩm).<br>- Chọn danh từ <strong class=\"hl-vocab\">line</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hãng dược phẩm Tarateer đang đa dạng hóa dòng sản phẩm của mình để bao gồm cả các loại thuốc không kê đơn.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>to line</b>: xếp hàng<br>- <b>lining</b>: niêm mạc<br>- <b>lined</b>: lót"
       },
       {
         "question": "Dynart, Inc., continuously ______ new ways to reduce its use of plastics.",
@@ -1445,7 +1445,7 @@ const toeicTestsData = [
           "D": "seeking"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. seeks</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần động từ chính chia ở thì hiện tại đơn phù hợp chủ ngữ ngôi thứ ba số ít <code>Dynart, Inc.</code> → chọn động từ chia số ít.<br>- Chọn động từ <strong class=\"hl-vocab\">seeks</strong> (tìm kiếm).<br><br><strong>Dịch câu:</strong><br><em>Công ty Dynart, Inc. liên tục tìm kiếm những cách thức mới để giảm thiểu việc sử dụng nhựa.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. seeks</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần động từ chính chia ở thì hiện tại đơn phù hợp chủ ngữ ngôi thứ ba số ít <code>Dynart, Inc.</code> → chọn động từ chia số ít.<br>- Chọn động từ <strong class=\"hl-vocab\">seeks</strong> (tìm kiếm).<br><br><strong>Dịch câu:</strong><br><em>Công ty Dynart, Inc. liên tục tìm kiếm những cách thức mới để giảm thiểu việc sử dụng nhựa.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>seeker</b>: người tìm kiếm<br>- <b>to seek</b>: tìm kiếm<br>- <b>seeking</b>: đang tìm kiếm"
       },
       {
         "question": "The cash registers at Pirkle Books automatically ______ the remaining inventory of books available.",
@@ -1467,7 +1467,7 @@ const toeicTestsData = [
           "D": "greatly"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. precisely</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ định vị <code>locate</code> chỉ độ chính xác cao của phần mềm → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">precisely</strong> (một cách chính xác).<br><br><strong>Dịch câu:</strong><br><em>Nhóm sản phẩm đang thiết kế phần mềm bản đồ có thể xác định chính xác vị trí khoáng sản dưới lòng đất.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. precisely</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ định vị <code>locate</code> chỉ độ chính xác cao của phần mềm → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">precisely</strong> (một cách chính xác).<br><br><strong>Dịch câu:</strong><br><em>Nhóm sản phẩm đang thiết kế phần mềm bản đồ có thể xác định chính xác vị trí khoáng sản dưới lòng đất.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>infinitely</b>: vô cùng<br>- <b>sincerely</b>: trân trọng<br>- <b>greatly</b>: rất nhiều"
       },
       {
         "question": "According to CEO Mayu Yamada, it would not be ______ responsible to expand the warehouse at this time.",
@@ -1489,7 +1489,7 @@ const toeicTestsData = [
           "D": "denial"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. certainty</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ <code>with</code> và lượng từ <code>any</code> → cần danh từ phù hợp ngữ cảnh dự đoán của nhà phân tích.<br>- Chọn danh từ <strong class=\"hl-vocab\">certainty</strong> (sự chắc chắn). Cụm từ: <code>say with certainty</code> (khẳng định chắc chắn).<br><br><strong>Dịch câu:</strong><br><em>Các nhà phân tích không thể khẳng định chắc chắn nhu cầu khu vực đối với xe tải điện sẽ như thế nào.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. certainty</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ <code>with</code> và lượng từ <code>any</code> → cần danh từ phù hợp ngữ cảnh dự đoán của nhà phân tích.<br>- Chọn danh từ <strong class=\"hl-vocab\">certainty</strong> (sự chắc chắn). Cụm từ: <code>say with certainty</code> (khẳng định chắc chắn).<br><br><strong>Dịch câu:</strong><br><em>Các nhà phân tích không thể khẳng định chắc chắn nhu cầu khu vực đối với xe tải điện sẽ như thế nào.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>justice</b>: công lý<br>- <b>excellence</b>: sự xuất sắc<br>- <b>denial</b>: phủ nhận"
       },
       {
         "question": "As part of its marketing campaign, Elegancia Dishware is ______ soliciting feedback from customers.",
@@ -1500,7 +1500,7 @@ const toeicTestsData = [
           "D": "cleanly"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. actively</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho hành động thu thập phản hồi <code>soliciting feedback</code> → chọn trạng từ chỉ sự tích cực chủ động thực hiện.<br>- Chọn trạng từ <strong class=\"hl-vocab\">actively</strong> (tích cực/chủ động).<br><br><strong>Dịch câu:</strong><br><em>Là một phần của chiến dịch tiếp thị, Elegancia Dishware đang tích cực thu thập phản hồi từ khách hàng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. actively</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho hành động thu thập phản hồi <code>soliciting feedback</code> → chọn trạng từ chỉ sự tích cực chủ động thực hiện.<br>- Chọn trạng từ <strong class=\"hl-vocab\">actively</strong> (tích cực/chủ động).<br><br><strong>Dịch câu:</strong><br><em>Là một phần của chiến dịch tiếp thị, Elegancia Dishware đang tích cực thu thập phản hồi từ khách hàng.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>lightly</b>: nhẹ nhàng<br>- <b>loyally</b>: trung thành<br>- <b>cleanly</b>: sạch sẽ"
       },
       {
         "question": "Rain gardens are intended to ______ water to prevent flooding of local roads.",
@@ -1511,7 +1511,7 @@ const toeicTestsData = [
           "D": "overwhelm"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. absorb</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chọn động từ nguyên mẫu đứng sau <code>to</code> chỉ khả năng thấm hút nước của vườn hứng mưa → chọn động từ phù hợp.<br>- Chọn động từ <strong class=\"hl-vocab\">absorb</strong> (hấp thụ/thấm hút).<br><br><strong>Dịch câu:</strong><br><em>Vườn hứng mưa được thiết kế để thấm hút nước nhằm ngăn ngừa ngập lụt các tuyến đường địa phương.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. absorb</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chọn động từ nguyên mẫu đứng sau <code>to</code> chỉ khả năng thấm hút nước của vườn hứng mưa → chọn động từ phù hợp.<br>- Chọn động từ <strong class=\"hl-vocab\">absorb</strong> (hấp thụ/thấm hút).<br><br><strong>Dịch câu:</strong><br><em>Vườn hứng mưa được thiết kế để thấm hút nước nhằm ngăn ngừa ngập lụt các tuyến đường địa phương.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>engage</b>: đính hôn<br>- <b>undergo</b>: trải qua<br>- <b>overwhelm</b>: áp đảo"
       },
       {
         "question": "Theta Industries' training program aims to increase the ______ of its manufacturing systems.",
@@ -1533,7 +1533,7 @@ const toeicTestsData = [
           "D": "apart"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. in</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới từ đi kèm danh từ chỉ vai trò trong việc gì: <code>role in doing something</code> (vai trò trong việc làm gì).<br>- Chọn giới từ <strong class=\"hl-vocab\">in</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ban giám đốc đã bỏ phiếu trao thưởng cho ông Mitrakos một khoản tiền thưởng vì vai trò của ông trong việc giành được hợp đồng quốc tế.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. in</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới từ đi kèm danh từ chỉ vai trò trong việc gì: <code>role in doing something</code> (vai trò trong việc làm gì).<br>- Chọn giới từ <strong class=\"hl-vocab\">in</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ban giám đốc đã bỏ phiếu trao thưởng cho ông Mitrakos một khoản tiền thưởng vì vai trò của ông trong việc giành được hợp đồng quốc tế.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>at</b>: tại<br>- <b>except</b>: ngoại trừ<br>- <b>apart</b>: riêng biệt"
       },
       {
         "question": "The finance director gave his approval ______ the project can move forward.",
@@ -1544,7 +1544,7 @@ const toeicTestsData = [
           "D": "so that"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. so that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ mục đích của sự phê duyệt (để dự án có thể tiến triển) → chọn liên từ mục đích.<br>- Chọn liên từ <strong class=\"hl-vocab\">so that</strong> (để/để mà).<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tài chính đã phê duyệt để dự án có thể tiến triển.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. so that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ mục đích của sự phê duyệt (để dự án có thể tiến triển) → chọn liên từ mục đích.<br>- Chọn liên từ <strong class=\"hl-vocab\">so that</strong> (để/để mà).<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tài chính đã phê duyệt để dự án có thể tiến triển.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>along</b>: dọc theo<br>- <b>furthermore</b>: hơn nữa<br>- <b>cautiously</b>: thận trọng"
       },
       {
         "question": "The newspaper article describes ways job seekers can ______ for having little workplace experience.",
@@ -1555,7 +1555,7 @@ const toeicTestsData = [
           "D": "accumulate"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. compensate</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ đi kèm giới từ <code>for</code> chỉ sự bù đắp cho điều gì: <code>compensate for something</code> (bù đắp cho cái gì).<br>- Chọn động từ <strong class=\"hl-vocab\">compensate</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bài báo trên báo mô tả những cách người tìm việc có thể bù đắp cho việc có ít kinh nghiệm làm việc.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. compensate</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ đi kèm giới từ <code>for</code> chỉ sự bù đắp cho điều gì: <code>compensate for something</code> (bù đắp cho cái gì).<br>- Chọn động từ <strong class=\"hl-vocab\">compensate</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bài báo trên báo mô tả những cách người tìm việc có thể bù đắp cho việc có ít kinh nghiệm làm việc.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>reply</b>: hồi đáp<br>- <b>capture</b>: chiếm lấy<br>- <b>accumulate</b>: tích lũy"
       },
       {
         "question": "Mr. Ellis and Ms. Barnes were both highly qualified, but ______ got the job.",
@@ -1566,7 +1566,7 @@ const toeicTestsData = [
           "D": "whoever"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. neither</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đại từ chỉ sự phủ định cả hai đối tượng được nhắc đến trước (both qualified) làm chủ ngữ → chọn đại từ phù hợp.<br>- Chọn đại từ <strong class=\"hl-vocab\">neither</strong> (không ai trong cả hai).<br><br><strong>Dịch câu:</strong><br><em>Cả ông Ellis và bà Barnes đều rất đủ năng lực, nhưng không ai trong số họ nhận được công việc.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. neither</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đại từ chỉ sự phủ định cả hai đối tượng được nhắc đến trước (both qualified) làm chủ ngữ → chọn đại từ phù hợp.<br>- Chọn đại từ <strong class=\"hl-vocab\">neither</strong> (không ai trong cả hai).<br><br><strong>Dịch câu:</strong><br><em>Cả ông Ellis và bà Barnes đều rất đủ năng lực, nhưng không ai trong số họ nhận được công việc.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>myself</b>: bản thân tôi<br>- <b>anybody</b>: bất cứ ai<br>- <b>whoever</b>: bất cứ ai"
       },
       {
         "question": "Ennis Photography purchased all new lighting equipment ______ the high cost.",
@@ -1577,7 +1577,7 @@ const toeicTestsData = [
           "D": "despite"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. despite</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ chỉ sự nhượng bộ <code>the high cost</code> → cần giới từ mang nghĩa mặc dù.<br>- Chọn giới từ <strong class=\"hl-vocab\">despite</strong> (mặc dù). Không chọn <code>even though</code> vì theo sau phải là mệnh đề.<br><br><strong>Dịch câu:</strong><br><em>Ennis Photography đã mua toàn bộ thiết bị chiếu sáng mới bất chấp chi phí cao.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. despite</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ chỉ sự nhượng bộ <code>the high cost</code> → cần giới từ mang nghĩa mặc dù.<br>- Chọn giới từ <strong class=\"hl-vocab\">despite</strong> (mặc dù). Không chọn <code>even though</code> vì theo sau phải là mệnh đề.<br><br><strong>Dịch câu:</strong><br><em>Ennis Photography đã mua toàn bộ thiết bị chiếu sáng mới bất chấp chi phí cao.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>even though</b>: mặc dù<br>- <b>however</b>: tuy nhiên<br>- <b>until</b>: cho đến khi"
       },
       {
         "question": "Marburton residents who wish to ______ a home should contact the award-winning team at Kwan Real Estate.",
@@ -1588,7 +1588,7 @@ const toeicTestsData = [
           "D": "selling"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. sell</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cấu trúc chỉ mong muốn <code>wish to</code> → cần động từ nguyên mẫu (V_bare).<br>- Chọn động từ <strong class=\"hl-vocab\">sell</strong> (bán).<br><br><strong>Dịch câu:</strong><br><em>Cư dân Marburton muốn bán nhà nên liên hệ với đội ngũ từng đoạt giải thưởng tại Kwan Real Estate.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. sell</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cấu trúc chỉ mong muốn <code>wish to</code> → cần động từ nguyên mẫu (V_bare).<br>- Chọn động từ <strong class=\"hl-vocab\">sell</strong> (bán).<br><br><strong>Dịch câu:</strong><br><em>Cư dân Marburton muốn bán nhà nên liên hệ với đội ngũ từng đoạt giải thưởng tại Kwan Real Estate.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>seller</b>: người bán<br>- <b>sold</b>: đã bán<br>- <b>selling</b>: bán"
       },
       {
         "question": "Maswa Bistro began a ______ agreement with local farmers to purchase a set amount of produce each week.",
@@ -1599,7 +1599,7 @@ const toeicTestsData = [
           "D": "concerned"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. cooperative</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>agreement</code> để chỉ thỏa thuận mang tính hợp tác cùng có lợi → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">cooperative</strong> (hợp tác). Cụm từ: <code>cooperative agreement</code> (thỏa thuận hợp tác).<br><br><strong>Dịch câu:</strong><br><em>Maswa Bistro đã bắt đầu một thỏa thuận hợp tác với các nông dân địa phương để mua một lượng nông sản nhất định mỗi tuần.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. cooperative</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>agreement</code> để chỉ thỏa thuận mang tính hợp tác cùng có lợi → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">cooperative</strong> (hợp tác). Cụm từ: <code>cooperative agreement</code> (thỏa thuận hợp tác).<br><br><strong>Dịch câu:</strong><br><em>Maswa Bistro đã bắt đầu một thỏa thuận hợp tác với các nông dân địa phương để mua một lượng nông sản nhất định mỗi tuần.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>disruptive</b>: gây rối<br>- <b>grateful</b>: tri ân<br>- <b>concerned</b>: lo âu"
       },
       {
         "question": "The City of Doyle's new downtown parking ______ have been met with opposition by residents and visitors.",
@@ -1621,7 +1621,7 @@ const toeicTestsData = [
           "D": "decidedly"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. diligently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ học tập nghiên cứu <code>studied</code> chỉ sự chăm chỉ học tập → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">diligently</strong> (một cách chăm chỉ/nỗ lực).<br><br><strong>Dịch câu:</strong><br><em>Vị trí thợ sửa ống nước yêu cầu đào tạo chuyên sâu, ngay cả đối với những người đã học tập chăm chỉ ở trường kỹ thuật.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. diligently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ học tập nghiên cứu <code>studied</code> chỉ sự chăm chỉ học tập → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">diligently</strong> (một cách chăm chỉ/nỗ lực).<br><br><strong>Dịch câu:</strong><br><em>Vị trí thợ sửa ống nước yêu cầu đào tạo chuyên sâu, ngay cả đối với những người đã học tập chăm chỉ ở trường kỹ thuật.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>scientifically</b>: một cách khoa học<br>- <b>objectively</b>: một cách khách quan<br>- <b>decidedly</b>: quả quyết"
       },
       {
         "question": "With its fixed price ______, Omega Cellular guarantees no phone bill increases for three years.",
@@ -1643,7 +1643,7 @@ const toeicTestsData = [
           "D": "dedication"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. dedication</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ <code>great</code> và giới từ <code>with</code> → cần danh từ chỉ phẩm chất làm việc cống hiến tốt.<br>- Chọn danh từ <strong class=\"hl-vocab\">dedication</strong> (sự cống hiến/tận tụy).<br><br><strong>Dịch câu:</strong><br><em>Với tư cách là giám đốc phân tích, ông Ko đã làm việc tại Lochston Ltd. với sự tận tụy lớn trong hơn hai mươi năm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. dedication</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ <code>great</code> và giới từ <code>with</code> → cần danh từ chỉ phẩm chất làm việc cống hiến tốt.<br>- Chọn danh từ <strong class=\"hl-vocab\">dedication</strong> (sự cống hiến/tận tụy).<br><br><strong>Dịch câu:</strong><br><em>Với tư cách là giám đốc phân tích, ông Ko đã làm việc tại Lochston Ltd. với sự tận tụy lớn trong hơn hai mươi năm.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>deduction</b>: khấu trừ<br>- <b>duplication</b>: sự nhân bản<br>- <b>declaration</b>: tuyên ngôn"
       },
       {
         "question": "Milltown Hospital's cafeteria serves lunch seven days a week ______ only on weekdays.",
@@ -1654,7 +1654,7 @@ const toeicTestsData = [
           "D": "rather than"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. rather than</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết chỉ sự lựa chọn thay thế thay vì chỉ làm một việc (phục vụ 7 ngày một tuần thay vì chỉ các ngày trong tuần) → chọn cụm liên từ thích hợp.<br>- Chọn cụm liên từ <strong class=\"hl-vocab\">rather than</strong> (thay vì).<br><br><strong>Dịch câu:</strong><br><em>Nhà ăn của Bệnh viện Milltown phục vụ bữa trưa bảy ngày một tuần thay vì chỉ phục vụ vào các ngày trong tuần.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. rather than</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết chỉ sự lựa chọn thay thế thay vì chỉ làm một việc (phục vụ 7 ngày một tuần thay vì chỉ các ngày trong tuần) → chọn cụm liên từ thích hợp.<br>- Chọn cụm liên từ <strong class=\"hl-vocab\">rather than</strong> (thay vì).<br><br><strong>Dịch câu:</strong><br><em>Nhà ăn của Bệnh viện Milltown phục vụ bữa trưa bảy ngày một tuần thay vì chỉ phục vụ vào các ngày trong tuần.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>up to</b>: lên đến<br>- <b>as though</b>: như thể<br>- <b>each time</b>: mỗi lần"
       },
       {
         "question": "The store's entire inventory of lumber comes from a nearby ______ supplier.",
@@ -1665,7 +1665,7 @@ const toeicTestsData = [
           "D": "commercial"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. commercial</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>supplier</code> → cần tính từ bổ nghĩa chỉ loại hình cung cấp thương mại quy mô lớn → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">commercial</strong> (thương mại).<br><br><strong>Dịch câu:</strong><br><em>Toàn bộ kho gỗ của cửa hàng đến từ một nhà cung cấp thương mại gần đó.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. commercial</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>supplier</code> → cần tính từ bổ nghĩa chỉ loại hình cung cấp thương mại quy mô lớn → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">commercial</strong> (thương mại).<br><br><strong>Dịch câu:</strong><br><em>Toàn bộ kho gỗ của cửa hàng đến từ một nhà cung cấp thương mại gần đó.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>financial</b>: tài chính<br>- <b>promotional</b>: khuyến mại<br>- <b>chemical</b>: hóa chất"
       },
       {
         "question": "For a $95 ______ fee, our mechanics will determine what repairs are needed.",
@@ -1693,7 +1693,7 @@ const toeicTestsData = [
           "D": "nor"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. and</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ liên kết hai phẩm chất ưu điểm song song của xe hơi (reliability và gas mileage) → chọn liên từ <strong class=\"hl-vocab\">and</strong> (và).<br><br><strong>Dịch câu:</strong><br><em>Chiếc sedan thể thao Amore hoàn toàn mới được thiết kế để đạt độ tin cậy tối đa và tiết kiệm xăng tối ưu.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. and</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ liên kết hai phẩm chất ưu điểm song song của xe hơi (reliability và gas mileage) → chọn liên từ <strong class=\"hl-vocab\">and</strong> (và).<br><br><strong>Dịch câu:</strong><br><em>Chiếc sedan thể thao Amore hoàn toàn mới được thiết kế để đạt độ tin cậy tối đa và tiết kiệm xăng tối ưu.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>so</b>: vì thế<br>- <b>but</b>: nhưng<br>- <b>nor</b>: cũng không"
       },
       {
         "question": "The staff was grateful for the ______ that Mr. Schuller distributed at the meeting.",
@@ -1715,7 +1715,7 @@ const toeicTestsData = [
           "D": "promptly"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. promptly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ đứng trước mốc thời gian cụ thể <code>at 2 P.M.</code> để chỉ việc diễn ra đúng giờ không chậm trễ → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">promptly</strong> (đúng giờ/ngay lập tức).<br><br><strong>Dịch câu:</strong><br><em>Cuộc họp tiếp theo của ủy ban kế hoạch sẽ được tổ chức đúng 2 giờ chiều.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. promptly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ đứng trước mốc thời gian cụ thể <code>at 2 P.M.</code> để chỉ việc diễn ra đúng giờ không chậm trễ → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">promptly</strong> (đúng giờ/ngay lập tức).<br><br><strong>Dịch câu:</strong><br><em>Cuộc họp tiếp theo của ủy ban kế hoạch sẽ được tổ chức đúng 2 giờ chiều.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>barely</b>: hầu như không<br>- <b>closely</b>: chặt chẽ<br>- <b>evenly</b>: đồng đều"
       },
       {
         "question": "Reimbursement for travel expenses will be included in ______ October 1 paycheck.",
@@ -1726,7 +1726,7 @@ const toeicTestsData = [
           "D": "yourself"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. your</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ <code>October 1 paycheck</code> (phiếu lương ngày 1 tháng 10) → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">your</strong> (của bạn).<br><br><strong>Dịch câu:</strong><br><em>Khoản hoàn trả chi phí đi lại sẽ được bao gồm trong phiếu lương ngày 1 tháng 10 của bạn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. your</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ <code>October 1 paycheck</code> (phiếu lương ngày 1 tháng 10) → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">your</strong> (của bạn).<br><br><strong>Dịch câu:</strong><br><em>Khoản hoàn trả chi phí đi lại sẽ được bao gồm trong phiếu lương ngày 1 tháng 10 của bạn.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>you</b>: bạn<br>- <b>yours</b>: của bạn<br>- <b>yourself</b>: bản thân bạn"
       },
       {
         "question": "The ______ design engineer on the drone camera project is Iseul Bae.",
@@ -1737,7 +1737,7 @@ const toeicTestsData = [
           "D": "most"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. lead</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ ghép chỉ vai trò kỹ sư trưởng: <code>______ design engineer</code> → chọn danh từ/tính từ phù hợp chỉ người dẫn đầu dự án.<br>- Chọn từ <strong class=\"hl-vocab\">lead</strong> (chính/trưởng). Cụm từ: <code>lead design engineer</code> (kỹ sư thiết kế chính).<br><br><strong>Dịch câu:</strong><br><em>Kỹ sư thiết kế chính trong dự án máy ảnh flycam là Iseul Bae.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. lead</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ ghép chỉ vai trò kỹ sư trưởng: <code>______ design engineer</code> → chọn danh từ/tính từ phù hợp chỉ người dẫn đầu dự án.<br>- Chọn từ <strong class=\"hl-vocab\">lead</strong> (chính/trưởng). Cụm từ: <code>lead design engineer</code> (kỹ sư thiết kế chính).<br><br><strong>Dịch câu:</strong><br><em>Kỹ sư thiết kế chính trong dự án máy ảnh flycam là Iseul Bae.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>each</b>: mỗi<br>- <b>front</b>: đằng trước<br>- <b>most</b>: hầu hết"
       },
       {
         "question": "After reading several reviews, Mr. Kim was able to decide which printer ______ for the office.",
@@ -1748,7 +1748,7 @@ const toeicTestsData = [
           "D": "to buy"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. to buy</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ sau đại từ nghi vấn chỉ sự lựa chọn làm tân ngữ cho động từ <code>decide</code>: <code>which + danh từ + to-V</code> (quyết định mua loại máy in nào).<br>- Chọn <strong class=\"hl-vocab\">to buy</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sau khi đọc một số bài đánh giá, ông Kim đã có thể quyết định nên mua chiếc máy in nào cho văn phòng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. to buy</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ sau đại từ nghi vấn chỉ sự lựa chọn làm tân ngữ cho động từ <code>decide</code>: <code>which + danh từ + to-V</code> (quyết định mua loại máy in nào).<br>- Chọn <strong class=\"hl-vocab\">to buy</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sau khi đọc một số bài đánh giá, ông Kim đã có thể quyết định nên mua chiếc máy in nào cho văn phòng.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>buying</b>: mua<br>- <b>had bought</b>: đã mua<br>- <b>buy</b>: mua"
       },
       {
         "question": "Please remove the boxes left in the staff lounge ______ 5 P.M.",
@@ -1759,7 +1759,7 @@ const toeicTestsData = [
           "D": "by"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. by</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với mốc thời gian chỉ giới hạn trước hoặc muộn nhất vào thời điểm đó: <code>by + mốc thời gian</code> (trước/vào lúc).<br>- Chọn giới từ <strong class=\"hl-vocab\">by</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng dọn sạch các hộp còn lại trong phòng chờ của nhân viên trước 5 giờ chiều.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. by</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với mốc thời gian chỉ giới hạn trước hoặc muộn nhất vào thời điểm đó: <code>by + mốc thời gian</code> (trước/vào lúc).<br>- Chọn giới từ <strong class=\"hl-vocab\">by</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng dọn sạch các hộp còn lại trong phòng chờ của nhân viên trước 5 giờ chiều.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>of</b>: của<br>- <b>to</b>: đến<br>- <b>as</b>: bằng"
       },
       {
         "question": "The Southport ______ plant is expected to begin production in three days.",
@@ -1781,7 +1781,7 @@ const toeicTestsData = [
           "D": "enlist"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. complete</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu <code>must</code> → cần động từ nguyên mẫu phù hợp ngữ cảnh hoàn thành các nhiệm vụ hội nhập nhân sự mới.<br>- Chọn động từ <strong class=\"hl-vocab\">complete</strong> (hoàn thành).<br><br><strong>Dịch câu:</strong><br><em>Sau khi chấp nhận lời mời làm việc, ứng viên phải hoàn thành tất cả các nhiệm vụ hội nhập trước ngày bắt đầu làm việc.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. complete</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu <code>must</code> → cần động từ nguyên mẫu phù hợp ngữ cảnh hoàn thành các nhiệm vụ hội nhập nhân sự mới.<br>- Chọn động từ <strong class=\"hl-vocab\">complete</strong> (hoàn thành).<br><br><strong>Dịch câu:</strong><br><em>Sau khi chấp nhận lời mời làm việc, ứng viên phải hoàn thành tất cả các nhiệm vụ hội nhập trước ngày bắt đầu làm việc.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>proceed</b>: tiếp tục<br>- <b>recover</b>: hồi phục<br>- <b>enlist</b>: tranh thủ"
       },
       {
         "question": "Although ______ training has just begun, Ms. Yu has already mastered the company's proprietary accounting software.",
@@ -1792,7 +1792,7 @@ const toeicTestsData = [
           "D": "herself"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. her</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>training</code> làm chủ ngữ của mệnh đề phụ → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">her</strong> (của cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Mặc dù việc đào tạo của cô ấy mới bắt đầu, cô Yu đã làm chủ được phần mềm kế toán độc quyền của công ty.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. her</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>training</code> làm chủ ngữ của mệnh đề phụ → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">her</strong> (của cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Mặc dù việc đào tạo của cô ấy mới bắt đầu, cô Yu đã làm chủ được phần mềm kế toán độc quyền của công ty.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>she</b>: cô ấy<br>- <b>hers</b>: của cô ấy<br>- <b>herself</b>: bản thân cô ấy"
       },
       {
         "question": "Ms. Clayton was ______ to find that none of her files had been lost during the power failure.",
@@ -1803,7 +1803,7 @@ const toeicTestsData = [
           "D": "absolute"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. relieved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết <code>was</code> và bổ nghĩa cho chủ ngữ chỉ người Ms. Clayton chỉ trạng thái cảm xúc nhẹ nhõm sau khi trút bỏ lo lắng mất file dữ liệu → chọn tính từ chỉ cảm xúc bị động.<br>- Chọn tính từ <strong class=\"hl-vocab\">relieved</strong> (nhẹ nhõm/an tâm).<br><br><strong>Dịch câu:</strong><br><em>Cô Clayton đã nhẹ nhõm khi thấy không có tệp nào của mình bị mất trong sự cố mất điện.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. relieved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết <code>was</code> và bổ nghĩa cho chủ ngữ chỉ người Ms. Clayton chỉ trạng thái cảm xúc nhẹ nhõm sau khi trút bỏ lo lắng mất file dữ liệu → chọn tính từ chỉ cảm xúc bị động.<br>- Chọn tính từ <strong class=\"hl-vocab\">relieved</strong> (nhẹ nhõm/an tâm).<br><br><strong>Dịch câu:</strong><br><em>Cô Clayton đã nhẹ nhõm khi thấy không có tệp nào của mình bị mất trong sự cố mất điện.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>easy</b>: dễ<br>- <b>delightful</b>: thú vị<br>- <b>absolute</b>: tuyệt đối"
       },
       {
         "question": "During Mr. Nagahori's tenure as CEO at Unten Properties, the company has grown ______.",
@@ -1825,7 +1825,7 @@ const toeicTestsData = [
           "D": "position"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. priority</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi sau tính từ <code>top</code> đóng vai trò làm danh từ bổ ngữ chỉ yếu tố quan trọng hàng đầu → cụm từ thông dụng: <code>top priority</code> (ưu tiên hàng đầu).<br>- Chọn danh từ <strong class=\"hl-vocab\">priority</strong> (sự ưu tiên).<br><br><strong>Dịch câu:</strong><br><em>An toàn phải luôn là ưu tiên hàng đầu trong từng bước của quy trình thổi thủy tinh.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. priority</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi sau tính từ <code>top</code> đóng vai trò làm danh từ bổ ngữ chỉ yếu tố quan trọng hàng đầu → cụm từ thông dụng: <code>top priority</code> (ưu tiên hàng đầu).<br>- Chọn danh từ <strong class=\"hl-vocab\">priority</strong> (sự ưu tiên).<br><br><strong>Dịch câu:</strong><br><em>An toàn phải luôn là ưu tiên hàng đầu trong từng bước của quy trình thổi thủy tinh.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>surface</b>: bề mặt<br>- <b>material</b>: vật liệu<br>- <b>position</b>: chức vụ"
       },
       {
         "question": "Central Science Museum hosts online seminars by experts who ______ topics related to information technology.",
@@ -1836,7 +1836,7 @@ const toeicTestsData = [
           "D": "cover"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. cover</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần động từ chính làm vị ngữ cho đại từ quan hệ chủ ngữ số nhiều <code>who</code> (thay thế cho danh từ <code>experts</code>) chia ở hiện tại đơn chủ động → chọn động từ nguyên mẫu không chia.<br>- Chọn động từ <strong class=\"hl-vocab\">cover</strong> (bao quát/đề cập đến).<br><br><strong>Dịch câu:</strong><br><em>Bảo tàng Khoa học Trung ương tổ chức các hội thảo trực tuyến bởi các chuyên gia đề cập đến các chủ đề liên quan đến công nghệ thông tin.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. cover</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần động từ chính làm vị ngữ cho đại từ quan hệ chủ ngữ số nhiều <code>who</code> (thay thế cho danh từ <code>experts</code>) chia ở hiện tại đơn chủ động → chọn động từ nguyên mẫu không chia.<br>- Chọn động từ <strong class=\"hl-vocab\">cover</strong> (bao quát/đề cập đến).<br><br><strong>Dịch câu:</strong><br><em>Bảo tàng Khoa học Trung ương tổ chức các hội thảo trực tuyến bởi các chuyên gia đề cập đến các chủ đề liên quan đến công nghệ thông tin.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>are covered</b>: được bảo hiểm<br>- <b>covering</b>: che phủ<br>- <b>to cover</b>: che đậy"
       },
       {
         "question": "Conradia Computers ______ changed the direction of its marketing strategy last week.",
@@ -1847,7 +1847,7 @@ const toeicTestsData = [
           "D": "frequently"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. abruptly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ thường <code>changed</code> chỉ tính chất thay đổi đột ngột nhanh chóng → chọn trạng từ phù hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">abruptly</strong> (đột ngột/bất ngờ).<br><br><strong>Dịch câu:</strong><br><em>Conradia Computers đã đột ngột thay đổi hướng đi của chiến lược tiếp thị vào tuần trước.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. abruptly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ thường <code>changed</code> chỉ tính chất thay đổi đột ngột nhanh chóng → chọn trạng từ phù hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">abruptly</strong> (đột ngột/bất ngờ).<br><br><strong>Dịch câu:</strong><br><em>Conradia Computers đã đột ngột thay đổi hướng đi của chiến lược tiếp thị vào tuần trước.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>thickly</b>: dày đặc<br>- <b>formerly</b>: trước đây<br>- <b>frequently</b>: thường xuyên"
       },
       {
         "question": "Because of an abundance of ______ candidates, Xaniper Industries may take longer than expected to name a new CEO.",
@@ -1869,7 +1869,7 @@ const toeicTestsData = [
           "D": "it"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần đại từ quan hệ thay thế cho danh từ chỉ vật số ít <code>warranty</code> làm chủ ngữ trong mệnh đề quan hệ xác định.<br>- Chọn đại từ quan hệ <strong class=\"hl-vocab\">that</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả các máy tính bảng của chúng tôi đều đi kèm với chế độ bảo hành một năm bao gồm cả việc sửa chữa và thay thế phần cứng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần đại từ quan hệ thay thế cho danh từ chỉ vật số ít <code>warranty</code> làm chủ ngữ trong mệnh đề quan hệ xác định.<br>- Chọn đại từ quan hệ <strong class=\"hl-vocab\">that</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả các máy tính bảng của chúng tôi đều đi kèm với chế độ bảo hành một năm bao gồm cả việc sửa chữa và thay thế phần cứng.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>who</b>: ai<br>- <b>what</b>: gì<br>- <b>it</b>: nó"
       },
       {
         "question": "The Exprite Foundation Board of Directors is ______ of nine members who are elected annually by the public.",
@@ -1880,7 +1880,7 @@ const toeicTestsData = [
           "D": "announced"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. composed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ ở dạng bị động đi kèm giới từ <code>of</code> để chỉ sự cấu thành/bao gồm: <code>be composed of something</code> (bao gồm/được cấu thành từ cái gì).<br>- Chọn phân từ hai <strong class=\"hl-vocab\">composed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ban Giám đốc của Quỹ Exprite bao gồm chín thành viên được công chúng bầu chọn hàng năm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. composed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ ở dạng bị động đi kèm giới từ <code>of</code> để chỉ sự cấu thành/bao gồm: <code>be composed of something</code> (bao gồm/được cấu thành từ cái gì).<br>- Chọn phân từ hai <strong class=\"hl-vocab\">composed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ban Giám đốc của Quỹ Exprite bao gồm chín thành viên được công chúng bầu chọn hàng năm.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>expected</b>: hy vọng<br>- <b>described</b>: được mô tả<br>- <b>announced</b>: công bố"
       },
       {
         "question": "Mortgage brokers generally prefer to review all the financial documents ______ meeting with a new client.",
@@ -1891,7 +1891,7 @@ const toeicTestsData = [
           "D": "before"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. before</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước phân từ V-ing <code>meeting</code> chỉ mốc thời gian hành động diễn ra trước đó → cần giới từ thời gian.<br>- Chọn giới từ <strong class=\"hl-vocab\">before</strong> (trước khi).<br><br><strong>Dịch câu:</strong><br><em>Các nhà môi giới thế chấp thường muốn xem xét tất cả các tài liệu tài chính trước khi gặp khách hàng mới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. before</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước phân từ V-ing <code>meeting</code> chỉ mốc thời gian hành động diễn ra trước đó → cần giới từ thời gian.<br>- Chọn giới từ <strong class=\"hl-vocab\">before</strong> (trước khi).<br><br><strong>Dịch câu:</strong><br><em>Các nhà môi giới thế chấp thường muốn xem xét tất cả các tài liệu tài chính trước khi gặp khách hàng mới.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>toward</b>: theo hướng<br>- <b>further</b>: hơn nữa<br>- <b>lately</b>: gần đây"
       },
       {
         "question": "Management ______ candidates for promotion by the end of the month.",
@@ -1902,7 +1902,7 @@ const toeicTestsData = [
           "D": "to identify"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. will identify</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Câu chưa có động từ chính chia thì làm vị ngữ, có trạng ngữ chỉ thời gian tương lai <code>by the end of the month</code> → cần chia động từ ở thì tương lai đơn.<br>- Chọn động từ tương lai <strong class=\"hl-vocab\">will identify</strong> (sẽ xác định/nhận diện).<br><br><strong>Dịch câu:</strong><br><em>Ban quản lý sẽ xác định các ứng viên được thăng chức vào cuối tháng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. will identify</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Câu chưa có động từ chính chia thì làm vị ngữ, có trạng ngữ chỉ thời gian tương lai <code>by the end of the month</code> → cần chia động từ ở thì tương lai đơn.<br>- Chọn động từ tương lai <strong class=\"hl-vocab\">will identify</strong> (sẽ xác định/nhận diện).<br><br><strong>Dịch câu:</strong><br><em>Ban quản lý sẽ xác định các ứng viên được thăng chức vào cuối tháng.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>identify</b>: nhận dạng<br>- <b>identifying</b>: xác định<br>- <b>to identify</b>: để xác định"
       },
       {
         "question": "While we typically charge $25 for missed appointments, we understand that ______ circumstances may arise.",
@@ -1913,7 +1913,7 @@ const toeicTestsData = [
           "D": "acclaimed"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. unforeseen</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>circumstances</code> để chỉ các tình huống phát sinh đột xuất ngoài ý muốn → cụm từ thông dụng: <code>unforeseen circumstances</code> (tình huống bất khả kháng/không lường trước được).<br>- Chọn tính từ <strong class=\"hl-vocab\">unforeseen</strong>.<br><br><strong>Dịch câu:</strong><br><em>Mặc dù chúng tôi thường tính phí $25 cho các cuộc hẹn bị lỡ, chúng tôi hiểu rằng các tình huống không lường trước được có thể phát sinh.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. unforeseen</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>circumstances</code> để chỉ các tình huống phát sinh đột xuất ngoài ý muốn → cụm từ thông dụng: <code>unforeseen circumstances</code> (tình huống bất khả kháng/không lường trước được).<br>- Chọn tính từ <strong class=\"hl-vocab\">unforeseen</strong>.<br><br><strong>Dịch câu:</strong><br><em>Mặc dù chúng tôi thường tính phí $25 cho các cuộc hẹn bị lỡ, chúng tôi hiểu rằng các tình huống không lường trước được có thể phát sinh.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>excessive</b>: quá mức<br>- <b>approximate</b>: xấp xỉ<br>- <b>acclaimed</b>: hoan nghênh"
       },
       {
         "question": "At Blu Hedge, clients receive 1 percent interest, pay no account fees, and can make unlimited ______.",
@@ -1935,7 +1935,7 @@ const toeicTestsData = [
           "D": "following"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. near</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ vị trí gần địa điểm trung tâm hội nghị → chọn giới từ phù hợp ngữ cảnh không gian.<br>- Chọn giới từ <strong class=\"hl-vocab\">near</strong> (gần).<br><br><strong>Dịch câu:</strong><br><em>Farist Bakery, nơi chuyên phục vụ tiệc đồ tráng miệng, nằm gần Khu phức hợp Hội nghị Liverpool.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. near</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ vị trí gần địa điểm trung tâm hội nghị → chọn giới từ phù hợp ngữ cảnh không gian.<br>- Chọn giới từ <strong class=\"hl-vocab\">near</strong> (gần).<br><br><strong>Dịch câu:</strong><br><em>Farist Bakery, nơi chuyên phục vụ tiệc đồ tráng miệng, nằm gần Khu phức hợp Hội nghị Liverpool.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>without</b>: không có<br>- <b>since</b>: từ<br>- <b>following</b>: tiếp theo"
       },
       {
         "question": "The presentations were ______ than we expected, so there was ample time left for questions.",
@@ -1957,7 +1957,7 @@ const toeicTestsData = [
           "D": "discount"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. guarantee</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ sở hữu <code>our</code> làm danh từ chủ ngữ chỉ cam kết bảo đảm của dịch vụ bán hàng → chọn danh từ phù hợp.<br>- Chọn danh từ <strong class=\"hl-vocab\">guarantee</strong> (sự bảo đảm/cam kết bảo hành).<br><br><strong>Dịch câu:</strong><br><em>Theo cam kết bảo đảm của chúng tôi, đơn đặt hàng của bạn sẽ đến sau ba ngày hoặc chúng tôi sẽ hoàn lại 50% chi phí.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. guarantee</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ sở hữu <code>our</code> làm danh từ chủ ngữ chỉ cam kết bảo đảm của dịch vụ bán hàng → chọn danh từ phù hợp.<br>- Chọn danh từ <strong class=\"hl-vocab\">guarantee</strong> (sự bảo đảm/cam kết bảo hành).<br><br><strong>Dịch câu:</strong><br><em>Theo cam kết bảo đảm của chúng tôi, đơn đặt hàng của bạn sẽ đến sau ba ngày hoặc chúng tôi sẽ hoàn lại 50% chi phí.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>distribution</b>: phân bổ<br>- <b>exception</b>: ngoại lệ<br>- <b>discount</b>: giảm giá"
       },
       {
         "question": "Several Seoul-based companies have ______ redesigned their workplaces to be more colorful and comfortable.",
@@ -1968,7 +1968,7 @@ const toeicTestsData = [
           "D": "notably"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. notably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chia ở dạng phân từ <code>redesigned</code> để nhấn mạnh mức độ thay đổi thiết kế rõ rệt → cần trạng từ bổ nghĩa.<br>- Chọn trạng từ <strong class=\"hl-vocab\">notably</strong> (đáng kể/đặc biệt).<br><br><strong>Dịch câu:</strong><br><em>Một số công ty có trụ sở tại Seoul đã thiết kế lại đáng kể nơi làm việc của họ để trở nên đầy màu sắc và thoải mái hơn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. notably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chia ở dạng phân từ <code>redesigned</code> để nhấn mạnh mức độ thay đổi thiết kế rõ rệt → cần trạng từ bổ nghĩa.<br>- Chọn trạng từ <strong class=\"hl-vocab\">notably</strong> (đáng kể/đặc biệt).<br><br><strong>Dịch câu:</strong><br><em>Một số công ty có trụ sở tại Seoul đã thiết kế lại đáng kể nơi làm việc của họ để trở nên đầy màu sắc và thoải mái hơn.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>note</b>: ghi chú<br>- <b>noted</b>: ghi nhận<br>- <b>notable</b>: đáng chú ý"
       },
       {
         "question": "The employee picnic will be postponed until next Friday because of the ______ cold temperatures this week.",
@@ -1979,7 +1979,7 @@ const toeicTestsData = [
           "D": "unseasonably"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. unseasonably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước tính từ <code>cold</code> bổ nghĩa cho cụm danh từ chỉ thời tiết lạnh bất thường so với thời điểm mùa trong năm → chọn trạng từ phù hợp thời tiết.<br>- Chọn trạng từ <strong class=\"hl-vocab\">unseasonably</strong> (lạnh bất thường so với mùa).<br><br><strong>Dịch câu:</strong><br><em>Buổi dã ngoại của nhân viên sẽ bị hoãn lại cho đến thứ Sáu tuần sau vì thời tiết lạnh bất thường so với mùa trong tuần này.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. unseasonably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước tính từ <code>cold</code> bổ nghĩa cho cụm danh từ chỉ thời tiết lạnh bất thường so với thời điểm mùa trong năm → chọn trạng từ phù hợp thời tiết.<br>- Chọn trạng từ <strong class=\"hl-vocab\">unseasonably</strong> (lạnh bất thường so với mùa).<br><br><strong>Dịch câu:</strong><br><em>Buổi dã ngoại của nhân viên sẽ bị hoãn lại cho đến thứ Sáu tuần sau vì thời tiết lạnh bất thường so với mùa trong tuần này.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>deceptively</b>: lừa bịp<br>- <b>unnecessarily</b>: không cần thiết<br>- <b>irresponsibly</b>: vô trách nhiệm"
       },
       {
         "question": "The accounting department is in first place in the office fund-raising challenge, ______ just two more days to go.",
@@ -1990,7 +1990,7 @@ const toeicTestsData = [
           "D": "else"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. with</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới từ chỉ điều kiện hoàn cảnh đi kèm: <code>with + cụm danh từ + to-V</code> (với việc chỉ còn...).<br>- Chọn giới từ <strong class=\"hl-vocab\">with</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận kế toán đang đứng ở vị trí đầu tiên trong thử thách gây quỹ của văn phòng, khi chỉ còn hai ngày nữa là kết thúc.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. with</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới từ chỉ điều kiện hoàn cảnh đi kèm: <code>with + cụm danh từ + to-V</code> (với việc chỉ còn...).<br>- Chọn giới từ <strong class=\"hl-vocab\">with</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận kế toán đang đứng ở vị trí đầu tiên trong thử thách gây quỹ của văn phòng, khi chỉ còn hai ngày nữa là kết thúc.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>against</b>: chống lại<br>- <b>namely</b>: cụ thể là<br>- <b>else</b>: khác"
       },
       {
         "question": "Pink Geranium Coffee has struggled to ______ its new bottled espresso from similar beverages on the market.",
@@ -2001,7 +2001,7 @@ const toeicTestsData = [
           "D": "revoke"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. distinguish</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ đi kèm giới từ <code>from</code> chỉ sự phân biệt giữa hai nhóm đối tượng: <code>distinguish A from B</code> (phân biệt A với B).<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">distinguish</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cà phê Pink Geranium đã phải chật vật để phân biệt sản phẩm espresso đóng chai mới của mình với các loại đồ uống tương tự trên thị trường.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. distinguish</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ đi kèm giới từ <code>from</code> chỉ sự phân biệt giữa hai nhóm đối tượng: <code>distinguish A from B</code> (phân biệt A với B).<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">distinguish</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cà phê Pink Geranium đã phải chật vật để phân biệt sản phẩm espresso đóng chai mới của mình với các loại đồ uống tương tự trên thị trường.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>participate</b>: tham gia<br>- <b>overturn</b>: lật đổ<br>- <b>revoke</b>: thu hồi"
       },
       {
         "question": "______ it is occasionally inconvenient, Mr. Ohtani expects all team members to attend his weekly meeting.",
@@ -2012,7 +2012,7 @@ const toeicTestsData = [
           "D": "When"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Though</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ sự tương phản nhượng bộ (mặc dù thỉnh thoảng hơi bất tiện nhưng vẫn phải họp) → chọn liên từ thích hợp.<br>- Chọn liên từ <strong class=\"hl-vocab\">Though</strong> (mặc dù).<br><br><strong>Dịch câu:</strong><br><em>Mặc dù đôi khi có chút bất tiện, ông Ohtani vẫn mong đợi tất cả các thành viên trong nhóm tham dự cuộc họp hàng tuần của mình.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Though</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ sự tương phản nhượng bộ (mặc dù thỉnh thoảng hơi bất tiện nhưng vẫn phải họp) → chọn liên từ thích hợp.<br>- Chọn liên từ <strong class=\"hl-vocab\">Though</strong> (mặc dù).<br><br><strong>Dịch câu:</strong><br><em>Mặc dù đôi khi có chút bất tiện, ông Ohtani vẫn mong đợi tất cả các thành viên trong nhóm tham dự cuộc họp hàng tuần của mình.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>As soon as</b>: càng sớm càng<br>- <b>Because</b>: bởi vì<br>- <b>When</b>: khi"
       }
     ]
   },
@@ -2029,7 +2029,7 @@ const toeicTestsData = [
           "D": "herself"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. her</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>youth</code> (tuổi trẻ) và sau giới từ nhượng bộ <code>Despite</code> → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">her</strong> (của cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Bất chấp tuổi trẻ của mình, cô Cho đã khá nổi tiếng trên mạng xã hội.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. her</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>youth</code> (tuổi trẻ) và sau giới từ nhượng bộ <code>Despite</code> → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu <strong class=\"hl-vocab\">her</strong> (của cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Bất chấp tuổi trẻ của mình, cô Cho đã khá nổi tiếng trên mạng xã hội.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>she</b>: cô ấy<br>- <b>hers</b>: của cô ấy<br>- <b>herself</b>: bản thân cô ấy"
       },
       {
         "question": "Most of the materials distributed at last month's accounting conference are now ______ online.",
@@ -2040,7 +2040,7 @@ const toeicTestsData = [
           "D": "decisive"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. available</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ tobe làm tính từ vị ngữ biểu thị tính chất có sẵn có thể tìm thấy trực tuyến → cụm từ thông dụng: <code>available online</code> (có sẵn trực tuyến).<br>- Chọn tính từ <strong class=\"hl-vocab\">available</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hầu hết các tài liệu được phân phát tại hội thảo kế toán tháng trước hiện đã có sẵn trực tuyến.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. available</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ tobe làm tính từ vị ngữ biểu thị tính chất có sẵn có thể tìm thấy trực tuyến → cụm từ thông dụng: <code>available online</code> (có sẵn trực tuyến).<br>- Chọn tính từ <strong class=\"hl-vocab\">available</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hầu hết các tài liệu được phân phát tại hội thảo kế toán tháng trước hiện đã có sẵn trực tuyến.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>intended</b>: dự định<br>- <b>comparable</b>: so sánh được<br>- <b>decisive</b>: quyết định"
       },
       {
         "question": "A full-scale ______ will be conducted by the accounting department.",
@@ -2062,7 +2062,7 @@ const toeicTestsData = [
           "D": "responded"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. promoted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trong cấu trúc bị động chỉ việc được thăng tiến lên chức vụ cao hơn: <code>be promoted to + chức vụ</code> (được thăng chức lên).<br>- Chọn phân từ hai <strong class=\"hl-vocab\">promoted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Phó chủ tịch Poshy Shoes, Lucille Jeris, đã được thăng chức lên làm chủ tịch công ty.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. promoted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trong cấu trúc bị động chỉ việc được thăng tiến lên chức vụ cao hơn: <code>be promoted to + chức vụ</code> (được thăng chức lên).<br>- Chọn phân từ hai <strong class=\"hl-vocab\">promoted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Phó chủ tịch Poshy Shoes, Lucille Jeris, đã được thăng chức lên làm chủ tịch công ty.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>provided</b>: cung cấp<br>- <b>decorated</b>: trang trí<br>- <b>responded</b>: đã trả lời"
       },
       {
         "question": "The report found that employees who take regular breaks are more ______ than those who take no breaks.",
@@ -2084,7 +2084,7 @@ const toeicTestsData = [
           "D": "structure"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. technician</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> làm tân ngữ chỉ người xử lý sự cố kỹ thuật máy photocopy cần liên hệ → chọn danh từ chỉ người phù hợp nghề nghiệp.<br>- Chọn danh từ chỉ người <strong class=\"hl-vocab\">technician</strong> (kỹ thuật viên).<br><br><strong>Dịch câu:</strong><br><em>Khách hàng của Twins Photocopiers được khuyến khích liên hệ với một kỹ thuật viên nếu máy móc của họ cần sửa chữa.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. technician</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> làm tân ngữ chỉ người xử lý sự cố kỹ thuật máy photocopy cần liên hệ → chọn danh từ chỉ người phù hợp nghề nghiệp.<br>- Chọn danh từ chỉ người <strong class=\"hl-vocab\">technician</strong> (kỹ thuật viên).<br><br><strong>Dịch câu:</strong><br><em>Khách hàng của Twins Photocopiers được khuyến khích liên hệ với một kỹ thuật viên nếu máy móc của họ cần sửa chữa.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>replacement</b>: thay thế<br>- <b>renewal</b>: đổi mới<br>- <b>structure</b>: kết cấu"
       },
       {
         "question": "The heavy traffic on the way to the airport ______ caused Ms. Ikeda to miss her flight.",
@@ -2106,7 +2106,7 @@ const toeicTestsData = [
           "D": "thoughtfully"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. probably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ đứng giữa trợ động từ khuyết thiếu <code>will</code> và động từ nguyên mẫu <code>take place</code> chỉ khả năng dự kiến sự việc xảy ra → chọn trạng từ chỉ khả năng.<br>- Chọn trạng từ <strong class=\"hl-vocab\">probably</strong> (có lẽ/nhiều khả năng).<br><br><strong>Dịch câu:</strong><br><em>Một nguồn tin tức gợi ý rằng vụ sáp nhập có lẽ sẽ diễn ra vào năm tới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. probably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ đứng giữa trợ động từ khuyết thiếu <code>will</code> và động từ nguyên mẫu <code>take place</code> chỉ khả năng dự kiến sự việc xảy ra → chọn trạng từ chỉ khả năng.<br>- Chọn trạng từ <strong class=\"hl-vocab\">probably</strong> (có lẽ/nhiều khả năng).<br><br><strong>Dịch câu:</strong><br><em>Một nguồn tin tức gợi ý rằng vụ sáp nhập có lẽ sẽ diễn ra vào năm tới.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>originally</b>: ban đầu<br>- <b>regularly</b>: thường xuyên<br>- <b>thoughtfully</b>: chu đáo"
       },
       {
         "question": "The Seaborne Inn has ______ beautiful guest rooms that can be booked on a monthly basis.",
@@ -2117,7 +2117,7 @@ const toeicTestsData = [
           "D": "itself"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. various</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ số nhiều đếm được <code>guest rooms</code> làm lượng từ chỉ tính chất phong phú đa dạng phòng nghỉ → chọn lượng từ thích hợp.<br>- Chọn lượng từ/tính từ <strong class=\"hl-vocab\">various</strong> (nhiều/khác nhau).<br><br><strong>Dịch câu:</strong><br><em>Nhà nghỉ Seaborne Inn có nhiều phòng khách đẹp khác nhau có thể được đặt theo tháng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. various</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ số nhiều đếm được <code>guest rooms</code> làm lượng từ chỉ tính chất phong phú đa dạng phòng nghỉ → chọn lượng từ thích hợp.<br>- Chọn lượng từ/tính từ <strong class=\"hl-vocab\">various</strong> (nhiều/khác nhau).<br><br><strong>Dịch câu:</strong><br><em>Nhà nghỉ Seaborne Inn có nhiều phòng khách đẹp khác nhau có thể được đặt theo tháng.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>among</b>: giữa<br>- <b>throughout</b>: khắp<br>- <b>itself</b>: chính nó"
       },
       {
         "question": "Ahearn Accessories' retail shop is located ______ Gordon Avenue and Hutch Street.",
@@ -2128,7 +2128,7 @@ const toeicTestsData = [
           "D": "aside from"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. at</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ vị trí cụ thể tọa lạc tại ngã tư hoặc góc phố giao nhau: <code>be located at + góc đường</code>.<br>- Chọn giới từ địa điểm <strong class=\"hl-vocab\">at</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cửa hàng bán lẻ của Ahearn Accessories nằm tại góc Đại lộ Gordon và Phố Hutch.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. at</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ vị trí cụ thể tọa lạc tại ngã tư hoặc góc phố giao nhau: <code>be located at + góc đường</code>.<br>- Chọn giới từ địa điểm <strong class=\"hl-vocab\">at</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cửa hàng bán lẻ của Ahearn Accessories nằm tại góc Đại lộ Gordon và Phố Hutch.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>until</b>: cho đến khi<br>- <b>against</b>: chống lại<br>- <b>aside from</b>: ngoài ra"
       },
       {
         "question": "A majority of the city's residents rated its transportation app ______.",
@@ -2150,7 +2150,7 @@ const toeicTestsData = [
           "D": "had represented"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. is representing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Câu diễn tả một lịch trình chắc chắn sẽ diễn ra vào cuối tuần tới (next weekend) → dùng thì hiện tại tiếp diễn chỉ kế hoạch tương lai.<br>- Chủ ngữ là ngôi thứ ba số ít <code>Dr. Cheung</code> → chọn <strong class=\"hl-vocab\">is representing</strong> (sẽ đại diện/đang đại diện).<br><br><strong>Dịch câu:</strong><br><em>Bác sĩ Cheung sẽ đại diện cho Bệnh viện Thung lũng Silk tại hội chợ y tế vào cuối tuần tới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. is representing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Câu diễn tả một lịch trình chắc chắn sẽ diễn ra vào cuối tuần tới (next weekend) → dùng thì hiện tại tiếp diễn chỉ kế hoạch tương lai.<br>- Chủ ngữ là ngôi thứ ba số ít <code>Dr. Cheung</code> → chọn <strong class=\"hl-vocab\">is representing</strong> (sẽ đại diện/đang đại diện).<br><br><strong>Dịch câu:</strong><br><em>Bác sĩ Cheung sẽ đại diện cho Bệnh viện Thung lũng Silk tại hội chợ y tế vào cuối tuần tới.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>represent</b>: đại diện<br>- <b>did represent</b>: đã đại diện<br>- <b>had represented</b>: đã đại diện"
       },
       {
         "question": "Frankie's Boutique had a financially ______ quarter after taking measures to reduce costs.",
@@ -2161,7 +2161,7 @@ const toeicTestsData = [
           "D": "additional"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. profitable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trạng từ <code>financially</code> và trước danh từ <code>quarter</code> → cần tính từ phù hợp ngữ cảnh sinh lời kinh tế sau khi cắt giảm chi phí.<br>- Chọn tính từ <strong class=\"hl-vocab\">profitable</strong> (có lãi/sinh lời).<br><br><strong>Dịch câu:</strong><br><em>Frankie's Boutique đã có một quý sinh lời về mặt tài chính sau khi thực hiện các biện pháp giảm chi phí.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. profitable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trạng từ <code>financially</code> và trước danh từ <code>quarter</code> → cần tính từ phù hợp ngữ cảnh sinh lời kinh tế sau khi cắt giảm chi phí.<br>- Chọn tính từ <strong class=\"hl-vocab\">profitable</strong> (có lãi/sinh lời).<br><br><strong>Dịch câu:</strong><br><em>Frankie's Boutique đã có một quý sinh lời về mặt tài chính sau khi thực hiện các biện pháp giảm chi phí.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>plain</b>: đơn giản<br>- <b>full</b>: đầy<br>- <b>additional</b>: thêm vào"
       },
       {
         "question": "Because it submitted the lowest bid, Deb's Gifting has been chosen as the ______ of this year's holiday cards.",
@@ -2183,7 +2183,7 @@ const toeicTestsData = [
           "D": "organization"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. organization</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi kèm từ bổ nghĩa <code>the only</code> để chỉ viện nghiên cứu Whitetail là một tổ chức duy nhất làm nhiệm vụ theo dõi sinh vật → chọn danh từ phù hợp.<br>- Chọn danh từ <strong class=\"hl-vocab\">organization</strong> (tổ chức/cơ quan).<br><br><strong>Dịch câu:</strong><br><em>Viện Whitetail là tổ chức duy nhất theo dõi quần thể hươu ở các vùng ngoại ô đang mở rộng nhanh chóng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. organization</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi kèm từ bổ nghĩa <code>the only</code> để chỉ viện nghiên cứu Whitetail là một tổ chức duy nhất làm nhiệm vụ theo dõi sinh vật → chọn danh từ phù hợp.<br>- Chọn danh từ <strong class=\"hl-vocab\">organization</strong> (tổ chức/cơ quan).<br><br><strong>Dịch câu:</strong><br><em>Viện Whitetail là tổ chức duy nhất theo dõi quần thể hươu ở các vùng ngoại ô đang mở rộng nhanh chóng.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>leadership</b>: khả năng lãnh đạo<br>- <b>neighborhood</b>: hàng xóm<br>- <b>official</b>: chính thức"
       },
       {
         "question": "The committee members ______ attended the meeting are listed in the appendix.",
@@ -2194,7 +2194,7 @@ const toeicTestsData = [
           "D": "some"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. who</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần đại từ quan hệ làm chủ ngữ thay thế cho danh từ chỉ người số nhiều <code>The committee members</code> trong mệnh đề quan hệ xác định.<br>- Chọn đại từ quan hệ chỉ người <strong class=\"hl-vocab\">who</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các thành viên ủy ban đã tham dự cuộc họp được liệt kê trong phụ lục.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. who</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần đại từ quan hệ làm chủ ngữ thay thế cho danh từ chỉ người số nhiều <code>The committee members</code> trong mệnh đề quan hệ xác định.<br>- Chọn đại từ quan hệ chỉ người <strong class=\"hl-vocab\">who</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các thành viên ủy ban đã tham dự cuộc họp được liệt kê trong phụ lục.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>they</b>: họ<br>- <b>when</b>: khi<br>- <b>some</b>: một số"
       },
       {
         "question": "Our new app is ______ designed to provide data-driven insights to investment professionals.",
@@ -2216,7 +2216,7 @@ const toeicTestsData = [
           "D": "struggle"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. struggle</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Mệnh đề phụ sau từ <code>that</code> cần động từ chính chia thì hiện tại đơn phù hợp chủ ngữ danh từ số nhiều <code>people</code> → chọn động từ dạng nguyên mẫu.<br>- Chọn động từ <strong class=\"hl-vocab\">struggle</strong> (gặp khó khăn/chật vật).<br><br><strong>Dịch câu:</strong><br><em>Kết quả nghiên cứu cho thấy nhiều người gặp khó khăn khi lái xe ban đêm hơn so với dự đoán trước đây.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. struggle</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Mệnh đề phụ sau từ <code>that</code> cần động từ chính chia thì hiện tại đơn phù hợp chủ ngữ danh từ số nhiều <code>people</code> → chọn động từ dạng nguyên mẫu.<br>- Chọn động từ <strong class=\"hl-vocab\">struggle</strong> (gặp khó khăn/chật vật).<br><br><strong>Dịch câu:</strong><br><em>Kết quả nghiên cứu cho thấy nhiều người gặp khó khăn khi lái xe ban đêm hơn so với dự đoán trước đây.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>strugles</b>: cuộc đấu tranh<br>- <b>struggling</b>: đấu tranh<br>- <b>to struggle</b>: đấu tranh"
       },
       {
         "question": "Each department has been asked to develop an action plan in ______ to the budget cuts announced last week.",
@@ -2227,7 +2227,7 @@ const toeicTestsData = [
           "D": "confirmation"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. response</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm giới từ cố định chỉ việc hành động đối phó, phản hồi lại một tác động: <code>in response to something</code> (để phản phó/phản hồi lại cái gì).<br>- Chọn danh từ <strong class=\"hl-vocab\">response</strong>.<br><br><strong>Dịch câu:</strong><br><em>Mỗi bộ phận được yêu cầu xây dựng một kế hoạch hành động nhằm đối phó với việc cắt giảm ngân sách được công bố vào tuần trước.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. response</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm giới từ cố định chỉ việc hành động đối phó, phản hồi lại một tác động: <code>in response to something</code> (để phản phó/phản hồi lại cái gì).<br>- Chọn danh từ <strong class=\"hl-vocab\">response</strong>.<br><br><strong>Dịch câu:</strong><br><em>Mỗi bộ phận được yêu cầu xây dựng một kế hoạch hành động nhằm đối phó với việc cắt giảm ngân sách được công bố vào tuần trước.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>effect</b>: tác dụng<br>- <b>apology</b>: lời xin lỗi<br>- <b>confirmation</b>: xác nhận"
       },
       {
         "question": "Our popular online training materials have ______ been shown to improve job seekers' skills.",
@@ -2238,7 +2238,7 @@ const toeicTestsData = [
           "D": "randomly"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. consistently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước phân từ <code>been shown</code> bổ nghĩa cho tính chất hiệu quả ổn định liên tục theo thời gian → chọn trạng từ chỉ sự nhất quán.<br>- Chọn trạng từ <strong class=\"hl-vocab\">consistently</strong> (một cách nhất quán/liên tục).<br><br><strong>Dịch câu:</strong><br><em>Các tài liệu đào tạo trực tuyến phổ biến của chúng tôi đã liên tục được chứng minh là giúp cải thiện kỹ năng của người tìm việc.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. consistently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước phân từ <code>been shown</code> bổ nghĩa cho tính chất hiệu quả ổn định liên tục theo thời gian → chọn trạng từ chỉ sự nhất quán.<br>- Chọn trạng từ <strong class=\"hl-vocab\">consistently</strong> (một cách nhất quán/liên tục).<br><br><strong>Dịch câu:</strong><br><em>Các tài liệu đào tạo trực tuyến phổ biến của chúng tôi đã liên tục được chứng minh là giúp cải thiện kỹ năng của người tìm việc.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>emotionally</b>: về mặt cảm xúc<br>- <b>spaciously</b>: rộng rãi<br>- <b>randomly</b>: ngẫu nhiên"
       },
       {
         "question": "Ms. Yamada, ______ director of the Midlands Chamber of Commerce, was recently appointed to the state trade commission.",
@@ -2260,7 +2260,7 @@ const toeicTestsData = [
           "D": "out of"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. up to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ chỉ số lượng tối đa cho phép đi kèm con số <code>five files</code> → chọn cụm từ chỉ giới hạn trên.<br>- Chọn cụm từ <strong class=\"hl-vocab\">up to</strong> (lên tới/tối đa).<br><br><strong>Dịch câu:</strong><br><em>Phần mềm sử dụng bộ nhớ máy tính một cách hiệu quả, cho phép người dùng mở tối đa năm tệp cùng một lúc.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. up to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ chỉ số lượng tối đa cho phép đi kèm con số <code>five files</code> → chọn cụm từ chỉ giới hạn trên.<br>- Chọn cụm từ <strong class=\"hl-vocab\">up to</strong> (lên tới/tối đa).<br><br><strong>Dịch câu:</strong><br><em>Phần mềm sử dụng bộ nhớ máy tính một cách hiệu quả, cho phép người dùng mở tối đa năm tệp cùng một lúc.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>far from</b>: xa khỏi<br>- <b>as for</b>: đối với<br>- <b>out of</b>: ra khỏi"
       },
       {
         "question": "A monthly newsletter is an excellent way to ______ your group's activities and events.",
@@ -2271,7 +2271,7 @@ const toeicTestsData = [
           "D": "promote"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. promote</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau <code>to</code> chỉ mục đích hành động đối với các hoạt động nhóm nhằm quảng bá hình ảnh rộng rãi → chọn động từ phù hợp nghĩa.<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">promote</strong> (quảng bá/thúc đẩy).<br><br><strong>Dịch câu:</strong><br><em>Bản tin hàng tháng là một cách tuyệt vời để quảng bá các hoạt động và sự kiện của nhóm bạn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. promote</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau <code>to</code> chỉ mục đích hành động đối với các hoạt động nhóm nhằm quảng bá hình ảnh rộng rãi → chọn động từ phù hợp nghĩa.<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">promote</strong> (quảng bá/thúc đẩy).<br><br><strong>Dịch câu:</strong><br><em>Bản tin hàng tháng là một cách tuyệt vời để quảng bá các hoạt động và sự kiện của nhóm bạn.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>realize</b>: nhận ra<br>- <b>propose</b>: đề nghị<br>- <b>observe</b>: quan sát"
       },
       {
         "question": "______ the hotel does not have a restaurant on site, there are many dining options nearby.",
@@ -2282,7 +2282,7 @@ const toeicTestsData = [
           "D": "Without"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. While</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ sự tương phản nhượng bộ đứng ở đầu câu (mặc dù khách sạn không có nhà hàng tại chỗ nhưng xung quanh có nhiều quán ăn) → chọn liên từ phù hợp.<br>- Chọn liên từ <strong class=\"hl-vocab\">While</strong> (mặc dù/trong khi).<br><br><strong>Dịch câu:</strong><br><em>Mặc dù khách sạn không có nhà hàng trong khuôn viên, nhưng có nhiều lựa chọn ăn uống gần đó.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. While</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ sự tương phản nhượng bộ đứng ở đầu câu (mặc dù khách sạn không có nhà hàng tại chỗ nhưng xung quanh có nhiều quán ăn) → chọn liên từ phù hợp.<br>- Chọn liên từ <strong class=\"hl-vocab\">While</strong> (mặc dù/trong khi).<br><br><strong>Dịch câu:</strong><br><em>Mặc dù khách sạn không có nhà hàng trong khuôn viên, nhưng có nhiều lựa chọn ăn uống gần đó.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>Such as</b>: chẳng hạn như<br>- <b>Unless</b>: trừ khi<br>- <b>Without</b>: không có"
       },
       {
         "question": "______ a slight decline in revenue from the previous quarter, Blakely Components is moving forward with its expansion plan.",
@@ -2293,7 +2293,7 @@ const toeicTestsData = [
           "D": "Often"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. Despite</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ chỉ sự nhượng bộ <code>a slight decline in revenue</code> → cần giới từ mang nghĩa bất chấp/mặc dù.<br>- Chọn giới từ <strong class=\"hl-vocab\">Despite</strong> (bất chấp/mặc dù).<br><br><strong>Dịch câu:</strong><br><em>Bất chấp doanh thu giảm nhẹ so với quý trước, Blakely Components vẫn đang tiến hành kế hoạch mở rộng của mình.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. Despite</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ chỉ sự nhượng bộ <code>a slight decline in revenue</code> → cần giới từ mang nghĩa bất chấp/mặc dù.<br>- Chọn giới từ <strong class=\"hl-vocab\">Despite</strong> (bất chấp/mặc dù).<br><br><strong>Dịch câu:</strong><br><em>Bất chấp doanh thu giảm nhẹ so với quý trước, Blakely Components vẫn đang tiến hành kế hoạch mở rộng của mình.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>Aside</b>: ngoài ra<br>- <b>Becoming</b>: trở thành<br>- <b>Often</b>: thường"
       },
       {
         "question": "Abelia Dairy Company has undergone several changes in leadership ______ the past ten years.",
@@ -2304,7 +2304,7 @@ const toeicTestsData = [
           "D": "beside"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. over</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với khoảng thời gian để chỉ tiến trình xảy ra liên tục trong suốt thời gian đó: <code>over the past ten years</code> (trong suốt 10 năm qua).<br>- Chọn giới từ <strong class=\"hl-vocab\">over</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty sữa Abelia đã trải qua một số thay đổi trong ban lãnh đạo trong suốt mười năm qua.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. over</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với khoảng thời gian để chỉ tiến trình xảy ra liên tục trong suốt thời gian đó: <code>over the past ten years</code> (trong suốt 10 năm qua).<br>- Chọn giới từ <strong class=\"hl-vocab\">over</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty sữa Abelia đã trải qua một số thay đổi trong ban lãnh đạo trong suốt mười năm qua.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>into</b>: vào trong<br>- <b>since</b>: từ<br>- <b>beside</b>: bên cạnh"
       },
       {
         "question": "Opal City's Community Theater is holding ______ for its spring production during the first week of December.",
@@ -2315,7 +2315,7 @@ const toeicTestsData = [
           "D": "audition"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. auditions</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ chỉ hoạt động tổ chức <code>holding</code> đóng vai trò làm danh từ tân ngữ số nhiều để chỉ nhiều buổi thử vai → cụm từ: <code>hold auditions</code> (tổ chức các buổi thử vai).<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">auditions</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhà hát Cộng đồng của Thành phố Opal đang tổ chức các buổi thử vai cho vở kịch mùa xuân của mình trong tuần đầu tiên của tháng Chạp.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. auditions</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ chỉ hoạt động tổ chức <code>holding</code> đóng vai trò làm danh từ tân ngữ số nhiều để chỉ nhiều buổi thử vai → cụm từ: <code>hold auditions</code> (tổ chức các buổi thử vai).<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">auditions</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhà hát Cộng đồng của Thành phố Opal đang tổ chức các buổi thử vai cho vở kịch mùa xuân của mình trong tuần đầu tiên của tháng Chạp.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>to audition</b>: đi thử giọng<br>- <b>auditioned</b>: đã thử giọng<br>- <b>audition</b>: thử giọng"
       },
       {
         "question": "Mr. Kane said he packed so ______ this morning that he forgot to bring a suit and tie for tomorrow's dinner.",
@@ -2326,7 +2326,7 @@ const toeicTestsData = [
           "D": "mysteriously"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. hastily</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ thường <code>packed</code> chỉ hành động thu dọn đồ đạc quá vội vã dẫn tới bỏ quên quần áo → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">hastily</strong> (vội vã/hấp tấp).<br><br><strong>Dịch câu:</strong><br><em>Ông Kane cho biết sáng nay ông thu dọn đồ đạc vội vã đến mức quên mang theo bộ vest và cà vạt cho bữa tối ngày mai.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. hastily</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ thường <code>packed</code> chỉ hành động thu dọn đồ đạc quá vội vã dẫn tới bỏ quên quần áo → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">hastily</strong> (vội vã/hấp tấp).<br><br><strong>Dịch câu:</strong><br><em>Ông Kane cho biết sáng nay ông thu dọn đồ đạc vội vã đến mức quên mang theo bộ vest và cà vạt cho bữa tối ngày mai.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>enormously</b>: vô cùng<br>- <b>briefly</b>: ngắn gọn<br>- <b>mysteriously</b>: một cách bí ẩn"
       },
       {
         "question": "Long before the training program began, Ms. Morris ______ the schedule to allow her team to attend.",
@@ -2337,7 +2337,7 @@ const toeicTestsData = [
           "D": "has to revise"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. had revised</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả một hành động đã hoàn thành trước một thời điểm hoặc một hành động khác trong quá khứ (long before it began) → chia động từ ở thì quá khứ hoàn thành.<br>- Chọn dạng quá khứ hoàn thành chủ động <strong class=\"hl-vocab\">had revised</strong> (đã sửa đổi trước đó).<br><br><strong>Dịch câu:</strong><br><em>Lâu trước khi chương trình đào tạo bắt đầu, cô Morris đã sửa đổi lịch trình để cho phép nhóm của mình tham dự.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. had revised</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả một hành động đã hoàn thành trước một thời điểm hoặc một hành động khác trong quá khứ (long before it began) → chia động từ ở thì quá khứ hoàn thành.<br>- Chọn dạng quá khứ hoàn thành chủ động <strong class=\"hl-vocab\">had revised</strong> (đã sửa đổi trước đó).<br><br><strong>Dịch câu:</strong><br><em>Lâu trước khi chương trình đào tạo bắt đầu, cô Morris đã sửa đổi lịch trình để cho phép nhóm của mình tham dự.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>was revised</b>: đã được sửa đổi<br>- <b>is revising</b>: đang sửa đổi<br>- <b>has to revise</b>: phải sửa lại"
       },
       {
         "question": "Mr. Swan will return to the planning meeting ______ the interns have arrived.",
@@ -2348,7 +2348,7 @@ const toeicTestsData = [
           "D": "regarding"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. once</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ chỉ điều kiện thời gian khi một việc vừa hoàn thành xong thì việc sau diễn ra ngay: <code>once + mệnh đề hoàn thành/hiện tại</code> (một khi/ngay sau khi).<br>- Chọn liên từ <strong class=\"hl-vocab\">once</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Swan sẽ quay lại cuộc họp lập kế hoạch ngay sau khi các thực tập sinh đến đông đủ.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. once</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ chỉ điều kiện thời gian khi một việc vừa hoàn thành xong thì việc sau diễn ra ngay: <code>once + mệnh đề hoàn thành/hiện tại</code> (một khi/ngay sau khi).<br>- Chọn liên từ <strong class=\"hl-vocab\">once</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Swan sẽ quay lại cuộc họp lập kế hoạch ngay sau khi các thực tập sinh đến đông đủ.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>unlike</b>: không giống<br>- <b>whereas</b>: trong khi<br>- <b>regarding</b>: về"
       }
     ]
   },
@@ -2365,7 +2365,7 @@ const toeicTestsData = [
           "D": "she"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. she</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm chủ ngữ cho mệnh đề phụ đứng trước động từ chia ở số ít <code>is planning</code> → cần đại từ nhân xưng chủ ngữ thay cho Ms. Chiu.<br>- Chọn đại từ chủ ngữ <strong class=\"hl-vocab\">she</strong> (cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Bà Chiu gần đây đã thông báo rằng bà dự định nghỉ hưu vào tháng Chín.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. she</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm chủ ngữ cho mệnh đề phụ đứng trước động từ chia ở số ít <code>is planning</code> → cần đại từ nhân xưng chủ ngữ thay cho Ms. Chiu.<br>- Chọn đại từ chủ ngữ <strong class=\"hl-vocab\">she</strong> (cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Bà Chiu gần đây đã thông báo rằng bà dự định nghỉ hưu vào tháng Chín.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>her</b>: cô ấy<br>- <b>hers</b>: của cô ấy<br>- <b>herself</b>: bản thân cô ấy"
       },
       {
         "question": "Mr. Kashnitz will interview the applicants ______ the holiday.",
@@ -2376,7 +2376,7 @@ const toeicTestsData = [
           "D": "along"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. before</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với danh từ chỉ mốc thời gian ngày lễ để chỉ việc diễn ra trước mốc đó → chọn giới từ thời gian phù hợp.<br>- Chọn giới từ <strong class=\"hl-vocab\">before</strong> (trước/trước khi).<br><br><strong>Dịch câu:</strong><br><em>Ông Kashnitz sẽ phỏng vấn các ứng viên trước ngày nghỉ lễ.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. before</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với danh từ chỉ mốc thời gian ngày lễ để chỉ việc diễn ra trước mốc đó → chọn giới từ thời gian phù hợp.<br>- Chọn giới từ <strong class=\"hl-vocab\">before</strong> (trước/trước khi).<br><br><strong>Dịch câu:</strong><br><em>Ông Kashnitz sẽ phỏng vấn các ứng viên trước ngày nghỉ lễ.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>above</b>: bên trên<br>- <b>among</b>: giữa<br>- <b>along</b>: dọc theo"
       },
       {
         "question": "The real estate agent may ______ a buyer with a neighborhood analysis upon request.",
@@ -2398,7 +2398,7 @@ const toeicTestsData = [
           "D": "show"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. location</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> làm danh từ tân ngữ chỉ mặt bằng/vị trí địa lý phù hợp để làm vườn → chọn danh từ phù hợp ngữ cảnh địa điểm.<br>- Chọn danh từ <strong class=\"hl-vocab\">location</strong> (địa điểm/vị trí).<br><br><strong>Dịch câu:</strong><br><em>Ủy ban phát triển của thành phố đang tìm kiếm một địa điểm thích hợp để trồng một khu vườn cộng đồng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. location</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> làm danh từ tân ngữ chỉ mặt bằng/vị trí địa lý phù hợp để làm vườn → chọn danh từ phù hợp ngữ cảnh địa điểm.<br>- Chọn danh từ <strong class=\"hl-vocab\">location</strong> (địa điểm/vị trí).<br><br><strong>Dịch câu:</strong><br><em>Ủy ban phát triển của thành phố đang tìm kiếm một địa điểm thích hợp để trồng một khu vườn cộng đồng.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>flower</b>: hoa<br>- <b>topic</b>: đề tài<br>- <b>show</b>: trình diễn"
       },
       {
         "question": "We hope our customer service team has answered your questions in a ______ manner.",
@@ -2420,7 +2420,7 @@ const toeicTestsData = [
           "D": "loosely"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. previously</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho phân từ quá khứ <code>held</code> chỉ vị trí công việc trước đây do người khác nắm giữ → chọn trạng từ chỉ thời gian trước đây.<br>- Chọn trạng từ <strong class=\"hl-vocab\">previously</strong> (trước đây).<br><br><strong>Dịch câu:</strong><br><em>Ông Hanley bày tỏ sự quan tâm đến vị trí trước đây do bà Akello nắm giữ.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. previously</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho phân từ quá khứ <code>held</code> chỉ vị trí công việc trước đây do người khác nắm giữ → chọn trạng từ chỉ thời gian trước đây.<br>- Chọn trạng từ <strong class=\"hl-vocab\">previously</strong> (trước đây).<br><br><strong>Dịch câu:</strong><br><em>Ông Hanley bày tỏ sự quan tâm đến vị trí trước đây do bà Akello nắm giữ.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>slowly</b>: chậm<br>- <b>widely</b>: rộng rãi<br>- <b>loosely</b>: lỏng lẻo"
       },
       {
         "question": "Once Ms. Jeong ______ the contract, she will sign and return it to Allory Pharmaceuticals.",
@@ -2431,7 +2431,7 @@ const toeicTestsData = [
           "D": "receiving"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. receives</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi sau liên từ chỉ thời gian tương lai <code>Once</code>, khi mệnh đề chính chia thì tương lai đơn (she will sign...) → mệnh đề phụ chia ở hiện tại đơn chủ động phù hợp chủ ngữ số ít Ms. Jeong.<br>- Chọn động từ chia số ít <strong class=\"hl-vocab\">receives</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một khi cô Jeong nhận được hợp đồng, cô ấy sẽ ký và gửi lại cho Allory Pharmaceuticals.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. receives</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi sau liên từ chỉ thời gian tương lai <code>Once</code>, khi mệnh đề chính chia thì tương lai đơn (she will sign...) → mệnh đề phụ chia ở hiện tại đơn chủ động phù hợp chủ ngữ số ít Ms. Jeong.<br>- Chọn động từ chia số ít <strong class=\"hl-vocab\">receives</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một khi cô Jeong nhận được hợp đồng, cô ấy sẽ ký và gửi lại cho Allory Pharmaceuticals.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>to receive</b>: để nhận<br>- <b>was received</b>: đã được nhận<br>- <b>receiving</b>: nhận được"
       },
       {
         "question": "Ten board members plan to attend, which is just ______ to approve the proposal.",
@@ -2442,7 +2442,7 @@ const toeicTestsData = [
           "D": "those"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. enough</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chỉ mức độ đầy đủ để làm một việc gì đó: <code>be + enough + to-V</code> (đủ để làm gì).<br>- Chọn trạng từ <strong class=\"hl-vocab\">enough</strong> (đủ).<br><br><strong>Dịch câu:</strong><br><em>Mười thành viên hội đồng quản trị có kế hoạch tham dự, số lượng này vừa đủ để phê duyệt đề xuất.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. enough</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chỉ mức độ đầy đủ để làm một việc gì đó: <code>be + enough + to-V</code> (đủ để làm gì).<br>- Chọn trạng từ <strong class=\"hl-vocab\">enough</strong> (đủ).<br><br><strong>Dịch câu:</strong><br><em>Mười thành viên hội đồng quản trị có kế hoạch tham dự, số lượng này vừa đủ để phê duyệt đề xuất.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>several</b>: một số<br>- <b>most</b>: hầu hết<br>- <b>those</b>: những thứ kia"
       },
       {
         "question": "Mr. Aziz is often alone in the shop while his partner is out making a ______.",
@@ -2464,7 +2464,7 @@ const toeicTestsData = [
           "D": "administered"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. rescheduled</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cấu trúc bị động <code>has been</code> chỉ việc dời lịch giải chạy sang ngày khác do thời tiết xấu → chọn động từ phù hợp nghĩa.<br>- Chọn phân từ hai <strong class=\"hl-vocab\">rescheduled</strong> (được đổi lịch/lên lịch lại).<br><br><strong>Dịch câu:</strong><br><em>Giải chạy Hoàng hôn Bờ biển Thái Bình Dương đã được đổi lịch sang ngày 31 tháng 8 vì thời tiết xấu.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. rescheduled</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cấu trúc bị động <code>has been</code> chỉ việc dời lịch giải chạy sang ngày khác do thời tiết xấu → chọn động từ phù hợp nghĩa.<br>- Chọn phân từ hai <strong class=\"hl-vocab\">rescheduled</strong> (được đổi lịch/lên lịch lại).<br><br><strong>Dịch câu:</strong><br><em>Giải chạy Hoàng hôn Bờ biển Thái Bình Dương đã được đổi lịch sang ngày 31 tháng 8 vì thời tiết xấu.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>canceled</b>: đã hủy bỏ<br>- <b>combined</b>: kết hợp<br>- <b>administered</b>: quản lý"
       },
       {
         "question": "Graber hair and nail growth supplements come in ______ pill and liquid form.",
@@ -2475,7 +2475,7 @@ const toeicTestsData = [
           "D": "likely"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. both</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ liên kết hai đối tượng song song dạng A và B: <code>both A and B</code> (cả A và B).<br>- Chọn liên từ <strong class=\"hl-vocab\">both</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thực phẩm bổ sung hỗ trợ mọc tóc và móng của Graber có cả ở dạng viên và dạng lỏng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. both</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ liên kết hai đối tượng song song dạng A và B: <code>both A and B</code> (cả A và B).<br>- Chọn liên từ <strong class=\"hl-vocab\">both</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thực phẩm bổ sung hỗ trợ mọc tóc và móng của Graber có cả ở dạng viên và dạng lỏng.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>these</b>: những cái này<br>- <b>almost</b>: hầu hết<br>- <b>likely</b>: rất có thể"
       },
       {
         "question": "The posters must be completed soon ______ they can be put up in advance of the gala.",
@@ -2486,7 +2486,7 @@ const toeicTestsData = [
           "D": "as if"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. so that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ mục đích của hành động hoàn thành áp phích sớm (để chúng có thể được dán lên trước đêm hội) → chọn liên từ mục đích.<br>- Chọn liên từ <strong class=\"hl-vocab\">so that</strong> (để/để mà).<br><br><strong>Dịch câu:</strong><br><em>Các áp phích phải được hoàn thành sớm để chúng có thể được dán lên trước sự kiện gala.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. so that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ mục đích của hành động hoàn thành áp phích sớm (để chúng có thể được dán lên trước đêm hội) → chọn liên từ mục đích.<br>- Chọn liên từ <strong class=\"hl-vocab\">so that</strong> (để/để mà).<br><br><strong>Dịch câu:</strong><br><em>Các áp phích phải được hoàn thành sớm để chúng có thể được dán lên trước sự kiện gala.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>despite</b>: cho dù<br>- <b>whenever</b>: bất cứ khi nào<br>- <b>as if</b>: như thể"
       },
       {
         "question": "Mr. Olivero praised the film in his review, even though he ______ disliked its aesthetic style.",
@@ -2508,7 +2508,7 @@ const toeicTestsData = [
           "D": "Alongside"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. after</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ thứ tự thời gian xảy ra sau chuỗi ngày mưa kéo dài kỷ lục → chọn giới từ thời gian phù hợp.<br>- Chọn giới từ <strong class=\"hl-vocab\">after</strong> (sau/sau khi).<br><br><strong>Dịch câu:</strong><br><em>Sau nhiều tuần mưa kỷ lục, hãy kỳ vọng bầu trời sẽ hoàn toàn trong xanh vào cuối tuần này.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. after</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ thứ tự thời gian xảy ra sau chuỗi ngày mưa kéo dài kỷ lục → chọn giới từ thời gian phù hợp.<br>- Chọn giới từ <strong class=\"hl-vocab\">after</strong> (sau/sau khi).<br><br><strong>Dịch câu:</strong><br><em>Sau nhiều tuần mưa kỷ lục, hãy kỳ vọng bầu trời sẽ hoàn toàn trong xanh vào cuối tuần này.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>Besides</b>: bên cạnh đó<br>- <b>Opposite</b>: đối diện<br>- <b>Alongside</b>: bên cạnh"
       },
       {
         "question": "The Serenica dining table comes with levelers ______ its stability on uneven surfaces.",
@@ -2519,7 +2519,7 @@ const toeicTestsData = [
           "D": "to be ensured"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. to ensure</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ công cụ <code>levelers</code> chỉ mục đích chủ động đảm bảo độ thăng bằng → cần dạng to-V chủ động.<br>- Chọn <strong class=\"hl-vocab\">to ensure</strong> (để đảm bảo).<br><br><strong>Dịch câu:</strong><br><em>Bàn ăn Serenica đi kèm với các chân cân bằng để đảm bảo độ ổn định của nó trên các bề mặt không bằng phẳng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. to ensure</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ công cụ <code>levelers</code> chỉ mục đích chủ động đảm bảo độ thăng bằng → cần dạng to-V chủ động.<br>- Chọn <strong class=\"hl-vocab\">to ensure</strong> (để đảm bảo).<br><br><strong>Dịch câu:</strong><br><em>Bàn ăn Serenica đi kèm với các chân cân bằng để đảm bảo độ ổn định của nó trên các bề mặt không bằng phẳng.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>ensure</b>: đảm bảo<br>- <b>ensures</b>: đảm bảo<br>- <b>to be ensured</b>: được đảm bảo"
       },
       {
         "question": "Applicants to any open position at Allcrest Engineering can expect a ______ within three business days.",
@@ -2530,7 +2530,7 @@ const toeicTestsData = [
           "D": "response"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. response</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> làm tân ngữ chỉ sự phản hồi từ công ty mà ứng viên mong đợi nhận được → chọn danh từ phù hợp ngữ cảnh tuyển dụng.<br>- Chọn danh từ <strong class=\"hl-vocab\">response</strong> (sự phản hồi/trả lời).<br><br><strong>Dịch câu:</strong><br><em>Ứng viên ứng tuyển vào bất kỳ vị trí mở nào tại Allcrest Engineering có thể mong đợi nhận được phản hồi trong vòng ba ngày làm việc.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. response</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> làm tân ngữ chỉ sự phản hồi từ công ty mà ứng viên mong đợi nhận được → chọn danh từ phù hợp ngữ cảnh tuyển dụng.<br>- Chọn danh từ <strong class=\"hl-vocab\">response</strong> (sự phản hồi/trả lời).<br><br><strong>Dịch câu:</strong><br><em>Ứng viên ứng tuyển vào bất kỳ vị trí mở nào tại Allcrest Engineering có thể mong đợi nhận được phản hồi trong vòng ba ngày làm việc.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>degree</b>: bằng cấp<br>- <b>raise</b>: nâng lên<br>- <b>change</b>: thay đổi"
       },
       {
         "question": "______ prepares the patient's medical records is required to maintain confidentiality.",
@@ -2541,7 +2541,7 @@ const toeicTestsData = [
           "D": "What"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Whoever</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm đại từ quan hệ đóng vai trò chủ ngữ đại diện cho bất kỳ ai thực hiện hành động chuẩn bị hồ sơ bệnh án → chọn đại từ quan hệ phù hợp.<br>- Chọn <strong class=\"hl-vocab\">Whoever</strong> (bất cứ ai/bất kỳ người nào).<br><br><strong>Dịch câu:</strong><br><em>Bất cứ ai chuẩn bị hồ sơ bệnh án của bệnh nhân đều được yêu cầu giữ bí mật thông tin.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Whoever</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm đại từ quan hệ đóng vai trò chủ ngữ đại diện cho bất kỳ ai thực hiện hành động chuẩn bị hồ sơ bệnh án → chọn đại từ quan hệ phù hợp.<br>- Chọn <strong class=\"hl-vocab\">Whoever</strong> (bất cứ ai/bất kỳ người nào).<br><br><strong>Dịch câu:</strong><br><em>Bất cứ ai chuẩn bị hồ sơ bệnh án của bệnh nhân đều được yêu cầu giữ bí mật thông tin.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>Who</b>: ai<br>- <b>Whose</b>: của ai<br>- <b>What</b>: cái gì"
       },
       {
         "question": "Because of the high demand for our services, our office was ______ expanded last year.",
@@ -2552,7 +2552,7 @@ const toeicTestsData = [
           "D": "identically"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. significantly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ bị động <code>was expanded</code> chỉ mức độ mở rộng quy mô văn phòng đáng kể do nhu cầu cao → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">significantly</strong> (đáng kể/nhiều).<br><br><strong>Dịch câu:</strong><br><em>Do nhu cầu cao đối với các dịch vụ của chúng tôi, văn phòng của chúng tôi đã được mở rộng đáng kể vào năm ngoái.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. significantly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bổ nghĩa cho động từ bị động <code>was expanded</code> chỉ mức độ mở rộng quy mô văn phòng đáng kể do nhu cầu cao → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">significantly</strong> (đáng kể/nhiều).<br><br><strong>Dịch câu:</strong><br><em>Do nhu cầu cao đối với các dịch vụ của chúng tôi, văn phòng của chúng tôi đã được mở rộng đáng kể vào năm ngoái.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>tightly</b>: chặt chẽ<br>- <b>remotely</b>: từ xa<br>- <b>identically</b>: giống hệt nhau"
       },
       {
         "question": "The Terry Hoig Prize for ______ architecture was awarded to Ms. Helblon on Tuesday.",
@@ -2574,7 +2574,7 @@ const toeicTestsData = [
           "D": "establishing"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. experiencing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cấu trúc hoàn thành tiếp diễn <code>have been</code> chỉ sự việc đang trải qua các sự cố hỏng hóc kỹ thuật → chọn động từ phù hợp nghĩa.<br>- Cụm từ thông dụng: <code>experience problems</code> (gặp phải các vấn đề/sự cố). Chọn động từ dạng V-ing <strong class=\"hl-vocab\">experiencing</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đã và đang gặp phải các vấn đề với bộ điều chỉnh nhiệt độ ở phía tây của kho hàng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. experiencing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cấu trúc hoàn thành tiếp diễn <code>have been</code> chỉ sự việc đang trải qua các sự cố hỏng hóc kỹ thuật → chọn động từ phù hợp nghĩa.<br>- Cụm từ thông dụng: <code>experience problems</code> (gặp phải các vấn đề/sự cố). Chọn động từ dạng V-ing <strong class=\"hl-vocab\">experiencing</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đã và đang gặp phải các vấn đề với bộ điều chỉnh nhiệt độ ở phía tây của kho hàng.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>regarding</b>: về<br>- <b>repurposing</b>: tái sử dụng<br>- <b>establishing</b>: thành lập"
       },
       {
         "question": "Two students from Wrisley University worked ______ on the design of the new library in Lorth Park.",
@@ -2596,7 +2596,7 @@ const toeicTestsData = [
           "D": "exact"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. exact</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ chỉ đặc trưng <code>colors</code> để bổ nghĩa chỉ màu sắc thực tế nguyên bản → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">exact</strong> (chính xác/đích thực).<br><br><strong>Dịch câu:</strong><br><em>Các hình ảnh hiển thị trên trang web của phòng trưng bày có thể không phản ánh màu sắc chính xác của tác phẩm nghệ thuật đang được bán.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. exact</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ chỉ đặc trưng <code>colors</code> để bổ nghĩa chỉ màu sắc thực tế nguyên bản → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">exact</strong> (chính xác/đích thực).<br><br><strong>Dịch câu:</strong><br><em>Các hình ảnh hiển thị trên trang web của phòng trưng bày có thể không phản ánh màu sắc chính xác của tác phẩm nghệ thuật đang được bán.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>loyal</b>: trung thành<br>- <b>smart</b>: thông minh<br>- <b>close</b>: đóng"
       },
       {
         "question": "At Beautyvale Cosmetics, our representatives answer customers' ______ within 24 hours of receipt.",
@@ -2607,7 +2607,7 @@ const toeicTestsData = [
           "D": "inquiries"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. inquiries</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ sở hữu cách <code>customers'</code> làm danh từ tân ngữ chỉ các thắc mắc/câu hỏi gửi đến đại diện dịch vụ → cần danh từ số nhiều.<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">inquiries</strong> (câu hỏi/thắc mắc).<br><br><strong>Dịch câu:</strong><br><em>Tại Beautyvale Cosmetics, đại diện của chúng tôi trả lời các thắc mắc của khách hàng trong vòng 24 giờ kể từ khi nhận được.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. inquiries</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ sở hữu cách <code>customers'</code> làm danh từ tân ngữ chỉ các thắc mắc/câu hỏi gửi đến đại diện dịch vụ → cần danh từ số nhiều.<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">inquiries</strong> (câu hỏi/thắc mắc).<br><br><strong>Dịch câu:</strong><br><em>Tại Beautyvale Cosmetics, đại diện của chúng tôi trả lời các thắc mắc của khách hàng trong vòng 24 giờ kể từ khi nhận được.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>inquirers</b>: người hỏi thăm<br>- <b>inquired</b>: hỏi thăm<br>- <b>to inquire</b>: hỏi thăm"
       },
       {
         "question": "We would like to attend the retreat, but ______ we are unavailable on that date.",
@@ -2618,7 +2618,7 @@ const toeicTestsData = [
           "D": "annually"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. regrettably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng ở đầu câu làm trạng từ liên kết biểu lộ sự tiếc nuối khi không thể tham gia sự kiện → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">regrettably</strong> (đáng tiếc là).<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi rất muốn tham dự buổi dã ngoại tập thể, nhưng đáng tiếc là chúng tôi không rảnh vào ngày đó.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. regrettably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng ở đầu câu làm trạng từ liên kết biểu lộ sự tiếc nuối khi không thể tham gia sự kiện → chọn trạng từ thích hợp.<br>- Chọn trạng từ <strong class=\"hl-vocab\">regrettably</strong> (đáng tiếc là).<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi rất muốn tham dự buổi dã ngoại tập thể, nhưng đáng tiếc là chúng tôi không rảnh vào ngày đó.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>scarcely</b>: hiếm khi<br>- <b>exceptionally</b>: đặc biệt<br>- <b>annually</b>: hàng năm"
       },
       {
         "question": "In celebration of Ms. Tseng's promotion, tea and cookies will be served ______ the meeting.",
@@ -2629,7 +2629,7 @@ const toeicTestsData = [
           "D": "in case of"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. following</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ thứ tự thời gian xảy ra sự việc sau khi cuộc họp kết thúc: <code>following + danh từ</code> = <code>after + danh từ</code> (sau/sau khi).<br>- Chọn giới từ <strong class=\"hl-vocab\">following</strong>.<br><br><strong>Dịch câu:</strong><br><em>Để chúc mừng sự thăng chức của cô Tseng, trà và bánh quy sẽ được phục vụ sau cuộc họp.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. following</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ chỉ thứ tự thời gian xảy ra sự việc sau khi cuộc họp kết thúc: <code>following + danh từ</code> = <code>after + danh từ</code> (sau/sau khi).<br>- Chọn giới từ <strong class=\"hl-vocab\">following</strong>.<br><br><strong>Dịch câu:</strong><br><em>Để chúc mừng sự thăng chức của cô Tseng, trà và bánh quy sẽ được phục vụ sau cuộc họp.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>later</b>: sau đó<br>- <b>as soon as</b>: càng sớm càng <br>- <b>in case of</b>: trong trường hợp"
       },
       {
         "question": "Beginning next month, all employees at Sartson Analytics will have the ______ of working from home two days per week.",
@@ -2640,7 +2640,7 @@ const toeicTestsData = [
           "D": "option"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. option</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chỉ quyền được lựa chọn làm gì của nhân viên: <code>have the option of doing something</code> (có quyền lựa chọn làm gì).<br>- Chọn danh từ <strong class=\"hl-vocab\">option</strong> (sự lựa chọn/quyền lựa chọn).<br><br><strong>Dịch câu:</strong><br><em>Bắt đầu từ tháng tới, tất cả nhân viên tại Sartson Analytics sẽ có quyền lựa chọn làm việc tại nhà hai ngày mỗi tuần.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. option</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chỉ quyền được lựa chọn làm gì của nhân viên: <code>have the option of doing something</code> (có quyền lựa chọn làm gì).<br>- Chọn danh từ <strong class=\"hl-vocab\">option</strong> (sự lựa chọn/quyền lựa chọn).<br><br><strong>Dịch câu:</strong><br><em>Bắt đầu từ tháng tới, tất cả nhân viên tại Sartson Analytics sẽ có quyền lựa chọn làm việc tại nhà hai ngày mỗi tuần.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>place</b>: địa điểm<br>- <b>combination</b>: sự kết hợp<br>- <b>range</b>: phạm vi"
       },
       {
         "question": "The accounting department's new policy outlines the ______ process for the procurement of office equipment.",
@@ -2662,7 +2662,7 @@ const toeicTestsData = [
           "D": "embarking"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. pertaining</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phân từ rút gọn bổ nghĩa cho danh từ chỉ tài liệu liên quan đến vụ sáp nhập đi kèm giới từ <code>to</code>: <code>documents pertaining to...</code> (các tài liệu liên quan đến...).<br>- Chọn phân từ hiện tại <strong class=\"hl-vocab\">pertaining</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả các tài liệu liên quan đến việc sáp nhập công ty sẽ được công bố rộng rãi trong vòng một năm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. pertaining</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phân từ rút gọn bổ nghĩa cho danh từ chỉ tài liệu liên quan đến vụ sáp nhập đi kèm giới từ <code>to</code>: <code>documents pertaining to...</code> (các tài liệu liên quan đến...).<br>- Chọn phân từ hiện tại <strong class=\"hl-vocab\">pertaining</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả các tài liệu liên quan đến việc sáp nhập công ty sẽ được công bố rộng rãi trong vòng một năm.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>assigning</b>: phân công<br>- <b>facilitating</b>: tạo điều kiện thuận lợi<br>- <b>embarking</b>: lên tàu"
       },
       {
         "question": "Granta Hospital has added several pediatric nurses to its staff as part of its new ______ with the Friel School of Nursing.",
@@ -2684,7 +2684,7 @@ const toeicTestsData = [
           "D": "as well as"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. as well as</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ liên kết hai hành động song song nhiệm vụ của thu ngân (scan items... và field questions...) → chọn cụm từ thích hợp.<br>- Chọn cụm liên từ <strong class=\"hl-vocab\">as well as</strong> (cũng như là).<br><br><strong>Dịch câu:</strong><br><em>Trong quá trình thanh toán, thu ngân phải có khả năng quét các mặt hàng đã mua một cách chính xác cũng như trả lời các câu hỏi từ khách hàng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. as well as</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ liên kết hai hành động song song nhiệm vụ của thu ngân (scan items... và field questions...) → chọn cụm từ thích hợp.<br>- Chọn cụm liên từ <strong class=\"hl-vocab\">as well as</strong> (cũng như là).<br><br><strong>Dịch câu:</strong><br><em>Trong quá trình thanh toán, thu ngân phải có khả năng quét các mặt hàng đã mua một cách chính xác cũng như trả lời các câu hỏi từ khách hàng.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>but</b>: nhưng<br>- <b>for instance</b>: ví dụ<br>- <b>although</b>: mặc dù"
       }
     ]
   },
@@ -2701,7 +2701,7 @@ const toeicTestsData = [
           "D": "yet"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. and</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ liên kết hai vai trò song song của ông Choi (một kế toán kinh nghiệm và là một nhà đầu tư) → chọn liên từ <strong class=\"hl-vocab\">and</strong> (và).<br><br><strong>Dịch câu:</strong><br><em>Ông Choi, người gần đây đã tham gia ban cố vấn, là một kế toán và nhà đầu tư giàu kinh nghiệm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. and</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ liên kết hai vai trò song song của ông Choi (một kế toán kinh nghiệm và là một nhà đầu tư) → chọn liên từ <strong class=\"hl-vocab\">and</strong> (và).<br><br><strong>Dịch câu:</strong><br><em>Ông Choi, người gần đây đã tham gia ban cố vấn, là một kế toán và nhà đầu tư giàu kinh nghiệm.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>but</b>: nhưng<br>- <b>that</b>: cái đó<br>- <b>yet</b>: chưa"
       },
       {
         "question": "The first 150 visitors to the new fitness park will each receive a complimentary water ______.",
@@ -2712,7 +2712,7 @@ const toeicTestsData = [
           "D": "to bottle"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. bottle</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ <code>water</code> tạo thành cụm danh từ kép chỉ bình nước uống thể thao: <code>water bottle</code> (bình/chai đựng nước).<br>- Chọn danh từ số ít <strong class=\"hl-vocab\">bottle</strong>.<br><br><strong>Dịch câu:</strong><br><em>150 khách tham quan đầu tiên đến công viên thể dục mới sẽ nhận được một chai đựng nước miễn phí.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. bottle</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ <code>water</code> tạo thành cụm danh từ kép chỉ bình nước uống thể thao: <code>water bottle</code> (bình/chai đựng nước).<br>- Chọn danh từ số ít <strong class=\"hl-vocab\">bottle</strong>.<br><br><strong>Dịch câu:</strong><br><em>150 khách tham quan đầu tiên đến công viên thể dục mới sẽ nhận được một chai đựng nước miễn phí.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>bottled</b>: đóng chai<br>- <b>bottling</b>: đóng chai<br>- <b>to bottle</b>: đóng chai"
       },
       {
         "question": "Operating instructions for the printer will be e-mailed to employees ______.",
@@ -2745,7 +2745,7 @@ const toeicTestsData = [
           "D": "widely"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. widely</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa cấu trúc bị động <code>has been... praised</code> để chỉ việc cuốn sách được đón nhận ca ngợi rộng rãi bởi công chúng → chọn trạng từ chỉ phạm vi.<br>- Chọn trạng từ <strong class=\"hl-vocab\">widely</strong> (rộng rãi). Cụm từ: <code>widely praised</code> (được ca ngợi rộng rãi).<br><br><strong>Dịch câu:</strong><br><em>Cuốn tiểu thuyết bán chạy nhất của cô Lim đã được ca ngợi rộng rãi.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. widely</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa cấu trúc bị động <code>has been... praised</code> để chỉ việc cuốn sách được đón nhận ca ngợi rộng rãi bởi công chúng → chọn trạng từ chỉ phạm vi.<br>- Chọn trạng từ <strong class=\"hl-vocab\">widely</strong> (rộng rãi). Cụm từ: <code>widely praised</code> (được ca ngợi rộng rãi).<br><br><strong>Dịch câu:</strong><br><em>Cuốn tiểu thuyết bán chạy nhất của cô Lim đã được ca ngợi rộng rãi.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>respectively</b>: tương ứng<br>- <b>tightly</b>: chặt chẽ<br>- <b>unhappily</b>: không vui"
       },
       {
         "question": "The marketing manager, Ms. Abyola, plans to meet with the press following ______ meeting with the vice president.",
@@ -2756,7 +2756,7 @@ const toeicTestsData = [
           "D": "herself"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. her</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>meeting</code> → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu ngôi ba số ít nữ <strong class=\"hl-vocab\">her</strong> (của cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị, cô Abyola, có kế hoạch gặp gỡ báo chí sau cuộc họp của cô với phó chủ tịch.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. her</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>meeting</code> → cần tính từ sở hữu bổ nghĩa.<br>- Chọn tính từ sở hữu ngôi ba số ít nữ <strong class=\"hl-vocab\">her</strong> (của cô ấy).<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị, cô Abyola, có kế hoạch gặp gỡ báo chí sau cuộc họp của cô với phó chủ tịch.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>she</b>: cô ấy<br>- <b>hers</b>: của cô ấy<br>- <b>herself</b>: bản thân cô ấy"
       },
       {
         "question": "Last weekend, Terriville Community Center held a ______ game night for neighborhood children.",
@@ -2767,7 +2767,7 @@ const toeicTestsData = [
           "D": "current"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. lively</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ <code>game night</code> để chỉ buổi tối vui chơi đầy sôi động náo nhiệt cho trẻ em → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">lively</strong> (sôi nổi/sinh động).<br><br><strong>Dịch câu:</strong><br><em>Cuối tuần trước, Trung tâm Cộng đồng Terriville đã tổ chức một đêm trò chơi sôi nổi cho trẻ em trong khu lân cận.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. lively</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ <code>game night</code> để chỉ buổi tối vui chơi đầy sôi động náo nhiệt cho trẻ em → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">lively</strong> (sôi nổi/sinh động).<br><br><strong>Dịch câu:</strong><br><em>Cuối tuần trước, Trung tâm Cộng đồng Terriville đã tổ chức một đêm trò chơi sôi nổi cho trẻ em trong khu lân cận.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>removable</b>: có thể tháo rời<br>- <b>plentiful</b>: dồi dào<br>- <b>current</b>: hiện hành"
       },
       {
         "question": "Mr. Lenthe will distribute ______ of the workshop agenda to all managers by Tuesday morning.",
@@ -2778,7 +2778,7 @@ const toeicTestsData = [
           "D": "copying"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. copies</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đóng vai trò làm danh từ tân ngữ chỉ các bản sao chương trình nghị sự được phân phát → cần danh từ đếm được số nhiều.<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">copies</strong> (các bản sao).<br><br><strong>Dịch câu:</strong><br><em>Ông Lenthe sẽ phân phát các bản sao chương trình hội thảo cho tất cả các quản lý trước sáng thứ Ba.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. copies</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đóng vai trò làm danh từ tân ngữ chỉ các bản sao chương trình nghị sự được phân phát → cần danh từ đếm được số nhiều.<br>- Chọn danh từ số nhiều <strong class=\"hl-vocab\">copies</strong> (các bản sao).<br><br><strong>Dịch câu:</strong><br><em>Ông Lenthe sẽ phân phát các bản sao chương trình hội thảo cho tất cả các quản lý trước sáng thứ Ba.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>copier</b>: máy photocopy<br>- <b>copy</b>: sao chép<br>- <b>copying</b>: sao chép"
       },
       {
         "question": "Employees are eligible for more vacation time ______ they have been employed for five years.",
@@ -2789,7 +2789,7 @@ const toeicTestsData = [
           "D": "thus"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. after</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ điều kiện thời gian khi nhân viên đủ thâm niên làm việc 5 năm mới nhận thêm ngày phép → chọn liên từ thời gian phù hợp.<br>- Chọn liên từ <strong class=\"hl-vocab\">after</strong> (sau khi).<br><br><strong>Dịch câu:</strong><br><em>Nhân viên đủ điều kiện nhận thêm thời gian nghỉ phép sau khi họ đã làm việc được năm năm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. after</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên kết mệnh đề chỉ điều kiện thời gian khi nhân viên đủ thâm niên làm việc 5 năm mới nhận thêm ngày phép → chọn liên từ thời gian phù hợp.<br>- Chọn liên từ <strong class=\"hl-vocab\">after</strong> (sau khi).<br><br><strong>Dịch câu:</strong><br><em>Nhân viên đủ điều kiện nhận thêm thời gian nghỉ phép sau khi họ đã làm việc được năm năm.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>neither</b>: không<br>- <b>so</b>: vì thế<br>- <b>thus</b>: do đó"
       },
       {
         "question": "Managers at Afton Accounting are urged to provide ______ feedback to employees on a regular basis.",
@@ -2811,7 +2811,7 @@ const toeicTestsData = [
           "D": "sum"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. basis</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ chỉ phương thức <code>seasonal</code> tạo thành cụm giới từ chỉ cơ sở/phương thức hoạt động theo mùa → cụm từ thông dụng: <code>on a seasonal basis</code> (trên cơ sở thời vụ/theo mùa).<br>- Chọn danh từ <strong class=\"hl-vocab\">basis</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhiều chợ nông sản hoạt động theo mùa, mở cửa vào mùa xuân và đóng cửa vào cuối mùa thu.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. basis</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ chỉ phương thức <code>seasonal</code> tạo thành cụm giới từ chỉ cơ sở/phương thức hoạt động theo mùa → cụm từ thông dụng: <code>on a seasonal basis</code> (trên cơ sở thời vụ/theo mùa).<br>- Chọn danh từ <strong class=\"hl-vocab\">basis</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhiều chợ nông sản hoạt động theo mùa, mở cửa vào mùa xuân và đóng cửa vào cuối mùa thu.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>topic</b>: đề tài<br>- <b>root</b>: gốc<br>- <b>sum</b>: tổng hợp"
       },
       {
         "question": "______ in the housing market has continued to drag down real estate profits.",
@@ -2833,7 +2833,7 @@ const toeicTestsData = [
           "D": "suspected"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. surprised</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần động từ chính làm vị ngữ chia ở thì quá khứ phù hợp ngữ nghĩa chỉ việc vụ sáp nhập đột ngột làm bất ngờ giới phân tích → chọn động từ thích hợp.<br>- Chọn động từ quá khứ <strong class=\"hl-vocab\">surprised</strong> (làm bất ngờ/kinh ngạc).<br><br><strong>Dịch câu:</strong><br><em>Vụ sáp nhập đột ngột giữa Alvy Brothers và Craford Enterprises đã làm bất ngờ hầu hết các nhà phân tích tài chính.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. surprised</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần động từ chính làm vị ngữ chia ở thì quá khứ phù hợp ngữ nghĩa chỉ việc vụ sáp nhập đột ngột làm bất ngờ giới phân tích → chọn động từ thích hợp.<br>- Chọn động từ quá khứ <strong class=\"hl-vocab\">surprised</strong> (làm bất ngờ/kinh ngạc).<br><br><strong>Dịch câu:</strong><br><em>Vụ sáp nhập đột ngột giữa Alvy Brothers và Craford Enterprises đã làm bất ngờ hầu hết các nhà phân tích tài chính.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>enabled</b>: đã bật<br>- <b>arranged</b>: sắp xếp<br>- <b>suspected</b>: nghi ngờ"
       },
       {
         "question": "Of all the mistakes people make in the office, not proofreading their e-mails is one of the ______.",
@@ -2844,7 +2844,7 @@ const toeicTestsData = [
           "D": "more commonly"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. most common</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh cao nhất chỉ một trong những lỗi phổ biến nhất: <code>one of the + most + adjective</code>.<br>- Chọn dạng tính từ so sánh nhất <strong class=\"hl-vocab\">most common</strong> (phổ biến nhất).<br><br><strong>Dịch câu:</strong><br><em>Trong số tất cả những sai lầm mà mọi người mắc phải ở văn phòng, việc không soát lỗi email là một trong những lỗi phổ biến nhất.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. most common</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh cao nhất chỉ một trong những lỗi phổ biến nhất: <code>one of the + most + adjective</code>.<br>- Chọn dạng tính từ so sánh nhất <strong class=\"hl-vocab\">most common</strong> (phổ biến nhất).<br><br><strong>Dịch câu:</strong><br><em>Trong số tất cả những sai lầm mà mọi người mắc phải ở văn phòng, việc không soát lỗi email là một trong những lỗi phổ biến nhất.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>commoners</b>: thường dân<br>- <b>in common</b>: điểm chung<br>- <b>more commonly</b>: phổ biến hơn"
       },
       {
         "question": "Cayfair Global's ______ mission is to transport and deliver client goods in a timely manner.",
@@ -2855,7 +2855,7 @@ const toeicTestsData = [
           "D": "nearest"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. primary</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>mission</code> để chỉ mục tiêu, nhiệm vụ chính của doanh nghiệp vận tải → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">primary</strong> (chính/hàng đầu). Cụm từ: <code>primary mission</code> (nhiệm vụ hàng đầu/chính).<br><br><strong>Dịch câu:</strong><br><em>Nhiệm vụ hàng đầu của Cayfair Global là vận chuyển và giao hàng hóa của khách hàng một cách kịp thời.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. primary</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>mission</code> để chỉ mục tiêu, nhiệm vụ chính của doanh nghiệp vận tải → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">primary</strong> (chính/hàng đầu). Cụm từ: <code>primary mission</code> (nhiệm vụ hàng đầu/chính).<br><br><strong>Dịch câu:</strong><br><em>Nhiệm vụ hàng đầu của Cayfair Global là vận chuyển và giao hàng hóa của khách hàng một cách kịp thời.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>prompt</b>: nhắc nhở<br>- <b>bright</b>: sáng<br>- <b>nearest</b>: gần nhất"
       },
       {
         "question": "The department supervisor is ______ for ensuring that all safety gear is stowed properly at the end of the shift.",
@@ -2877,7 +2877,7 @@ const toeicTestsData = [
           "D": "island"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. harbor</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm danh từ tân ngữ chỉ địa điểm bến cảng được nạo vét làm sâu giúp tàu hàng trọng tải lớn neo đậu → chọn danh từ phù hợp ngữ cảnh hàng hải.<br>- Chọn danh từ <strong class=\"hl-vocab\">harbor</strong> (cảng/bến cảng).<br><br><strong>Dịch câu:</strong><br><em>Một dự án kéo dài ba năm đã làm sâu thêm bến cảng, cho phép nó tiếp nhận những con tàu chở hàng lớn nhất.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. harbor</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm danh từ tân ngữ chỉ địa điểm bến cảng được nạo vét làm sâu giúp tàu hàng trọng tải lớn neo đậu → chọn danh từ phù hợp ngữ cảnh hàng hải.<br>- Chọn danh từ <strong class=\"hl-vocab\">harbor</strong> (cảng/bến cảng).<br><br><strong>Dịch câu:</strong><br><em>Một dự án kéo dài ba năm đã làm sâu thêm bến cảng, cho phép nó tiếp nhận những con tàu chở hàng lớn nhất.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>tide</b>: thủy triều<br>- <b>boat</b>: thuyền<br>- <b>island</b>: hòn đảo"
       },
       {
         "question": "The experiment's initial results were ______ different from what was expected.",
@@ -2899,7 +2899,7 @@ const toeicTestsData = [
           "D": "Over"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. Despite</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng ở đầu câu trước cụm danh từ chỉ sự nhượng bộ, tương phản giữa phản hồi phê bình và doanh thu thành công → cần giới từ mang nghĩa mặc dù.<br>- Chọn giới từ <strong class=\"hl-vocab\">Despite</strong> (mặc dù/bất chấp).<br><br><strong>Dịch câu:</strong><br><em>Bất chấp những lời phê bình gay gắt, bộ phim đã thành công lớn tại phòng vé.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. Despite</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng ở đầu câu trước cụm danh từ chỉ sự nhượng bộ, tương phản giữa phản hồi phê bình và doanh thu thành công → cần giới từ mang nghĩa mặc dù.<br>- Chọn giới từ <strong class=\"hl-vocab\">Despite</strong> (mặc dù/bất chấp).<br><br><strong>Dịch câu:</strong><br><em>Bất chấp những lời phê bình gay gắt, bộ phim đã thành công lớn tại phòng vé.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>During</b>: trong lúc<br>- <b>About</b>: về<br>- <b>Over</b>: qua"
       },
       {
         "question": "The spray-on sealant ______ as a protective layer that keeps your tiles from getting scratched.",
@@ -2910,7 +2910,7 @@ const toeicTestsData = [
           "D": "actively"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. acts</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần động từ chính làm vị ngữ chia ở hiện tại đơn phù hợp chủ ngữ số ít <code>The spray-on sealant</code>. Cấu trúc đóng vai trò như là cái gì: <code>act as + danh từ</code>.<br>- Chọn động từ chia số ít <strong class=\"hl-vocab\">acts</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chất xịt phủ bảo vệ hoạt động như một lớp bảo vệ giúp gạch lát của bạn không bị trầy xước.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. acts</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần động từ chính làm vị ngữ chia ở hiện tại đơn phù hợp chủ ngữ số ít <code>The spray-on sealant</code>. Cấu trúc đóng vai trò như là cái gì: <code>act as + danh từ</code>.<br>- Chọn động từ chia số ít <strong class=\"hl-vocab\">acts</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chất xịt phủ bảo vệ hoạt động như một lớp bảo vệ giúp gạch lát của bạn không bị trầy xước.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>acting</b>: diễn xuất<br>- <b>action</b>: hoạt động<br>- <b>actively</b>: tích cực"
       },
       {
         "question": "The contract for the renovation of the park will not be awarded ______ all bids have been submitted.",
@@ -2921,7 +2921,7 @@ const toeicTestsData = [
           "D": "because"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. until</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc phủ định kết hợp liên từ chỉ thời hạn bắt đầu hành động xảy ra sau khi hoàn thành toàn bộ thủ tục nộp hồ sơ thầu: <code>not... until + mệnh đề</code> (không... cho đến khi).<br>- Chọn liên từ <strong class=\"hl-vocab\">until</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hợp đồng cải tạo công viên sẽ không được trao cho đến khi tất cả các hồ sơ thầu được nộp đầy đủ.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. until</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc phủ định kết hợp liên từ chỉ thời hạn bắt đầu hành động xảy ra sau khi hoàn thành toàn bộ thủ tục nộp hồ sơ thầu: <code>not... until + mệnh đề</code> (không... cho đến khi).<br>- Chọn liên từ <strong class=\"hl-vocab\">until</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hợp đồng cải tạo công viên sẽ không được trao cho đến khi tất cả các hồ sơ thầu được nộp đầy đủ.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>nor</b>: cũng không<br>- <b>next</b>: kế tiếp<br>- <b>because</b>: bởi vì"
       },
       {
         "question": "A recent study showed that substituting refined sugars with maple syrup may have some important ______ benefits.",
@@ -2932,7 +2932,7 @@ const toeicTestsData = [
           "D": "health"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. health</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>benefits</code> tạo thành cụm danh từ ghép chỉ các lợi ích sức khỏe con người → cụm danh từ thông dụng: <code>health benefits</code>.<br>- Chọn danh từ <strong class=\"hl-vocab\">health</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một nghiên cứu gần đây cho thấy việc thay thế đường tinh luyện bằng xi-rô phong có thể mang lại một số lợi ích sức khỏe quan trọng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. health</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>benefits</code> tạo thành cụm danh từ ghép chỉ các lợi ích sức khỏe con người → cụm danh từ thông dụng: <code>health benefits</code>.<br>- Chọn danh từ <strong class=\"hl-vocab\">health</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một nghiên cứu gần đây cho thấy việc thay thế đường tinh luyện bằng xi-rô phong có thể mang lại một số lợi ích sức khỏe quan trọng.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>only</b>: chỉ một<br>- <b>full</b>: đầy<br>- <b>legal</b>: hợp pháp"
       },
       {
         "question": "Margie Fung was ______ the winners at Sternetz Institute's art competition.",
@@ -2943,7 +2943,7 @@ const toeicTestsData = [
           "D": "beyond"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. among</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với danh từ số nhiều chỉ việc là một trong số những đối tượng đó: <code>among + danh từ số nhiều</code> (nằm trong số/giữa các).<br>- Chọn giới từ <strong class=\"hl-vocab\">among</strong>.<br><br><strong>Dịch câu:</strong><br><em>Margie Fung nằm trong số những người chiến thắng tại cuộc thi nghệ thuật của Viện Sternetz.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. among</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Giới từ đi với danh từ số nhiều chỉ việc là một trong số những đối tượng đó: <code>among + danh từ số nhiều</code> (nằm trong số/giữa các).<br>- Chọn giới từ <strong class=\"hl-vocab\">among</strong>.<br><br><strong>Dịch câu:</strong><br><em>Margie Fung nằm trong số những người chiến thắng tại cuộc thi nghệ thuật của Viện Sternetz.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>from</b>: từ<br>- <b>upon</b>: trên<br>- <b>beyond</b>: vượt ra"
       },
       {
         "question": "Posting updates too infrequently on social media can cause small businesses ______ by their customers.",
@@ -2954,7 +2954,7 @@ const toeicTestsData = [
           "D": "to be forgotten"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. to be forgotten</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ nguyên nhân dẫn tới tác động ở thể bị động: <code>cause + tân ngữ + to be + V3/V_ed (bị động)</code>.<br>- Chọn dạng bị động nguyên mẫu <strong class=\"hl-vocab\">to be forgotten</strong> (bị lãng quên).<br><br><strong>Dịch câu:</strong><br><em>Đăng cập nhật quá ít trên mạng xã hội có thể khiến các doanh nghiệp nhỏ bị khách hàng lãng quên.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. to be forgotten</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ nguyên nhân dẫn tới tác động ở thể bị động: <code>cause + tân ngữ + to be + V3/V_ed (bị động)</code>.<br>- Chọn dạng bị động nguyên mẫu <strong class=\"hl-vocab\">to be forgotten</strong> (bị lãng quên).<br><br><strong>Dịch câu:</strong><br><em>Đăng cập nhật quá ít trên mạng xã hội có thể khiến các doanh nghiệp nhỏ bị khách hàng lãng quên.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>forgets</b>: quên<br>- <b>to forget</b>: quên<br>- <b>been forgotten</b>: đã bị lãng quên"
       },
       {
         "question": "Ideal for conference rooms, our soundproof panels have been specially designed to ______ unwanted background noise.",
@@ -2965,7 +2965,7 @@ const toeicTestsData = [
           "D": "remain"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. absorb</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau <code>to</code> chỉ mục đích chức năng hút tiếng ồn của tấm cách âm → chọn động từ phù hợp nghĩa.<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">absorb</strong> (hấp thụ/hút).<br><br><strong>Dịch câu:</strong><br><em>Lý tưởng cho phòng hội nghị, các tấm cách âm của chúng tôi đã được thiết kế đặc biệt để tiêu âm nền không mong muốn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. absorb</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau <code>to</code> chỉ mục đích chức năng hút tiếng ồn của tấm cách âm → chọn động từ phù hợp nghĩa.<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">absorb</strong> (hấp thụ/hút).<br><br><strong>Dịch câu:</strong><br><em>Lý tưởng cho phòng hội nghị, các tấm cách âm của chúng tôi đã được thiết kế đặc biệt để tiêu âm nền không mong muốn.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>compete</b>: hoàn thành<br>- <b>surpass</b>: vượt qua<br>- <b>remain</b>: duy trì"
       },
       {
         "question": "Mr. Sato will call into the meeting ______ the hotel's wireless network.",
@@ -2976,7 +2976,7 @@ const toeicTestsData = [
           "D": "had used"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. using</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phân từ hiện tại rút gọn bổ nghĩa chỉ hành động chủ động sử dụng công cụ kết nối để gọi họp → chọn V-ing.<br>- Chọn <strong class=\"hl-vocab\">using</strong> (sử dụng/bằng cách dùng).<br><br><strong>Dịch câu:</strong><br><em>Ông Sato sẽ gọi vào cuộc họp bằng cách sử dụng mạng không dây của khách sạn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. using</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phân từ hiện tại rút gọn bổ nghĩa chỉ hành động chủ động sử dụng công cụ kết nối để gọi họp → chọn V-ing.<br>- Chọn <strong class=\"hl-vocab\">using</strong> (sử dụng/bằng cách dùng).<br><br><strong>Dịch câu:</strong><br><em>Ông Sato sẽ gọi vào cuộc họp bằng cách sử dụng mạng không dây của khách sạn.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>used</b>: đã sử dụng<br>- <b>use</b>: sử dụng<br>- <b>had used</b>: đã sử dụng"
       },
       {
         "question": "Not only has Mr. Ogbu ______ worked on the project, but he has also trained Ms. Jeong to continue the work.",
@@ -2987,7 +2987,7 @@ const toeicTestsData = [
           "D": "completely"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. diligently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chia ở phân từ <code>worked</code> chỉ thái độ làm việc chăm chỉ bền bỉ thực hiện dự án → chọn trạng từ chỉ sự chăm chỉ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">diligently</strong> (một cách chăm chỉ/cần mẫn).<br><br><strong>Dịch câu:</strong><br><em>Không chỉ ông Ogbu đã làm việc chăm chỉ trong dự án, mà ông còn đào tạo cô Jeong tiếp tục công việc.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. diligently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chia ở phân từ <code>worked</code> chỉ thái độ làm việc chăm chỉ bền bỉ thực hiện dự án → chọn trạng từ chỉ sự chăm chỉ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">diligently</strong> (một cách chăm chỉ/cần mẫn).<br><br><strong>Dịch câu:</strong><br><em>Không chỉ ông Ogbu đã làm việc chăm chỉ trong dự án, mà ông còn đào tạo cô Jeong tiếp tục công việc.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>accessibly</b>: có thể truy cập<br>- <b>eventfully</b>: cuối cùng<br>- <b>completely</b>: hoàn toàn"
       },
       {
         "question": "Belker Auto offers a ten-year warranty for ______ who want greater peace of mind.",
@@ -2998,7 +2998,7 @@ const toeicTestsData = [
           "D": "everyone"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. those</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm đại từ quan hệ chủ ngữ chỉ người số nhiều <code>who want</code> → cụm từ thông dụng chỉ nhóm đối tượng: <code>those who + V_plural</code> (những người mà).<br>- Chọn đại từ <strong class=\"hl-vocab\">those</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hãng xe Belker Auto cung cấp chế độ bảo hành mười năm cho những ai muốn an tâm hơn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. those</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm đại từ quan hệ chủ ngữ chỉ người số nhiều <code>who want</code> → cụm từ thông dụng chỉ nhóm đối tượng: <code>those who + V_plural</code> (những người mà).<br>- Chọn đại từ <strong class=\"hl-vocab\">those</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hãng xe Belker Auto cung cấp chế độ bảo hành mười năm cho những ai muốn an tâm hơn.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>this</b>: cái này<br>- <b>somebody</b>: ai đó<br>- <b>everyone</b>: mọi người"
       },
       {
         "question": "After months of planning, the Lanton Bookstore school reading program will finally ______ in October.",
@@ -3009,7 +3009,7 @@ const toeicTestsData = [
           "D": "access"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. commence</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trợ động từ khuyết thiếu và trạng từ <code>will finally</code> chỉ việc một chương trình dự án chính thức bắt đầu diễn ra → chọn động từ phù hợp nghĩa.<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">commence</strong> (bắt đầu/khởi công).<br><br><strong>Dịch câu:</strong><br><em>Sau nhiều tháng lập kế hoạch, chương trình đọc sách học đường của Nhà sách Lanton sẽ chính thức bắt đầu vào tháng Mười.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. commence</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trợ động từ khuyết thiếu và trạng từ <code>will finally</code> chỉ việc một chương trình dự án chính thức bắt đầu diễn ra → chọn động từ phù hợp nghĩa.<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">commence</strong> (bắt đầu/khởi công).<br><br><strong>Dịch câu:</strong><br><em>Sau nhiều tháng lập kế hoạch, chương trình đọc sách học đường của Nhà sách Lanton sẽ chính thức bắt đầu vào tháng Mười.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>observe</b>: quan sát<br>- <b>represent</b>: đại diện<br>- <b>access</b>: truy cập"
       },
       {
         "question": "Independent consultants can be a valuable source of ______ advice to new entrepreneurs.",
@@ -3020,7 +3020,7 @@ const toeicTestsData = [
           "D": "impartial"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. impartial</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>advice</code> để chỉ lời khuyên mang tính công bằng khách quan không thiên vị từ tư vấn viên độc lập → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">impartial</strong> (khách quan/không thiên vị).<br><br><strong>Dịch câu:</strong><br><em>Các tư vấn viên độc lập có thể là một nguồn cung cấp lời khuyên khách quan quý giá cho các nhà khởi nghiệp mới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. impartial</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>advice</code> để chỉ lời khuyên mang tính công bằng khách quan không thiên vị từ tư vấn viên độc lập → chọn tính từ phù hợp.<br>- Chọn tính từ <strong class=\"hl-vocab\">impartial</strong> (khách quan/không thiên vị).<br><br><strong>Dịch câu:</strong><br><em>Các tư vấn viên độc lập có thể là một nguồn cung cấp lời khuyên khách quan quý giá cho các nhà khởi nghiệp mới.</em><br><b>Nghĩa các từ còn lại:</b><br>- <b>unfulfilled</b>: chưa hoàn thành<br>- <b>indefinite</b>: không xác định<br>- <b>obedient</b>: nghe lời"
       }
     ]
   }
