@@ -205,7 +205,7 @@ const toeicReadingData = [
           "C": "response",
           "D": "responding"
         },
-        "correct_answer": "A",
+        "correct_answer": "C",
         "explanation_html": "Cần danh từ đứng sau tính từ \"positive\". \"response\" (sự phản hồi) là danh từ."
       },
       {
@@ -814,7 +814,7 @@ const toeicReadingData = [
           "C": "developing",
           "D": "developmentally"
         },
-        "correct_answer": "A",
+        "correct_answer": "B",
         "explanation_html": "Cấu trúc câu thiếu động từ chính (V-main) cho chủ ngữ \"The company\". Cụm trạng từ thời gian quá khứ \"last quarter\" yêu cầu chia thì Quá khứ đơn: V-ed -> \"developed\"."
       },
       {
