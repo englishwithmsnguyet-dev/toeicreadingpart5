@@ -345,10 +345,64 @@ document.addEventListener('DOMContentLoaded', () => {
     let pendingTestId = null;
 
     function updateLockStatusInSidebar() {
-        // All content unlocked
+        submenuItems.forEach(item => {
+            const chId = parseInt(item.getAttribute('data-id'));
+            if (chId > 2) {
+                const isUnlocked = localStorage.getItem(`chapter_${chId}_unlocked`) === 'true';
+                const lockIcon = item.querySelector('.lock-badge');
+                if (lockIcon) lockIcon.remove();
+                
+                // Get the raw text ignoring icon if present
+                const textNode = Array.from(item.childNodes).find(n => n.nodeType === Node.TEXT_NODE && n.textContent.trim().length > 0);
+                const titleText = textNode ? textNode.textContent.trim() : item.textContent.trim();
+                
+                if (!isUnlocked) {
+                    item.innerHTML = `${titleText} <span class="lock-badge" style="color: var(--color-gold); margin-left: auto; font-size: 0.85rem; padding-left: 8px;"><i class="fa-solid fa-lock"></i></span>`;
+                    item.style.display = 'flex';
+                    item.style.alignItems = 'center';
+                    item.style.justifyContent = 'space-between';
+                } else {
+                    item.innerHTML = `${titleText} <span class="lock-badge" style="color: var(--color-success); margin-left: auto; font-size: 0.85rem; padding-left: 8px;"><i class="fa-solid fa-lock-open"></i></span>`;
+                    item.style.display = 'flex';
+                    item.style.alignItems = 'center';
+                    item.style.justifyContent = 'space-between';
+                }
+            }
+        });
+
+        document.querySelectorAll('.test-item').forEach(item => {
+            const testId = parseInt(item.getAttribute('data-test-id'));
+            const isUnlocked = localStorage.getItem(`test_${testId}_unlocked`) === 'true';
+            const lockIcon = item.querySelector('.lock-badge');
+            if (lockIcon) lockIcon.remove();
+            
+            // Re-render based on structure: icon + text + (optional) lock
+            const textNode = Array.from(item.childNodes).find(n => n.nodeType === Node.TEXT_NODE && n.textContent.trim().length > 0);
+            const titleText = textNode ? textNode.textContent.trim() : item.textContent.trim();
+            const prefixIcon = testId <= 4 ? '<i class="fa-solid fa-square-poll-horizontal"></i>' : '<i class="fa-solid fa-file-signature"></i>';
+            
+            if (!isUnlocked) {
+                item.innerHTML = `<span style="display: flex; align-items: center; gap: 8px;">${prefixIcon} ${titleText}</span> <span class="lock-badge" style="color: var(--color-gold); margin-left: auto; font-size: 0.85rem; padding-left: 8px;"><i class="fa-solid fa-lock"></i></span>`;
+                item.style.display = 'flex';
+                item.style.alignItems = 'center';
+                item.style.justifyContent = 'space-between';
+            } else {
+                item.innerHTML = `<span style="display: flex; align-items: center; gap: 8px;">${prefixIcon} ${titleText}</span> <span class="lock-badge" style="color: var(--color-success); margin-left: auto; font-size: 0.85rem; padding-left: 8px;"><i class="fa-solid fa-lock-open"></i></span>`;
+                item.style.display = 'flex';
+                item.style.alignItems = 'center';
+                item.style.justifyContent = 'space-between';
+            }
+        });
     }
 
     function showTestView(testId) {
+        const isUnlocked = localStorage.getItem(`test_${testId}_unlocked`) === 'true';
+        if (!isUnlocked) {
+            pendingTestId = testId;
+            const testName = testId <= 4 ? `BÀI ÔN TẬP 0${testId}` : `ETS 2026 - TEST 0${testId - 4}`;
+            showPasswordModal("ĐỀ THI BỊ KHÓA", `${testName} yêu cầu mật khẩu truy cập từ Miss Nguyệt.`);
+            return;
+        }
         currentChapter = null;
         currentTestIndex = testId - 1; // 0-indexed
         
@@ -392,6 +446,15 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function showChapterView(chapterId) {
+        if (chapterId > 2) {
+            const isUnlocked = localStorage.getItem(`chapter_${chapterId}_unlocked`) === 'true';
+            if (!isUnlocked) {
+                pendingChapterId = chapterId;
+                const chName = `Chủ điểm ${chapterId < 10 ? '0' + chapterId : chapterId}`;
+                showPasswordModal("CHỦ ĐIỂM BỊ KHÓA", `${chName} yêu cầu mật khẩu truy cập từ Miss Nguyệt.`);
+                return;
+            }
+        }
         currentChapter = chapterId - 1; // 0-indexed
         currentTestIndex = null;
         welcomeView.classList.remove('active');

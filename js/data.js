@@ -926,7 +926,7 @@ const toeicReadingData = [
         "slide_index": 50,
         "title": "II. NHẬN DẠNG",
         "is_html": true,
-        "html_content": "<strong>2. Nhận dạng HÌNH THỨC ĐỘNG TỪ chia theo CÁC THÌ</strong><br><strong><span class=\"hl-blue\">2.1. Các thì ĐƠN (Simple tenses) </span></strong><br>Dạng động từ có thể là: <strong>V</strong><strong>o</strong><strong>, V</strong><strong>s/es</strong><strong>, V</strong><strong>2</strong><strong>ed</strong><br>→ <strong>Hiện tại đơn: </strong><span class=\"hl-red\">S + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">o</span></strong><strong><span class=\"hl-red\">/V</span></strong><strong><span class=\"hl-red\">s/es</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>.<br>→ <strong>Quá khứ đơn: </strong><span class=\"hl-red\">S + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">2</span></strong><strong><span class=\"hl-red\">ed</span></strong><span class=\"hl-red\"> + O</span>.<br>→ <strong>Tương lai đơn: </strong><span class=\"hl-red\">S + will + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">o</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>."
+        "html_content": "<strong>2. Nhận dạng HÌNH THỨC ĐỘNG TỪ chia theo CÁC THÌ</strong><br><strong><span class=\"hl-blue\">2.1. Các thì ĐƠN (Simple tenses) </span></strong><br>Dạng động từ có thể là: Động từ thường (<strong>Vo, Vs/es, V2ed</strong>) hoặc Tobe (<strong>am/is/are, was/were, will be</strong>)<br>→ <strong>Hiện tại đơn: </strong><span class=\"hl-red\">S + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">o</span></strong><strong><span class=\"hl-red\">/V</span></strong><strong><span class=\"hl-red\">s/es</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span> (hoặc Tobe: <strong>am / is / are</strong>)<br>→ <strong>Quá khứ đơn: </strong><span class=\"hl-red\">S + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">2</span></strong><strong><span class=\"hl-red\">ed</span></strong><span class=\"hl-red\"> + O</span> (hoặc Tobe: <strong>was / were</strong>)<br>→ <strong>Tương lai đơn: </strong><span class=\"hl-red\">S + will + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">o</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span> (hoặc Tobe: <strong>will be</strong>)"
       },
       {
         "slide_index": 51,
@@ -947,7 +947,7 @@ const toeicReadingData = [
         "slide_index": 52,
         "title": "2.2. Các thì TIẾP DIỄN (Continuous tenses)",
         "is_html": true,
-        "html_content": "Dạng động bắt buộc phải là: <strong>V</strong><strong>ing</strong><br>→ <strong>Hiện tại tiếp diễn: </strong><span class=\"hl-red\">S + am/is/are + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>.<br>→ <strong>Quá khứ tiếp diễn: </strong><span class=\"hl-red\">S + was/were + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><span class=\"hl-red\"> + O</span>.<br>→ <strong>Tương lai tiếp diễn: </strong><span class=\"hl-red\">S + will + be + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>.<br>→ <strong>HTHT tiếp diễn: </strong><span class=\"hl-red\">S + have/has + been + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>.<br>→ <strong>QKHT tiếp diễn: </strong><span class=\"hl-red\">S + will + have + been + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>."
+        "html_content": "Dạng động bắt buộc phải là: <strong>V</strong><strong>ing</strong><br>→ <strong>Hiện tại tiếp diễn: </strong><span class=\"hl-red\">S + am/is/are + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>.<br>→ <strong>Quá khứ tiếp diễn: </strong><span class=\"hl-red\">S + was/were + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><span class=\"hl-red\"> + O</span>.<br>→ <strong>Tương lai tiếp diễn: </strong><span class=\"hl-red\">S + will + be + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>.<br>→ <strong>HTHT tiếp diễn: </strong><span class=\"hl-red\">S + have/has + been + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>.<br>→ <strong>QKHT tiếp diễn: </strong><span class=\"hl-red\">S + had + been + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>.<br>→ <strong>TLHT tiếp diễn: </strong><span class=\"hl-red\">S + will + have + been + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>."
       },
       {
         "slide_index": 53,
@@ -1142,7 +1142,7 @@ const toeicReadingData = [
         "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. are pleased</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính thái bị động chỉ cảm xúc của con người: 'be pleased to-V' (rất vui mừng/hài lòng khi làm gì) -> chọn 'are pleased'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are pleased</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi rất vui mừng khi nghe tin rằng dự án đã thành công tốt đẹp.</em>"
       },
       {
-        "question": "The laboratory team ______ the chemical solution very carefully.",
+        "question": "The laboratory team ______ the chemical solution very carefully yesterday.",
         "options": {
           "A": "analyses",
           "B": "analyzing",
@@ -1150,7 +1150,7 @@ const toeicReadingData = [
           "D": "analyse"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. analyzed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dựa vào nghĩa câu kể về một sự việc đã thực hiện xong ở quá khứ, động từ chính chia ở thì Quá khứ đơn -> chọn 'analyzed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">analyzed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm nghiên cứu phòng thí nghiệm đã phân tích dung dịch hóa chất rất cẩn thận.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. analyzed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dựa vào dấu hiệu thời gian 'yesterday' (hôm qua), động từ chính chia ở thì Quá khứ đơn -> chọn 'analyzed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">analyzed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm nghiên cứu phòng thí nghiệm đã phân tích dung dịch hóa chất rất cẩn thận vào hôm qua.</em>"
       },
       {
         "question": "Please let Mr. Patel ______ the contract before it is printed.",
@@ -1545,7 +1545,7 @@ const toeicReadingData = [
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The company released a ____ report.<br>analyze",
+        "question_html": "<strong>EXAMPLE: </strong><br>The company released a ____ report.",
         "options": {
           "A": "analyze",
           "B": "analysis",
