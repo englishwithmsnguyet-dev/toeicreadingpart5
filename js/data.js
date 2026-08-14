@@ -2697,21 +2697,21 @@ const toeicReadingData = [
       },
       {
         "slide_index": 101,
-        "title": "II. CẤU TRÚC CHUNG",
+        "title": "LƯU Ý CHUNG",
         "is_html": true,
-        "html_content": "<strong><span class=\"hl-cyan\">S + TOBE </span></strong><strong>[chia theo thì &amp; chủ ngữ]</strong><strong> </strong><strong><span class=\"hl-cyan\">+ V</span></strong><strong><span class=\"hl-cyan\">3</span></strong><strong><span class=\"hl-cyan\">ed</span></strong><strong><span class=\"hl-cyan\"> + [by O].</span></strong><br><strong>📌 </strong><strong>LƯU Ý:</strong><br>TOBE → chia theo <strong>thì + chủ từ (sự hoà hợp giữa chủ từ và động từ)</strong><br>V → luôn là <strong>V</strong><strong>3</strong><strong>ed</strong><strong> [không chia]</strong><br><strong>By + O </strong>→ có thể có hoặc không"
+        "html_content": "<strong><span class=\"hl-green\">LƯU Ý CHUNG:</span></strong><br>▪ <strong>Động từ chính</strong> trong câu bị động <strong>KHÔNG CHIA THEO THÌ</strong>, mà luôn ở dạng <strong>V3ed</strong>.<br>▪ <strong>Động từ tobe</strong> trong câu bị động <strong>PHẢI CHIA THEO THÌ</strong> và phải phù hợp với <strong>CHỦ TỪ</strong>.<br>▪ <strong>“by + O”</strong> được lược bỏ khi <strong>tác nhân không quan trọng, không xác định hoặc mang tính chung chung</strong> (people, someone, they, we, you, the police, the government, experts...); <strong><em>giữ lại khi cần nhấn mạnh người thực hiện</em></strong>."hl-cyan\">S + TOBE </span></strong><strong>[chia theo thì &amp; chủ ngữ]</strong><strong> </strong><strong><span class=\"hl-cyan\">+ V</span></strong><strong><span class=\"hl-cyan\">3</span></strong><strong><span class=\"hl-cyan\">ed</span></strong><strong><span class=\"hl-cyan\"> + [by O].</span></strong><br><strong>📌 </strong><strong>LƯU Ý:</strong><br>TOBE → chia theo <strong>thì + chủ từ (sự hoà hợp giữa chủ từ và động từ)</strong><br>V → luôn là <strong>V</strong><strong>3</strong><strong>ed</strong><strong> [không chia]</strong><br><strong>By + O </strong>→ có thể có hoặc không"
       },
       {
         "slide_index": 102,
-        "title": "CẤU TRÚC THEO CÁC THÌ",
+        "title": "CẤU TRÚC THEO CÁC THÌ (HT & QK)",
         "is_html": true,
-        "html_content": "<strong>🔵 </strong><strong>Hiện tại đơn </strong>👉 <strong>am / is / are + V</strong><strong>3</strong><strong>ed</strong><br><strong>EX: </strong>The report <strong>is completed</strong> weekly.<br><strong>🔵 </strong><strong>Quá khứ đơn </strong>👉 was / were + <strong>V</strong><strong>3</strong><strong>ed</strong><br><strong>EX: </strong>The system <strong>was updated</strong> yesterday.<br><strong>🔵 </strong><strong>Tương lai đơn </strong>👉 will be + <strong>V</strong><strong>3</strong><strong>ed</strong><br><strong>EX: </strong>The contract <strong>will be signed</strong> tomorrow."
+        "html_content": "<strong>🔵 Hiện tại đơn:</strong> S + am / is / are + V3ed + [by O].<br><strong>🔵 Hiện tại tiếp diễn:</strong> S + am / is / are + being + V3ed + [by O].<br><strong>🔵 Hiện tại hoàn thành:</strong> S + have / has + been + V3ed + [by O].<br><strong>🔵 Hiện tại hoàn thành tiếp diễn:</strong> S + have / has + been + being + V3ed + [by O].<br><strong>🔵 Quá khứ đơn:</strong> S + was / were + V3ed + [by O].<br><strong>🔵 Quá khứ tiếp diễn:</strong> S + was / were + being + V3ed + [by O].<br><strong>🔵 Quá khứ hoàn thành:</strong> S + had + been + V3ed + [by O].<br><strong>🔵 Quá khứ hoàn thành tiếp diễn:</strong> S + had + been + being + V3ed + [by O]."
       },
       {
         "slide_index": 103,
-        "title": "CẤU TRÚC THEO CÁC THÌ",
+        "title": "CẤU TRÚC THEO CÁC THÌ (TƯƠNG LAI)",
         "is_html": true,
-        "html_content": "<strong>🔵 </strong><strong>Hiện tại tiếp diễn </strong>👉 <strong>am / is / are + being + V</strong><strong>3</strong><strong>ed</strong><br><strong>EX: </strong>The documents <strong>are being reviewed</strong>.<br><strong>🔵 </strong><strong>Quá khứ tiếp diễn </strong>👉 <strong>was / were + being + V</strong><strong>3</strong><strong>ed</strong><br><strong>EX: </strong>The TV <strong>was being repaired </strong>at 8 p.m yesterday.<br><strong>🔵 </strong><strong>Hiện tại hoàn thành </strong>👉 <strong>have / has + been + V</strong><strong>3</strong><strong>ed</strong><br><strong>EX: </strong>The files <strong>have been uploaded</strong>."
+        "html_content": "<strong>🔵 Tương lai đơn:</strong> S + will + be + V3ed + [by O].<br><strong>🔵 Tương lai gần:</strong> S + am / is / are + going to + be + V3ed + [by O].<br><strong>🔵 Tương lai tiếp diễn:</strong> S + will be + being + V3ed + [by O].<br><strong>🔵 Tương lai hoàn thành:</strong> S + will + have + been + V3ed + [by O].<br><strong>🔵 Tương lai hoàn thành tiếp diễn:</strong> S + will + have + been + being + V3ed + [by O]."
       },
       {
         "slide_index": 104,
