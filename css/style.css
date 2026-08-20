@@ -1811,3 +1811,95 @@ body.light-theme .verb-phrase .hl-core-pink {
 body.light-theme .verb-meaning {
     color: #475569;
 }
+
+/* Suffix & Word Family Vocabulary Grid */
+.suffix-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 10px;
+    margin-top: 12px;
+}
+
+.suffix-card {
+    background: rgba(255, 255, 255, 0.025);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    padding: 10px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    transition: all 0.25s ease-in-out;
+    border-left: 3px solid var(--color-cyan);
+}
+
+.suffix-card:hover {
+    transform: translateY(-2px);
+    background: rgba(255, 255, 255, 0.05);
+    border-color: var(--color-cyan);
+    box-shadow: 0 4px 14px rgba(0, 242, 254, 0.12);
+}
+
+body.light-theme .suffix-card {
+    background: rgba(255, 255, 255, 0.9);
+    border-color: rgba(0, 0, 0, 0.08);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
+}
+
+body.light-theme .suffix-card:hover {
+    background: #ffffff;
+    border-color: var(--color-blue);
+    box-shadow: 0 6px 16px rgba(17, 85, 204, 0.1);
+}
+
+.suffix-word-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.suffix-word {
+    font-weight: 700;
+    font-size: 1.02rem;
+    color: var(--color-gold);
+}
+body.light-theme .suffix-word {
+    color: #b45309;
+}
+
+.suffix-ipa {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    font-family: monospace, sans-serif;
+}
+
+.suffix-meaning {
+    font-size: 0.92rem;
+    color: var(--text-secondary);
+    font-style: italic;
+    border-top: 1px dashed rgba(255, 255, 255, 0.06);
+    padding-top: 4px;
+    margin-top: 2px;
+}
+body.light-theme .suffix-meaning {
+    border-top-color: rgba(0, 0, 0, 0.06);
+    color: #475569;
+}
+
+.suffix-header-badge {
+    display: inline-block;
+    background: rgba(0, 242, 254, 0.12);
+    border: 1px solid rgba(0, 242, 254, 0.25);
+    color: var(--color-cyan);
+    padding: 4px 12px;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-bottom: 8px;
+}
+body.light-theme .suffix-header-badge {
+    background: rgba(17, 85, 204, 0.08);
+    border-color: rgba(17, 85, 204, 0.2);
+    color: #1155cc;
+}
+
