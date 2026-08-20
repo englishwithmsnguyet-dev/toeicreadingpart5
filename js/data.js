@@ -3957,13 +3957,9 @@ const toeicReadingData = [
       },
       {
         "slide_index": 145,
-        "title": "VÍ DỤ LUYỆN TẬP",
-        "is_example": true,
-        "is_multi": false,
-        "question_html": "<strong>9. A number of / The number of</strong><br>Đây là cặp rất hay gây nhầm lẫn trong TOEIC.<br>Cấu trúc: \t<strong>A number of + N </strong><strong>số</strong><strong> </strong><strong>nhiều</strong><strong> </strong><strong>→ V </strong><strong>số</strong><strong> </strong><strong>nhiều</strong><br><strong>The number of + N số nhiều </strong><strong>→ V số ít</strong><br><strong>EX: </strong><br><strong><span class=\"hl-cyan\">A number of employees</span></strong> <strong><span class=\"hl-red\">are</span></strong> attending the seminar.<br><strong><span class=\"hl-cyan\">A number of complaints </span></strong><strong><span class=\"hl-red\">have</span></strong> been received.<br><strong>The number of participants </strong><strong><span class=\"hl-red\">is</span></strong> increasing.<br><strong>The number of applications </strong><strong><span class=\"hl-red\">has</span></strong> doubled this year.",
-        "options": {},
-        "correct_answer": "A",
-        "explanation_html": "Phân tích: Chọn loại từ phù hợp theo cấu trúc ngữ pháp."
+        "title": "9. A number of / The number of",
+        "is_html": true,
+        "html_content": "<strong>9. A number of / The number of</strong><br>Đây là cặp rất hay gây nhầm lẫn trong TOEIC.<br>Cấu trúc: \t<strong>A number of + N </strong><strong>số</strong><strong> </strong><strong>nhiều</strong><strong> </strong><strong>→ V </strong><strong>số</strong><strong> </strong><strong>nhiều</strong><br><strong>The number of + N số nhiều </strong><strong>→ V số ít</strong><br><strong>EX: </strong><br><strong><span class=\"hl-cyan\">A number of employees</span></strong> <strong><span class=\"hl-red\">are</span></strong> attending the seminar.<br><strong><span class=\"hl-cyan\">A number of complaints </span></strong><strong><span class=\"hl-red\">have</span></strong> been received.<br><strong>The number of participants </strong><strong><span class=\"hl-red\">is</span></strong> increasing.<br><strong>The number of applications </strong><strong><span class=\"hl-red\">has</span></strong> doubled this year."
       },
       {
         "slide_index": 146,
