@@ -347,7 +347,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function updateLockStatusInSidebar() {
         submenuItems.forEach(item => {
             const chId = parseInt(item.getAttribute('data-id'));
-            if (chId > 6) {
+            if (chId > 8) {
                 const isUnlocked = localStorage.getItem(`chapter_${chId}_unlocked`) === 'true';
                 const lockIcon = item.querySelector('.lock-badge');
                 if (lockIcon) lockIcon.remove();
@@ -446,7 +446,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function showChapterView(chapterId) {
-        if (chapterId > 6) {
+        if (chapterId > 8) {
             const isUnlocked = localStorage.getItem(`chapter_${chapterId}_unlocked`) === 'true';
             if (!isUnlocked) {
                 pendingChapterId = chapterId;
