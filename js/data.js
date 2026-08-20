@@ -4136,15 +4136,15 @@ const toeicReadingData = [
         "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. are</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trong cấu trúc 'There + be + danh từ', động từ chia hòa hợp với danh từ đứng sau nó (danh từ số nhiều 'technical issues') ở hiện tại -> chọn 'are'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are</strong>.<br><br><strong>Dịch câu:</strong><br><em>Có vài sự cố kỹ thuật đối với máy chủ cơ sở dữ liệu mới.</em>"
       },
       {
-        "question": "The statistics published by the government ______ a decline in inflation.",
+        "question": "Statistics ______ considered a challenging subject by many university students.",
         "options": {
-          "A": "show",
-          "B": "shows",
-          "C": "showing",
-          "D": "showedly"
+          "A": "is",
+          "B": "are",
+          "C": "were",
+          "D": "have been"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. show</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ 'statistics' (các số liệu thống kê) làm chủ ngữ số nhiều nên động từ chính chia ở dạng số nhiều -> chọn 'show'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">show</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các số liệu thống kê do chính phủ công bố cho thấy sự sụt giảm lạm phát.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. is</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ 'Statistics' (môn Thống kê) kết thúc bằng -s nhưng thuộc nhóm danh từ chỉ môn học (luôn là số ít) nên động từ chính chia ở dạng số ít -> chọn 'is'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is</strong>.<br><br><strong>Dịch câu:</strong><br><em>Môn Thống kê được coi là một môn học đầy thử thách bởi nhiều sinh viên đại học.</em>"
       },
       {
         "question": "One of the main reasons for the budget cuts ______ the decline in sales.",
@@ -4158,7 +4158,7 @@ const toeicReadingData = [
         "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. is</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chủ ngữ bắt đầu bằng 'One of + danh từ số nhiều' yêu cầu động từ chính chia ở dạng số ít (hòa hợp với đại từ 'One') -> chọn 'is'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một trong những lý do chính cho việc cắt giảm ngân sách là sự sụt giảm doanh số.</em>"
       },
       {
-        "question": "The design team ______ to present their ideas at the meeting tomorrow.",
+        "question": "The marketing department ______ to launch a new promotional campaign next month.",
         "options": {
           "A": "plans",
           "B": "plan",
@@ -4166,7 +4166,7 @@ const toeicReadingData = [
           "D": "are planning"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. plans</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ tập hợp 'The design team' được coi là một thực thể đơn nhất thực hiện hành động đồng lòng nên động từ chia ở dạng số ít ở Hiện tại đơn -> chọn 'plans'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">plans</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm thiết kế lên kế hoạch trình bày các ý tưởng của họ tại cuộc họp ngày mai.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. plans</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ tập hợp 'The marketing department' (Phòng tiếp thị) được coi là một đơn vị tổ chức duy nhất hoạt động như một thể thống nhất nên động từ chia ở dạng số ít ở Hiện tại đơn -> chọn 'plans'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">plans</strong>.<br><br><strong>Dịch câu:</strong><br><em>Phòng tiếp thị lên kế hoạch ra mắt một chiến dịch khuyến mãi mới vào tháng tới.</em>"
       },
       {
         "question": "Most of the information about the merger ______ confidential.",
