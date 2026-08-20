@@ -1685,6 +1685,129 @@ body.light-theme .prep-category-card:hover {
     transition: opacity 0.15s ease-in-out;
 }
 
+/* Premium Verb Pattern Grid & Card Styling */
+.verb-pattern-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 12px;
+    margin-top: 14px;
+}
 
+.verb-pattern-item {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    transition: all 0.25s ease-in-out;
+    position: relative;
+    border-left: 3.5px solid var(--color-cyan);
+}
 
+.verb-pattern-item:hover {
+    transform: translateY(-2px);
+    background: rgba(255, 255, 255, 0.06);
+    border-color: var(--color-cyan);
+    box-shadow: 0 4px 14px rgba(0, 242, 254, 0.12);
+}
 
+body.light-theme .verb-pattern-item {
+    background: rgba(255, 255, 255, 0.9);
+    border-color: rgba(0, 0, 0, 0.08);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.03);
+}
+
+body.light-theme .verb-pattern-item:hover {
+    background: #ffffff;
+    border-color: var(--color-blue);
+    box-shadow: 0 6px 16px rgba(17, 85, 204, 0.1);
+}
+
+.verb-pattern-item.theme-purple {
+    border-left-color: var(--color-purple);
+}
+.verb-pattern-item.theme-purple:hover {
+    border-color: var(--color-purple);
+    box-shadow: 0 4px 14px rgba(168, 85, 247, 0.15);
+}
+body.light-theme .verb-pattern-item.theme-purple {
+    border-left-color: #7030a0;
+}
+body.light-theme .verb-pattern-item.theme-purple:hover {
+    border-color: #7030a0;
+    box-shadow: 0 6px 16px rgba(112, 48, 160, 0.12);
+}
+
+.verb-pattern-item.theme-pink {
+    border-left-color: var(--color-pink);
+}
+.verb-pattern-item.theme-pink:hover {
+    border-color: var(--color-pink);
+    box-shadow: 0 4px 14px rgba(236, 72, 153, 0.15);
+}
+body.light-theme .verb-pattern-item.theme-pink {
+    border-left-color: #be185d;
+}
+body.light-theme .verb-pattern-item.theme-pink:hover {
+    border-color: #be185d;
+    box-shadow: 0 6px 16px rgba(190, 24, 93, 0.12);
+}
+
+.verb-pattern-item.theme-orange {
+    border-left-color: var(--color-gold);
+}
+.verb-pattern-item.theme-orange:hover {
+    border-color: var(--color-gold);
+    box-shadow: 0 4px 14px rgba(245, 158, 11, 0.15);
+}
+body.light-theme .verb-pattern-item.theme-orange {
+    border-left-color: #b45309;
+}
+body.light-theme .verb-pattern-item.theme-orange:hover {
+    border-color: #b45309;
+    box-shadow: 0 6px 16px rgba(180, 83, 9, 0.12);
+}
+
+.verb-phrase {
+    font-weight: 700;
+    font-size: 0.98rem;
+    color: var(--text-primary);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.verb-phrase .hl-core {
+    color: var(--color-cyan);
+}
+body.light-theme .verb-phrase .hl-core {
+    color: #1155cc;
+}
+
+.verb-phrase .hl-core-purple {
+    color: #d946ef;
+}
+body.light-theme .verb-phrase .hl-core-purple {
+    color: #7030a0;
+}
+
+.verb-phrase .hl-core-pink {
+    color: #ec4899;
+}
+body.light-theme .verb-phrase .hl-core-pink {
+    color: #be185d;
+}
+
+.verb-meaning {
+    color: var(--text-secondary);
+    font-size: 0.92rem;
+    font-style: italic;
+    text-align: right;
+    white-space: nowrap;
+}
+body.light-theme .verb-meaning {
+    color: #475569;
+}
