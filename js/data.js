@@ -5134,224 +5134,224 @@ const toeicReadingData = [
     ],
     "questions": [
       {
-        "question": "The conference was postponed ______ the keynote speaker was unable to attend.",
+        "question": "______ torrential rain caused severe flooding across the metropolitan area, the annual technology summit commenced on schedule.",
         "options": {
-          "A": "because",
-          "B": "because of",
-          "C": "despite",
-          "D": "during"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. because</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau chỗ trống là một mệnh đề hoàn chỉnh (<span class=\"hl-blue\">the keynote speaker was unable to attend</span>) nên cần dùng liên từ chỉ nguyên nhân → chọn <strong class=\"hl-vocab\">because</strong>.<br>- Cấu trúc: <code><span class=\"hl-vocab\">because</span> + S + V</code> (bởi vì)<br>- Loại <strong>because of</strong>, <strong>despite</strong>, <strong>during</strong> vì đều là giới từ, không đi trực tiếp với mệnh đề.<br><br><strong>Dịch câu:</strong><br><em>Hội nghị đã bị hoãn vì diễn giả chính không thể tham dự.</em>"
-      },
-      {
-        "question": "The sales team achieved its target, ______ the marketing campaign was highly successful.",
-        "options": {
-          "A": "but",
-          "B": "and",
-          "C": "unless",
-          "D": "until"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. and</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Hai mệnh đề diễn tả hai sự việc xảy ra song song và bổ trợ/bổ sung ý nghĩa tích cực cho nhau → dùng liên từ đẳng lập <strong class=\"hl-vocab\">and</strong> (và).<br>- Các phương án còn lại không phù hợp về ngữ nghĩa:<br>  + <span class=\"hl-orange\">but</span>: đối lập (nhưng)<br>  + <span class=\"hl-orange\">unless</span>: trừ khi / nếu không<br>  + <span class=\"hl-orange\">until</span>: cho đến khi<br><br><strong>Dịch câu:</strong><br><em>Đội ngũ kinh doanh đã đạt chỉ tiêu và chiến dịch tiếp thị cũng rất thành công.</em>"
-      },
-      {
-        "question": "______ the weather was unfavorable, the outdoor event continued as scheduled.",
-        "options": {
-          "A": "Because of",
+          "A": "In spite of",
           "B": "Although",
-          "C": "During",
-          "D": "Instead of"
+          "C": "Despite",
+          "D": "Regardless of"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. Although</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau chỗ trống là một mệnh đề (S + V: <span class=\"hl-blue\">the weather was unfavorable</span>) → cần một liên từ.<br>- Hai mệnh đề có mối quan hệ tương phản, đối lập (thời tiết xấu nhưng sự kiện vẫn tiếp tục) → dùng liên từ chỉ sự tương phản <strong class=\"hl-vocab\">Although</strong> (mặc dù).<br>- Cấu trúc: <code><span class=\"hl-vocab\">Although</span> + S + V, S + V</code><br>- Loại <strong>Because of</strong> và <strong>Instead of</strong> vì là giới từ (không đi trực tiếp với mệnh đề).<br>- Loại <strong>During</strong> vì là giới từ chỉ thời gian.<br><br><strong>Dịch câu:</strong><br><em>Mặc dù thời tiết không thuận lợi, sự kiện ngoài trời vẫn diễn ra theo đúng kế hoạch.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. Although</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bẫy kinh điển giữa <strong>Liên từ</strong> và <strong>Giới từ</strong>: Phía sau chỗ trống là một mệnh đề hoàn chỉnh (S + V + O: <em>torrential rain caused severe flooding...</em>).<br>- Do đó, vị trí đầu câu bắt buộc phải dùng một liên từ phụ thuộc (subordinating conjunction) để nối với mệnh đề chính phía sau.<br>- Ta chọn <strong>Although</strong> (mặc dù).<br>- Loại các phương án <strong>In spite of</strong>, <strong>Despite</strong>, và <strong>Regardless of</strong> vì tất cả đều là cụm giới từ, chỉ đi với cụm danh từ (Noun Phrase) hoặc V-ing chứ không đi với mệnh đề có động từ chia thì.<br><br><strong>Dịch câu:</strong><br><em>Mặc dù mưa xối xả gây ngập lụt nghiêm trọng khắp khu vực đô thị, hội nghị thượng đỉnh công nghệ thường niên vẫn khai mạc đúng lịch trình.</em>"
       },
       {
-        "question": "Please return your visitor badge ______ you leave the building.",
+        "question": "The manufacturing line was temporarily suspended ______ urgent maintenance could be performed on the primary turbine.",
         "options": {
-          "A": "after",
-          "B": "before",
-          "C": "while",
-          "D": "since"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. before</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Xét về ngữ nghĩa và trình tự thời gian: hành động trả thẻ khách (<span class=\"hl-blue\">return your visitor badge</span>) cần diễn ra trước khi rời khỏi tòa nhà (<span class=\"hl-blue\">leave the building</span>) → chọn liên từ chỉ thời gian <strong class=\"hl-vocab\">before</strong> (trước khi).<br>- Các phương án còn lại không phù hợp ngữ cảnh thực tế:<br>  + <span class=\"hl-orange\">after</span>: sau khi<br>  + <span class=\"hl-orange\">while</span>: trong khi<br>  + <span class=\"hl-orange\">since</span>: kể từ khi / bởi vì<br><br><strong>Dịch câu:</strong><br><em>Vui lòng trả lại thẻ khách trước khi rời khỏi tòa nhà.</em>"
-      },
-      {
-        "question": "The shipment cannot be released ______ payment has been confirmed.",
-        "options": {
-          "A": "unless",
-          "B": "because",
-          "C": "although",
-          "D": "yet"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. unless</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần liên từ chỉ điều kiện phủ định: <code><span class=\"hl-vocab\">unless</span> = if not</code> (nếu không... / trừ khi...).<br>- Câu diễn đạt: Lô hàng không thể được giao trừ khi việc thanh toán được xác nhận → chọn <strong class=\"hl-vocab\">unless</strong>.<br>- Các liên từ khác không hợp nghĩa:<br>  + <span class=\"hl-orange\">because</span>: bởi vì<br>  + <span class=\"hl-orange\">although</span>: mặc dù<br>  + <span class=\"hl-orange\">yet</span>: tuy nhiên / nhưng<br><br><strong>Dịch câu:</strong><br><em>Lô hàng sẽ không được giao nếu việc thanh toán chưa được xác nhận.</em>"
-      },
-      {
-        "question": "The company expanded rapidly ______ demand for its products increased.",
-        "options": {
-          "A": "because",
-          "B": "but",
-          "C": "or",
-          "D": "yet"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. because</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Hai mệnh đề có mối quan hệ nguyên nhân - kết quả: việc nhu cầu sản phẩm tăng (<span class=\"hl-blue\">demand for its products increased</span>) là nguyên nhân làm công ty mở rộng nhanh chóng (<span class=\"hl-blue\">company expanded rapidly</span>) → chọn liên từ chỉ lý do <strong class=\"hl-vocab\">because</strong> (bởi vì).<br>- Các phương án còn lại không phù hợp ngữ nghĩa:<br>  + <span class=\"hl-orange\">but</span> / <span class=\"hl-orange\">yet</span>: nhưng (đối lập)<br>  + <span class=\"hl-orange\">or</span>: hoặc (lựa chọn)<br><br><strong>Dịch câu:</strong><br><em>Công ty phát triển nhanh chóng vì nhu cầu đối với sản phẩm của họ tăng lên.</em>"
-      },
-      {
-        "question": "The manager was on a business trip, ______ the meeting was led by the assistant manager.",
-        "options": {
-          "A": "although",
-          "B": "so",
-          "C": "unless",
-          "D": "while"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. so</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Mệnh đề sau là kết quả trực tiếp của mệnh đề trước (Người quản lý đi công tác → Trợ lý chủ trì cuộc họp) → chọn liên từ đẳng lập chỉ kết quả <strong class=\"hl-vocab\">so</strong> (vì vậy/cho nên).<br>- Cấu trúc: <code>S1 + V1, <span class=\"hl-vocab\">so</span> + S2 + V2</code><br>- Các từ khác không đúng mối quan hệ ngữ nghĩa:<br>  + <span class=\"hl-orange\">although</span>: mặc dù (tương phản)<br>  + <span class=\"hl-orange\">unless</span>: trừ khi (điều kiện)<br>  + <span class=\"hl-orange\">while</span>: trong khi (thời gian / song song)<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đi công tác nên cuộc họp được chủ trì bởi trợ lý quản lý.</em>"
-      },
-      {
-        "question": "You may submit the application online ______ by mail.",
-        "options": {
-          "A": "but",
-          "B": "and",
-          "C": "or",
-          "D": "yet"
+          "A": "in order to",
+          "B": "so as to",
+          "C": "so that",
+          "D": "because of"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. or</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Câu diễn tả hai phương thức nộp đơn để lựa chọn: trực tuyến (<span class=\"hl-blue\">online</span>) hoặc qua đường bưu điện (<span class=\"hl-blue\">by mail</span>) → chọn liên từ đẳng lập chỉ sự lựa chọn <strong class=\"hl-vocab\">or</strong> (hoặc).<br>- Các liên từ còn lại không phù hợp ý nghĩa lựa chọn.<br><br><strong>Dịch câu:</strong><br><em>Bạn có thể nộp đơn trực tuyến hoặc qua đường bưu điện.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. so that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bẫy liên từ chỉ mục đích: Phía sau chỗ trống là một mệnh đề có chủ ngữ và động từ khiếm khuyết (<em>urgent maintenance could be performed...</em>).<br>- Cấu trúc chỉ mục đích đi với mệnh đề là: <strong>so that / in order that + S + modal verb (can/could/may...) + V</strong> (để mà...).<br>- Ta chọn phương án <strong>so that</strong>.<br>- Loại <strong>in order to</strong> và <strong>so as to</strong> vì theo sau phải là động từ nguyên mẫu (V-bare).<br>- Loại <strong>because of</strong> vì là giới từ chỉ nguyên nhân đi với danh từ.<br><br><strong>Dịch câu:</strong><br><em>Dây chuyền sản xuất đã tạm thời bị ngừng lại để việc bảo trì khẩn cấp có thể được thực hiện trên tuabin chính.</em>"
       },
       {
-        "question": "______ the report is approved, it will be distributed to all departments.",
+        "question": "The airline will issue a full refund or hotel accommodation voucher ______ a flight is delayed by more than six hours.",
+        "options": {
+          "A": "in the event of",
+          "B": "in case of",
+          "C": "as a result of",
+          "D": "in the event that"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. in the event that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phân biệt cụm từ kết thúc bằng giới từ vs liên từ có 'that': Phía sau chỗ trống là một mệnh đề đầy đủ (<em>a flight is delayed by more than six hours</em>).<br>- Cấu trúc: <strong>in the event that + clause = if + clause</strong> (trong trường hợp / nếu mà...).<br>- Ta chọn phương án <strong>in the event that</strong>.<br>- Loại <strong>in the event of</strong>, <strong>in case of</strong>, và <strong>as a result of</strong> vì tận cùng là giới từ 'of' nên chỉ đi sau bởi cụm danh từ hoặc V-ing.<br><br><strong>Dịch câu:</strong><br><em>Hãng hàng không sẽ hoàn tiền đầy đủ hoặc cấp phiếu lưu trú khách sạn trong trường hợp chuyến bay bị hoãn hơn sáu giờ.</em>"
+      },
+      {
+        "question": "______ all confidential project files have been securely encrypted, they may be uploaded to the cloud repository.",
         "options": {
           "A": "Once",
-          "B": "Because",
+          "B": "Until",
           "C": "Unless",
-          "D": "Yet"
+          "D": "While"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Once</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần liên từ chỉ thời điểm hành động trước hoàn thành rồi hành động sau mới xảy ra: <strong class=\"hl-vocab\">Once</strong> (một khi / ngay sau khi).<br>- Cấu trúc: <code><span class=\"hl-vocab\">Once</span> + S + V, S + V</code><br>- Các phương án khác không tạo nghĩa hợp lý:<br>  + <span class=\"hl-orange\">Because</span>: bởi vì<br>  + <span class=\"hl-orange\">Unless</span>: trừ khi<br>  + <span class=\"hl-orange\">Yet</span>: tuy nhiên / nhưng<br><br><strong>Dịch câu:</strong><br><em>Sau khi báo cáo được phê duyệt, nó sẽ được gửi đến tất cả các phòng ban.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Once</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ chỉ thời gian mang tính điều kiện: <strong>Once + S + have/has V3ed, S + V</strong> mang nghĩa 'Một khi... / Ngay sau khi... đã hoàn thành'.<br>- Ngữ cảnh: Một khi các tập tin dự án mật đã được mã hóa an toàn, chúng mới có thể được tải lên kho lưu trữ đám mây -> chọn <strong>Once</strong>.<br>- Các phương án còn lại trái ngược về mặt logic:<br>  + <em>Until</em>: Cho đến tận khi (thường đi với mệnh đề chính phủ định).<br>  + <em>Unless</em>: Trừ khi / Nếu không.<br>  + <em>While</em>: Trong khi (chỉ 2 hành động song song).<br><br><strong>Dịch câu:</strong><br><em>Một khi tất cả các tập tin dự án mật đã được mã hóa an toàn, chúng có thể được tải lên kho lưu trữ đám mây.</em>"
       },
       {
-        "question": "The printer is old, ______ it still works efficiently.",
+        "question": "The newly appointed executive director is respected ______ for her visionary leadership ______ for her integrity.",
         "options": {
-          "A": "and",
-          "B": "because",
-          "C": "yet",
-          "D": "so"
-        },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. yet</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Hai mệnh đề diễn tả hai sự việc có quan hệ tương phản, đối lập (Máy in đã cũ nhưng vẫn hoạt động hiệu quả) → chọn liên từ đẳng lập chỉ sự đối lập <strong class=\"hl-vocab\">yet</strong> (tuy nhiên / nhưng).<br>- Các liên từ khác không phù hợp:<br>  + <span class=\"hl-orange\">and</span>: và (bổ sung)<br>  + <span class=\"hl-orange\">because</span>: bởi vì (nguyên nhân)<br>  + <span class=\"hl-orange\">so</span>: vì vậy (kết quả)<br><br><strong>Dịch câu:</strong><br><em>Chiếc máy in đã cũ nhưng vẫn hoạt động hiệu quả.</em>"
-      },
-      {
-        "question": "The meeting began ______ all participants had arrived.",
-        "options": {
-          "A": "after",
-          "B": "because",
-          "C": "although",
-          "D": "unless"
+          "A": "not only - but also",
+          "B": "neither - or",
+          "C": "either - and",
+          "D": "both - or"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. after</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dùng liên từ chỉ thời gian biểu thị trình tự hợp lý của hành động: cuộc họp bắt đầu (<span class=\"hl-blue\">meeting began</span>) sau khi mọi người đã đến đông đủ (<span class=\"hl-blue\">all participants had arrived</span>) → chọn <strong class=\"hl-vocab\">after</strong> (sau khi).<br>- Các liên từ khác không tạo nghĩa thời gian logic: <em>because</em> (bởi vì), <em>although</em> (mặc dù), <em>unless</em> (trừ khi).<br><br><strong>Dịch câu:</strong><br><em>Cuộc họp bắt đầu sau khi tất cả người tham gia đã đến.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. not only - but also</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ tương quan (Correlative Conjunctions): Cặp từ cố định <strong>not only A but also B</strong> (không những A mà còn B).<br>- Cấu trúc này đảm bảo tính song hành hoàn hảo giữa hai cụm giới từ: <em>for her visionary leadership</em> và <em>for her integrity</em>.<br>- Các phương án ghép sai cặp từ:<br>  + B sai vì 'neither' phải đi với 'nor'.<br>  + C sai vì 'either' phải đi với 'or'.<br>  + D sai vì 'both' phải đi với 'and'.<br><br><strong>Dịch câu:</strong><br><em>Vị giám đốc điều hành mới được bổ nhiệm được kính trọng không chỉ vì khả năng lãnh đạo có tầm nhìn mà còn vì sự chính trực của bà.</em>"
       },
       {
-        "question": "Employees should contact the IT department ______ they experience technical problems.",
+        "question": "The shipment of electronic sensors cannot be released from customs ______ the importer provides the certificate of origin.",
         "options": {
           "A": "if",
-          "B": "yet",
+          "B": "because",
+          "C": "unless",
+          "D": "since"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. unless</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ điều kiện phủ định: <strong>Unless = If... not</strong> (Trừ khi / Nếu... không).<br>- Mệnh đề chính có tính phủ định: 'The shipment cannot be released' (Lô hàng không thể được thông quan).<br>- Ý nghĩa logic: Lô hàng không thể được thông quan nếu nhà nhập khẩu không xuất trình giấy chứng nhận xuất xứ (C/O) -> chọn <strong>unless</strong>.<br>- Các phương án A (if), B (because), D (since) đều làm cho câu bị đảo ngược ý nghĩa logic một cách vô lý.<br><br><strong>Dịch câu:</strong><br><em>Lô hàng cảm biến điện tử không thể được thông quan trừ khi nhà nhập khẩu cung cấp được giấy chứng nhận xuất xứ hàng hóa.</em>"
+      },
+      {
+        "question": "The commercial lease contract will remain valid for five years ______ neither party submits a written request for termination.",
+        "options": {
+          "A": "as for",
+          "B": "in order that",
+          "C": "even though",
+          "D": "provided that"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. provided that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ chỉ điều kiện ràng buộc trong hợp đồng thương mại: <strong>provided that / providing that = as long as = if</strong> (với điều kiện là / miễn là...).<br>- Ngữ cảnh: Hợp đồng thuê mặt bằng thương mại sẽ duy trì hiệu lực trong 5 năm với điều kiện là không bên nào nộp yêu cầu chấm dứt bằng văn bản -> chọn <strong>provided that</strong>.<br>- Loại <strong>as for</strong> (giới từ: về phần/đối với).<br>- Loại <strong>in order that</strong> (chỉ mục đích: để mà).<br>- Loại <strong>even though</strong> (tương phản: mặc dù).<br><br><strong>Dịch câu:</strong><br><em>Hợp đồng thuê mặt bằng thương mại sẽ giữ nguyên hiệu lực trong năm năm với điều kiện là không bên nào nộp đơn yêu cầu chấm dứt bằng văn bản.</em>"
+      },
+      {
+        "question": "______ the research department made significant breakthroughs, commercial production remains several months away.",
+        "options": {
+          "A": "Even though",
+          "B": "Because of",
+          "C": "Despite",
+          "D": "In spite of"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Even though</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phân biệt liên từ và giới từ chỉ sự tương phản: Theo sau chỗ trống là mệnh đề hoàn chỉnh (<em>the research department made significant breakthroughs</em>).<br>- Cần một liên từ nối hai mệnh đề tương phản: <strong>Even though + S + V</strong> (Mặc dù...).<br>- Ta chọn <strong>Even though</strong>.<br>- Loại <strong>Because of</strong>, <strong>Despite</strong>, và <strong>In spite of</strong> vì đều là giới từ, chỉ đi với Noun Phrase hoặc V-ing.<br><br><strong>Dịch câu:</strong><br><em>Mặc dù phòng nghiên cứu đã tạo ra những bước đột phá đáng kể, việc sản xuất thương mại vẫn còn phải mất vài tháng nữa.</em>"
+      },
+      {
+        "question": "The board of directors has not yet decided ______ to acquire the regional distribution firm or expand existing facilities.",
+        "options": {
+          "A": "if",
+          "B": "whether",
+          "C": "neither",
+          "D": "either"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. whether</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cặp liên từ lựa chọn với to-V: <strong>whether to do sth or do sth</strong> (liệu nên làm cái này hay làm cái kia).<br>- Trong tiếng Anh chuẩn, <em>if</em> không bao giờ đi trực tiếp với động từ nguyên mẫu có to (không có 'if to do'). Chỉ có <strong>whether to-V</strong>.<br>- 'neither' và 'either' không đi với cấu trúc '...to acquire... or expand'.<br>- Do đó phương án chính xác là <strong>whether</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hội đồng quản trị vẫn chưa quyết định liệu nên mua lại công ty phân phối khu vực hay mở rộng các cơ sở hiện có.</em>"
+      },
+      {
+        "question": "The senior technician was inspecting the control panel ______ the unexpected power surge disrupted the laboratory network.",
+        "options": {
+          "A": "during",
+          "B": "since",
+          "C": "when",
+          "D": "because of"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. when</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc thì phối hợp với liên từ chỉ thời gian: Một hành động đang xảy ra trong quá khứ (<em>was inspecting</em>) thì một hành động ngắn khác bất ngờ xen vào (<em>disrupted</em>) -> dùng liên từ <strong>when</strong>.<br>- Cấu trúc: <code>S + was/were V-ing + WHEN + S + V2/ed</code>.<br>- Loại <strong>during</strong> và <strong>because of</strong> vì là giới từ (không đứng trước mệnh đề).<br>- Loại <strong>since</strong> vì không phù hợp ngữ cảnh diễn biến hành động xen vào.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên cao cấp đang kiểm tra bảng điều khiển thì sự cố tăng áp đột ngột đã làm gián đoạn mạng lưới phòng thí nghiệm.</em>"
+      },
+      {
+        "question": "Staff members must submit all travel reimbursement receipts within ten business days; ______, claims will not be processed.",
+        "options": {
+          "A": "unless",
+          "B": "although",
+          "C": "instead",
+          "D": "otherwise"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. otherwise</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bẫy trạng từ liên kết (Conjunctive Adverb) đi sau dấu chấm phẩy (;) và trước dấu phẩy (,):<br>- <strong>Otherwise</strong> (nếu không thì...) dùng để nối hai mệnh đề độc lập, chỉ hậu quả tiêu cực nếu điều kiện ở mệnh đề trước không được đáp ứng.<br>- <em>Unless</em> và <em>although</em> là liên từ phụ thuộc, không đứng độc lập sau dấu chấm phẩy có dấu phẩy theo sau như vậy.<br>- <em>Instead</em> (thay vào đó) không phù hợp về mặt ngữ nghĩa.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên phải nộp tất cả biên lai hoàn tiền công tác trong vòng mười ngày làm việc; nếu không thì các yêu cầu thanh toán sẽ không được xử lý.</em>"
+      },
+      {
+        "question": "The presentation slides were concise ______ informative, enabling the client to understand the complex proposal easily.",
+        "options": {
+          "A": "yet",
+          "B": "or",
           "C": "so",
+          "D": "for"
+        },
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. yet</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bẫy liên từ đẳng lập đa nghĩa: <strong>Yet</strong> khi đóng vai trò liên từ đẳng lập nối hai tính từ mang nghĩa 'nhưng / tuy vậy mà lại' (tương đương <em>but</em>).<br>- 'concise yet informative' là cách diễn đạt phổ biến và học thuật trong TOEIC (ngắn gọn nhưng lại chứa đựng nhiều thông tin hữu ích).<br>- Các liên từ <em>or</em> (hoặc), <em>so</em> (cho nên), <em>for</em> (bởi vì) không dùng để nối hai tính từ đối lập tinh tế như thế này.<br><br><strong>Dịch câu:</strong><br><em>Các trang trình bày ngắn gọn nhưng vẫn đầy đủ thông tin, giúp khách hàng dễ dàng hiểu được bản đề xuất phức tạp.</em>"
+      },
+      {
+        "question": "The marketing director proposed ______ reducing print advertising expenditures ______ reallocating funds to digital media.",
+        "options": {
+          "A": "neither - and",
+          "B": "not only - but also",
+          "C": "both - or",
+          "D": "either - but"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. not only - but also</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ tương quan song hành: Cặp từ đúng ngữ pháp duy nhất là <strong>not only... but also...</strong> (không những... mà còn...).<br>- Hai vế được nối đều là cụm danh động từ: <em>reducing...</em> và <em>reallocating...</em>.<br>- Các lựa chọn A, C, D đều ghép sai cặp liên từ tương quan.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã đề xuất không chỉ cắt giảm chi tiêu cho quảng cáo in ấn mà còn tái phân bổ ngân sách sang truyền thông kỹ thuật số.</em>"
+      },
+      {
+        "question": "______ all laboratory test results have been officially verified, the pharmaceutical firm cannot apply for regulatory approval.",
+        "options": {
+          "A": "As soon as",
+          "B": "Because",
+          "C": "Until",
+          "D": "While"
+        },
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. Until</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bẫy liên từ thời gian kết hợp phủ định: <strong>Until + S + V, S + cannot / will not + V</strong> mang nghĩa 'Cho đến tận khi... thì mới có thể...'.<br>- Ngữ cảnh: Cho đến khi tất cả kết quả thử nghiệm trong phòng lab được kiểm chứng chính thức, công ty dược phẩm không thể nộp đơn xin cấp phép từ cơ quan quản lý -> chọn <strong>Until</strong>.<br>- Các liên từ <em>As soon as</em> (ngay khi), <em>Because</em> (bởi vì), <em>While</em> (trong khi) nếu đưa vào sẽ tạo thành câu phản logic.<br><br><strong>Dịch câu:</strong><br><em>Cho đến khi tất cả các kết quả xét nghiệm trong phòng thí nghiệm được xác minh chính thức, công ty dược phẩm không thể nộp đơn xin phê duyệt theo quy định.</em>"
+      },
+      {
+        "question": "Candidates must possess ______ a bachelor's degree in accounting ______ a minimum of three years of auditing experience.",
+        "options": {
+          "A": "neither - or",
+          "B": "both - or",
+          "C": "not only - or",
+          "D": "both - and"
+        },
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. both - and</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cặp liên từ tương quan đúng: <strong>both A and B</strong> (cả A và B).<br>- Yêu cầu công việc đòi hỏi ứng viên phải có cả hai điều kiện: bằng cử nhân kế toán VÀ tối thiểu ba năm kinh nghiệm kiểm toán -> chọn <strong>both - and</strong>.<br>- Các phương án A, B, C đều ghép sai cặp từ nối.<br><br><strong>Dịch câu:</strong><br><em>Các ứng viên phải có cả bằng cử nhân kế toán và tối thiểu ba năm kinh nghiệm kiểm toán.</em>"
+      },
+      {
+        "question": "The customer care hotline received hundreds of calls ______ the mobile banking application encountered a technical outage.",
+        "options": {
+          "A": "when",
+          "B": "during",
+          "C": "despite",
           "D": "because of"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. if</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần liên từ chỉ giả định/điều kiện cho mệnh đề sau: \"Nhân viên nên liên hệ với bộ phận IT nếu họ gặp sự cố kỹ thuật\" → chọn <strong class=\"hl-vocab\">if</strong> (nếu).<br>- Loại <strong>because of</strong> vì là giới từ, không đi với mệnh đề.<br>- Các liên từ <strong>yet</strong>, <strong>so</strong> không hợp nghĩa.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên nên liên hệ với bộ phận CNTT nếu gặp sự cố kỹ thuật.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. when</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bẫy phân biệt Liên từ vs Giới từ: Phía sau chỗ trống là mệnh đề có chủ ngữ và vị ngữ hoàn chỉnh (<em>the mobile banking application encountered a technical outage</em>).<br>- Do đó ta bắt buộc phải chọn một liên từ chỉ thời gian/sự kiện là <strong>when</strong> (khi/vào lúc).<br>- Các phương án <strong>during</strong>, <strong>despite</strong>, và <strong>because of</strong> đều là giới từ, chỉ đi kèm danh từ/cụm danh từ nên loại.<br><br><strong>Dịch câu:</strong><br><em>Đường dây nóng chăm sóc khách hàng đã nhận được hàng trăm cuộc gọi khi ứng dụng ngân hàng di động gặp sự cố ngừng hoạt động kỹ thuật.</em>"
       },
       {
-        "question": "______ Ms. Green was absent, Mr. Carter chaired the meeting.",
+        "question": "The revised corporate security guidelines are ______ rigorous ______ external auditors commended our compliance efforts.",
         "options": {
-          "A": "Since",
-          "B": "During",
-          "C": "Despite",
-          "D": "Instead of"
+          "A": "neither - nor",
+          "B": "as - as",
+          "C": "such - that",
+          "D": "so - that"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Since</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau chỗ trống là một mệnh đề hoàn chỉnh (S + V: <span class=\"hl-blue\">Ms. Green was absent</span>) → cần một liên từ ở đầu câu.<br>- Mối quan hệ giữa hai mệnh đề là nguyên nhân - kết quả (do vắng mặt nên người khác phải chủ trì) → chọn liên từ chỉ lý do <strong class=\"hl-vocab\">Since</strong> (vì/do bởi).<br>- Loại <strong>During</strong>, <strong>Despite</strong>, <strong>Instead of</strong> vì là giới từ (không đi kèm trực tiếp với mệnh đề).<br><br><strong>Dịch câu:</strong><br><em>Vì cô Green vắng mặt nên ông Carter chủ trì cuộc họp.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. so - that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chỉ kết quả: Phân biệt <strong>so... that</strong> và <strong>such... that</strong>:<br>  + <code>so + Adjective / Adverb + that + clause</code>.<br>  + <code>such + (a/an) + Adj + Noun + that + clause</code>.<br>- Ở đây sau chỗ trống thứ nhất là tính từ đơn <strong>rigorous</strong> (nghiêm ngặt), không có danh từ theo sau -> bắt buộc dùng cấu trúc <strong>so... that</strong>.<br>- Do đó chọn phương án <strong>so - that</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các hướng dẫn an ninh doanh nghiệp sửa đổi nghiêm ngặt đến mức mà các kiểm toán viên bên ngoài đã khen ngợi nỗ lực tuân thủ của chúng tôi.</em>"
       },
       {
-        "question": "The company will continue the project ______ additional funding is available.",
+        "question": "The senior management team held an emergency meeting ______ review the quarterly revenue deficit.",
         "options": {
-          "A": "if",
-          "B": "but",
-          "C": "while",
+          "A": "so that",
+          "B": "in order that",
+          "C": "in order to",
           "D": "because"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. if</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Mệnh đề sau thể hiện điều kiện tiên quyết để hành động ở mệnh đề chính diễn ra (việc tiếp tục dự án phụ thuộc vào việc có thêm kinh phí) → dùng liên từ điều kiện <strong class=\"hl-vocab\">if</strong> (nếu).<br>- Các liên từ khác không tạo ý nghĩa điều kiện chính xác: <em>but</em> (nhưng), <em>while</em> (trong khi), <em>because</em> (bởi vì).<br><br><strong>Dịch câu:</strong><br><em>Công ty sẽ tiếp tục dự án nếu có thêm nguồn tài trợ.</em>"
-      },
-      {
-        "question": "The office remained open, ______ only a few employees came to work.",
-        "options": {
-          "A": "and",
-          "B": "but",
-          "C": "because",
-          "D": "unless"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. but</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Hai mệnh đề diễn đạt ý tương phản, đối lập nhau (văn phòng mở cửa nhưng vắng người) → chọn liên từ đẳng lập chỉ sự đối lập <strong class=\"hl-vocab\">but</strong> (nhưng).<br>- Các phương án khác không tạo nên quan hệ đối lập phù hợp ngữ nghĩa.<br><br><strong>Dịch câu:</strong><br><em>Văn phòng vẫn mở cửa nhưng chỉ có vài nhân viên đến làm việc.</em>"
-      },
-      {
-        "question": "______ the customers were waiting, the receptionist answered phone calls.",
-        "options": {
-          "A": "Because",
-          "B": "While",
-          "C": "Until",
-          "D": "Since"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. While</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả hai hành động đang xảy ra song song tại cùng một thời điểm: khách hàng đang đợi (<span class=\"hl-blue\">customers were waiting</span>) và lễ tân trả lời điện thoại (<span class=\"hl-blue\">receptionist answered phone calls</span>) → dùng liên từ chỉ thời gian <strong class=\"hl-vocab\">While</strong> (trong khi).<br>- Các từ khác không diễn tả đúng mối quan hệ song song này: <em>Because / Since</em> (vì), <em>Until</em> (cho đến khi).<br><br><strong>Dịch câu:</strong><br><em>Trong khi khách hàng đang chờ, lễ tân trả lời các cuộc gọi điện thoại.</em>"
-      },
-      {
-        "question": "Both the finance department ______ the accounting department are reviewing the budget.",
-        "options": {
-          "A": "or",
-          "B": "and",
-          "C": "but",
-          "D": "yet"
-        },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. and</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ tương quan đi cùng với <strong class=\"hl-blue\">Both</strong>:<br>  <code><span class=\"hl-blue\">Both A and B</span></code> (Cả A và B)<br>- Do đó chọn liên từ <strong class=\"hl-vocab\">and</strong>.<br>- Lưu ý: Động từ đi sau cấu trúc này luôn ở dạng số nhiều (are).<br><br><strong>Dịch câu:</strong><br><em>Cả phòng tài chính và phòng kế toán đều đang xem xét ngân sách.</em>"
-      },
-      {
-        "question": "Neither the manager ______ the assistants were available yesterday.",
-        "options": {
-          "A": "and",
-          "B": "but",
-          "C": "nor",
-          "D": "or"
-        },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. nor</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ tương quan đi cùng với <strong class=\"hl-blue\">Neither</strong>:<br>  <code><span class=\"hl-blue\">Neither A nor B</span></code> (Không A cũng không B)<br>- Do đó chọn liên từ tương quan đi kèm là <strong class=\"hl-vocab\">nor</strong>.<br>- Lưu ý: Động từ chia theo chủ ngữ gần nhất (B - assistants là số nhiều → chia <code>were</code>).<br><br><strong>Dịch câu:</strong><br><em>Hôm qua cả người quản lý lẫn các trợ lý đều không có mặt.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. in order to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bẫy động từ nguyên mẫu vs mệnh đề chỉ mục đích: Theo sau chỗ trống là động từ nguyên mẫu (<em>review</em>) cùng tân ngữ của nó.<br>- Cấu trúc chỉ mục đích đi với động từ nguyên mẫu: <strong>in order to / so as to + V-bare</strong> (để làm gì).<br>- Ta chọn phương án <strong>in order to</strong>.<br>- Loại <strong>so that</strong>, <strong>in order that</strong>, và <strong>because</strong> vì tất cả đều là liên từ bắt buộc theo sau bởi một mệnh đề có chủ ngữ và động từ chia thì.<br><br><strong>Dịch câu:</strong><br><em>Đội ngũ quản lý cấp cao đã tổ chức một cuộc họp khẩn cấp để xem xét thâm hụt doanh thu hàng quý.</em>"
       },
       {
-        "question": "Not only the new software ______ the updated database improved productivity.",
+        "question": "Employees may work remotely on alternating Fridays, ______ all project milestones are fulfilled on time.",
         "options": {
-          "A": "but also",
-          "B": "and",
-          "C": "or",
-          "D": "yet"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. but also</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ tương quan đi cùng với <strong class=\"hl-blue\">Not only</strong>:<br>  <code><span class=\"hl-blue\">Not only A but also B</span></code> (Không những A mà còn B)<br>- Do đó chọn liên từ tương quan đi kèm <strong class=\"hl-vocab\">but also</strong>.<br><br><strong>Dịch câu:</strong><br><em>Không những phần mềm mới mà cả cơ sở dữ liệu được cập nhật cũng đã cải thiện năng suất.</em>"
-      },
-      {
-        "question": "We have not decided ______ to renew the contract or sign a new agreement.",
-        "options": {
-          "A": "because",
-          "B": "whether",
-          "C": "unless",
-          "D": "while"
+          "A": "in spite of",
+          "B": "as long as",
+          "C": "due to",
+          "D": "regardless of"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. whether</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sử dụng cấu trúc liên từ tương quan đi cùng với từ <span class=\"hl-blue\">or</span> ở phía sau:<br>  <code><span class=\"hl-blue\">whether ... or ...</span></code> (liệu... hay...)<br>- Trong câu là: <em>whether to renew the contract or sign a new agreement</em> (liệu nên gia hạn hợp đồng hay ký thỏa thuận mới) → chọn liên từ <strong class=\"hl-vocab\">whether</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi vẫn chưa quyết định liệu sẽ gia hạn hợp đồng hay ký một thỏa thuận mới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. as long as</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau chỗ trống là mệnh đề điều kiện (<em>all project milestones are fulfilled on time</em>).<br>- Liên từ chỉ điều kiện: <strong>as long as / so long as = provided that = if</strong> (miễn là / với điều kiện là...).<br>- Ta chọn phương án <strong>as long as</strong>.<br>- Các phương án <strong>in spite of</strong>, <strong>due to</strong>, và <strong>regardless of</strong> đều là giới từ, không đi với mệnh đề có động từ chia thì.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên có thể làm việc từ xa vào các ngày thứ Sáu xen kẽ, miễn là tất cả các mốc tiến độ dự án được hoàn thành đúng hạn.</em>"
+      },
+      {
+        "question": "The commercial district experienced a prolonged power disruption; ______, retail businesses suffered substantial sales losses.",
+        "options": {
+          "A": "although",
+          "B": "consequently",
+          "C": "whereas",
+          "D": "because"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. consequently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bẫy trạng từ liên kết chỉ kết quả: Đứng sau dấu chấm phẩy (;) và trước dấu phẩy (,) nối hai mệnh đề nguyên nhân - kết quả độc lập.<br>- <strong>Consequently = Therefore = As a result</strong> (Hệ quả là / Do đó...).<br>- Các từ <em>although</em>, <em>whereas</em>, <em>because</em> là liên từ phụ thuộc, không đứng độc lập sau dấu chấm phẩy có dấu phẩy theo sau để ngăn cách mệnh đề chính như vậy.<br>- Do đó chọn phương án <strong>consequently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khu thương mại đã trải qua tình trạng mất điện kéo dài; hệ quả là, các doanh nghiệp bán lẻ đã chịu tổn thất doanh thu đáng kể.</em>"
       }
     ],
     "homework": [
