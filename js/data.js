@@ -339,134 +339,134 @@ const toeicReadingData = [
       {
         "question": "The board of directors is currently reviewing the new ______.",
         "options": {
-          "A": "proposal",
+          "A": "proposing",
           "B": "propose",
           "C": "proposed",
-          "D": "proposing"
+          "D": "proposal"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. proposal</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Vị trí trống đứng sau tính từ chỉ định hoặc mạo từ 'the new' nên cần điền một danh từ. Đuôi '-al' trong 'proposal' là danh từ chỉ bản đề xuất.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">proposal</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ban giám đốc hiện đang xem xét bản đề xuất mới.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. proposal</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Vị trí trống đứng sau tính từ chỉ định hoặc mạo từ 'the new' nên cần điền một danh từ. Đuôi '-al' trong 'proposal' là danh từ chỉ bản đề xuất.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">proposal</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ban giám đốc hiện đang xem xét bản đề xuất mới.</em>"
       },
       {
         "question": "Mr. Kim received ______ from his supervisor regarding the conference.",
         "options": {
           "A": "approve",
-          "B": "approved",
-          "C": "approval",
+          "B": "approval",
+          "C": "approved",
           "D": "approvingly"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. approval</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Vị trí trống đứng sau động từ hành động 'received' và làm tân ngữ trực tiếp của câu nên cần điền một danh từ. 'approval' là danh từ chỉ sự phê duyệt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">approval</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Kim đã nhận được sự phê duyệt từ người giám sát của mình liên quan đến hội nghị.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. approval</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Vị trí trống đứng sau động từ hành động 'received' và làm tân ngữ trực tiếp của câu nên cần điền một danh từ. 'approval' là danh từ chỉ sự phê duyệt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">approval</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Kim đã nhận được sự phê duyệt từ người giám sát của mình liên quan đến hội nghị.</em>"
       },
       {
         "question": "The customer service department values client ______ above all else.",
         "options": {
-          "A": "satisfy",
-          "B": "satisfaction",
+          "A": "satisfaction",
+          "B": "satisfy",
           "C": "satisfactory",
           "D": "satisfied"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. satisfaction</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ 'client' để tạo thành cụm danh từ làm tân ngữ của câu, chỗ trống cần điền một danh từ. 'satisfaction' là danh từ chỉ sự hài lòng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">satisfaction</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận dịch vụ khách hàng coi trọng sự hài lòng của khách hàng hơn tất cả những thứ khác.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. satisfaction</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ 'client' để tạo thành cụm danh từ làm tân ngữ của câu, chỗ trống cần điền một danh từ. 'satisfaction' là danh từ chỉ sự hài lòng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">satisfaction</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận dịch vụ khách hàng coi trọng sự hài lòng của khách hàng hơn tất cả những thứ khác.</em>"
       },
       {
         "question": "We need to hire an experienced ______ to lead the marketing campaign.",
         "options": {
-          "A": "specialist",
+          "A": "specialized",
           "B": "specialty",
           "C": "specialize",
-          "D": "specialized"
+          "D": "specialist"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. specialist</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'an' và tính từ 'experienced' làm bổ ngữ chỉ người nên cần điền danh từ chỉ người ở số ít. 'specialist' là danh từ chỉ chuyên gia.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">specialist</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta cần thuê một chuyên gia có kinh nghiệm để dẫn dắt chiến dịch tiếp thị.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. specialist</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'an' và tính từ 'experienced' làm bổ ngữ chỉ người nên cần điền danh từ chỉ người ở số ít. 'specialist' là danh từ chỉ chuyên gia.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">specialist</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta cần thuê một chuyên gia có kinh nghiệm để dẫn dắt chiến dịch tiếp thị.</em>"
       },
       {
         "question": "Please submit your travel expense ______ by the end of the week.",
         "options": {
-          "A": "receipts",
+          "A": "receive",
           "B": "receipt",
-          "C": "receive",
+          "C": "receipts",
           "D": "receivable"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. receipts</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm từ 'travel expense' làm tân ngữ cho động từ 'submit' nên cần danh từ. Ở đây ta chọn danh từ số nhiều 'receipts' (các hóa đơn) để chỉ chung các chứng từ cần nộp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">receipts</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng nộp các biên lai chi phí đi lại của bạn trước cuối tuần.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. receipts</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm từ 'travel expense' làm tân ngữ cho động từ 'submit' nên cần danh từ. Ở đây ta chọn danh từ số nhiều 'receipts' (các hóa đơn) để chỉ chung các chứng từ cần nộp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">receipts</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng nộp các biên lai chi phí đi lại của bạn trước cuối tuần.</em>"
       },
       {
         "question": "The company has seen a significant ______ in sales this quarter.",
         "options": {
-          "A": "grow",
+          "A": "growth",
           "B": "growing",
-          "C": "growth",
+          "C": "grow",
           "D": "grown"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. growth</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'a' và tính từ 'significant' nên vị trí này cần điền một danh từ. 'growth' là danh từ chỉ sự tăng trưởng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">growth</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đã nhận thấy một sự tăng trưởng đáng kể về doanh số bán hàng trong quý này.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. growth</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'a' và tính từ 'significant' nên vị trí này cần điền một danh từ. 'growth' là danh từ chỉ sự tăng trưởng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">growth</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đã nhận thấy một sự tăng trưởng đáng kể về doanh số bán hàng trong quý này.</em>"
       },
       {
         "question": "Only candidates with matching ______ will be invited for an interview.",
         "options": {
           "A": "qualify",
           "B": "qualification",
-          "C": "qualified",
-          "D": "qualifications"
+          "C": "qualifications",
+          "D": "qualified"
         },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. qualifications</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ 'with' và tính từ 'matching' để làm tân ngữ nên cần điền một danh từ. Danh từ số nhiều 'qualifications' (các bằng cấp, phẩm chất) phù hợp ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">qualifications</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chỉ những ứng viên có các bằng cấp phù hợp mới được mời tham dự phỏng vấn.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. qualifications</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ 'with' và tính từ 'matching' để làm tân ngữ nên cần điền một danh từ. Danh từ số nhiều 'qualifications' (các bằng cấp, phẩm chất) phù hợp ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">qualifications</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chỉ những ứng viên có các bằng cấp phù hợp mới được mời tham dự phỏng vấn.</em>"
       },
       {
         "question": "We are looking for a suitable ______ to the office space problem.",
         "options": {
           "A": "solve",
-          "B": "soluble",
-          "C": "solution",
+          "B": "solution",
+          "C": "soluble",
           "D": "solvent"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. solution</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'a' và tính từ 'suitable' nên vị trí trống cần điền một danh từ. 'solution' là danh từ chỉ giải pháp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">solution</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đang tìm kiếm một giải pháp thích hợp cho vấn đề không gian văn phòng.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. solution</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'a' và tính từ 'suitable' nên vị trí trống cần điền một danh từ. 'solution' là danh từ chỉ giải pháp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">solution</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đang tìm kiếm một giải pháp thích hợp cho vấn đề không gian văn phòng.</em>"
       },
       {
         "question": "All ______ must wear safety helmets while visiting the construction site.",
         "options": {
-          "A": "visitors",
+          "A": "visitation",
           "B": "visit",
           "C": "visiting",
-          "D": "visitation"
+          "D": "visitors"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. visitors</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng đầu câu làm chủ ngữ trước động từ chính 'must wear' nên cần điền một danh từ. Danh từ chỉ người ở số nhiều 'visitors' (các khách tham quan) phù hợp với ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">visitors</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả khách tham quan phải đội mũ bảo hiểm bảo hộ khi đến thăm công trường xây dựng.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. visitors</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng đầu câu làm chủ ngữ trước động từ chính 'must wear' nên cần điền một danh từ. Danh từ chỉ người ở số nhiều 'visitors' (các khách tham quan) phù hợp với ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">visitors</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả khách tham quan phải đội mũ bảo hiểm bảo hộ khi đến thăm công trường xây dựng.</em>"
       },
       {
         "question": "The new manager has earned the ______ of all her team members.",
         "options": {
-          "A": "respect",
+          "A": "respectfully",
           "B": "respectful",
-          "C": "respectfully",
+          "C": "respect",
           "D": "respected"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. respect</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'the' và trước giới từ 'of' nên vị trí trống cần điền một danh từ. 'respect' là danh từ chỉ sự tôn trọng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">respect</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý mới đã nhận được sự tôn trọng của tất cả các thành viên trong nhóm của cô ấy.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. respect</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'the' và trước giới từ 'of' nên vị trí trống cần điền một danh từ. 'respect' là danh từ chỉ sự tôn trọng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">respect</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý mới đã nhận được sự tôn trọng của tất cả các thành viên trong nhóm của cô ấy.</em>"
       },
       {
         "question": "The legal department requested additional ______ to finalize the contract.",
         "options": {
-          "A": "document",
-          "B": "documents",
+          "A": "documents",
+          "B": "document",
           "C": "documenting",
           "D": "documentary"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. documents</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ 'additional' và làm tân ngữ của động từ 'requested' nên cần điền một danh từ. Danh từ số nhiều 'documents' (các tài liệu) phù hợp ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">documents</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận pháp lý đã yêu cầu các tài liệu bổ sung để hoàn tất hợp đồng.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. documents</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ 'additional' và làm tân ngữ của động từ 'requested' nên cần điền một danh từ. Danh từ số nhiều 'documents' (các tài liệu) phù hợp ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">documents</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận pháp lý đã yêu cầu các tài liệu bổ sung để hoàn tất hợp đồng.</em>"
       },
       {
         "question": "Dr. Aris is a leading ______ in the field of renewable energy.",
         "options": {
-          "A": "authority",
+          "A": "authoritative",
           "B": "authorize",
           "C": "authorization",
-          "D": "authoritative"
+          "D": "authority"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. authority</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'a' và tính từ 'leading' bổ nghĩa cho danh từ chỉ người làm vị ngữ nên cần điền danh từ. 'authority' ở đây mang nghĩa là một chuyên gia/học giả uy tín.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">authority</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tiến sĩ Aris là một chuyên gia hàng đầu trong lĩnh vực năng lượng tái tạo.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. authority</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'a' và tính từ 'leading' bổ nghĩa cho danh từ chỉ người làm vị ngữ nên cần điền danh từ. 'authority' ở đây mang nghĩa là một chuyên gia/học giả uy tín.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">authority</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tiến sĩ Aris là một chuyên gia hàng đầu trong lĩnh vực năng lượng tái tạo.</em>"
       },
       {
         "question": "Our team has made a major ______ to the international space project.",
@@ -482,79 +482,79 @@ const toeicReadingData = [
       {
         "question": "Before making a decision, we should consider all ______.",
         "options": {
-          "A": "alternatives",
+          "A": "alternated",
           "B": "alternate",
           "C": "alternatively",
-          "D": "alternated"
+          "D": "alternatives"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. alternatives</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau từ hạn định 'all' nên chỗ trống cần điền một danh từ số nhiều hoặc danh từ không đếm được. 'alternatives' (các lựa chọn thay thế) là danh từ số nhiều phù hợp ngữ nghĩa.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">alternatives</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trước khi đưa ra quyết định, chúng ta nên cân nhắc tất cả các phương án thay thế.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. alternatives</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau từ hạn định 'all' nên chỗ trống cần điền một danh từ số nhiều hoặc danh từ không đếm được. 'alternatives' (các lựa chọn thay thế) là danh từ số nhiều phù hợp ngữ nghĩa.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">alternatives</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trước khi đưa ra quyết định, chúng ta nên cân nhắc tất cả các phương án thay thế.</em>"
       },
       {
         "question": "The ______ of the annual conference will be announced tomorrow.",
         "options": {
-          "A": "locate",
-          "B": "location",
+          "A": "location",
+          "B": "locate",
           "C": "local",
           "D": "locally"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. location</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'the' và trước cụm giới từ 'of the annual conference' làm chủ ngữ nên cần điền một danh từ. 'location' là danh từ chỉ địa điểm.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">location</strong>.<br><br><strong>Dịch câu:</strong><br><em>Địa điểm của hội nghị thường niên sẽ được công bố vào ngày mai.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. location</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'the' và trước cụm giới từ 'of the annual conference' làm chủ ngữ nên cần điền một danh từ. 'location' là danh từ chỉ địa điểm.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">location</strong>.<br><br><strong>Dịch câu:</strong><br><em>Địa điểm của hội nghị thường niên sẽ được công bố vào ngày mai.</em>"
       },
       {
         "question": "The supervisor expressed her ______ with the project results.",
         "options": {
           "A": "please",
-          "B": "pleased",
+          "B": "pleasure",
           "C": "pleasant",
-          "D": "pleasure"
+          "D": "pleased"
         },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. pleasure</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ sở hữu 'her' và làm tân ngữ cho động từ 'expressed' nên cần điền một danh từ. 'pleasure' là danh từ chỉ sự hài lòng, niềm vui thích.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">pleasure</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã bày tỏ sự hài lòng của mình với các kết quả của dự án.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. pleasure</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ sở hữu 'her' và làm tân ngữ cho động từ 'expressed' nên cần điền một danh từ. 'pleasure' là danh từ chỉ sự hài lòng, niềm vui thích.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">pleasure</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã bày tỏ sự hài lòng của mình với các kết quả của dự án.</em>"
       },
       {
         "question": "Please confirm your ______ by replying to this email.",
         "options": {
           "A": "attend",
-          "B": "attendance",
-          "C": "attendant",
+          "B": "attendant",
+          "C": "attendance",
           "D": "attended"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. attendance</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ sở hữu 'your' nên vị trí trống cần điền một danh từ. Ở đây 'attendance' (sự tham dự) phù hợp ngữ cảnh hơn danh từ chỉ người 'attendant' (người phục vụ).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">attendance</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng xác nhận sự tham dự của bạn bằng cách trả lời email này.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. attendance</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ sở hữu 'your' nên vị trí trống cần điền một danh từ. Ở đây 'attendance' (sự tham dự) phù hợp ngữ cảnh hơn danh từ chỉ người 'attendant' (người phục vụ).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">attendance</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng xác nhận sự tham dự của bạn bằng cách trả lời email này.</em>"
       },
       {
         "question": "The new system was developed to improve office ______.",
         "options": {
-          "A": "efficient",
-          "B": "efficiency",
+          "A": "efficiency",
+          "B": "efficient",
           "C": "efficiently",
           "D": "efficacious"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. efficiency</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ 'office' để làm tân ngữ bổ nghĩa cho động từ 'improve' nên cần điền danh từ. 'efficiency' là danh từ chỉ hiệu suất hoặc hiệu quả làm việc.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">efficiency</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hệ thống mới được phát triển để nâng cao hiệu suất làm việc của văn phòng.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. efficiency</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ 'office' để làm tân ngữ bổ nghĩa cho động từ 'improve' nên cần điền danh từ. 'efficiency' là danh từ chỉ hiệu suất hoặc hiệu quả làm việc.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">efficiency</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hệ thống mới được phát triển để nâng cao hiệu suất làm việc của văn phòng.</em>"
       },
       {
         "question": "The sudden ______ of the CEO surprised the entire business community.",
         "options": {
           "A": "retire",
-          "B": "retired",
-          "C": "retirement",
+          "B": "retirement",
+          "C": "retired",
           "D": "retiring"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. retirement</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'the' và tính từ 'sudden' làm chủ ngữ cho câu nên cần điền danh từ. 'retirement' là danh từ chỉ sự nghỉ hưu.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">retirement</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sự nghỉ hưu đột ngột của Giám đốc điều hành đã làm ngạc nhiên toàn bộ cộng đồng doanh nghiệp.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. retirement</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'the' và tính từ 'sudden' làm chủ ngữ cho câu nên cần điền danh từ. 'retirement' là danh từ chỉ sự nghỉ hưu.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">retirement</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sự nghỉ hưu đột ngột của Giám đốc điều hành đã làm ngạc nhiên toàn bộ cộng đồng doanh nghiệp.</em>"
       },
       {
         "question": "We must strictly follow safety ______ in the chemical laboratory.",
         "options": {
           "A": "regulate",
           "B": "regulators",
-          "C": "regulatory",
-          "D": "regulations"
+          "C": "regulations",
+          "D": "regulatory"
         },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. regulations</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ bổ nghĩa 'safety' làm tân ngữ cho động từ 'follow' nên cần điền danh từ. Danh từ số nhiều 'regulations' (các quy định) phù hợp ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">regulations</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta phải tuân thủ nghiêm ngặt các quy định an toàn trong phòng thí nghiệm hóa chất.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. regulations</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ bổ nghĩa 'safety' làm tân ngữ cho động từ 'follow' nên cần điền danh từ. Danh từ số nhiều 'regulations' (các quy định) phù hợp ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">regulations</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta phải tuân thủ nghiêm ngặt các quy định an toàn trong phòng thí nghiệm hóa chất.</em>"
       }
     ],
     "homework": [
@@ -991,34 +991,34 @@ const toeicReadingData = [
         "question": "The company ______ its headquarters to Chicago last month.",
         "options": {
           "A": "relocates",
-          "B": "relocated",
+          "B": "relocating",
           "C": "will relocate",
-          "D": "relocating"
+          "D": "relocated"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. relocated</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ thời gian 'last month' (tháng trước) yêu cầu động từ chính chia ở thì Quá khứ đơn -> chọn 'relocated'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">relocated</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đã chuyển trụ sở chính của mình đến Chicago vào tháng trước.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. relocated</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ thời gian 'last month' (tháng trước) yêu cầu động từ chính chia ở thì Quá khứ đơn -> chọn 'relocated'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">relocated</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đã chuyển trụ sở chính của mình đến Chicago vào tháng trước.</em>"
       },
       {
         "question": "The accounting department usually ______ the budget report on Fridays.",
         "options": {
           "A": "prepare",
-          "B": "prepares",
-          "C": "is preparing",
+          "B": "is preparing",
+          "C": "prepares",
           "D": "prepared"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. prepares</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ chỉ tần suất 'usually' (thường xuyên) chỉ hành động lặp đi lặp lại ở Hiện tại đơn. Chủ ngữ 'The accounting department' là số ít nên động từ chia thêm '-s/-es' -> 'prepares'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">prepares</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận kế toán thường chuẩn bị báo cáo ngân sách vào các ngày thứ Sáu.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. prepares</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ chỉ tần suất 'usually' (thường xuyên) chỉ hành động lặp đi lặp lại ở Hiện tại đơn. Chủ ngữ 'The accounting department' là số ít nên động từ chia thêm '-s/-es' -> 'prepares'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">prepares</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận kế toán thường chuẩn bị báo cáo ngân sách vào các ngày thứ Sáu.</em>"
       },
       {
         "question": "We ______ the new software system next Monday morning.",
         "options": {
-          "A": "install",
-          "B": "will install",
+          "A": "will install",
+          "B": "install",
           "C": "installed",
           "D": "installing"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will install</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm chỉ thời gian tương lai 'next Monday morning' (sáng thứ Hai tới) yêu cầu chia thì Tương lai đơn -> chọn 'will install'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will install</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi sẽ cài đặt hệ thống phần mềm mới vào sáng thứ Hai tới.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. will install</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm chỉ thời gian tương lai 'next Monday morning' (sáng thứ Hai tới) yêu cầu chia thì Tương lai đơn -> chọn 'will install'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will install</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi sẽ cài đặt hệ thống phần mềm mới vào sáng thứ Hai tới.</em>"
       },
       {
         "question": "Ms. Watson ______ as the regional manager since 2020.",
@@ -1047,11 +1047,11 @@ const toeicReadingData = [
         "options": {
           "A": "reviews",
           "B": "has reviewed",
-          "C": "had reviewed",
-          "D": "is reviewing"
+          "C": "is reviewing",
+          "D": "had reviewed"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. had reviewed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Hành động xảy ra trước một hành động khác trong quá khứ ('before the client arrived') yêu cầu chia ở thì Quá khứ hoàn thành -> chọn 'had reviewed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">had reviewed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát của chúng tôi đã xem xét bản đề xuất trước khi khách hàng đến.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. had reviewed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Hành động xảy ra trước một hành động khác trong quá khứ ('before the client arrived') yêu cầu chia ở thì Quá khứ hoàn thành -> chọn 'had reviewed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">had reviewed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát của chúng tôi đã xem xét bản đề xuất trước khi khách hàng đến.</em>"
       },
       {
         "question": "By this time next year, the company ______ three new branches.",
@@ -1067,46 +1067,46 @@ const toeicReadingData = [
       {
         "question": "The marketing director decided ______ the product launch date.",
         "options": {
-          "A": "postpone",
+          "A": "to postpone",
           "B": "postponed",
-          "C": "to postpone",
+          "C": "postpone",
           "D": "postponing"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. to postpone</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ 'decide' yêu cầu động từ theo sau nó ở dạng động từ nguyên mẫu có 'to' (to-infinitive) -> chọn 'to postpone'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">to postpone</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã quyết định trì hoãn ngày ra mắt sản phẩm.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. to postpone</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ 'decide' yêu cầu động từ theo sau nó ở dạng động từ nguyên mẫu có 'to' (to-infinitive) -> chọn 'to postpone'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">to postpone</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã quyết định trì hoãn ngày ra mắt sản phẩm.</em>"
       },
       {
         "question": "The technician can ______ the computer network within an hour.",
         "options": {
-          "A": "repair",
+          "A": "repairing",
           "B": "repairs",
           "C": "repaired",
-          "D": "repairing"
+          "D": "repair"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. repair</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu 'can' là động từ nguyên mẫu không 'to' (bare infinitive) -> chọn 'repair'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">repair</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên có thể sửa chữa mạng máy tính trong vòng một giờ.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. repair</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu 'can' là động từ nguyên mẫu không 'to' (bare infinitive) -> chọn 'repair'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">repair</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên có thể sửa chữa mạng máy tính trong vòng một giờ.</em>"
       },
       {
         "question": "Mr. Vance avoided ______ his manager about the budget deficit.",
         "options": {
           "A": "tell",
-          "B": "told",
-          "C": "telling",
+          "B": "telling",
+          "C": "told",
           "D": "to tell"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. telling</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ 'avoid' yêu cầu động từ theo sau nó ở dạng danh động từ (V-ing) -> chọn 'telling'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">telling</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Vance đã tránh nói với quản lý của mình về việc thâm hụt ngân sách.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. telling</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ 'avoid' yêu cầu động từ theo sau nó ở dạng danh động từ (V-ing) -> chọn 'telling'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">telling</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Vance đã tránh nói với quản lý của mình về việc thâm hụt ngân sách.</em>"
       },
       {
         "question": "The new regulations ______ all employees to register their vehicles.",
         "options": {
-          "A": "require",
+          "A": "required",
           "B": "requires",
           "C": "requiring",
-          "D": "required"
+          "D": "require"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. require</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ 'The new regulations' là danh từ số nhiều nên động từ chính chia ở dạng số nhiều ở Hiện tại đơn -> chọn 'require'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">require</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các quy định mới yêu cầu tất cả nhân viên phải đăng ký xe của họ.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. require</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ 'The new regulations' là danh từ số nhiều nên động từ chính chia ở dạng số nhiều ở Hiện tại đơn -> chọn 'require'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">require</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các quy định mới yêu cầu tất cả nhân viên phải đăng ký xe của họ.</em>"
       },
       {
         "question": "If you ______ the document, please return it to the HR office.",
@@ -1134,34 +1134,34 @@ const toeicReadingData = [
         "question": "We ______ to hear that the project was a great success.",
         "options": {
           "A": "please",
-          "B": "are pleased",
-          "C": "pleased",
+          "B": "pleased",
+          "C": "are pleased",
           "D": "pleasing"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. are pleased</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính thái bị động chỉ cảm xúc của con người: 'be pleased to-V' (rất vui mừng/hài lòng khi làm gì) -> chọn 'are pleased'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are pleased</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi rất vui mừng khi nghe tin rằng dự án đã thành công tốt đẹp.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. are pleased</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính thái bị động chỉ cảm xúc của con người: 'be pleased to-V' (rất vui mừng/hài lòng khi làm gì) -> chọn 'are pleased'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are pleased</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi rất vui mừng khi nghe tin rằng dự án đã thành công tốt đẹp.</em>"
       },
       {
         "question": "The laboratory team ______ the chemical solution very carefully yesterday.",
         "options": {
-          "A": "analyses",
+          "A": "analyzed",
           "B": "analyzing",
-          "C": "analyzed",
+          "C": "analyses",
           "D": "analyse"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. analyzed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dựa vào dấu hiệu thời gian 'yesterday' (hôm qua), động từ chính chia ở thì Quá khứ đơn -> chọn 'analyzed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">analyzed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm nghiên cứu phòng thí nghiệm đã phân tích dung dịch hóa chất rất cẩn thận vào hôm qua.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. analyzed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dựa vào dấu hiệu thời gian 'yesterday' (hôm qua), động từ chính chia ở thì Quá khứ đơn -> chọn 'analyzed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">analyzed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm nghiên cứu phòng thí nghiệm đã phân tích dung dịch hóa chất rất cẩn thận vào hôm qua.</em>"
       },
       {
         "question": "Please let Mr. Patel ______ the contract before it is printed.",
         "options": {
-          "A": "sign",
-          "B": "to sign",
+          "A": "to sign",
+          "B": "sign",
           "C": "signing",
           "D": "signed"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. sign</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc với động từ cầu khiến: 'let + tân ngữ + động từ nguyên mẫu không to' -> chọn 'sign'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">sign</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng để ông Patel ký hợp đồng trước khi nó được in.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. sign</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc với động từ cầu khiến: 'let + tân ngữ + động từ nguyên mẫu không to' -> chọn 'sign'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">sign</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng để ông Patel ký hợp đồng trước khi nó được in.</em>"
       },
       {
         "question": "The supervisor requested that the report ______ submitted immediately.",
@@ -1178,12 +1178,12 @@ const toeicReadingData = [
         "question": "The security guards ______ the building patrol every night.",
         "options": {
           "A": "conducts",
-          "B": "conduct",
+          "B": "conducted",
           "C": "conducting",
-          "D": "conducted"
+          "D": "conduct"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. conduct</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ 'The security guards' là số nhiều, và trạng từ tần suất 'every night' chỉ thói quen nên chia động từ nguyên mẫu ở Hiện tại đơn -> chọn 'conduct'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">conduct</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các nhân viên bảo vệ thực hiện việc tuần tra tòa nhà mỗi tối.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. conduct</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ 'The security guards' là số nhiều, và trạng từ tần suất 'every night' chỉ thói quen nên chia động từ nguyên mẫu ở Hiện tại đơn -> chọn 'conduct'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">conduct</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các nhân viên bảo vệ thực hiện việc tuần tra tòa nhà mỗi tối.</em>"
       },
       {
         "question": "The marketing director has decided ______ the promotional campaign.",
@@ -1674,56 +1674,56 @@ const toeicReadingData = [
         "question": "The team leader was ______ with the outstanding performance of the staff.",
         "options": {
           "A": "impress",
-          "B": "impressive",
-          "C": "impressed",
+          "B": "impressed",
+          "C": "impressive",
           "D": "impressively"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. impressed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết 'was' để mô tả cảm xúc của con người (bị ấn tượng bởi cái gì) nên chọn phân từ đóng vai trò tính từ đuôi '-ed' -> 'impressed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">impressed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trưởng nhóm đã bị ấn tượng với hiệu suất làm việc xuất sắc của nhân viên.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. impressed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết 'was' để mô tả cảm xúc của con người (bị ấn tượng bởi cái gì) nên chọn phân từ đóng vai trò tính từ đuôi '-ed' -> 'impressed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">impressed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trưởng nhóm đã bị ấn tượng với hiệu suất làm việc xuất sắc của nhân viên.</em>"
       },
       {
         "question": "The product demonstration was very ______ to the potential clients.",
         "options": {
           "A": "inform",
-          "B": "informative",
+          "B": "informatively",
           "C": "information",
-          "D": "informatively"
+          "D": "informative"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. informative</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trạng từ chỉ mức độ 'very' và động từ to be 'was' nên chỗ trống cần điền một tính từ bổ nghĩa cho vật. 'informative' là tính từ chỉ tính hữu ích, chứa nhiều thông tin.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">informative</strong>.<br><br><strong>Dịch câu:</strong><br><em>Buổi trình diễn sản phẩm rất hữu ích và nhiều thông tin đối với các khách hàng tiềm năng.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. informative</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trạng từ chỉ mức độ 'very' và động từ to be 'was' nên chỗ trống cần điền một tính từ bổ nghĩa cho vật. 'informative' là tính từ chỉ tính hữu ích, chứa nhiều thông tin.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">informative</strong>.<br><br><strong>Dịch câu:</strong><br><em>Buổi trình diễn sản phẩm rất hữu ích và nhiều thông tin đối với các khách hàng tiềm năng.</em>"
       },
       {
         "question": "Please keep all ______ documents in the locked cabinet.",
         "options": {
-          "A": "confidential",
+          "A": "confidence",
           "B": "confidentially",
-          "C": "confidence",
+          "C": "confidential",
           "D": "confidentiality"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. confidential</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ số nhiều 'documents' để bổ nghĩa nên chỗ trống cần điền một tính từ. 'confidential' là tính từ chỉ tính bảo mật.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">confidential</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng giữ tất cả các tài liệu bảo mật trong tủ có khóa.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. confidential</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ số nhiều 'documents' để bổ nghĩa nên chỗ trống cần điền một tính từ. 'confidential' là tính từ chỉ tính bảo mật.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">confidential</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng giữ tất cả các tài liệu bảo mật trong tủ có khóa.</em>"
       },
       {
         "question": "The new manager remains ______ about reaching the quarterly target.",
         "options": {
-          "A": "optimist",
-          "B": "optimistic",
+          "A": "optimistic",
+          "B": "optimist",
           "C": "optimistically",
           "D": "optimism"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. optimistic</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết 'remains' (vẫn như thế nào) nên chỗ trống cần điền một tính từ. 'optimistic' là tính từ chỉ sự lạc quan.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">optimistic</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý mới vẫn lạc quan về việc đạt được mục tiêu hàng quý.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. optimistic</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết 'remains' (vẫn như thế nào) nên chỗ trống cần điền một tính từ. 'optimistic' là tính từ chỉ sự lạc quan.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">optimistic</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý mới vẫn lạc quan về việc đạt được mục tiêu hàng quý.</em>"
       },
       {
         "question": "The initial project design was ______ due to budget limitations.",
         "options": {
-          "A": "impractical",
+          "A": "practice",
           "B": "impractically",
           "C": "impracticability",
-          "D": "practice"
+          "D": "impractical"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. impractical</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be 'was' để làm vị ngữ bổ nghĩa cho chủ ngữ 'design' nên cần điền một tính từ. 'impractical' là tính từ chỉ sự không thực tế.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">impractical</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thiết kế dự án ban đầu không thực tế do các giới hạn về ngân sách.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. impractical</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be 'was' để làm vị ngữ bổ nghĩa cho chủ ngữ 'design' nên cần điền một tính từ. 'impractical' là tính từ chỉ sự không thực tế.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">impractical</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thiết kế dự án ban đầu không thực tế do các giới hạn về ngân sách.</em>"
       },
       {
         "question": "It is ______ to check all invoices before making any payment.",
@@ -1740,45 +1740,45 @@ const toeicReadingData = [
         "question": "The marketing director gave a ______ speech at the annual seminar.",
         "options": {
           "A": "briefly",
-          "B": "brief",
+          "B": "briefing",
           "C": "brevity",
-          "D": "briefing"
+          "D": "brief"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. brief</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'speech' để bổ nghĩa cho danh từ đó nên vị trí trống cần điền một tính từ. 'brief' là tính từ chỉ sự ngắn gọn.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">brief</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã phát biểu một bài thuyết trình ngắn gọn tại buổi chuyên đề thường niên.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. brief</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'speech' để bổ nghĩa cho danh từ đó nên vị trí trống cần điền một tính từ. 'brief' là tính từ chỉ sự ngắn gọn.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">brief</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã phát biểu một bài thuyết trình ngắn gọn tại buổi chuyên đề thường niên.</em>"
       },
       {
         "question": "The technical support team was ______ in resolving the issue.",
         "options": {
-          "A": "help",
-          "B": "helpful",
+          "A": "helpful",
+          "B": "help",
           "C": "helpfully",
           "D": "helplessly"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. helpful</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be 'was' nên chỗ trống cần điền một tính từ bổ nghĩa cho người. 'helpful' là tính từ chỉ sự hữu ích, hay giúp đỡ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">helpful</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm hỗ trợ kỹ thuật đã rất có ích trong việc giải quyết sự cố.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. helpful</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be 'was' nên chỗ trống cần điền một tính từ bổ nghĩa cho người. 'helpful' là tính từ chỉ sự hữu ích, hay giúp đỡ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">helpful</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm hỗ trợ kỹ thuật đã rất có ích trong việc giải quyết sự cố.</em>"
       },
       {
         "question": "We need to find a more ______ way to manufacture these parts.",
         "options": {
-          "A": "economical",
-          "B": "economy",
+          "A": "economy",
+          "B": "economical",
           "C": "economically",
           "D": "economize"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. economical</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau từ chỉ mức độ so sánh 'more' và đứng trước danh từ 'way' nên vị trí trống cần điền tính từ. 'economical' là tính từ chỉ tính tiết kiệm.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">economical</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta cần tìm một cách tiết kiệm hơn để sản xuất các bộ phận này.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. economical</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau từ chỉ mức độ so sánh 'more' và đứng trước danh từ 'way' nên vị trí trống cần điền tính từ. 'economical' là tính từ chỉ tính tiết kiệm.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">economical</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta cần tìm một cách tiết kiệm hơn để sản xuất các bộ phận này.</em>"
       },
       {
         "question": "The presentation slides were visually ______ and caught everyone's attention.",
         "options": {
           "A": "attract",
-          "B": "attractive",
-          "C": "attractively",
+          "B": "attractively",
+          "C": "attractive",
           "D": "attraction"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. attractive</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trạng từ 'visually' và liên động từ 'were' để bổ nghĩa cho chủ ngữ 'slides' nên cần điền tính từ. 'attractive' là tính từ chỉ sự hấp dẫn, đẹp mắt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">attractive</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các trang thuyết trình trông rất đẹp mắt và thu hút sự chú ý của mọi người.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. attractive</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trạng từ 'visually' và liên động từ 'were' để bổ nghĩa cho chủ ngữ 'slides' nên cần điền tính từ. 'attractive' là tính từ chỉ sự hấp dẫn, đẹp mắt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">attractive</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các trang thuyết trình trông rất đẹp mắt và thu hút sự chú ý của mọi người.</em>"
       },
       {
         "question": "The manager was ______ of the team's ability to finish on time.",
@@ -1817,23 +1817,23 @@ const toeicReadingData = [
         "question": "The client remains ______ with the current progress of the project.",
         "options": {
           "A": "satisfy",
-          "B": "satisfied",
+          "B": "satisfactory",
           "C": "satisfying",
-          "D": "satisfactory"
+          "D": "satisfied"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. satisfied</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết 'remains' để mô tả trạng thái cảm xúc của con người (hài lòng với cái gì) nên cần điền tính từ đuôi '-ed' -> 'satisfied'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">satisfied</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng vẫn hài lòng với tiến độ hiện tại của dự án.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. satisfied</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết 'remains' để mô tả trạng thái cảm xúc của con người (hài lòng với cái gì) nên cần điền tính từ đuôi '-ed' -> 'satisfied'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">satisfied</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng vẫn hài lòng với tiến độ hiện tại của dự án.</em>"
       },
       {
         "question": "The marketing team designed a very ______ promotional flyer.",
         "options": {
-          "A": "creative",
-          "B": "create",
+          "A": "create",
+          "B": "creative",
           "C": "creatively",
           "D": "creativity"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. creative</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'flyer' và sau trạng từ 'very' nên vị trí trống cần điền một tính từ bổ nghĩa. 'creative' là tính từ chỉ tính sáng tạo.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">creative</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm tiếp thị đã thiết kế một tờ rơi quảng cáo rất sáng tạo.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. creative</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'flyer' và sau trạng từ 'very' nên vị trí trống cần điền một tính từ bổ nghĩa. 'creative' là tính từ chỉ tính sáng tạo.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">creative</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm tiếp thị đã thiết kế một tờ rơi quảng cáo rất sáng tạo.</em>"
       },
       {
         "question": "We must be ______ of the regulations before launching the product.",
@@ -1850,34 +1850,34 @@ const toeicReadingData = [
         "question": "The supervisor is ______ for approving all travel expenses.",
         "options": {
           "A": "response",
-          "B": "responsible",
+          "B": "responsibility",
           "C": "responsibly",
-          "D": "responsibility"
+          "D": "responsible"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. responsible</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: 'be responsible for something / V-ing' (chịu trách nhiệm về cái gì) -> chọn tính từ 'responsible'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">responsible</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát chịu trách nhiệm phê duyệt tất cả các chi phí đi lại.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. responsible</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: 'be responsible for something / V-ing' (chịu trách nhiệm về cái gì) -> chọn tính từ 'responsible'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">responsible</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát chịu trách nhiệm phê duyệt tất cả các chi phí đi lại.</em>"
       },
       {
         "question": "The training session was ______ to all new employees.",
         "options": {
           "A": "benefit",
-          "B": "beneficial",
-          "C": "beneficially",
+          "B": "beneficially",
+          "C": "beneficial",
           "D": "benefiting"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. beneficial</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be 'was' bổ nghĩa cho chủ ngữ 'session' nên chỗ trống cần điền một tính từ. 'beneficial' là tính từ chỉ sự có lợi, ích lợi.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">beneficial</strong>.<br><br><strong>Dịch câu:</strong><br><em>Buổi đào tạo rất có ích cho tất cả các nhân viên mới.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. beneficial</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be 'was' bổ nghĩa cho chủ ngữ 'session' nên chỗ trống cần điền một tính từ. 'beneficial' là tính từ chỉ sự có lợi, ích lợi.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">beneficial</strong>.<br><br><strong>Dịch câu:</strong><br><em>Buổi đào tạo rất có ích cho tất cả các nhân viên mới.</em>"
       },
       {
         "question": "The proposed design is ______ with the company's brand identity.",
         "options": {
-          "A": "consistently",
+          "A": "consistent",
           "B": "consistency",
-          "C": "consistent",
+          "C": "consistently",
           "D": "consist"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. consistent</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: 'be consistent with something' (nhất quán/phù hợp với cái gì) -> chọn tính từ 'consistent'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">consistent</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thiết kế được đề xuất là nhất quán với bản sắc thương hiệu của công ty.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. consistent</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: 'be consistent with something' (nhất quán/phù hợp với cái gì) -> chọn tính từ 'consistent'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">consistent</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thiết kế được đề xuất là nhất quán với bản sắc thương hiệu của công ty.</em>"
       }
     ],
     "homework": [
@@ -2239,34 +2239,34 @@ const toeicReadingData = [
         "question": "The manager ______ reviewed the draft of the contract.",
         "options": {
           "A": "careful",
-          "B": "carefully",
-          "C": "carefulness",
+          "B": "carefulness",
+          "C": "carefully",
           "D": "caring"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. carefully</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước động từ hành động 'reviewed' để bổ nghĩa cho động từ đó nên cần điền một trạng từ. 'carefully' là trạng từ chỉ sự cẩn thận.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">carefully</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã xem xét bản thảo của hợp đồng một cách cẩn thận.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. carefully</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước động từ hành động 'reviewed' để bổ nghĩa cho động từ đó nên cần điền một trạng từ. 'carefully' là trạng từ chỉ sự cẩn thận.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">carefully</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã xem xét bản thảo của hợp đồng một cách cẩn thận.</em>"
       },
       {
         "question": "The marketing team completed the project ______ ahead of schedule.",
         "options": {
-          "A": "successful",
-          "B": "successfully",
+          "A": "successfully",
+          "B": "successful",
           "C": "success",
           "D": "succeed"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. successfully</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống bổ nghĩa cho hành động 'completed' ở vế trước nên cần điền một trạng từ. 'successfully' là trạng từ chỉ sự thành công.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">successfully</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm tiếp thị đã hoàn thành dự án một cách thành công trước thời hạn.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. successfully</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống bổ nghĩa cho hành động 'completed' ở vế trước nên cần điền một trạng từ. 'successfully' là trạng từ chỉ sự thành công.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">successfully</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm tiếp thị đã hoàn thành dự án một cách thành công trước thời hạn.</em>"
       },
       {
         "question": "The new software program runs ______ on the updated operating system.",
         "options": {
           "A": "smooth",
-          "B": "smoothly",
+          "B": "smoother",
           "C": "smoothness",
-          "D": "smoother"
+          "D": "smoothly"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. smoothly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động 'runs' để bổ nghĩa cho hành động đó nên vị trí trống cần điền trạng từ. 'smoothly' là trạng từ chỉ sự trơn tru, mượt mà.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">smoothly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chương trình phần mềm mới chạy một cách trơn tru trên hệ điều hành đã được cập nhật.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. smoothly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động 'runs' để bổ nghĩa cho hành động đó nên vị trí trống cần điền trạng từ. 'smoothly' là trạng từ chỉ sự trơn tru, mượt mà.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">smoothly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chương trình phần mềm mới chạy một cách trơn tru trên hệ điều hành đã được cập nhật.</em>"
       },
       {
         "question": "Mr. Chang was ______ pleased with the quarterly sales results.",
@@ -2283,23 +2283,23 @@ const toeicReadingData = [
         "question": "The safety regulations must be ______ followed by all employees.",
         "options": {
           "A": "strict",
-          "B": "strictly",
+          "B": "stricter",
           "C": "strictness",
-          "D": "stricter"
+          "D": "strictly"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. strictly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ bị động 'must be' và động từ phân từ 2 'followed' để bổ nghĩa cho hành động bị động nên cần điền trạng từ. 'strictly' là trạng từ chỉ sự nghiêm ngặt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">strictly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các quy định an toàn phải được tuân thủ một cách nghiêm ngặt bởi tất cả nhân viên.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. strictly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ bị động 'must be' và động từ phân từ 2 'followed' để bổ nghĩa cho hành động bị động nên cần điền trạng từ. 'strictly' là trạng từ chỉ sự nghiêm ngặt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">strictly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các quy định an toàn phải được tuân thủ một cách nghiêm ngặt bởi tất cả nhân viên.</em>"
       },
       {
         "question": "The company ______ announced the launch of its new product line.",
         "options": {
-          "A": "recent",
-          "B": "recently",
+          "A": "recently",
+          "B": "recent",
           "C": "recency",
           "D": "recentness"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. recently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ hành động 'announced' để chỉ thời gian xảy ra hành động nên cần điền trạng từ. 'recently' là trạng từ chỉ sự gần đây.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">recently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty gần đây đã thông báo về việc ra mắt dòng sản phẩm mới.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. recently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ hành động 'announced' để chỉ thời gian xảy ra hành động nên cần điền trạng từ. 'recently' là trạng từ chỉ sự gần đây.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">recently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty gần đây đã thông báo về việc ra mắt dòng sản phẩm mới.</em>"
       },
       {
         "question": "The budget was ______ estimated because of incomplete data.",
@@ -2316,23 +2316,23 @@ const toeicReadingData = [
         "question": "Our technician will check the server network ______ to prevent issues.",
         "options": {
           "A": "regular",
-          "B": "regularly",
-          "C": "regularity",
+          "B": "regularity",
+          "C": "regularly",
           "D": "regulate"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. regularly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng cuối câu để bổ nghĩa cho hành động 'check' nên vị trí trống cần điền trạng từ chỉ tần suất. 'regularly' là trạng từ chỉ sự thường xuyên.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">regularly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên của chúng tôi sẽ kiểm tra mạng máy chủ một cách thường xuyên để ngăn ngừa sự cố.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. regularly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng cuối câu để bổ nghĩa cho hành động 'check' nên vị trí trống cần điền trạng từ chỉ tần suất. 'regularly' là trạng từ chỉ sự thường xuyên.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">regularly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên của chúng tôi sẽ kiểm tra mạng máy chủ một cách thường xuyên để ngăn ngừa sự cố.</em>"
       },
       {
         "question": "The financial report was ______ detailed and easy to understand.",
         "options": {
-          "A": "remark",
+          "A": "remarkably",
           "B": "remarkable",
-          "C": "remarkably",
+          "C": "remark",
           "D": "remarked"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. remarkably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước tính từ 'detailed' để bổ nghĩa cho tính từ đó nên cần điền trạng từ. 'remarkably' là trạng từ chỉ mức độ đáng kể, đặc biệt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">remarkably</strong>.<br><br><strong>Dịch câu:</strong><br><em>Báo cáo tài chính chi tiết một cách đáng ngạc nhiên và dễ hiểu.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. remarkably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước tính từ 'detailed' để bổ nghĩa cho tính từ đó nên cần điền trạng từ. 'remarkably' là trạng từ chỉ mức độ đáng kể, đặc biệt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">remarkably</strong>.<br><br><strong>Dịch câu:</strong><br><em>Báo cáo tài chính chi tiết một cách đáng ngạc nhiên và dễ hiểu.</em>"
       },
       {
         "question": "Please speak ______ during the seminar so everyone can hear you.",
@@ -2349,23 +2349,23 @@ const toeicReadingData = [
         "question": "The price of raw materials has increased ______ over the past year.",
         "options": {
           "A": "sharp",
-          "B": "sharply",
-          "C": "sharpness",
+          "B": "sharpness",
+          "C": "sharply",
           "D": "sharpen"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. sharply</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ chính 'has increased' để bổ nghĩa cho chiều hướng tăng nên cần điền một trạng từ. 'sharply' là trạng từ chỉ sự đột ngột/mạnh mẽ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">sharply</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giá nguyên liệu thô đã tăng một cách mạnh mẽ trong năm qua.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. sharply</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ chính 'has increased' để bổ nghĩa cho chiều hướng tăng nên cần điền một trạng từ. 'sharply' là trạng từ chỉ sự đột ngột/mạnh mẽ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">sharply</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giá nguyên liệu thô đã tăng một cách mạnh mẽ trong năm qua.</em>"
       },
       {
         "question": "We need to ______ change our marketing strategy to win clients.",
         "options": {
           "A": "drastic",
-          "B": "drastically",
+          "B": "drasticallyly",
           "C": "drasticness",
-          "D": "drasticallyly"
+          "D": "drastically"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. drastically</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chính 'change' để bổ nghĩa cho hành động thay đổi nên cần điền trạng từ. 'drastically' là trạng từ chỉ sự mạnh mẽ/quyết liệt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">drastically</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta cần thay đổi một cách quyết liệt chiến lược tiếp thị của mình để giành được khách hàng.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. drastically</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chính 'change' để bổ nghĩa cho hành động thay đổi nên cần điền trạng từ. 'drastically' là trạng từ chỉ sự mạnh mẽ/quyết liệt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">drastically</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta cần thay đổi một cách quyết liệt chiến lược tiếp thị của mình để giành được khách hàng.</em>"
       },
       {
         "question": "The proposal was ______ approved by all committee members.",
@@ -2381,57 +2381,57 @@ const toeicReadingData = [
       {
         "question": "The train schedule has been ______ updated due to track repair.",
         "options": {
-          "A": "temporary",
-          "B": "temporarily",
+          "A": "temporarily",
+          "B": "temporary",
           "C": "temporariness",
           "D": "temporal"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. temporarily</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ 'has been' và phân từ 2 'updated' để bổ nghĩa cho trạng thái hành động nên cần điền trạng từ. 'temporarily' là trạng từ chỉ sự tạm thời.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">temporarily</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lịch trình xe lửa đã được cập nhật một cách tạm thời do việc sửa chữa đường ray.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. temporarily</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ 'has been' và phân từ 2 'updated' để bổ nghĩa cho trạng thái hành động nên cần điền trạng từ. 'temporarily' là trạng từ chỉ sự tạm thời.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">temporarily</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lịch trình xe lửa đã được cập nhật một cách tạm thời do việc sửa chữa đường ray.</em>"
       },
       {
         "question": "The office building is ______ located near the subway station.",
         "options": {
           "A": "convenient",
-          "B": "conveniently",
+          "B": "convening",
           "C": "convenience",
-          "D": "convening"
+          "D": "conveniently"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. conveniently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa động từ 'is' và phân từ 2 'located' để tạo thành cụm chỉ vị trí nên cần trạng từ bổ nghĩa. 'conveniently' là trạng từ chỉ sự thuận tiện.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">conveniently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà văn phòng được tọa lạc một cách thuận tiện ở gần ga tàu điện ngầm.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. conveniently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa động từ 'is' và phân từ 2 'located' để tạo thành cụm chỉ vị trí nên cần trạng từ bổ nghĩa. 'conveniently' là trạng từ chỉ sự thuận tiện.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">conveniently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà văn phòng được tọa lạc một cách thuận tiện ở gần ga tàu điện ngầm.</em>"
       },
       {
         "question": "The sales department met their monthly goal ______.",
         "options": {
           "A": "easy",
-          "B": "easily",
-          "C": "easiness",
+          "B": "easiness",
+          "C": "easily",
           "D": "ease"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. easily</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng cuối câu bổ nghĩa cho động từ hành động 'met' nên chỗ trống cần điền một trạng từ cách thức. 'easily' là trạng từ chỉ sự dễ dàng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">easily</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận bán hàng đã đạt được mục tiêu hàng tháng của họ một cách dễ dàng.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. easily</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng cuối câu bổ nghĩa cho động từ hành động 'met' nên chỗ trống cần điền một trạng từ cách thức. 'easily' là trạng từ chỉ sự dễ dàng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">easily</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận bán hàng đã đạt được mục tiêu hàng tháng của họ một cách dễ dàng.</em>"
       },
       {
         "question": "The CEO was ______ involved in the contract negotiations.",
         "options": {
-          "A": "direct",
-          "B": "directly",
+          "A": "directly",
+          "B": "direct",
           "C": "direction",
           "D": "director"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. directly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa động từ 'was' và phân từ 2 'involved' để bổ nghĩa cho mức độ tham gia nên cần điền trạng từ. 'directly' là trạng từ chỉ sự trực tiếp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">directly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc điều hành đã tham gia một cách trực tiếp vào các cuộc đàm phán hợp đồng.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. directly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa động từ 'was' và phân từ 2 'involved' để bổ nghĩa cho mức độ tham gia nên cần điền trạng từ. 'directly' là trạng từ chỉ sự trực tiếp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">directly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc điều hành đã tham gia một cách trực tiếp vào các cuộc đàm phán hợp đồng.</em>"
       },
       {
         "question": "The client wants the project completed ______ by Friday afternoon.",
         "options": {
           "A": "preferable",
-          "B": "preferably",
-          "C": "preference",
+          "B": "preference",
+          "C": "preferably",
           "D": "prefered"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. preferably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng bổ nghĩa cho cụm thời hạn ở cuối câu nhằm diễn tả sự ưu tiên nên cần điền trạng từ. 'preferably' là trạng từ chỉ trạng thái tốt nhất là / ưu tiên là.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">preferably</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng muốn dự án được hoàn thành tốt nhất là trước chiều thứ Sáu.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. preferably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng bổ nghĩa cho cụm thời hạn ở cuối câu nhằm diễn tả sự ưu tiên nên cần điền trạng từ. 'preferably' là trạng từ chỉ trạng thái tốt nhất là / ưu tiên là.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">preferably</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng muốn dự án được hoàn thành tốt nhất là trước chiều thứ Sáu.</em>"
       },
       {
         "question": "The store manager handled the angry customer ______.",
@@ -2448,12 +2448,12 @@ const toeicReadingData = [
         "question": "The new security system operates ______ twenty-four hours a day.",
         "options": {
           "A": "continuous",
-          "B": "continuously",
+          "B": "continual",
           "C": "continuity",
-          "D": "continual"
+          "D": "continuously"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. continuously</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động 'operates' để bổ nghĩa chỉ hoạt động không ngừng nghỉ nên cần điền trạng từ. 'continuously' là trạng từ chỉ sự liên tục.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">continuously</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hệ thống an ninh mới hoạt động một cách liên tục hai mươi tư giờ một ngày.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. continuously</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động 'operates' để bổ nghĩa chỉ hoạt động không ngừng nghỉ nên cần điền trạng từ. 'continuously' là trạng từ chỉ sự liên tục.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">continuously</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hệ thống an ninh mới hoạt động một cách liên tục hai mươi tư giờ một ngày.</em>"
       }
     ],
     "homework": [
@@ -2887,56 +2887,56 @@ const toeicReadingData = [
         "question": "The final contract ______ by the legal department tomorrow.",
         "options": {
           "A": "reviews",
-          "B": "is reviewed",
-          "C": "will be reviewed",
+          "B": "will be reviewed",
+          "C": "is reviewed",
           "D": "reviewing"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. will be reviewed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ chỉ thời gian tương lai 'tomorrow' kết hợp với ngữ cảnh bị động (hợp đồng được xem xét) yêu cầu chia bị động ở Tương lai đơn: 'will be + V3/ed' -> chọn 'will be reviewed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be reviewed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hợp đồng cuối cùng sẽ được xem xét bởi bộ phận pháp lý vào ngày mai.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will be reviewed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ chỉ thời gian tương lai 'tomorrow' kết hợp với ngữ cảnh bị động (hợp đồng được xem xét) yêu cầu chia bị động ở Tương lai đơn: 'will be + V3/ed' -> chọn 'will be reviewed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be reviewed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hợp đồng cuối cùng sẽ được xem xét bởi bộ phận pháp lý vào ngày mai.</em>"
       },
       {
         "question": "All employee records ______ in the secure database.",
         "options": {
-          "A": "are stored",
+          "A": "are storing",
           "B": "stored",
           "C": "storing",
-          "D": "are storing"
+          "D": "are stored"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. are stored</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều 'All employee records' (tất cả hồ sơ nhân viên) nhận hành động lưu trữ ở Hiện tại đơn nên chia cấu trúc bị động: 'are + V3/ed' -> chọn 'are stored'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are stored</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả hồ sơ nhân viên được lưu trữ trong cơ sở dữ liệu bảo mật.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. are stored</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều 'All employee records' (tất cả hồ sơ nhân viên) nhận hành động lưu trữ ở Hiện tại đơn nên chia cấu trúc bị động: 'are + V3/ed' -> chọn 'are stored'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are stored</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả hồ sơ nhân viên được lưu trữ trong cơ sở dữ liệu bảo mật.</em>"
       },
       {
         "question": "The promotional video ______ by the marketing team yesterday.",
         "options": {
-          "A": "created",
-          "B": "was created",
+          "A": "was created",
+          "B": "created",
           "C": "has created",
           "D": "is creating"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. was created</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu quá khứ 'yesterday' kết hợp với chủ ngữ chỉ vật số ít 'The promotional video' (video quảng cáo được tạo ra) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was created'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was created</strong>.<br><br><strong>Dịch câu:</strong><br><em>Video quảng cáo đã được tạo ra bởi nhóm tiếp thị vào ngày hôm qua.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. was created</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu quá khứ 'yesterday' kết hợp với chủ ngữ chỉ vật số ít 'The promotional video' (video quảng cáo được tạo ra) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was created'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was created</strong>.<br><br><strong>Dịch câu:</strong><br><em>Video quảng cáo đã được tạo ra bởi nhóm tiếp thị vào ngày hôm qua.</em>"
       },
       {
         "question": "The server network ______ by the IT department at the moment.",
         "options": {
           "A": "updates",
-          "B": "is updating",
-          "C": "is being updated",
+          "B": "is being updated",
+          "C": "is updating",
           "D": "updated"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. is being updated</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'at the moment' kết hợp với chủ ngữ chỉ vật số ít 'The server network' (mạng máy chủ đang được cập nhật) yêu cầu chia bị động ở Hiện tại tiếp diễn: 'is being + V3/ed' -> chọn 'is being updated'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is being updated</strong>.<br><br><strong>Dịch câu:</strong><br><em>Mạng máy chủ đang được cập nhật bởi bộ phận công nghệ thông tin vào lúc này.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. is being updated</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'at the moment' kết hợp với chủ ngữ chỉ vật số ít 'The server network' (mạng máy chủ đang được cập nhật) yêu cầu chia bị động ở Hiện tại tiếp diễn: 'is being + V3/ed' -> chọn 'is being updated'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is being updated</strong>.<br><br><strong>Dịch câu:</strong><br><em>Mạng máy chủ đang được cập nhật bởi bộ phận công nghệ thông tin vào lúc này.</em>"
       },
       {
         "question": "The project proposals ______ by the evaluation committee already.",
         "options": {
           "A": "have approved",
-          "B": "have been approved",
-          "C": "approved",
+          "B": "approved",
+          "C": "have been approved",
           "D": "are approving"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. have been approved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'already' kết hợp bị động của chủ ngữ số nhiều 'proposals' (các đề xuất đã được phê duyệt) yêu cầu chia bị động ở Hiện tại hoàn thành: 'have been + V3/ed' -> chọn 'have been approved'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">have been approved</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các đề xuất dự án đã được phê duyệt bởi ủy ban đánh giá rồi.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. have been approved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'already' kết hợp bị động của chủ ngữ số nhiều 'proposals' (các đề xuất đã được phê duyệt) yêu cầu chia bị động ở Hiện tại hoàn thành: 'have been + V3/ed' -> chọn 'have been approved'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">have been approved</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các đề xuất dự án đã được phê duyệt bởi ủy ban đánh giá rồi.</em>"
       },
       {
         "question": "Please make sure that the door ______ locked before you leave.",
@@ -2964,23 +2964,23 @@ const toeicReadingData = [
         "question": "A new marketing director ______ by the board last week.",
         "options": {
           "A": "appointed",
-          "B": "was appointed",
-          "C": "has appointed",
+          "B": "has appointed",
+          "C": "was appointed",
           "D": "is appointing"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. was appointed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'last week' kết hợp với chủ ngữ chỉ người số ít nhận tác động 'A new marketing director' (giám đốc tiếp thị mới được bổ nhiệm) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was appointed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was appointed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một giám đốc tiếp thị mới đã được bổ nhiệm bởi ban giám đốc vào tuần trước.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. was appointed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'last week' kết hợp với chủ ngữ chỉ người số ít nhận tác động 'A new marketing director' (giám đốc tiếp thị mới được bổ nhiệm) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was appointed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was appointed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một giám đốc tiếp thị mới đã được bổ nhiệm bởi ban giám đốc vào tuần trước.</em>"
       },
       {
         "question": "The annual financial report ______ to all shareholders next week.",
         "options": {
           "A": "will distribute",
-          "B": "will be distributed",
+          "B": "distributes",
           "C": "distributed",
-          "D": "distributes"
+          "D": "will be distributed"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will be distributed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu tương lai 'next week' kết hợp với chủ ngữ chỉ vật 'report' (báo cáo được phân phát) yêu cầu bị động ở Tương lai đơn: 'will be + V3/ed' -> chọn 'will be distributed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be distributed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Báo cáo tài chính thường niên sẽ được phân phát tới tất cả cổ đông vào tuần tới.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. will be distributed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu tương lai 'next week' kết hợp với chủ ngữ chỉ vật 'report' (báo cáo được phân phát) yêu cầu bị động ở Tương lai đơn: 'will be + V3/ed' -> chọn 'will be distributed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be distributed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Báo cáo tài chính thường niên sẽ được phân phát tới tất cả cổ đông vào tuần tới.</em>"
       },
       {
         "question": "The office computers ______ by the technician when the electricity cut out.",
@@ -2996,112 +2996,112 @@ const toeicReadingData = [
       {
         "question": "The meeting room ______ for the banquet before the guests arrived.",
         "options": {
-          "A": "prepared",
+          "A": "had been prepared",
           "B": "had prepared",
-          "C": "had been prepared",
+          "C": "prepared",
           "D": "is prepared"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. had been prepared</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Hành động bị động xảy ra trước một hành động quá khứ khác ('before the guests arrived') yêu cầu chia bị động ở Quá khứ hoàn thành: 'had been + V3/ed' -> chọn 'had been prepared'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">had been prepared</strong>.<br><br><strong>Dịch câu:</strong><br><em>Phòng họp đã được chuẩn bị cho bữa tiệc trước khi các khách mời đến.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. had been prepared</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Hành động bị động xảy ra trước một hành động quá khứ khác ('before the guests arrived') yêu cầu chia bị động ở Quá khứ hoàn thành: 'had been + V3/ed' -> chọn 'had been prepared'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">had been prepared</strong>.<br><br><strong>Dịch câu:</strong><br><em>Phòng họp đã được chuẩn bị cho bữa tiệc trước khi các khách mời đến.</em>"
       },
       {
         "question": "All applications should ______ directly to the HR director.",
         "options": {
           "A": "send",
-          "B": "be sent",
+          "B": "sent",
           "C": "sending",
-          "D": "sent"
+          "D": "be sent"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. be sent</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu 'should' ở thể bị động (các hồ sơ nên được gửi đi) yêu cầu cấu trúc: 'should + be + V3/ed' -> chọn 'be sent'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be sent</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả hồ sơ ứng tuyển nên được gửi trực tiếp đến giám đốc nhân sự.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. be sent</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu 'should' ở thể bị động (các hồ sơ nên được gửi đi) yêu cầu cấu trúc: 'should + be + V3/ed' -> chọn 'be sent'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be sent</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả hồ sơ ứng tuyển nên được gửi trực tiếp đến giám đốc nhân sự.</em>"
       },
       {
         "question": "The shipment ______ to the warehouse by the logistics company yesterday.",
         "options": {
           "A": "delivered",
-          "B": "was delivered",
-          "C": "is delivered",
+          "B": "is delivered",
+          "C": "was delivered",
           "D": "delivering"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. was delivered</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu quá khứ 'yesterday' kết hợp với chủ ngữ chỉ vật số ít 'The shipment' (lô hàng được giao) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was delivered'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was delivered</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lô hàng đã được giao đến kho bởi công ty hậu cần vào ngày hôm qua.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. was delivered</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu quá khứ 'yesterday' kết hợp với chủ ngữ chỉ vật số ít 'The shipment' (lô hàng được giao) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was delivered'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was delivered</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lô hàng đã được giao đến kho bởi công ty hậu cần vào ngày hôm qua.</em>"
       },
       {
         "question": "The database security measures ______ to protect user information.",
         "options": {
-          "A": "designed",
-          "B": "are designed",
+          "A": "are designed",
+          "B": "designed",
           "C": "are designing",
           "D": "design"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. are designed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều 'The database security measures' (các biện pháp an ninh cơ sở dữ liệu) nhận hành động thiết kế ở hiện tại đơn nên chia bị động: 'are + V3/ed' -> chọn 'are designed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are designed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các biện pháp an ninh cơ sở dữ liệu được thiết kế để bảo vệ thông tin người dùng.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. are designed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều 'The database security measures' (các biện pháp an ninh cơ sở dữ liệu) nhận hành động thiết kế ở hiện tại đơn nên chia bị động: 'are + V3/ed' -> chọn 'are designed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are designed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các biện pháp an ninh cơ sở dữ liệu được thiết kế để bảo vệ thông tin người dùng.</em>"
       },
       {
         "question": "The marketing strategy ______ by the director at the next meeting.",
         "options": {
           "A": "presents",
-          "B": "will be presented",
-          "C": "presented",
+          "B": "presented",
+          "C": "will be presented",
           "D": "presenting"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will be presented</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu tương lai 'at the next meeting' kết hợp với chủ ngữ chỉ vật 'strategy' (chiến lược được trình bày) yêu cầu bị động ở Tương lai đơn -> chọn 'will be presented'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be presented</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chiến lược tiếp thị sẽ được trình bày bởi giám đốc tại cuộc họp tiếp theo.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. will be presented</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu tương lai 'at the next meeting' kết hợp với chủ ngữ chỉ vật 'strategy' (chiến lược được trình bày) yêu cầu bị động ở Tương lai đơn -> chọn 'will be presented'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be presented</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chiến lược tiếp thị sẽ được trình bày bởi giám đốc tại cuộc họp tiếp theo.</em>"
       },
       {
         "question": "All customer complaints ______ by our service department within 24 hours.",
         "options": {
-          "A": "are handled",
-          "B": "handle",
+          "A": "handle",
+          "B": "are handled",
           "C": "handling",
           "D": "handled"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. are handled</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều 'All customer complaints' (các khiếu nại của khách hàng) nhận hành động xử lý làm quy tắc thường lệ ở Hiện tại đơn nên chia bị động: 'are + V3/ed' -> chọn 'are handled'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are handled</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả các khiếu nại của khách hàng được xử lý bởi bộ phận dịch vụ của chúng tôi trong vòng hai mươi tư giờ.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. are handled</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều 'All customer complaints' (các khiếu nại của khách hàng) nhận hành động xử lý làm quy tắc thường lệ ở Hiện tại đơn nên chia bị động: 'are + V3/ed' -> chọn 'are handled'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are handled</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả các khiếu nại của khách hàng được xử lý bởi bộ phận dịch vụ của chúng tôi trong vòng hai mươi tư giờ.</em>"
       },
       {
         "question": "The building renovation project ______ by the end of the year.",
         "options": {
           "A": "will complete",
-          "B": "will have been completed",
+          "B": "has completed",
           "C": "completed",
-          "D": "has completed"
+          "D": "will have been completed"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will have been completed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc 'By the end of + thời gian tương lai' kết hợp bị động của chủ ngữ chỉ vật 'project' (dự án được hoàn thành) yêu cầu chia bị động ở Tương lai hoàn thành: 'will have been + V3/ed' -> chọn 'will have been completed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will have been completed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Dự án cải tạo tòa nhà sẽ được hoàn thành trước cuối năm nay.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. will have been completed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc 'By the end of + thời gian tương lai' kết hợp bị động của chủ ngữ chỉ vật 'project' (dự án được hoàn thành) yêu cầu chia bị động ở Tương lai hoàn thành: 'will have been + V3/ed' -> chọn 'will have been completed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will have been completed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Dự án cải tạo tòa nhà sẽ được hoàn thành trước cuối năm nay.</em>"
       },
       {
         "question": "The supervisor requested that the budget ______ by the board.",
         "options": {
           "A": "approves",
-          "B": "be approved",
-          "C": "approving",
+          "B": "approving",
+          "C": "be approved",
           "D": "approved"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. be approved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc câu giả định ở thể bị động sau động từ 'requested': 'request + that + S + be + V3/ed' -> chọn 'be approved'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be approved</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã yêu cầu rằng ngân sách phải được phê duyệt bởi ban giám đốc.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. be approved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc câu giả định ở thể bị động sau động từ 'requested': 'request + that + S + be + V3/ed' -> chọn 'be approved'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be approved</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã yêu cầu rằng ngân sách phải được phê duyệt bởi ban giám đốc.</em>"
       },
       {
         "question": "The conference schedule ______ because of travel disruptions.",
         "options": {
-          "A": "altered",
-          "B": "was altered",
+          "A": "was altered",
+          "B": "altered",
           "C": "has altered",
           "D": "altering"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. was altered</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số ít 'The conference schedule' (lịch trình hội nghị được thay đổi) và sự việc xảy ra trong quá khứ nên chia bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was altered'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was altered</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lịch trình hội nghị đã được thay đổi vì sự gián đoạn đi lại.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. was altered</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số ít 'The conference schedule' (lịch trình hội nghị được thay đổi) và sự việc xảy ra trong quá khứ nên chia bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was altered'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was altered</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lịch trình hội nghị đã được thay đổi vì sự gián đoạn đi lại.</em>"
       },
       {
         "question": "The employee safety training session ______ every six months.",
         "options": {
-          "A": "is conducted",
+          "A": "conducting",
           "B": "conducts",
           "C": "conducted",
-          "D": "conducting"
+          "D": "is conducted"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. is conducted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm chỉ tần suất 'every six months' kết hợp với chủ ngữ chỉ vật số ít 'session' (buổi đào tạo được tiến hành) ở Hiện tại đơn yêu cầu chia bị động: 'is + V3/ed' -> chọn 'is conducted'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is conducted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Buổi đào tạo an toàn cho nhân viên được tiến hành sáu tháng một lần.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. is conducted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm chỉ tần suất 'every six months' kết hợp với chủ ngữ chỉ vật số ít 'session' (buổi đào tạo được tiến hành) ở Hiện tại đơn yêu cầu chia bị động: 'is + V3/ed' -> chọn 'is conducted'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is conducted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Buổi đào tạo an toàn cho nhân viên được tiến hành sáu tháng một lần.</em>"
       }
     ],
     "homework": [
@@ -3408,79 +3408,79 @@ const toeicReadingData = [
       {
         "question": "The employee ______ designed the new website is a software engineer.",
         "options": {
-          "A": "who",
-          "B": "whom",
+          "A": "whom",
+          "B": "who",
           "C": "which",
           "D": "whose"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. who</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống làm chủ ngữ cho động từ 'designed' trong mệnh đề quan hệ và đứng sau danh từ chỉ người 'The employee' nên ta dùng đại từ quan hệ 'who'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">who</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên người mà đã thiết kế trang web mới là một kỹ sư phần mềm.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. who</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống làm chủ ngữ cho động từ 'designed' trong mệnh đề quan hệ và đứng sau danh từ chỉ người 'The employee' nên ta dùng đại từ quan hệ 'who'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">who</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên người mà đã thiết kế trang web mới là một kỹ sư phần mềm.</em>"
       },
       {
         "question": "The company ______ we signed the contract with is based in London.",
         "options": {
-          "A": "which",
+          "A": "whom",
           "B": "who",
-          "C": "whom",
+          "C": "which",
           "D": "whose"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đóng vai trò làm tân ngữ của giới từ 'with' (hoặc đứng làm tân ngữ trực tiếp cho động từ 'signed' chỉ vật) đứng sau danh từ chỉ vật 'The company' nên dùng đại từ quan hệ 'which'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty mà chúng tôi đã ký hợp đồng với tọa lạc ở Luân Đôn.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đóng vai trò làm tân ngữ của giới từ 'with' (hoặc đứng làm tân ngữ trực tiếp cho động từ 'signed' chỉ vật) đứng sau danh từ chỉ vật 'The company' nên dùng đại từ quan hệ 'which'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty mà chúng tôi đã ký hợp đồng với tọa lạc ở Luân Đôn.</em>"
       },
       {
         "question": "Mr. Vance, ______ proposal was approved, is the marketing director.",
         "options": {
-          "A": "who",
+          "A": "whose",
           "B": "whom",
-          "C": "whose",
+          "C": "who",
           "D": "which"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. whose</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'proposal' (bản đề xuất) để chỉ sự sở hữu (bản đề xuất của ông ấy) nên ta dùng đại từ quan hệ sở hữu 'whose'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whose</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Vance, người có bản đề xuất được chấp thuận, là giám đốc tiếp thị.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whose</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'proposal' (bản đề xuất) để chỉ sự sở hữu (bản đề xuất của ông ấy) nên ta dùng đại từ quan hệ sở hữu 'whose'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whose</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Vance, người có bản đề xuất được chấp thuận, là giám đốc tiếp thị.</em>"
       },
       {
         "question": "The candidate ______ the manager interviewed yesterday was highly qualified.",
         "options": {
-          "A": "whom",
-          "B": "which",
+          "A": "which",
+          "B": "whom",
           "C": "whose",
           "D": "what"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng làm tân ngữ bổ nghĩa cho danh từ chỉ người 'The candidate' và trước chủ ngữ của mệnh đề quan hệ 'the manager' nên ta dùng đại từ quan hệ 'whom' (hoặc who/that). Trong các phương án, chọn 'whom'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ứng viên người mà người quản lý đã phỏng vấn ngày hôm qua có trình độ rất cao.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng làm tân ngữ bổ nghĩa cho danh từ chỉ người 'The candidate' và trước chủ ngữ của mệnh đề quan hệ 'the manager' nên ta dùng đại từ quan hệ 'whom' (hoặc who/that). Trong các phương án, chọn 'whom'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ứng viên người mà người quản lý đã phỏng vấn ngày hôm qua có trình độ rất cao.</em>"
       },
       {
         "question": "The office building ______ I work is located near the central station.",
         "options": {
-          "A": "where",
+          "A": "when",
           "B": "which",
-          "C": "when",
+          "C": "where",
           "D": "why"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. where</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho cụm trạng ngữ chỉ nơi chốn (in/at the office building) đứng sau danh từ địa điểm nên ta dùng trạng từ quan hệ 'where'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">where</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà văn phòng nơi tôi làm việc được tọa lạc gần ga trung tâm.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. where</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho cụm trạng ngữ chỉ nơi chốn (in/at the office building) đứng sau danh từ địa điểm nên ta dùng trạng từ quan hệ 'where'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">where</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà văn phòng nơi tôi làm việc được tọa lạc gần ga trung tâm.</em>"
       },
       {
         "question": "We will never forget the day ______ our company went public.",
         "options": {
-          "A": "when",
+          "A": "whose",
           "B": "where",
           "C": "which",
-          "D": "whose"
+          "D": "when"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. when</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho trạng ngữ chỉ thời gian (on that day) đứng sau danh từ thời gian 'the day' nên dùng trạng từ quan hệ 'when'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">when</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi sẽ không bao giờ quên ngày mà công ty chúng tôi lên sàn chứng khoán.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. when</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho trạng ngữ chỉ thời gian (on that day) đứng sau danh từ thời gian 'the day' nên dùng trạng từ quan hệ 'when'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">when</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi sẽ không bao giờ quên ngày mà công ty chúng tôi lên sàn chứng khoán.</em>"
       },
       {
         "question": "The reason ______ the shipment was delayed remains unclear.",
         "options": {
-          "A": "why",
-          "B": "which",
+          "A": "which",
+          "B": "why",
           "C": "where",
           "D": "when"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. why</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ lý do 'The reason' để chỉ nguyên nhân của sự việc ở mệnh đề sau nên dùng trạng từ quan hệ 'why'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">why</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lý do tại sao lô hàng bị trì hoãn vẫn chưa rõ ràng.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. why</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ lý do 'The reason' để chỉ nguyên nhân của sự việc ở mệnh đề sau nên dùng trạng từ quan hệ 'why'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">why</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lý do tại sao lô hàng bị trì hoãn vẫn chưa rõ ràng.</em>"
       },
       {
         "question": "The manager invited the clients, all of ______ were very impressed.",
@@ -3496,24 +3496,24 @@ const toeicReadingData = [
       {
         "question": "The products ______ are manufactured in this factory are for export only.",
         "options": {
-          "A": "that",
+          "A": "whose",
           "B": "who",
           "C": "whom",
-          "D": "whose"
+          "D": "that"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ vật số nhiều 'The products' làm chủ ngữ cho động từ 'are manufactured' nên ta dùng đại từ quan hệ 'that' (hoặc which). Trong các phương án, chọn 'that'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">that</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các sản phẩm mà được sản xuất trong nhà máy này chỉ dành cho xuất khẩu.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ vật số nhiều 'The products' làm chủ ngữ cho động từ 'are manufactured' nên ta dùng đại từ quan hệ 'that' (hoặc which). Trong các phương án, chọn 'that'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">that</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các sản phẩm mà được sản xuất trong nhà máy này chỉ dành cho xuất khẩu.</em>"
       },
       {
         "question": "We have database files, many of ______ are extremely confidential.",
         "options": {
-          "A": "which",
+          "A": "who",
           "B": "whom",
-          "C": "who",
+          "C": "which",
           "D": "whose"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm định lượng kết hợp giới từ 'many of' để thay thế cho danh từ chỉ vật 'database files' nên bắt buộc dùng 'which'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi có các tệp cơ sở dữ liệu, nhiều tệp trong số đó cực kỳ bảo mật.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm định lượng kết hợp giới từ 'many of' để thay thế cho danh từ chỉ vật 'database files' nên bắt buộc dùng 'which'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi có các tệp cơ sở dữ liệu, nhiều tệp trong số đó cực kỳ bảo mật.</em>"
       },
       {
         "question": "The supervisor wants to speak with the technician ______ repaired the server.",
@@ -3530,45 +3530,45 @@ const toeicReadingData = [
         "question": "The presentations ______ by the interns were surprisingly professional.",
         "options": {
           "A": "give",
-          "B": "given",
-          "C": "giving",
+          "B": "giving",
+          "C": "given",
           "D": "gave"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. given</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng bị động (which were given by the interns) -> rút gọn còn động từ phân từ 2 'given'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">given</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các bài thuyết trình được trình bày bởi các thực tập sinh chuyên nghiệp một cách ngạc nhiên.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. given</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng bị động (which were given by the interns) -> rút gọn còn động từ phân từ 2 'given'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">given</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các bài thuyết trình được trình bày bởi các thực tập sinh chuyên nghiệp một cách ngạc nhiên.</em>"
       },
       {
         "question": "The representative ______ our products at the exhibition is Mr. Davis.",
         "options": {
           "A": "present",
-          "B": "presents",
-          "C": "presenting",
+          "B": "presenting",
+          "C": "presents",
           "D": "presented"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. presenting</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng chủ động (who is presenting / who presents our products) -> rút gọn thành dạng động từ đuôi '-ing' là 'presenting'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">presenting</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người đại diện giới thiệu các sản phẩm của chúng tôi tại buổi triển lãm là ông Davis.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. presenting</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng chủ động (who is presenting / who presents our products) -> rút gọn thành dạng động từ đuôi '-ing' là 'presenting'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">presenting</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người đại diện giới thiệu các sản phẩm của chúng tôi tại buổi triển lãm là ông Davis.</em>"
       },
       {
         "question": "The conference ______ was scheduled for next week has been postponed.",
         "options": {
-          "A": "which",
+          "A": "whose",
           "B": "who",
           "C": "whom",
-          "D": "whose"
+          "D": "which"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ vật 'The conference' làm chủ ngữ cho động từ 'was scheduled' nên dùng đại từ quan hệ 'which' (hoặc that).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hội nghị mà được lên lịch vào tuần tới đã bị hoãn lại.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ vật 'The conference' làm chủ ngữ cho động từ 'was scheduled' nên dùng đại từ quan hệ 'which' (hoặc that).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hội nghị mà được lên lịch vào tuần tới đã bị hoãn lại.</em>"
       },
       {
         "question": "We visited the laboratory ______ new chemicals are being tested.",
         "options": {
-          "A": "where",
+          "A": "when",
           "B": "which",
-          "C": "when",
+          "C": "where",
           "D": "whose"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. where</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho cụm trạng ngữ chỉ nơi chốn (in the laboratory) đứng sau danh từ nơi chốn nên dùng trạng từ quan hệ 'where'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">where</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đã đến thăm phòng thí nghiệm nơi các chất hóa học mới đang được thử nghiệm.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. where</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho cụm trạng ngữ chỉ nơi chốn (in the laboratory) đứng sau danh từ nơi chốn nên dùng trạng từ quan hệ 'where'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">where</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đã đến thăm phòng thí nghiệm nơi các chất hóa học mới đang được thử nghiệm.</em>"
       },
       {
         "question": "The employee ______ parking permit had expired was fined.",
@@ -3584,35 +3584,35 @@ const toeicReadingData = [
       {
         "question": "The marketing strategies ______ by the consultant were very effective.",
         "options": {
-          "A": "suggested",
+          "A": "suggests",
           "B": "suggest",
           "C": "suggesting",
-          "D": "suggests"
+          "D": "suggested"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. suggested</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng bị động (which were suggested by the consultant) -> rút gọn còn động từ phân từ 2 'suggested'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">suggested</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các chiến lược tiếp thị được đề xuất bởi cố vấn đã rất hiệu quả.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. suggested</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng bị động (which were suggested by the consultant) -> rút gọn còn động từ phân từ 2 'suggested'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">suggested</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các chiến lược tiếp thị được đề xuất bởi cố vấn đã rất hiệu quả.</em>"
       },
       {
         "question": "The building in ______ the exhibition is held is currently under renovation.",
         "options": {
-          "A": "which",
-          "B": "where",
+          "A": "where",
+          "B": "which",
           "C": "whom",
           "D": "that"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ 'in' để thay thế cho danh từ chỉ vật 'the building' nên bắt buộc dùng 'which'. (Lưu ý không dùng that hoặc where ngay sau giới từ).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà nơi triển lãm được tổ chức hiện đang được cải tạo.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ 'in' để thay thế cho danh từ chỉ vật 'the building' nên bắt buộc dùng 'which'. (Lưu ý không dùng that hoặc where ngay sau giới từ).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà nơi triển lãm được tổ chức hiện đang được cải tạo.</em>"
       },
       {
         "question": "Do you know the woman ______ our department head is talking to?",
         "options": {
-          "A": "whom",
+          "A": "what",
           "B": "which",
           "C": "whose",
-          "D": "what"
+          "D": "whom"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng làm tân ngữ bổ nghĩa cho danh từ chỉ người 'the woman' (là tân ngữ của giới từ to ở cuối mệnh đề quan hệ) nên dùng đại từ quan hệ 'whom' (hoặc who/that).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bạn có biết người phụ nữ mà trưởng bộ phận của chúng ta đang nói chuyện cùng không?</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng làm tân ngữ bổ nghĩa cho danh từ chỉ người 'the woman' (là tân ngữ của giới từ to ở cuối mệnh đề quan hệ) nên dùng đại từ quan hệ 'whom' (hoặc who/that).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bạn có biết người phụ nữ mà trưởng bộ phận của chúng ta đang nói chuyện cùng không?</em>"
       },
       {
         "question": "The customer ______ wallet was found in the lobby has been contacted.",
@@ -5180,13 +5180,13 @@ const toeicReadingData = [
       {
         "question": "The newly appointed executive director is respected ______ for her visionary leadership ______ for her integrity.",
         "options": {
-          "A": "not only - but also",
+          "A": "both - or",
           "B": "neither - or",
           "C": "either - and",
-          "D": "both - or"
+          "D": "not only - but also"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. not only - but also</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ tương quan (Correlative Conjunctions): Cặp từ cố định <strong>not only A but also B</strong> (không những A mà còn B).<br>- Cấu trúc này đảm bảo tính song hành hoàn hảo giữa hai cụm giới từ: <em>for her visionary leadership</em> và <em>for her integrity</em>.<br>- Các phương án ghép sai cặp từ:<br>  + B sai vì 'neither' phải đi với 'nor'.<br>  + C sai vì 'either' phải đi với 'or'.<br>  + D sai vì 'both' phải đi với 'and'.<br><br><strong>Dịch câu:</strong><br><em>Vị giám đốc điều hành mới được bổ nhiệm được kính trọng không chỉ vì khả năng lãnh đạo có tầm nhìn mà còn vì sự chính trực của bà.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. not only - but also</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ tương quan (Correlative Conjunctions): Cặp từ cố định <strong>not only A but also B</strong> (không những A mà còn B).<br>- Cấu trúc này đảm bảo tính song hành hoàn hảo giữa hai cụm giới từ: <em>for her visionary leadership</em> và <em>for her integrity</em>.<br>- Các phương án ghép sai cặp từ:<br>  + B sai vì 'neither' phải đi với 'nor'.<br>  + C sai vì 'either' phải đi với 'or'.<br>  + D sai vì 'both' phải đi với 'and'.<br><br><strong>Dịch câu:</strong><br><em>Vị giám đốc điều hành mới được bổ nhiệm được kính trọng không chỉ vì khả năng lãnh đạo có tầm nhìn mà còn vì sự chính trực của bà.</em>"
       },
       {
         "question": "The shipment of electronic sensors cannot be released from customs ______ the importer provides the certificate of origin.",
@@ -5203,12 +5203,12 @@ const toeicReadingData = [
         "question": "The commercial lease contract will remain valid for five years ______ neither party submits a written request for termination.",
         "options": {
           "A": "as for",
-          "B": "in order that",
+          "B": "provided that",
           "C": "even though",
-          "D": "provided that"
+          "D": "in order that"
         },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. provided that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ chỉ điều kiện ràng buộc trong hợp đồng thương mại: <strong>provided that / providing that = as long as = if</strong> (với điều kiện là / miễn là...).<br>- Ngữ cảnh: Hợp đồng thuê mặt bằng thương mại sẽ duy trì hiệu lực trong 5 năm với điều kiện là không bên nào nộp yêu cầu chấm dứt bằng văn bản -> chọn <strong>provided that</strong>.<br>- Loại <strong>as for</strong> (giới từ: về phần/đối với).<br>- Loại <strong>in order that</strong> (chỉ mục đích: để mà).<br>- Loại <strong>even though</strong> (tương phản: mặc dù).<br><br><strong>Dịch câu:</strong><br><em>Hợp đồng thuê mặt bằng thương mại sẽ giữ nguyên hiệu lực trong năm năm với điều kiện là không bên nào nộp đơn yêu cầu chấm dứt bằng văn bản.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. provided that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ chỉ điều kiện ràng buộc trong hợp đồng thương mại: <strong>provided that / providing that = as long as = if</strong> (với điều kiện là / miễn là...).<br>- Ngữ cảnh: Hợp đồng thuê mặt bằng thương mại sẽ duy trì hiệu lực trong 5 năm với điều kiện là không bên nào nộp yêu cầu chấm dứt bằng văn bản -> chọn <strong>provided that</strong>.<br>- Loại <strong>as for</strong> (giới từ: về phần/đối với).<br>- Loại <strong>in order that</strong> (chỉ mục đích: để mà).<br>- Loại <strong>even though</strong> (tương phản: mặc dù).<br><br><strong>Dịch câu:</strong><br><em>Hợp đồng thuê mặt bằng thương mại sẽ giữ nguyên hiệu lực trong năm năm với điều kiện là không bên nào nộp đơn yêu cầu chấm dứt bằng văn bản.</em>"
       },
       {
         "question": "______ the research department made significant breakthroughs, commercial production remains several months away.",
@@ -5345,13 +5345,13 @@ const toeicReadingData = [
       {
         "question": "The commercial district experienced a prolonged power disruption; ______, retail businesses suffered substantial sales losses.",
         "options": {
-          "A": "although",
-          "B": "consequently",
+          "A": "consequently",
+          "B": "although",
           "C": "whereas",
           "D": "because"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. consequently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bẫy trạng từ liên kết chỉ kết quả: Đứng sau dấu chấm phẩy (;) và trước dấu phẩy (,) nối hai mệnh đề nguyên nhân - kết quả độc lập.<br>- <strong>Consequently = Therefore = As a result</strong> (Hệ quả là / Do đó...).<br>- Các từ <em>although</em>, <em>whereas</em>, <em>because</em> là liên từ phụ thuộc, không đứng độc lập sau dấu chấm phẩy có dấu phẩy theo sau để ngăn cách mệnh đề chính như vậy.<br>- Do đó chọn phương án <strong>consequently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khu thương mại đã trải qua tình trạng mất điện kéo dài; hệ quả là, các doanh nghiệp bán lẻ đã chịu tổn thất doanh thu đáng kể.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. consequently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bẫy trạng từ liên kết chỉ kết quả: Đứng sau dấu chấm phẩy (;) và trước dấu phẩy (,) nối hai mệnh đề nguyên nhân - kết quả độc lập.<br>- <strong>Consequently = Therefore = As a result</strong> (Hệ quả là / Do đó...).<br>- Các từ <em>although</em>, <em>whereas</em>, <em>because</em> là liên từ phụ thuộc, không đứng độc lập sau dấu chấm phẩy có dấu phẩy theo sau để ngăn cách mệnh đề chính như vậy.<br>- Do đó chọn phương án <strong>consequently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khu thương mại đã trải qua tình trạng mất điện kéo dài; hệ quả là, các doanh nghiệp bán lẻ đã chịu tổn thất doanh thu đáng kể.</em>"
       }
     ],
     "homework": [
@@ -5809,12 +5809,12 @@ const toeicReadingData = [
         "question": "Please ensure that you read the safety handbook before ______ the laboratory.",
         "options": {
           "A": "enter",
-          "B": "entering",
-          "C": "to enter",
+          "B": "to enter",
+          "C": "entering",
           "D": "entered"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. entering</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau giới từ (ở đây là giới từ chỉ thời gian <strong class=\"hl-blue\">before</strong>), động từ đi kèm trực tiếp phải chia ở dạng V-ing.<br>- Chọn danh động từ <code><span class=\"hl-vocab\">entering</span></code>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng đảm bảo rằng bạn đã đọc sổ tay an toàn trước khi vào phòng thí nghiệm.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. entering</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau giới từ (ở đây là giới từ chỉ thời gian <strong class=\"hl-blue\">before</strong>), động từ đi kèm trực tiếp phải chia ở dạng V-ing.<br>- Chọn danh động từ <code><span class=\"hl-vocab\">entering</span></code>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng đảm bảo rằng bạn đã đọc sổ tay an toàn trước khi vào phòng thí nghiệm.</em>"
       },
       {
         "question": "The construction of the new office building was completed ______ schedule.",
@@ -6228,24 +6228,24 @@ const toeicReadingData = [
       {
         "question": "The marketing team has ______ time to prepare the presentation before the client arrives, so they must work quickly.",
         "options": {
-          "A": "much",
-          "B": "little",
+          "A": "little",
+          "B": "much",
           "C": "few",
           "D": "many"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. little</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ phía sau là <code>time</code> (thời gian) - một danh từ không đếm được → loại <strong class=\"hl-vocab\">few</strong> và <strong class=\"hl-vocab\">many</strong> (chỉ đi với danh từ đếm được số nhiều).<br>- Dịch nghĩa của câu: Nhóm tiếp thị có <strong>rất ít</strong> thời gian để chuẩn bị trước khi khách hàng đến, vì thế họ phải làm việc rất nhanh chóng → nghĩa phủ định chọn <strong class=\"hl-vocab\">little</strong> (hầu như không có đủ). Chọn <strong class=\"hl-vocab\">much</strong> sẽ phản tác dụng với vế sau \"must work quickly\".<br><br><strong>Dịch câu:</strong><br><em>Nhóm tiếp thị có rất ít thời gian để chuẩn bị bài thuyết trình trước khi khách hàng đến, vì vậy họ phải làm việc thật nhanh chóng.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. little</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ phía sau là <code>time</code> (thời gian) - một danh từ không đếm được → loại <strong class=\"hl-vocab\">few</strong> và <strong class=\"hl-vocab\">many</strong> (chỉ đi với danh từ đếm được số nhiều).<br>- Dịch nghĩa của câu: Nhóm tiếp thị có <strong>rất ít</strong> thời gian để chuẩn bị trước khi khách hàng đến, vì thế họ phải làm việc rất nhanh chóng → nghĩa phủ định chọn <strong class=\"hl-vocab\">little</strong> (hầu như không có đủ). Chọn <strong class=\"hl-vocab\">much</strong> sẽ phản tác dụng với vế sau \"must work quickly\".<br><br><strong>Dịch câu:</strong><br><em>Nhóm tiếp thị có rất ít thời gian để chuẩn bị bài thuyết trình trước khi khách hàng đến, vì vậy họ phải làm việc thật nhanh chóng.</em>"
       },
       {
         "question": "______ of the board members attended the annual meeting last Tuesday.",
         "options": {
           "A": "Each",
           "B": "Every",
-          "C": "Most",
-          "D": "Almost"
+          "C": "Almost",
+          "D": "Most"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. Most</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc: <code>Most + of + the/these/those... + danh từ số nhiều</code> (Phần lớn, hầu hết).<br>- Loại <strong class=\"hl-vocab\">Each</strong> vì 'Each of the + danh từ số nhiều' mặc dù đúng ngữ pháp nhưng động từ đi kèm phải chia số ít, trong khi ở quá khứ 'attended' không phân biệt nhưng 'Most of' hợp nghĩa tập thể hơn.<br>- Loại <strong class=\"hl-vocab\">Every</strong> vì 'Every' không đi trực tiếp với 'of' (phải dùng 'Every one of').<br>- Loại <strong class=\"hl-vocab\">Almost</strong> vì 'Almost' là trạng từ, không đi trực tiếp với 'of' (phải dùng 'Almost all of').<br><br><strong>Dịch câu:</strong><br><em>Hầu hết các thành viên ban giám đốc đã tham dự cuộc họp thường niên vào thứ Ba tuần trước.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. Most</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc: <code>Most + of + the/these/those... + danh từ số nhiều</code> (Phần lớn, hầu hết).<br>- Loại <strong class=\"hl-vocab\">Each</strong> vì 'Each of the + danh từ số nhiều' mặc dù đúng ngữ pháp nhưng động từ đi kèm phải chia số ít, trong khi ở quá khứ 'attended' không phân biệt nhưng 'Most of' hợp nghĩa tập thể hơn.<br>- Loại <strong class=\"hl-vocab\">Every</strong> vì 'Every' không đi trực tiếp với 'of' (phải dùng 'Every one of').<br>- Loại <strong class=\"hl-vocab\">Almost</strong> vì 'Almost' là trạng từ, không đi trực tiếp với 'of' (phải dùng 'Almost all of').<br><br><strong>Dịch câu:</strong><br><em>Hầu hết các thành viên ban giám đốc đã tham dự cuộc họp thường niên vào thứ Ba tuần trước.</em>"
       },
       {
         "question": "The company offers ______ training programs to help employees improve their technical skills.",
@@ -6262,12 +6262,12 @@ const toeicReadingData = [
         "question": "The technician noted that there was ______ progress made on the network upgrade yesterday.",
         "options": {
           "A": "many",
-          "B": "little",
+          "B": "several",
           "C": "few",
-          "D": "several"
+          "D": "little"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. little</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau chỗ trống là danh từ <code>progress</code> (tiến độ/tiến trình) - một danh từ không đếm được → cần một từ chỉ số lượng đi với danh từ không đếm được.<br>- Chọn <strong class=\"hl-vocab\">little</strong> (rất ít, hầu như không có).<br>- Các phương án <strong class=\"hl-vocab\">many</strong>, <strong class=\"hl-vocab\">few</strong>, và <strong class=\"hl-vocab\">several</strong> đều chỉ đi với danh từ đếm được số nhiều.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên lưu ý rằng có rất ít tiến triển được thực hiện đối với việc nâng cấp mạng ngày hôm qua.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. little</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau chỗ trống là danh từ <code>progress</code> (tiến độ/tiến trình) - một danh từ không đếm được → cần một từ chỉ số lượng đi với danh từ không đếm được.<br>- Chọn <strong class=\"hl-vocab\">little</strong> (rất ít, hầu như không có).<br>- Các phương án <strong class=\"hl-vocab\">many</strong>, <strong class=\"hl-vocab\">few</strong>, và <strong class=\"hl-vocab\">several</strong> đều chỉ đi với danh từ đếm được số nhiều.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên lưu ý rằng có rất ít tiến triển được thực hiện đối với việc nâng cấp mạng ngày hôm qua.</em>"
       },
       {
         "question": "If you experience ______ technical difficulties, please contact the IT helpdesk immediately.",
@@ -6295,23 +6295,23 @@ const toeicReadingData = [
         "question": "The client asked for ______ copy of the contract for their legal department.",
         "options": {
           "A": "other",
-          "B": "another",
-          "C": "others",
+          "B": "others",
+          "C": "another",
           "D": "the others"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. another</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau là danh từ số ít <code>copy</code> (bản sao).<br>- Cấu trúc: <code>another + danh từ số ít</code> (một cái/người khác nữa).<br>- Loại <strong class=\"hl-vocab\">other</strong> vì đi với danh từ số nhiều hoặc không đếm được.<br>- Loại <strong class=\"hl-vocab\">others</strong> và <strong class=\"hl-vocab\">the others</strong> vì là đại từ, không đi kèm trực tiếp với danh từ ngay phía sau.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng đã yêu cầu một bản sao khác của hợp đồng cho bộ phận pháp lý của họ.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. another</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau là danh từ số ít <code>copy</code> (bản sao).<br>- Cấu trúc: <code>another + danh từ số ít</code> (một cái/người khác nữa).<br>- Loại <strong class=\"hl-vocab\">other</strong> vì đi với danh từ số nhiều hoặc không đếm được.<br>- Loại <strong class=\"hl-vocab\">others</strong> và <strong class=\"hl-vocab\">the others</strong> vì là đại từ, không đi kèm trực tiếp với danh từ ngay phía sau.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng đã yêu cầu một bản sao khác của hợp đồng cho bộ phận pháp lý của họ.</em>"
       },
       {
         "question": "We have received ______ complaints from customers since the new system was launched.",
         "options": {
-          "A": "much",
-          "B": "few",
+          "A": "few",
+          "B": "much",
           "C": "little",
           "D": "another"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. few</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ đứng sau là danh từ đếm được số nhiều <code>complaints</code> (khiếu nại) -> cần dùng từ chỉ số lượng đi với danh từ số nhiều.<br>- Chọn <strong class=\"hl-vocab\">few</strong> (rất ít, gần như không có).<br>- Loại <strong class=\"hl-vocab\">much</strong> và <strong class=\"hl-vocab\">little</strong> vì chỉ đi với danh từ không đếm được.<br>- Loại <strong class=\"hl-vocab\">another</strong> vì chỉ đi với danh từ số ít.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi nhận được rất ít khiếu nại từ khách hàng kể từ khi hệ thống mới được đưa vào hoạt động.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. few</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ đứng sau là danh từ đếm được số nhiều <code>complaints</code> (khiếu nại) -> cần dùng từ chỉ số lượng đi với danh từ số nhiều.<br>- Chọn <strong class=\"hl-vocab\">few</strong> (rất ít, gần như không có).<br>- Loại <strong class=\"hl-vocab\">much</strong> và <strong class=\"hl-vocab\">little</strong> vì chỉ đi với danh từ không đếm được.<br>- Loại <strong class=\"hl-vocab\">another</strong> vì chỉ đi với danh từ số ít.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi nhận được rất ít khiếu nại từ khách hàng kể từ khi hệ thống mới được đưa vào hoạt động.</em>"
       },
       {
         "question": "______ applicant must fill out the questionnaire before the job interview.",
@@ -6328,78 +6328,78 @@ const toeicReadingData = [
         "question": "The project is ______ finished, so the team can submit it tomorrow morning.",
         "options": {
           "A": "most",
-          "B": "almost",
-          "C": "several",
+          "B": "several",
+          "C": "almost",
           "D": "all"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. almost</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước tính từ/phân từ <code>finished</code> (hoàn thành) -> cần trạng từ bổ nghĩa cho tính từ.<br>- Chọn <strong class=\"hl-vocab\">almost</strong> (gần như, hầu như).<br>- <strong class=\"hl-vocab\">Most</strong>, <strong class=\"hl-vocab\">several</strong>, và <strong class=\"hl-vocab\">all</strong> là các từ hạn định, bổ nghĩa cho danh từ, không đứng trước bổ nghĩa cho 'finished' làm trạng từ ở đây.<br><br><strong>Dịch câu:</strong><br><em>Dự án gần như đã hoàn thành, vì vậy cả nhóm có thể nộp nó vào sáng ngày mai.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. almost</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước tính từ/phân từ <code>finished</code> (hoàn thành) -> cần trạng từ bổ nghĩa cho tính từ.<br>- Chọn <strong class=\"hl-vocab\">almost</strong> (gần như, hầu như).<br>- <strong class=\"hl-vocab\">Most</strong>, <strong class=\"hl-vocab\">several</strong>, và <strong class=\"hl-vocab\">all</strong> là các từ hạn định, bổ nghĩa cho danh từ, không đứng trước bổ nghĩa cho 'finished' làm trạng từ ở đây.<br><br><strong>Dịch câu:</strong><br><em>Dự án gần như đã hoàn thành, vì vậy cả nhóm có thể nộp nó vào sáng ngày mai.</em>"
       },
       {
         "question": "Neither of the two software designs ______ selected for the final product launch.",
         "options": {
           "A": "were",
-          "B": "was",
+          "B": "have been",
           "C": "are",
-          "D": "have been"
+          "D": "was"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. was</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ của câu có cấu trúc: <code>Neither of + danh từ số nhiều</code> -> động từ trong câu luôn chia ở số ít.<br>- Dựa vào ngữ cảnh hành động đã xảy ra và lựa chọn dạng bị động số ít -> chọn <strong class=\"hl-vocab\">was</strong>.<br><br><strong>Dịch câu:</strong><br><em>Không có thiết kế phần mềm nào trong hai thiết kế được lựa chọn cho đợt ra mắt sản phẩm cuối cùng.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. was</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ của câu có cấu trúc: <code>Neither of + danh từ số nhiều</code> -> động từ trong câu luôn chia ở số ít.<br>- Dựa vào ngữ cảnh hành động đã xảy ra và lựa chọn dạng bị động số ít -> chọn <strong class=\"hl-vocab\">was</strong>.<br><br><strong>Dịch câu:</strong><br><em>Không có thiết kế phần mềm nào trong hai thiết kế được lựa chọn cho đợt ra mắt sản phẩm cuối cùng.</em>"
       },
       {
         "question": "The supervisor asked if we had ______ chairs in the conference room for all the guests.",
         "options": {
-          "A": "enough",
-          "B": "much",
+          "A": "much",
+          "B": "enough",
           "C": "another",
           "D": "almost"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. enough</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ số nhiều <code>chairs</code> (ghế) để chỉ sự đầy đủ -> dùng từ hạn định <strong class=\"hl-vocab\">enough</strong> (đủ).<br>- Loại <strong class=\"hl-vocab\">much</strong> vì chỉ đi với danh từ không đếm được.<br>- Loại <strong class=\"hl-vocab\">another</strong> vì đi với danh từ số ít.<br>- Loại <strong class=\"hl-vocab\">almost</strong> vì là trạng từ, không đứng trực tiếp trước danh từ.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã hỏi liệu chúng tôi có đủ ghế trong phòng hội nghị cho tất cả khách mời không.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. enough</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ số nhiều <code>chairs</code> (ghế) để chỉ sự đầy đủ -> dùng từ hạn định <strong class=\"hl-vocab\">enough</strong> (đủ).<br>- Loại <strong class=\"hl-vocab\">much</strong> vì chỉ đi với danh từ không đếm được.<br>- Loại <strong class=\"hl-vocab\">another</strong> vì đi với danh từ số ít.<br>- Loại <strong class=\"hl-vocab\">almost</strong> vì là trạng từ, không đứng trực tiếp trước danh từ.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã hỏi liệu chúng tôi có đủ ghế trong phòng hội nghị cho tất cả khách mời không.</em>"
       },
       {
         "question": "Some team members preferred the first design, while ______ voted for the second option.",
         "options": {
-          "A": "other",
-          "B": "others",
+          "A": "others",
+          "B": "other",
           "C": "another",
           "D": "the other"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. others</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng một mình làm chủ ngữ của mệnh đề phía sau -> cần một đại từ số nhiều đại diện cho 'other team members'.<br>- Chọn đại từ <strong class=\"hl-vocab\">others</strong> (những người khác).<br>- Loại <strong class=\"hl-vocab\">other</strong> vì là từ hạn định, bắt buộc phải có danh từ số nhiều theo sau.<br>- Loại <strong class=\"hl-vocab\">another</strong> vì chỉ một người/cái khác số ít.<br><br><strong>Dịch câu:</strong><br><em>Một số thành viên trong nhóm thích thiết kế đầu tiên hơn, trong khi những người khác đã bỏ phiếu cho lựa chọn thứ hai.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. others</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng một mình làm chủ ngữ của mệnh đề phía sau -> cần một đại từ số nhiều đại diện cho 'other team members'.<br>- Chọn đại từ <strong class=\"hl-vocab\">others</strong> (những người khác).<br>- Loại <strong class=\"hl-vocab\">other</strong> vì là từ hạn định, bắt buộc phải có danh từ số nhiều theo sau.<br>- Loại <strong class=\"hl-vocab\">another</strong> vì chỉ một người/cái khác số ít.<br><br><strong>Dịch câu:</strong><br><em>Một số thành viên trong nhóm thích thiết kế đầu tiên hơn, trong khi những người khác đã bỏ phiếu cho lựa chọn thứ hai.</em>"
       },
       {
         "question": "Please ensure that ______ department submits its budget proposal by Friday.",
         "options": {
           "A": "all",
-          "B": "every",
+          "B": "both",
           "C": "several",
-          "D": "both"
+          "D": "every"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. every</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau chỗ trống là danh từ đếm được số ít <code>department</code> (bộ phận) -> cần từ hạn định đi với danh từ số ít.<br>- Chọn <strong class=\"hl-vocab\">every</strong> (mọi/mỗi).<br>- Loại các từ <strong class=\"hl-vocab\">all</strong>, <strong class=\"hl-vocab\">several</strong>, và <strong class=\"hl-vocab\">both</strong> vì chúng đi với danh từ đếm được số nhiều.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng đảm bảo rằng mọi bộ phận đều nộp đề xuất ngân sách của mình trước thứ Sáu.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. every</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau chỗ trống là danh từ đếm được số ít <code>department</code> (bộ phận) -> cần từ hạn định đi với danh từ số ít.<br>- Chọn <strong class=\"hl-vocab\">every</strong> (mọi/mỗi).<br>- Loại các từ <strong class=\"hl-vocab\">all</strong>, <strong class=\"hl-vocab\">several</strong>, và <strong class=\"hl-vocab\">both</strong> vì chúng đi với danh từ đếm được số nhiều.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng đảm bảo rằng mọi bộ phận đều nộp đề xuất ngân sách của mình trước thứ Sáu.</em>"
       },
       {
         "question": "We still have ______ options left, so we do not need to make a decision immediately.",
         "options": {
-          "A": "a few",
+          "A": "much",
           "B": "a little",
-          "C": "much",
+          "C": "a few",
           "D": "few"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. a few</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ phía sau là <code>options</code> (phương án/lựa chọn) - danh từ đếm được số nhiều -> loại <strong class=\"hl-vocab\">a little</strong> và <strong class=\"hl-vocab\">much</strong> (chỉ đi với danh từ không đếm được).<br>- Xét nghĩa: Câu mang nghĩa khẳng định 'vẫn còn một vài lựa chọn nên chưa cần quyết định ngay' -> chọn <strong class=\"hl-vocab\">a few</strong> (một vài, có đủ dùng). Chọn <strong class=\"hl-vocab\">few</strong> mang nghĩa phủ định (hầu như không còn lựa chọn nào) là không hợp logic câu.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi vẫn còn một vài lựa chọn, vì vậy chúng tôi không cần phải đưa ra quyết định ngay lập tức.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. a few</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ phía sau là <code>options</code> (phương án/lựa chọn) - danh từ đếm được số nhiều -> loại <strong class=\"hl-vocab\">a little</strong> và <strong class=\"hl-vocab\">much</strong> (chỉ đi với danh từ không đếm được).<br>- Xét nghĩa: Câu mang nghĩa khẳng định 'vẫn còn một vài lựa chọn nên chưa cần quyết định ngay' -> chọn <strong class=\"hl-vocab\">a few</strong> (một vài, có đủ dùng). Chọn <strong class=\"hl-vocab\">few</strong> mang nghĩa phủ định (hầu như không còn lựa chọn nào) là không hợp logic câu.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi vẫn còn một vài lựa chọn, vì vậy chúng tôi không cần phải đưa ra quyết định ngay lập tức.</em>"
       },
       {
         "question": "______ of the candidates met all the requirements listed in the job advertisement.",
         "options": {
-          "A": "Almost",
-          "B": "None",
+          "A": "None",
+          "B": "Almost",
           "C": "Every",
           "D": "Another"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. None</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước cụm <code>of the candidates</code> -> cần một từ có thể làm đại từ và đi với giới từ 'of'.<br>- Chọn đại từ phủ định <strong class=\"hl-vocab\">None</strong> (None of the + danh từ số nhiều: Không ai trong số...).<br>- Loại <strong class=\"hl-vocab\">Almost</strong> vì là trạng từ, không đi trực tiếp với 'of'.<br>- Loại <strong class=\"hl-vocab\">Every</strong> và <strong class=\"hl-vocab\">Another</strong> vì là từ hạn định không đi với 'of' ở dạng này (phải dùng 'Every one of' hoặc 'Another of' trong một số ít trường hợp nhưng ngữ nghĩa số nhiều không phù hợp).<br><br><strong>Dịch câu:</strong><br><em>Không ai trong số các ứng viên đáp ứng được tất cả các yêu cầu được liệt kê trong quảng cáo tuyển dụng.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. None</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước cụm <code>of the candidates</code> -> cần một từ có thể làm đại từ và đi với giới từ 'of'.<br>- Chọn đại từ phủ định <strong class=\"hl-vocab\">None</strong> (None of the + danh từ số nhiều: Không ai trong số...).<br>- Loại <strong class=\"hl-vocab\">Almost</strong> vì là trạng từ, không đi trực tiếp với 'of'.<br>- Loại <strong class=\"hl-vocab\">Every</strong> và <strong class=\"hl-vocab\">Another</strong> vì là từ hạn định không đi với 'of' ở dạng này (phải dùng 'Every one of' hoặc 'Another of' trong một số ít trường hợp nhưng ngữ nghĩa số nhiều không phù hợp).<br><br><strong>Dịch câu:</strong><br><em>Không ai trong số các ứng viên đáp ứng được tất cả các yêu cầu được liệt kê trong quảng cáo tuyển dụng.</em>"
       },
       {
         "question": "The office manager ordered ______ paper for the photocopier because it was running low.",
@@ -6416,34 +6416,34 @@ const toeicReadingData = [
         "question": "______ report was submitted on time, which pleased the project manager.",
         "options": {
           "A": "Both",
-          "B": "All",
-          "C": "Each",
+          "B": "Each",
+          "C": "All",
           "D": "Several"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. Each</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ phía sau là <code>report</code> (báo cáo) - danh từ đếm được số ít và động từ chia ở số ít <code>was submitted</code> -> chỉ có từ hạn định <strong class=\"hl-vocab\">Each</strong> đi với danh từ số ít.<br>- Loại <strong class=\"hl-vocab\">Both</strong>, <strong class=\"hl-vocab\">All</strong>, và <strong class=\"hl-vocab\">Several</strong> vì đi với danh từ số nhiều.<br><br><strong>Dịch câu:</strong><br><em>Mỗi báo cáo đều được nộp đúng hạn, điều này làm hài lòng người quản lý dự án.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. Each</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ phía sau là <code>report</code> (báo cáo) - danh từ đếm được số ít và động từ chia ở số ít <code>was submitted</code> -> chỉ có từ hạn định <strong class=\"hl-vocab\">Each</strong> đi với danh từ số ít.<br>- Loại <strong class=\"hl-vocab\">Both</strong>, <strong class=\"hl-vocab\">All</strong>, và <strong class=\"hl-vocab\">Several</strong> vì đi với danh từ số nhiều.<br><br><strong>Dịch câu:</strong><br><em>Mỗi báo cáo đều được nộp đúng hạn, điều này làm hài lòng người quản lý dự án.</em>"
       },
       {
         "question": "The company will recruit ______ manager to oversee the new branch in Hanoi next month.",
         "options": {
-          "A": "another",
+          "A": "the others",
           "B": "other",
           "C": "others",
-          "D": "the others"
+          "D": "another"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. another</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ đứng sau là <code>manager</code> (quản lý) - danh từ đếm được số ít -> dùng từ hạn định <strong class=\"hl-vocab\">another</strong> (một người khác nữa).<br>- Loại <strong class=\"hl-vocab\">other</strong> vì đi với danh từ số nhiều.<br>- Loại <strong class=\"hl-vocab\">others</strong> và <strong class=\"hl-vocab\">the others</strong> vì là đại từ đứng độc lập.<br><br><strong>Dịch câu:</strong><br><em>Công ty sẽ tuyển dụng một người quản lý khác để giám sát chi nhánh mới ở Hà Nội vào tháng tới.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. another</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ đứng sau là <code>manager</code> (quản lý) - danh từ đếm được số ít -> dùng từ hạn định <strong class=\"hl-vocab\">another</strong> (một người khác nữa).<br>- Loại <strong class=\"hl-vocab\">other</strong> vì đi với danh từ số nhiều.<br>- Loại <strong class=\"hl-vocab\">others</strong> và <strong class=\"hl-vocab\">the others</strong> vì là đại từ đứng độc lập.<br><br><strong>Dịch câu:</strong><br><em>Công ty sẽ tuyển dụng một người quản lý khác để giám sát chi nhánh mới ở Hà Nội vào tháng tới.</em>"
       },
       {
         "question": "Almost ______ employees attended the annual safety workshop yesterday afternoon.",
         "options": {
           "A": "most",
-          "B": "all",
-          "C": "both",
+          "B": "both",
+          "C": "all",
           "D": "every"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. all</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc trạng từ: <code>Almost + all + danh từ số nhiều</code> (Hầu như tất cả). Không dùng 'Almost most'.<br>- Loại <strong class=\"hl-vocab\">every</strong> vì 'every' đi với danh từ số ít, trong khi ở đây là danh từ số nhiều <code>employees</code>.<br>- Loại <strong class=\"hl-vocab\">both</strong> vì câu mang nghĩa tổng quát toàn bộ tập thể nhân viên chứ không giới hạn ở số hai.<br><br><strong>Dịch câu:</strong><br><em>Hầu như tất cả nhân viên đã tham dự hội thảo về an toàn hàng năm vào chiều ngày hôm qua.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. all</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc trạng từ: <code>Almost + all + danh từ số nhiều</code> (Hầu như tất cả). Không dùng 'Almost most'.<br>- Loại <strong class=\"hl-vocab\">every</strong> vì 'every' đi với danh từ số ít, trong khi ở đây là danh từ số nhiều <code>employees</code>.<br>- Loại <strong class=\"hl-vocab\">both</strong> vì câu mang nghĩa tổng quát toàn bộ tập thể nhân viên chứ không giới hạn ở số hai.<br><br><strong>Dịch câu:</strong><br><em>Hầu như tất cả nhân viên đã tham dự hội thảo về an toàn hàng năm vào chiều ngày hôm qua.</em>"
       }
     ],
     "homework": [
@@ -6775,12 +6775,12 @@ const toeicReadingData = [
         "question": "The new logistics software is ______ than the program we used last year.",
         "options": {
           "A": "fast",
-          "B": "faster",
+          "B": "more fast",
           "C": "fastest",
-          "D": "more fast"
+          "D": "faster"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. faster</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau chỗ trống có từ <strong class=\"hl-blue\">than</strong> → cần dạng so sánh hơn.<br>- Vì <code>fast</code> là tính từ ngắn nên ta chỉ cần thêm đuôi <code>-er</code> để tạo thành dạng so sánh hơn <code>faster</code>.<br>- Phương án D sai vì không dùng <code>more</code> đi kèm với tính từ ngắn.<br><br><strong>Dịch câu:</strong><br><em>Phần mềm hậu cần mới nhanh hơn chương trình chúng ta sử dụng năm ngoái.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. faster</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau chỗ trống có từ <strong class=\"hl-blue\">than</strong> → cần dạng so sánh hơn.<br>- Vì <code>fast</code> là tính từ ngắn nên ta chỉ cần thêm đuôi <code>-er</code> để tạo thành dạng so sánh hơn <code>faster</code>.<br>- Phương án D sai vì không dùng <code>more</code> đi kèm với tính từ ngắn.<br><br><strong>Dịch câu:</strong><br><em>Phần mềm hậu cần mới nhanh hơn chương trình chúng ta sử dụng năm ngoái.</em>"
       },
       {
         "question": "The updated safety procedures are ______ comprehensive than the previous guidelines.",
@@ -6818,13 +6818,13 @@ const toeicReadingData = [
       {
         "question": "The prototype model was ______ more reliable than the initial design.",
         "options": {
-          "A": "very",
-          "B": "far",
+          "A": "far",
+          "B": "very",
           "C": "highly",
           "D": "quite"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. far</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước cụm so sánh hơn <code>more reliable than</code> → cần trạng từ bổ nghĩa cho cấu trúc so sánh hơn.<br>- Trong tiếng Anh, ta dùng các trạng từ như <code>far</code>, <code>much</code> hoặc <code>even</code> trước so sánh hơn để nhấn mạnh mức độ.<br>- Không dùng các trạng từ <strong class=\"hl-vocab\">very</strong>, <strong class=\"hl-vocab\">highly</strong>, <strong class=\"hl-vocab\">quite</strong> để bổ nghĩa trực tiếp cho dạng so sánh hơn.<br><br><strong>Dịch câu:</strong><br><em>Mô hình thử nghiệm đáng tin cậy hơn nhiều so với thiết kế ban đầu.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. far</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước cụm so sánh hơn <code>more reliable than</code> → cần trạng từ bổ nghĩa cho cấu trúc so sánh hơn.<br>- Trong tiếng Anh, ta dùng các trạng từ như <code>far</code>, <code>much</code> hoặc <code>even</code> trước so sánh hơn để nhấn mạnh mức độ.<br>- Không dùng các trạng từ <strong class=\"hl-vocab\">very</strong>, <strong class=\"hl-vocab\">highly</strong>, <strong class=\"hl-vocab\">quite</strong> để bổ nghĩa trực tiếp cho dạng so sánh hơn.<br><br><strong>Dịch câu:</strong><br><em>Mô hình thử nghiệm đáng tin cậy hơn nhiều so với thiết kế ban đầu.</em>"
       },
       {
         "question": "The new marketing campaign is one of the most ______ strategies we have implemented.",
@@ -6841,23 +6841,23 @@ const toeicReadingData = [
         "question": "The ______ we address the customer complaints, the higher our satisfaction rating will be.",
         "options": {
           "A": "early",
-          "B": "earlier",
-          "C": "earliest",
+          "B": "earliest",
+          "C": "earlier",
           "D": "more early"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. earlier</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh kép (càng... càng...): <code>The + so sánh hơn + chủ ngữ + động từ, the + so sánh hơn + chủ ngữ + động từ</code>.<br>- Chỗ trống ở vế đầu tiên đứng sau mạo từ <code>The</code> → cần dạng so sánh hơn.<br>- Vì <code>early</code> kết thúc bằng phụ âm + y nên ta đổi y thành i rồi thêm đuôi <code>-er</code> thành <code>earlier</code>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta giải quyết các khiếu nại của khách hàng càng sớm, đánh giá mức độ hài lòng của chúng ta sẽ càng cao.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. earlier</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh kép (càng... càng...): <code>The + so sánh hơn + chủ ngữ + động từ, the + so sánh hơn + chủ ngữ + động từ</code>.<br>- Chỗ trống ở vế đầu tiên đứng sau mạo từ <code>The</code> → cần dạng so sánh hơn.<br>- Vì <code>early</code> kết thúc bằng phụ âm + y nên ta đổi y thành i rồi thêm đuôi <code>-er</code> thành <code>earlier</code>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta giải quyết các khiếu nại của khách hàng càng sớm, đánh giá mức độ hài lòng của chúng ta sẽ càng cao.</em>"
       },
       {
         "question": "The technician repaired the server ______ than we had anticipated.",
         "options": {
           "A": "quickly",
           "B": "quick",
-          "C": "more quickly",
-          "D": "most quickly"
+          "C": "most quickly",
+          "D": "more quickly"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. more quickly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau chỗ trống có từ <strong class=\"hl-blue\">than</strong> → cần dạng so sánh hơn.<br>- Chỗ trống bổ nghĩa cho động từ thường <code>repaired</code> (đã sửa chữa) → cần một trạng từ.<br>- Trạng từ dài <code>quickly</code> chuyển sang dạng so sánh hơn là <code>more quickly</code>.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên đã sửa chữa máy chủ nhanh hơn chúng tôi dự đoán.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. more quickly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau chỗ trống có từ <strong class=\"hl-blue\">than</strong> → cần dạng so sánh hơn.<br>- Chỗ trống bổ nghĩa cho động từ thường <code>repaired</code> (đã sửa chữa) → cần một trạng từ.<br>- Trạng từ dài <code>quickly</code> chuyển sang dạng so sánh hơn là <code>more quickly</code>.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên đã sửa chữa máy chủ nhanh hơn chúng tôi dự đoán.</em>"
       },
       {
         "question": "The main office building in Tokyo is the ______ property in our portfolio.",
@@ -6873,57 +6873,57 @@ const toeicReadingData = [
       {
         "question": "This is one of the most popular ______ among new employees.",
         "options": {
-          "A": "benefit",
-          "B": "benefits",
+          "A": "benefits",
+          "B": "benefit",
           "C": "beneficial",
           "D": "beneficially"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. benefits</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh nhất với số nhiều: <code>one of the + so sánh nhất + danh từ số nhiều</code> (một trong những cái gì đó nhất).<br>- Do đó, sau cụm <code>one of the most popular</code> ta cần điền danh từ số nhiều <strong class=\"hl-vocab\">benefits</strong> (các phúc lợi).<br><br><strong>Dịch câu:</strong><br><em>Đây là một trong những phúc lợi phổ biến nhất đối với các nhân viên mới.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. benefits</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh nhất với số nhiều: <code>one of the + so sánh nhất + danh từ số nhiều</code> (một trong những cái gì đó nhất).<br>- Do đó, sau cụm <code>one of the most popular</code> ta cần điền danh từ số nhiều <strong class=\"hl-vocab\">benefits</strong> (các phúc lợi).<br><br><strong>Dịch câu:</strong><br><em>Đây là một trong những phúc lợi phổ biến nhất đối với các nhân viên mới.</em>"
       },
       {
         "question": "The digital version of the newsletter is ______ expensive to produce than the print edition.",
         "options": {
-          "A": "less",
+          "A": "few",
           "B": "least",
           "C": "little",
-          "D": "few"
+          "D": "less"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. less</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau chỗ trống có tính từ <code>expensive</code> và giới từ <strong class=\"hl-blue\">than</strong> → cần cấu trúc so sánh hơn (ở đây biểu thị so sánh kém hơn).<br>- Chọn trạng từ so sánh kém <strong class=\"hl-vocab\">less</strong> để tạo thành cụm <code>less + tính từ + than</code> (ít đắt đỏ hơn).<br><br><strong>Dịch câu:</strong><br><em>Phiên bản kỹ thuật số của bản tin ít tốn kém để sản xuất hơn so với bản in.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. less</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau chỗ trống có tính từ <code>expensive</code> và giới từ <strong class=\"hl-blue\">than</strong> → cần cấu trúc so sánh hơn (ở đây biểu thị so sánh kém hơn).<br>- Chọn trạng từ so sánh kém <strong class=\"hl-vocab\">less</strong> để tạo thành cụm <code>less + tính từ + than</code> (ít đắt đỏ hơn).<br><br><strong>Dịch câu:</strong><br><em>Phiên bản kỹ thuật số của bản tin ít tốn kém để sản xuất hơn so với bản in.</em>"
       },
       {
         "question": "The assembly line operates as ______ as possible under the new supervision.",
         "options": {
           "A": "smooth",
-          "B": "smoothly",
-          "C": "smoothness",
+          "B": "smoothness",
+          "C": "smoothly",
           "D": "more smoothly"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. smoothly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh bằng: <code>as + tính từ / trạng từ + as</code>.<br>- Chỗ trống đứng sau và bổ nghĩa cho động từ thường <strong class=\"hl-blue\">operates</strong> (hoạt động) → cần một trạng từ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">smoothly</strong> (trơn tru).<br><br><strong>Dịch câu:</strong><br><em>Dây chuyền lắp ráp hoạt động trơn tru nhất có thể dưới sự giám sát mới.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. smoothly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh bằng: <code>as + tính từ / trạng từ + as</code>.<br>- Chỗ trống đứng sau và bổ nghĩa cho động từ thường <strong class=\"hl-blue\">operates</strong> (hoạt động) → cần một trạng từ.<br>- Chọn trạng từ <strong class=\"hl-vocab\">smoothly</strong> (trơn tru).<br><br><strong>Dịch câu:</strong><br><em>Dây chuyền lắp ráp hoạt động trơn tru nhất có thể dưới sự giám sát mới.</em>"
       },
       {
         "question": "The project coordinator chose the ______ complex option to save time.",
         "options": {
-          "A": "less",
-          "B": "least",
+          "A": "least",
+          "B": "less",
           "C": "little",
           "D": "minor"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. least</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía trước chỗ trống có mạo từ xác định <strong class=\"hl-blue\">the</strong> → nghĩ ngay đến dạng so sánh nhất.<br>- Đi kèm tính từ dài <code>complex</code> (phức tạp) → cần trạng từ so sánh kém nhất <code>least</code> để tạo thành cụm <code>the least complex option</code> (lựa chọn ít phức tạp nhất).<br><br><strong>Dịch câu:</strong><br><em>Điều phối viên dự án đã chọn phương án ít phức tạp nhất để tiết kiệm thời gian.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. least</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía trước chỗ trống có mạo từ xác định <strong class=\"hl-blue\">the</strong> → nghĩ ngay đến dạng so sánh nhất.<br>- Đi kèm tính từ dài <code>complex</code> (phức tạp) → cần trạng từ so sánh kém nhất <code>least</code> để tạo thành cụm <code>the least complex option</code> (lựa chọn ít phức tạp nhất).<br><br><strong>Dịch câu:</strong><br><em>Điều phối viên dự án đã chọn phương án ít phức tạp nhất để tiết kiệm thời gian.</em>"
       },
       {
         "question": "The research department spent more ______ three months collecting data.",
         "options": {
           "A": "as",
-          "B": "than",
-          "C": "so",
+          "B": "so",
+          "C": "than",
           "D": "like"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. than</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh chỉ số lượng vượt quá: <code>more than + số từ / cụm thời gian</code> (nhiều hơn / hơn).<br>- Do đó chọn giới từ <strong class=\"hl-vocab\">than</strong> đi sau trạng từ <code>more</code>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận nghiên cứu đã dành hơn ba tháng để thu thập dữ liệu.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. than</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh chỉ số lượng vượt quá: <code>more than + số từ / cụm thời gian</code> (nhiều hơn / hơn).<br>- Do đó chọn giới từ <strong class=\"hl-vocab\">than</strong> đi sau trạng từ <code>more</code>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận nghiên cứu đã dành hơn ba tháng để thu thập dữ liệu.</em>"
       },
       {
         "question": "The regional office received no ______ than fifty applications for the internship.",
@@ -6940,45 +6940,45 @@ const toeicReadingData = [
         "question": "Under the new management, the workload has become ______ than before.",
         "options": {
           "A": "heavy",
-          "B": "heavier",
+          "B": "more heavy",
           "C": "heaviest",
-          "D": "more heavy"
+          "D": "heavier"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. heavier</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau chỗ trống có từ <strong class=\"hl-blue\">than</strong> → cần dạng so sánh hơn.<br>- Tính từ <code>heavy</code> kết thúc bằng phụ âm + y nên ta đổi y thành i rồi thêm đuôi <code>-er</code> thành <code>heavier</code>.<br>- Phương án D sai vì không kết hợp <code>more</code> với tính từ ngắn.<br><br><strong>Dịch câu:</strong><br><em>Dưới sự quản lý mới, khối lượng công việc đã trở nên nặng nề hơn trước.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. heavier</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau chỗ trống có từ <strong class=\"hl-blue\">than</strong> → cần dạng so sánh hơn.<br>- Tính từ <code>heavy</code> kết thúc bằng phụ âm + y nên ta đổi y thành i rồi thêm đuôi <code>-er</code> thành <code>heavier</code>.<br>- Phương án D sai vì không kết hợp <code>more</code> với tính từ ngắn.<br><br><strong>Dịch câu:</strong><br><em>Dưới sự quản lý mới, khối lượng công việc đã trở nên nặng nề hơn trước.</em>"
       },
       {
         "question": "With the upgrade, the software operates even ______ than we anticipated.",
         "options": {
           "A": "fast",
-          "B": "faster",
-          "C": "fastest",
+          "B": "fastest",
+          "C": "faster",
           "D": "more fast"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. faster</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh hơn có từ nhấn mạnh: <code>even + dạng so sánh hơn + than</code>.<br>- Vì <code>fast</code> là trạng từ ngắn nên ta dùng dạng so sánh hơn là <code>faster</code>.<br><br><strong>Dịch câu:</strong><br><em>Với bản nâng cấp, phần mềm hoạt động thậm chí nhanh hơn chúng tôi dự đoán.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. faster</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh hơn có từ nhấn mạnh: <code>even + dạng so sánh hơn + than</code>.<br>- Vì <code>fast</code> là trạng từ ngắn nên ta dùng dạng so sánh hơn là <code>faster</code>.<br><br><strong>Dịch câu:</strong><br><em>Với bản nâng cấp, phần mềm hoạt động thậm chí nhanh hơn chúng tôi dự đoán.</em>"
       },
       {
         "question": "The second candidate was not ______ qualified as the first applicant.",
         "options": {
-          "A": "so",
-          "B": "as",
+          "A": "as",
+          "B": "so",
           "C": "more",
           "D": "than"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. as</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh bằng ở dạng phủ định: <code>not as + tính từ / trạng từ + as</code> (hoặc <code>not so + tính từ / trạng từ + as</code>).<br>- Phía sau có từ liên kết <code>as</code> và phía trước có <code>not</code> → chọn trạng từ so sánh <strong class=\"hl-vocab\">as</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ứng viên thứ hai không có đủ năng lực như ứng viên đầu tiên.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. as</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh bằng ở dạng phủ định: <code>not as + tính từ / trạng từ + as</code> (hoặc <code>not so + tính từ / trạng từ + as</code>).<br>- Phía sau có từ liên kết <code>as</code> và phía trước có <code>not</code> → chọn trạng từ so sánh <strong class=\"hl-vocab\">as</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ứng viên thứ hai không có đủ năng lực như ứng viên đầu tiên.</em>"
       },
       {
         "question": "The ______ the project team prepares, the more successful the presentation will be.",
         "options": {
           "A": "thoroughly",
-          "B": "more thoroughly",
+          "B": "thorough",
           "C": "most thoroughly",
-          "D": "thorough"
+          "D": "more thoroughly"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. more thoroughly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh kép (càng... càng...): <code>The + so sánh hơn..., the + so sánh hơn...</code>.<br>- Vì động từ thường <code>prepares</code> (chuẩn bị) cần trạng từ bổ nghĩa → dùng trạng từ so sánh hơn <strong class=\"hl-vocab\">more thoroughly</strong> (càng kỹ lưỡng).<br><br><strong>Dịch câu:</strong><br><em>Nhóm dự án càng chuẩn bị kỹ lưỡng, bài thuyết trình sẽ càng thành công.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. more thoroughly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh kép (càng... càng...): <code>The + so sánh hơn..., the + so sánh hơn...</code>.<br>- Vì động từ thường <code>prepares</code> (chuẩn bị) cần trạng từ bổ nghĩa → dùng trạng từ so sánh hơn <strong class=\"hl-vocab\">more thoroughly</strong> (càng kỹ lưỡng).<br><br><strong>Dịch câu:</strong><br><em>Nhóm dự án càng chuẩn bị kỹ lưỡng, bài thuyết trình sẽ càng thành công.</em>"
       },
       {
         "question": "The marketing director believes that online advertising is a ______ choice for our target audience.",
@@ -7338,68 +7338,68 @@ const toeicReadingData = [
       {
         "question": "The new tax policy will directly ______ our company's profit margin next quarter.",
         "options": {
-          "A": "affect",
+          "A": "effective",
           "B": "effect",
-          "C": "effective",
+          "C": "affect",
           "D": "affection"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. affect</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau động từ khuyết thiếu <strong class=\"hl-blue\">will</strong> và trạng từ chỉ tần suất/mức độ <code>directly</code> → cần một động từ nguyên mẫu đóng vai trò động từ chính trong câu.<br>- Phân biệt hai từ dễ nhầm lẫn: <strong class=\"hl-vocab\">affect</strong> (động từ: tác động, ảnh hưởng đến) và <strong class=\"hl-vocab\">effect</strong> (danh từ: tác động, hiệu ứng). Do đó loại B.<br>- Loại C vì là tính từ, loại D vì là danh từ.<br><br><strong>Dịch câu:</strong><br><em>Chính sách thuế mới sẽ ảnh hưởng trực tiếp đến biên lợi nhuận của công ty chúng tôi vào quý tới.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. affect</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau động từ khuyết thiếu <strong class=\"hl-blue\">will</strong> và trạng từ chỉ tần suất/mức độ <code>directly</code> → cần một động từ nguyên mẫu đóng vai trò động từ chính trong câu.<br>- Phân biệt hai từ dễ nhầm lẫn: <strong class=\"hl-vocab\">affect</strong> (động từ: tác động, ảnh hưởng đến) và <strong class=\"hl-vocab\">effect</strong> (danh từ: tác động, hiệu ứng). Do đó loại B.<br>- Loại C vì là tính từ, loại D vì là danh từ.<br><br><strong>Dịch câu:</strong><br><em>Chính sách thuế mới sẽ ảnh hưởng trực tiếp đến biên lợi nhuận của công ty chúng tôi vào quý tới.</em>"
       },
       {
         "question": "The supervisor requested all employees to ______ their hands if they have questions.",
         "options": {
-          "A": "rise",
-          "B": "raise",
+          "A": "raise",
+          "B": "rise",
           "C": "rising",
           "D": "raised"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. raise</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau từ chỉ mục đích <strong class=\"hl-blue\">to</strong> và trước cụm danh từ làm tân ngữ <code>their hands</code> (tay của họ) → cần một ngoại động từ nguyên mẫu.<br>- Phân biệt hai động từ: <strong class=\"hl-vocab\">raise</strong> (ngoại động từ: giơ lên, nâng lên - bắt buộc có tân ngữ đi kèm phía sau) và <strong class=\"hl-vocab\">rise</strong> (nội động từ: tự tăng lên, mọc lên - không có tân ngữ phía sau).<br>- Chọn ngoại động từ nguyên mẫu <strong class=\"hl-vocab\">raise</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã yêu cầu tất cả nhân viên giơ tay nếu họ có câu hỏi.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. raise</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau từ chỉ mục đích <strong class=\"hl-blue\">to</strong> và trước cụm danh từ làm tân ngữ <code>their hands</code> (tay của họ) → cần một ngoại động từ nguyên mẫu.<br>- Phân biệt hai động từ: <strong class=\"hl-vocab\">raise</strong> (ngoại động từ: giơ lên, nâng lên - bắt buộc có tân ngữ đi kèm phía sau) và <strong class=\"hl-vocab\">rise</strong> (nội động từ: tự tăng lên, mọc lên - không có tân ngữ phía sau).<br>- Chọn ngoại động từ nguyên mẫu <strong class=\"hl-vocab\">raise</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã yêu cầu tất cả nhân viên giơ tay nếu họ có câu hỏi.</em>"
       },
       {
         "question": "Mr. Kim has dedicated his entire thirty-year ______ to developing environmental technologies.",
         "options": {
           "A": "job",
-          "B": "work",
+          "B": "career",
           "C": "occupation",
-          "D": "career"
+          "D": "work"
         },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. career</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần một danh từ hợp ngữ cảnh đứng sau cụm tính từ chỉ thời gian <code>entire thirty-year</code> (toàn bộ ba mươi năm).<br>- Phân biệt ý nghĩa các danh từ: <strong class=\"hl-vocab\">career</strong> (sự nghiệp - cả quá trình làm việc lâu dài), <strong class=\"hl-vocab\">job</strong> (công việc, vị trí cụ thể), <strong class=\"hl-vocab\">work</strong> (công việc nói chung, danh từ không đếm được), và <strong class=\"hl-vocab\">occupation</strong> (nghề nghiệp hành chính).<br>- Hợp ngữ cảnh nói về hành trình cống hiến 30 năm → chọn danh từ <strong class=\"hl-vocab\">career</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Kim đã cống hiến toàn bộ sự nghiệp ba mươi năm của mình để phát triển các công nghệ môi trường.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. career</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cần một danh từ hợp ngữ cảnh đứng sau cụm tính từ chỉ thời gian <code>entire thirty-year</code> (toàn bộ ba mươi năm).<br>- Phân biệt ý nghĩa các danh từ: <strong class=\"hl-vocab\">career</strong> (sự nghiệp - cả quá trình làm việc lâu dài), <strong class=\"hl-vocab\">job</strong> (công việc, vị trí cụ thể), <strong class=\"hl-vocab\">work</strong> (công việc nói chung, danh từ không đếm được), và <strong class=\"hl-vocab\">occupation</strong> (nghề nghiệp hành chính).<br>- Hợp ngữ cảnh nói về hành trình cống hiến 30 năm → chọn danh từ <strong class=\"hl-vocab\">career</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Kim đã cống hiến toàn bộ sự nghiệp ba mươi năm của mình để phát triển các công nghệ môi trường.</em>"
       },
       {
         "question": "The law firm is committed to representing each ______ with the highest level of professionalism.",
         "options": {
           "A": "customer",
-          "B": "client",
-          "C": "seller",
+          "B": "seller",
+          "C": "client",
           "D": "consumer"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. client</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Từ khóa trong câu là danh từ <strong class=\"hl-blue\">law firm</strong> (công ty luật).<br>- Phân biệt đối tượng sử dụng dịch vụ chuyên nghiệp: <strong class=\"hl-vocab\">client</strong> (khách hàng sử dụng dịch vụ tư vấn pháp lý, kế toán, y tế...) và <strong class=\"hl-vocab\">customer</strong> (khách hàng mua sản phẩm hàng hóa thông thường).<br>- Do đó chọn danh từ số ít <strong class=\"hl-vocab\">client</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty luật cam kết đại diện cho mỗi khách hàng với mức độ chuyên nghiệp cao nhất.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. client</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Từ khóa trong câu là danh từ <strong class=\"hl-blue\">law firm</strong> (công ty luật).<br>- Phân biệt đối tượng sử dụng dịch vụ chuyên nghiệp: <strong class=\"hl-vocab\">client</strong> (khách hàng sử dụng dịch vụ tư vấn pháp lý, kế toán, y tế...) và <strong class=\"hl-vocab\">customer</strong> (khách hàng mua sản phẩm hàng hóa thông thường).<br>- Do đó chọn danh từ số ít <strong class=\"hl-vocab\">client</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty luật cam kết đại diện cho mỗi khách hàng với mức độ chuyên nghiệp cao nhất.</em>"
       },
       {
         "question": "Due to rising shipping rates, local sourcing is a more ______ option for the manufacturer.",
         "options": {
           "A": "economic",
-          "B": "economical",
+          "B": "economically",
           "C": "economy",
-          "D": "economically"
+          "D": "economical"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. economical</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>option</code> và sau trạng từ so sánh <code>more</code> → cần một tính từ bổ nghĩa cho danh từ.<br>- Phân biệt cặp tính từ dễ nhầm lẫn: <strong class=\"hl-vocab\">economical</strong> (tiết kiệm chi phí, rẻ tiền) và <strong class=\"hl-vocab\">economic</strong> (thuộc về nền kinh tế).<br>- Vì câu nói về việc tiết kiệm chi pháp do giá vận chuyển tăng → chọn tính từ <strong class=\"hl-vocab\">economical</strong>.<br><br><strong>Dịch câu:</strong><br><em>Do giá vận chuyển tăng, nguồn cung ứng địa phương là một lựa chọn tiết kiệm hơn cho nhà sản xuất.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. economical</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>option</code> và sau trạng từ so sánh <code>more</code> → cần một tính từ bổ nghĩa cho danh từ.<br>- Phân biệt cặp tính từ dễ nhầm lẫn: <strong class=\"hl-vocab\">economical</strong> (tiết kiệm chi phí, rẻ tiền) và <strong class=\"hl-vocab\">economic</strong> (thuộc về nền kinh tế).<br>- Vì câu nói về việc tiết kiệm chi pháp do giá vận chuyển tăng → chọn tính từ <strong class=\"hl-vocab\">economical</strong>.<br><br><strong>Dịch câu:</strong><br><em>Do giá vận chuyển tăng, nguồn cung ứng địa phương là một lựa chọn tiết kiệm hơn cho nhà sản xuất.</em>"
       },
       {
         "question": "The development team worked overtime to ______ the project deadline.",
         "options": {
-          "A": "meet",
-          "B": "run",
+          "A": "run",
+          "B": "meet",
           "C": "carry",
           "D": "make"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. meet</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>deadline</code> (hạn chót) → cần động từ tạo thành cụm từ cố định.<br>- Cấu trúc cố định (collocation): <code>meet a deadline</code> (hoàn thành đúng hạn chót, kịp thời gian biểu).<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">meet</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm phát triển đã làm việc tăng ca để kịp thời hạn hoàn thành dự án.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. meet</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>deadline</code> (hạn chót) → cần động từ tạo thành cụm từ cố định.<br>- Cấu trúc cố định (collocation): <code>meet a deadline</code> (hoàn thành đúng hạn chót, kịp thời gian biểu).<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">meet</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm phát triển đã làm việc tăng ca để kịp thời hạn hoàn thành dự án.</em>"
       },
       {
         "question": "Customers can ______ an order online through our newly designed mobile application.",
@@ -7415,79 +7415,79 @@ const toeicReadingData = [
       {
         "question": "The disappointed customer decided to ______ a formal complaint against the service.",
         "options": {
-          "A": "file",
+          "A": "deliver",
           "B": "document",
           "C": "write",
-          "D": "deliver"
+          "D": "file"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. file</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi kèm với cụm danh từ phía sau <code>a formal complaint</code> (khiếu nại chính thức).<br>- Cụm từ cố định (collocation): <code>file a complaint</code> (nộp đơn khiếu nại, chính thức khiếu nại).<br>- Do đó chọn động từ nguyên mẫu <strong class=\"hl-vocab\">file</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng thất vọng đã quyết định nộp đơn khiếu nại chính thức đối với dịch vụ.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. file</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đi kèm với cụm danh từ phía sau <code>a formal complaint</code> (khiếu nại chính thức).<br>- Cụm từ cố định (collocation): <code>file a complaint</code> (nộp đơn khiếu nại, chính thức khiếu nại).<br>- Do đó chọn động từ nguyên mẫu <strong class=\"hl-vocab\">file</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng thất vọng đã quyết định nộp đơn khiếu nại chính thức đối với dịch vụ.</em>"
       },
       {
         "question": "The main warehouse accepts all shipments ______ those containing hazardous materials.",
         "options": {
           "A": "accept",
-          "B": "except",
-          "C": "exception",
+          "B": "exception",
+          "C": "except",
           "D": "exceptional"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. except</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau danh từ <code>shipments</code> và trước cụm danh từ <code>those containing...</code> → cần một giới từ mang ý nghĩa ngoại trừ để nối hai thành phần trong câu.<br>- Phân biệt cặp từ phát âm tương tự: <strong class=\"hl-vocab\">except</strong> (giới từ: ngoại trừ) và <strong class=\"hl-vocab\">accept</strong> (động từ: chấp nhận). Do đó chọn giới từ <strong class=\"hl-vocab\">except</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kho hàng chính chấp nhận tất cả các lô hàng ngoại trừ những lô hàng chứa vật liệu nguy hiểm.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. except</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau danh từ <code>shipments</code> và trước cụm danh từ <code>those containing...</code> → cần một giới từ mang ý nghĩa ngoại trừ để nối hai thành phần trong câu.<br>- Phân biệt cặp từ phát âm tương tự: <strong class=\"hl-vocab\">except</strong> (giới từ: ngoại trừ) và <strong class=\"hl-vocab\">accept</strong> (động từ: chấp nhận). Do đó chọn giới từ <strong class=\"hl-vocab\">except</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kho hàng chính chấp nhận tất cả các lô hàng ngoại trừ những lô hàng chứa vật liệu nguy hiểm.</em>"
       },
       {
         "question": "______ the weekly sales reports, the assistant must prepare the meeting agenda.",
         "options": {
-          "A": "Beside",
-          "B": "Besides",
+          "A": "Besides",
+          "B": "Beside",
           "C": "Between",
           "D": "Behind"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. Besides</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng ở đầu câu trước danh từ <code>reports</code> → cần một giới từ mang nghĩa chỉ sự bổ sung, thêm vào.<br>- Phân biệt: <strong class=\"hl-vocab\">besides</strong> (giới từ/trạng từ: ngoài ra, bên cạnh cái gì đó) và <strong class=\"hl-vocab\">beside</strong> (giới từ chỉ không gian: ngay sát bên cạnh).<br>- Chọn giới từ <strong class=\"hl-vocab\">Besides</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ngoài các báo cáo doanh số hàng tuần, trợ lý phải chuẩn bị chương trình nghị sự cuộc họp.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Besides</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng ở đầu câu trước danh từ <code>reports</code> → cần một giới từ mang nghĩa chỉ sự bổ sung, thêm vào.<br>- Phân biệt: <strong class=\"hl-vocab\">besides</strong> (giới từ/trạng từ: ngoài ra, bên cạnh cái gì đó) và <strong class=\"hl-vocab\">beside</strong> (giới từ chỉ không gian: ngay sát bên cạnh).<br>- Chọn giới từ <strong class=\"hl-vocab\">Besides</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ngoài các báo cáo doanh số hàng tuần, trợ lý phải chuẩn bị chương trình nghị sự cuộc họp.</em>"
       },
       {
         "question": "The financial consultant offered valuable ______ on how to reduce operational expenses.",
         "options": {
           "A": "advise",
-          "B": "advice",
-          "C": "advisor",
+          "B": "advisor",
+          "C": "advice",
           "D": "advisable"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. advice</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau tính từ <code>valuable</code> (có giá trị) → cần một danh từ để tạo thành cụm danh từ làm tân ngữ cho động từ <code>offered</code>.<br>- Phân biệt: <strong class=\"hl-vocab\">advice</strong> (danh từ: lời khuyên - không đếm được) và <strong class=\"hl-vocab\">advise</strong> (động từ: khuyên bảo).<br>- Do đó chọn danh từ <strong class=\"hl-vocab\">advice</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cố vấn tài chính đã đưa ra lời khuyên quý giá về cách giảm chi phí vận hành.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. advice</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau tính từ <code>valuable</code> (có giá trị) → cần một danh từ để tạo thành cụm danh từ làm tân ngữ cho động từ <code>offered</code>.<br>- Phân biệt: <strong class=\"hl-vocab\">advice</strong> (danh từ: lời khuyên - không đếm được) và <strong class=\"hl-vocab\">advise</strong> (động từ: khuyên bảo).<br>- Do đó chọn danh từ <strong class=\"hl-vocab\">advice</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cố vấn tài chính đã đưa ra lời khuyên quý giá về cách giảm chi phí vận hành.</em>"
       },
       {
         "question": "The human resources supervisor paid a sincere ______ to the team for their outstanding performance.",
         "options": {
-          "A": "compliment",
-          "B": "complement",
+          "A": "complement",
+          "B": "compliment",
           "C": "complimentary",
           "D": "complementary"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. compliment</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Căn cứ vào cụm động từ đi kèm mạo từ <code>paid a sincere...</code> ở phía trước.<br>- Cấu trúc cố định (collocation): <code>pay a compliment to someone</code> (dành lời khen ngợi cho ai).<br>- Phân biệt: <strong class=\"hl-vocab\">compliment</strong> (danh từ: lời khen ngợi) và <strong class=\"hl-vocab\">complement</strong> (danh từ: phần bổ sung, bổ khuyết cho nhau). Chọn danh từ <strong class=\"hl-vocab\">compliment</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám sát viên nhân sự đã dành một lời khen chân thành cho cả nhóm vì hiệu suất xuất sắc của họ.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. compliment</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Căn cứ vào cụm động từ đi kèm mạo từ <code>paid a sincere...</code> ở phía trước.<br>- Cấu trúc cố định (collocation): <code>pay a compliment to someone</code> (dành lời khen ngợi cho ai).<br>- Phân biệt: <strong class=\"hl-vocab\">compliment</strong> (danh từ: lời khen ngợi) và <strong class=\"hl-vocab\">complement</strong> (danh từ: phần bổ sung, bổ khuyết cho nhau). Chọn danh từ <strong class=\"hl-vocab\">compliment</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám sát viên nhân sự đã dành một lời khen chân thành cho cả nhóm vì hiệu suất xuất sắc của họ.</em>"
       },
       {
         "question": "All participants are required to register for the workshop at least one week ______.",
         "options": {
-          "A": "in advance",
+          "A": "forward",
           "B": "on time",
           "C": "beforehand",
-          "D": "forward"
+          "D": "in advance"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. in advance</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Căn cứ vào trạng ngữ chỉ thời gian <code>at least one week</code> ở phía trước.<br>- Cụm từ cố định chỉ thời gian trong tiếng Anh: <code>in advance</code> (trước, trước thời hạn). Cụm <code>one week in advance</code> nghĩa là trước một tuần.<br>- Do đó chọn cụm trạng từ <strong class=\"hl-vocab\">in advance</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả những người tham gia được yêu cầu đăng ký hội thảo trước ít nhất một tuần.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. in advance</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Căn cứ vào trạng ngữ chỉ thời gian <code>at least one week</code> ở phía trước.<br>- Cụm từ cố định chỉ thời gian trong tiếng Anh: <code>in advance</code> (trước, trước thời hạn). Cụm <code>one week in advance</code> nghĩa là trước một tuần.<br>- Do đó chọn cụm trạng từ <strong class=\"hl-vocab\">in advance</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả những người tham gia được yêu cầu đăng ký hội thảo trước ít nhất một tuần.</em>"
       },
       {
         "question": "Thanks to the hard work of the engineers, the bridge was completed ahead ______ schedule.",
         "options": {
-          "A": "of",
+          "A": "with",
           "B": "on",
-          "C": "with",
+          "C": "of",
           "D": "for"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. of</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau trạng từ <code>ahead</code> và trước danh từ <code>schedule</code> (lịch trình) → cần một giới từ.<br>- Cụm từ cố định trong công việc: <code>ahead of schedule</code> (trước lịch trình, trước tiến độ).<br>- Do đó chọn giới từ <strong class=\"hl-vocab\">of</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhờ vào sự làm việc chăm chỉ của các kỹ sư, cây cầu đã được hoàn thành trước tiến độ.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. of</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau trạng từ <code>ahead</code> và trước danh từ <code>schedule</code> (lịch trình) → cần một giới từ.<br>- Cụm từ cố định trong công việc: <code>ahead of schedule</code> (trước lịch trình, trước tiến độ).<br>- Do đó chọn giới từ <strong class=\"hl-vocab\">of</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhờ vào sự làm việc chăm chỉ của các kỹ sư, cây cầu đã được hoàn thành trước tiến độ.</em>"
       },
       {
         "question": "The hotel provides high-speed internet access free ______ charge to all guests.",
@@ -7503,13 +7503,13 @@ const toeicReadingData = [
       {
         "question": "We apologize that the item you ordered is currently ______ of stock.",
         "options": {
-          "A": "out",
+          "A": "away",
           "B": "in",
           "C": "off",
-          "D": "away"
+          "D": "out"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. out</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước cụm giới từ <code>of stock</code> → cần một trạng từ.<br>- Cấu trúc cố định chỉ tình trạng hàng hóa trong kho: <code>out of stock</code> (hết hàng, không còn trong kho).<br>- Do đó chọn trạng từ <strong class=\"hl-vocab\">out</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi xin lỗi vì mặt hàng bạn đặt hiện đang hết hàng trong kho.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. out</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước cụm giới từ <code>of stock</code> → cần một trạng từ.<br>- Cấu trúc cố định chỉ tình trạng hàng hóa trong kho: <code>out of stock</code> (hết hàng, không còn trong kho).<br>- Do đó chọn trạng từ <strong class=\"hl-vocab\">out</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi xin lỗi vì mặt hàng bạn đặt hiện đang hết hàng trong kho.</em>"
       },
       {
         "question": "Our main ______ has recently launched a new advertising campaign.",
@@ -7526,12 +7526,12 @@ const toeicReadingData = [
         "question": "Part-time employees receive their ______ on a weekly basis according to their hours worked.",
         "options": {
           "A": "salary",
-          "B": "wage",
+          "B": "pension",
           "C": "income",
-          "D": "pension"
+          "D": "wage"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. wage</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Từ khóa trong câu là <code>Part-time employees</code> (nhân viên bán thời gian) và cụm <code>hours worked</code> (giờ làm việc thực tế).<br>- Phân biệt hai danh từ chỉ thù lao: <strong class=\"hl-vocab\">wage</strong> (tiền công - thường trả theo giờ làm việc, theo ngày hoặc tuần cho lao động phổ thông/bán thời gian) và <strong class=\"hl-vocab\">salary</strong> (lương cố định theo tháng/năm trả cho nhân viên biên chế chính thức).<br>- Hợp ngữ cảnh trả tiền theo số giờ làm việc → chọn danh từ <strong class=\"hl-vocab\">wage</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên bán thời gian nhận tiền công hàng tuần dựa trên số giờ làm việc của họ.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. wage</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Từ khóa trong câu là <code>Part-time employees</code> (nhân viên bán thời gian) và cụm <code>hours worked</code> (giờ làm việc thực tế).<br>- Phân biệt hai danh từ chỉ thù lao: <strong class=\"hl-vocab\">wage</strong> (tiền công - thường trả theo giờ làm việc, theo ngày hoặc tuần cho lao động phổ thông/bán thời gian) và <strong class=\"hl-vocab\">salary</strong> (lương cố định theo tháng/năm trả cho nhân viên biên chế chính thức).<br>- Hợp ngữ cảnh trả tiền theo số giờ làm việc → chọn danh từ <strong class=\"hl-vocab\">wage</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên bán thời gian nhận tiền công hàng tuần dựa trên số giờ làm việc của họ.</em>"
       },
       {
         "question": "The quality control inspector will check all products to ______ that they meet safety standards.",
