@@ -1,4 +1,3 @@
-// TOEIC Reading Part 5 Course Data - Auto Generated
 const toeicReadingData = [
   {
     "id": 1,
@@ -7560,57 +7559,57 @@ const toeicReadingData = [
       {
         "question": "The main ______ of the new policy will be felt across all departments.",
         "options": {
-          "A": "affect",
-          "B": "effect",
+          "A": "effect",
+          "B": "affect",
           "C": "effective",
           "D": "effectively"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. effect</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau mạo từ <code>The</code> và tính từ bổ nghĩa <code>main</code> (chính) → cần điền một danh từ làm chủ ngữ chính của câu.<br>- Chọn danh từ <strong class=\"hl-vocab\">effect</strong> (sự tác động, hiệu ứng).<br>- Loại A vì là động từ, loại C vì là tính từ, loại D vì là trạng từ.<br><br><strong>Dịch câu:</strong><br><em>Tác động chính của chính sách mới sẽ được cảm nhận ở tất cả các bộ phận.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. effect</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau mạo từ <code>The</code> và tính từ bổ nghĩa <code>main</code> (chính) → cần điền một danh từ làm chủ ngữ chính của câu.<br>- Chọn danh từ <strong class=\"hl-vocab\">effect</strong> (sự tác động, hiệu ứng).<br>- Loại B vì là động từ (affect), loại C vì là tính từ (effective), loại D vì là trạng từ (effectively).<br><br><strong>Dịch câu:</strong><br><em>Tác động chính của chính sách mới sẽ được cảm nhận ở tất cả các bộ phận.</em>"
       },
       {
         "question": "Due to inflation, the price of raw materials continues to ______.",
         "options": {
-          "A": "rise",
+          "A": "raised",
           "B": "raise",
-          "C": "raised",
+          "C": "rise",
           "D": "rising"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. rise</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau từ chỉ mục đích <strong class=\"hl-blue\">to</strong> và không có tân ngữ chỉ vật theo sau → cần một nội động từ nguyên mẫu.<br>- Chọn nội động từ <strong class=\"hl-vocab\">rise</strong> (tự tăng lên).<br>- Loại B vì <code>raise</code> là ngoại động từ (bắt buộc có tân ngữ theo sau).<br><br><strong>Dịch câu:</strong><br><em>Do lạm phát, giá nguyên liệu thô tiếp tục tăng lên.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. rise</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau từ chỉ mục đích <strong class=\"hl-blue\">to</strong> và không có tân ngữ chỉ vật theo sau → cần một nội động từ nguyên mẫu.<br>- Chọn nội động từ <strong class=\"hl-vocab\">rise</strong> (tự tăng lên).<br>- Loại phương án <code>raise</code> vì là ngoại động từ (bắt buộc có tân ngữ theo sau).<br><br><strong>Dịch câu:</strong><br><em>Do lạm phát, giá nguyên liệu thô tiếp tục tăng lên.</em>"
       },
       {
         "question": "Finding a suitable ______ in the competitive IT sector requires persistence.",
         "options": {
-          "A": "job",
-          "B": "work",
+          "A": "work",
+          "B": "job",
           "C": "career",
           "D": "occupation"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. job</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau mạo từ chỉ số ít <code>a</code> và tính từ <code>suitable</code> → cần điền danh từ số ít đếm được.<br>- Chọn danh từ đếm được <strong class=\"hl-vocab\">job</strong> (công việc cụ thể).<br>- Loại B vì <code>work</code> là danh từ không đếm được (không đi kèm trực tiếp với mạo từ a). Loại C và D vì không hợp nghĩa câu.<br><br><strong>Dịch câu:</strong><br><em>Tìm kiếm một công việc phù hợp trong ngành công nghệ thông tin đầy cạnh tranh đòi hỏi sự kiên trì.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. job</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau mạo từ chỉ số ít <code>a</code> và tính từ <code>suitable</code> → cần điền danh từ số ít đếm được.<br>- Chọn danh từ đếm được <strong class=\"hl-vocab\">job</strong> (công việc cụ thể).<br>- Loại phương án <code>work</code> vì là danh từ không đếm được (không đi kèm trực tiếp với mạo từ a). Các phương án <code>career</code> và <code>occupation</code> không phù hợp ngữ cảnh câu.<br><br><strong>Dịch câu:</strong><br><em>Tìm kiếm một công việc phù hợp trong ngành công nghệ thông tin đầy cạnh tranh đòi hỏi sự kiên trì.</em>"
       },
       {
         "question": "Our online store aims to improve the shopping experience for every ______.",
         "options": {
-          "A": "customer",
+          "A": "merchant",
           "B": "client",
           "C": "seller",
-          "D": "merchant"
+          "D": "customer"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. customer</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Từ khóa trong câu là cụm danh từ <strong class=\"hl-blue\">online store</strong> (cửa hàng trực tuyến) và cụm <code>shopping experience</code> (trải nghiệm mua sắm).<br>- Đối với giao dịch bán lẻ hàng hóa, đối tượng mua hàng được gọi là <strong class=\"hl-vocab\">customer</strong> (khách hàng mua hàng lẻ).<br>- Do đó chọn danh từ <strong class=\"hl-vocab\">customer</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cửa hàng trực tuyến của chúng tôi nhằm mục đích cải thiện trải nghiệm mua sắm cho mọi khách hàng.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. customer</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Từ khóa trong câu là cụm danh từ <strong class=\"hl-blue\">online store</strong> (cửa hàng trực tuyến) và cụm <code>shopping experience</code> (trải nghiệm mua sắm).<br>- Đối với giao dịch bán lẻ hàng hóa, đối tượng mua hàng được gọi là <strong class=\"hl-vocab\">customer</strong> (khách hàng mua hàng lẻ).<br>- Do đó chọn danh từ <strong class=\"hl-vocab\">customer</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cửa hàng trực tuyến của chúng tôi nhằm mục đích cải thiện trải nghiệm mua sắm cho mọi khách hàng.</em>"
       },
       {
         "question": "The government is implementing new policies to stimulate ______ growth.",
         "options": {
-          "A": "economic",
+          "A": "economy",
           "B": "economical",
-          "C": "economy",
+          "C": "economic",
           "D": "economics"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. economic</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>growth</code> (sự tăng trưởng) → cần điền một tính từ bổ nghĩa cho danh từ.<br>- Cụm danh từ thường đi liền nhau (collocation): <code>economic growth</code> (sự tăng trưởng kinh tế).<br>- Chọn tính từ <strong class=\"hl-vocab\">economic</strong> (thuộc về kinh tế).<br><br><strong>Dịch câu:</strong><br><em>Chính phủ đang thực hiện các chính sách mới để kích thích tăng trưởng kinh tế.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. economic</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>growth</code> (sự tăng trưởng) → cần điền một tính từ bổ nghĩa cho danh từ.<br>- Cụm danh từ thường đi liền nhau (collocation): <code>economic growth</code> (sự tăng trưởng kinh tế).<br>- Chọn tính từ <strong class=\"hl-vocab\">economic</strong> (thuộc về kinh tế).<br><br><strong>Dịch câu:</strong><br><em>Chính phủ đang thực hiện các chính sách mới để kích thích tăng trưởng kinh tế.</em>"
       },
       {
         "question": "Please contact the receptionist to ______ a reservation for the conference room.",
@@ -7626,24 +7625,24 @@ const toeicReadingData = [
       {
         "question": "The marketing department will ______ a survey to collect customer feedback.",
         "options": {
-          "A": "conduct",
+          "A": "direct",
           "B": "perform",
           "C": "make",
-          "D": "direct"
+          "D": "conduct"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. conduct</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ làm tân ngữ <code>a survey</code> (cuộc khảo sát) → cần động từ tạo thành cụm từ cố định.<br>- Cụm từ cố định (collocation): <code>conduct a survey</code> (tiến hành, thực hiện một cuộc khảo sát).<br>- Do đó chọn động từ nguyên mẫu <strong class=\"hl-vocab\">conduct</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận tiếp thị sẽ tiến hành một cuộc khảo sát để thu thập ý kiến phản hồi của khách hàng.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. conduct</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ làm tân ngữ <code>a survey</code> (cuộc khảo sát) → cần động từ tạo thành cụm từ cố định.<br>- Cụm từ cố định (collocation): <code>conduct a survey</code> (tiến hành, thực hiện một cuộc khảo sát).<br>- Do đó chọn động từ nguyên mẫu <strong class=\"hl-vocab\">conduct</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận tiếp thị sẽ tiến hành một cuộc khảo sát để thu thập ý kiến phản hồi của khách hàng.</em>"
       },
       {
         "question": "Interested candidates must ______ their applications before the end of the week.",
         "options": {
-          "A": "submit",
-          "B": "give",
+          "A": "give",
+          "B": "submit",
           "C": "transfer",
           "D": "offer"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. submit</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ tân ngữ chỉ hồ sơ ứng tuyển <code>their applications</code> (đơn ứng tuyển của họ).<br>- Cụm từ cố định thường gặp (collocation): <code>submit an application</code> (nộp đơn ứng tuyển, nộp hồ sơ).<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">submit</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các ứng viên quan tâm phải nộp hồ sơ ứng tuyển của họ trước cuối tuần.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. submit</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm danh từ tân ngữ chỉ hồ sơ ứng tuyển <code>their applications</code> (đơn ứng tuyển của họ).<br>- Cụm từ cố định thường gặp (collocation): <code>submit an application</code> (nộp đơn ứng tuyển, nộp hồ sơ).<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">submit</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các ứng viên quan tâm phải nộp hồ sơ ứng tuyển của họ trước cuối tuần.</em>"
       },
       {
         "question": "We are pleased to ______ your invitation to speak at the annual convention.",
@@ -7659,46 +7658,46 @@ const toeicReadingData = [
       {
         "question": "The new assistant sat ______ the manager during the afternoon briefing.",
         "options": {
-          "A": "beside",
-          "B": "besides",
+          "A": "besides",
+          "B": "beside",
           "C": "between",
           "D": "among"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. beside</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>the manager</code> để chỉ mối quan hệ không gian, vị trí ngồi → cần một giới từ chỉ nơi chốn.<br>- Phân biệt: <strong class=\"hl-vocab\">beside</strong> (giới từ chỉ vị trí: ngay bên cạnh) và <strong class=\"hl-vocab\">besides</strong> (giới từ/trạng từ: ngoài ra, thêm vào đó).<br>- Chọn giới từ <strong class=\"hl-vocab\">beside</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trợ lý mới đã ngồi bên cạnh người quản lý trong suốt buổi họp giao ban chiều.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. beside</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>the manager</code> để chỉ mối quan hệ không gian, vị trí ngồi → cần một giới từ chỉ nơi chốn.<br>- Phân biệt: <strong class=\"hl-vocab\">beside</strong> (giới từ chỉ vị trí: ngay bên cạnh) và <strong class=\"hl-vocab\">besides</strong> (giới từ/trạng từ: ngoài ra, thêm vào đó).<br>- Chọn giới từ <strong class=\"hl-vocab\">beside</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trợ lý mới đã ngồi bên cạnh người quản lý trong suốt buổi họp giao ban chiều.</em>"
       },
       {
         "question": "The legal department will ______ the board of directors on the new regulations.",
         "options": {
-          "A": "advise",
+          "A": "advisable",
           "B": "advice",
           "C": "advisor",
-          "D": "advisable"
+          "D": "advise"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. advise</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau động từ khuyết thiếu <strong class=\"hl-blue\">will</strong> và trước cụm tân ngữ chỉ người <code>the board of directors</code> → cần điền một động từ nguyên mẫu.<br>- Phân biệt: <strong class=\"hl-vocab\">advise</strong> (động từ: tư vấn, khuyên bảo) và <strong class=\"hl-vocab\">advice</strong> (danh từ: lời khuyên).<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">advise</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận pháp lý sẽ tư vấn cho ban giám đốc về các quy định mới.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. advise</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau động từ khuyết thiếu <strong class=\"hl-blue\">will</strong> và trước cụm tân ngữ chỉ người <code>the board of directors</code> → cần điền một động từ nguyên mẫu.<br>- Phân biệt: <strong class=\"hl-vocab\">advise</strong> (động từ: tư vấn, khuyên bảo) và <strong class=\"hl-vocab\">advice</strong> (danh từ: lời khuyên).<br>- Chọn động từ nguyên mẫu <strong class=\"hl-vocab\">advise</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận pháp lý sẽ tư vấn cho ban giám đốc về các quy định mới.</em>"
       },
       {
         "question": "The red tie is a perfect ______ to his dark blue business suit.",
         "options": {
-          "A": "complement",
+          "A": "complimentary",
           "B": "compliment",
-          "C": "complimentary",
+          "C": "complement",
           "D": "complementary"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. complement</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau mạo từ chỉ số ít <code>a</code> và tính từ <code>perfect</code> (hoàn hảo) → cần điền một danh từ số ít.<br>- Phân biệt ý nghĩa: <strong class=\"hl-vocab\">complement</strong> (phần bổ sung, bổ trợ để hoàn thiện lẫn nhau) và <strong class=\"hl-vocab\">compliment</strong> (lời khen ngợi).<br>- Vì câu nói về sự kết hợp hoàn hảo về mặt thẩm mỹ giữa chiếc cà vạt và bộ com-lê → chọn danh từ <strong class=\"hl-vocab\">complement</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chiếc cà vạt màu đỏ là sự kết hợp hoàn hảo bổ trợ cho bộ com-lê công sở màu xanh đen của anh ấy.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. complement</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau mạo từ chỉ số ít <code>a</code> và tính từ <code>perfect</code> (hoàn hảo) → cần điền một danh từ số ít.<br>- Phân biệt ý nghĩa: <strong class=\"hl-vocab\">complement</strong> (phần bổ sung, bổ trợ để hoàn thiện lẫn nhau) và <strong class=\"hl-vocab\">compliment</strong> (lời khen ngợi).<br>- Vì câu nói về sự kết hợp hoàn hảo về mặt thẩm mỹ giữa chiếc cà vạt và bộ com-lê → chọn danh từ <strong class=\"hl-vocab\">complement</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chiếc cà vạt màu đỏ là sự kết hợp hoàn hảo bổ trợ cho bộ com-lê công sở màu xanh đen của anh ấy.</em>"
       },
       {
         "question": "The train arrived exactly ______ time, despite the heavy rain.",
         "options": {
-          "A": "on",
-          "B": "in",
+          "A": "in",
+          "B": "on",
           "C": "at",
           "D": "for"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. on</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>time</code> để tạo thành cụm trạng ngữ chỉ thời gian đúng hẹn.<br>- Cụm từ cố định chỉ thời gian: <code>on time</code> (đúng giờ, đúng hẹn).<br>- Chọn giới từ <strong class=\"hl-vocab\">on</strong>.<br><br><strong>Dịch câu:</strong><br><em>Đoàn tàu đã đến chính xác đúng giờ, mặc dù trời mưa to.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. on</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>time</code> để tạo thành cụm trạng ngữ chỉ thời gian đúng hẹn.<br>- Cụm từ cố định chỉ thời gian: <code>on time</code> (đúng giờ, đúng hẹn).<br>- Chọn giới từ <strong class=\"hl-vocab\">on</strong>.<br><br><strong>Dịch câu:</strong><br><em>Đoàn tàu đã đến chính xác đúng giờ, mặc dù trời mưa to.</em>"
       },
       {
         "question": "The museum offers entry free ______ charge on the first Sunday of every month.",
@@ -7714,46 +7713,46 @@ const toeicReadingData = [
       {
         "question": "Fortunately, the replacement parts we need are still ______ stock.",
         "options": {
-          "A": "in",
+          "A": "on",
           "B": "out",
-          "C": "on",
+          "C": "in",
           "D": "with"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. in</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ chỉ kho hàng <code>stock</code> và sau động từ liên kết <code>are</code> → cần điền giới từ phù hợp ngữ cảnh còn hàng.<br>- Cấu trúc cố định chỉ tình trạng hàng hóa có sẵn: <code>in stock</code> (còn hàng, có sẵn trong kho).<br>- Chọn giới từ <strong class=\"hl-vocab\">in</strong>.<br><br><strong>Dịch câu:</strong><br><em>May mắn thay, các phụ tùng thay thế chúng tôi cần vẫn còn hàng trong kho.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. in</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ chỉ kho hàng <code>stock</code> và sau động từ liên kết <code>are</code> → cần điền giới từ phù hợp ngữ cảnh còn hàng.<br>- Cấu trúc cố định chỉ tình trạng hàng hóa có sẵn: <code>in stock</code> (còn hàng, có sẵn trong kho).<br>- Chọn giới từ <strong class=\"hl-vocab\">in</strong>.<br><br><strong>Dịch câu:</strong><br><em>May mắn thay, các phụ tùng thay thế chúng tôi cần vẫn còn hàng trong kho.</em>"
       },
       {
         "question": "The software upgrade is available to existing users ______ no cost.",
         "options": {
-          "A": "at",
+          "A": "for",
           "B": "on",
           "C": "with",
-          "D": "for"
+          "D": "at"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. at</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước cụm danh từ chỉ chi phí <code>no cost</code> → cần điền giới từ thích hợp.<br>- Cấu trúc cố định chỉ giá cả: <code>at no cost</code> (miễn phí, không tốn chi phí nào).<br>- Chọn giới từ <strong class=\"hl-vocab\">at</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bản nâng cấp phần mềm có sẵn cho người dùng hiện tại mà không tốn phí.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. at</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước cụm danh từ chỉ chi phí <code>no cost</code> → cần điền giới từ thích hợp.<br>- Cấu trúc cố định chỉ giá cả: <code>at no cost</code> (miễn phí, không tốn chi phí nào).<br>- Chọn giới từ <strong class=\"hl-vocab\">at</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bản nâng cấp phần mềm có sẵn cho người dùng hiện tại mà không tốn phí.</em>"
       },
       {
         "question": "The company offers stable ______ and excellent health benefits.",
         "options": {
-          "A": "employment",
-          "B": "employee",
+          "A": "employee",
+          "B": "employment",
           "C": "employer",
           "D": "employed"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. employment</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau tính từ <code>stable</code> (ổn định) và làm tân ngữ cho động từ <code>offers</code> → cần điền một danh từ chỉ khái niệm/sự việc.<br>- Chọn danh từ chỉ việc làm, sự tuyển dụng <strong class=\"hl-vocab\">employment</strong> (sự ổn định về công việc).<br>- Loại B và C vì là danh từ chỉ người (không phù hợp đi kèm với tính từ stable). Loại D vì là động từ ở dạng quá khứ phân từ.<br><br><strong>Dịch câu:</strong><br><em>Công ty cung cấp việc làm ổn định và các phúc lợi y tế xuất sắc.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. employment</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng sau tính từ <code>stable</code> (ổn định) và làm tân ngữ cho động từ <code>offers</code> → cần điền một danh từ chỉ khái niệm/sự việc.<br>- Chọn danh từ chỉ việc làm, sự tuyển dụng <strong class=\"hl-vocab\">employment</strong> (sự ổn định về công việc).<br>- Các phương án <code>employee</code> và <code>employer</code> loại vì là danh từ chỉ người (không phù hợp đi kèm với tính từ stable). Loại <code>employed</code> vì là động từ ở dạng quá khứ phân từ.<br><br><strong>Dịch câu:</strong><br><em>Công ty cung cấp việc làm ổn định và các phúc lợi y tế xuất sắc.</em>"
       },
       {
         "question": "Full-time staff members are paid an annual ______ distributed monthly.",
         "options": {
-          "A": "salary",
+          "A": "income",
           "B": "wage",
-          "C": "income",
+          "C": "salary",
           "D": "budget"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. salary</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Ngữ cảnh nói về nhân viên toàn thời gian biên chế chính thức <code>Full-time staff members</code> và khoản thù lao hàng năm được chia nhỏ thanh toán theo tháng <code>annual... distributed monthly</code>.<br>- Chọn danh từ <strong class=\"hl-vocab\">salary</strong> (lương tháng cố định).<br>- Loại B vì <code>wage</code> thường chỉ tiền công trả theo giờ/ngày/tuần cho lao động thời vụ hoặc công việc phổ thông.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên toàn thời gian được trả lương hàng năm phát theo từng tháng.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. salary</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Ngữ cảnh nói về nhân viên toàn thời gian biên chế chính thức <code>Full-time staff members</code> và khoản thù lao hàng năm được chia nhỏ thanh toán theo tháng <code>annual... distributed monthly</code>.<br>- Chọn danh từ <strong class=\"hl-vocab\">salary</strong> (lương tháng cố định).<br>- Loại phương án <code>wage</code> vì thường chỉ tiền công trả theo giờ/ngày/tuần cho lao động thời vụ hoặc công việc phổ thông.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên toàn thời gian được trả lương hàng năm phát theo từng tháng.</em>"
       },
       {
         "question": "I can ______ you that the budget details will remain strictly confidential.",
@@ -7769,13 +7768,13 @@ const toeicReadingData = [
       {
         "question": "The signing of the peace treaty was a ______ event celebrated worldwide.",
         "options": {
-          "A": "historic",
+          "A": "historically",
           "B": "historical",
           "C": "history",
-          "D": "historically"
+          "D": "historic"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. historic</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>event</code> (sự kiện) và sau mạo từ <code>a</code> → cần một tính từ bổ nghĩa cho danh từ.<br>- Phân biệt: <strong class=\"hl-vocab\">historic</strong> (tính từ: mang ý nghĩa lịch sử trọng đại, có sức ảnh hưởng to lớn) và <strong class=\"hl-vocab\">historical</strong> (tính từ: thuộc về lịch sử, liên quan đến nghiên cứu quá khứ).<br>- Vì ký kết hiệp ước hòa bình là một sự kiện trọng đại mang tính bước ngoặt lịch sử → chọn tính từ <strong class=\"hl-vocab\">historic</strong>.<br><br><strong>Dịch câu:</strong><br><em>Việc ký kết hiệp ước hòa bình là một sự kiện lịch sử trọng đại được chào đón trên toàn thế giới.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. historic</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>event</code> (sự kiện) và sau mạo từ <code>a</code> → cần một tính từ bổ nghĩa cho danh từ.<br>- Phân biệt: <strong class=\"hl-vocab\">historic</strong> (tính từ: mang ý nghĩa lịch sử trọng đại, có sức ảnh hưởng to lớn) và <strong class=\"hl-vocab\">historical</strong> (tính từ: thuộc về lịch sử, liên quan đến nghiên cứu quá khứ).<br>- Vì ký kết hiệp ước hòa bình là một sự kiện trọng đại mang tính bước ngoặt lịch sử → chọn tính từ <strong class=\"hl-vocab\">historic</strong>.<br><br><strong>Dịch câu:</strong><br><em>Việc ký kết hiệp ước hòa bình là một sự kiện lịch sử trọng đại được chào đón trên toàn thế giới.</em>"
       }
     ]
   }
