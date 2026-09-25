@@ -5687,79 +5687,79 @@ const toeicReadingData = [
       {
         "question": "All employees must comply ______ the new safety regulations starting next month.",
         "options": {
-          "A": "with",
+          "A": "for",
           "B": "by",
-          "C": "for",
+          "C": "with",
           "D": "to"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. with</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ đi kèm giới từ: <code><span class=\"hl-vocab\">comply with</span></code> (tuân thủ theo cái gì).<br>- Các giới từ khác không đi với động từ <strong class=\"hl-vocab\">comply</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả nhân viên phải tuân thủ các quy định an toàn mới bắt đầu từ tháng tới.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. with</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ đi kèm giới từ: <code><span class=\"hl-vocab\">comply with</span></code> (tuân thủ theo cái gì).<br>- Các giới từ khác không đi với động từ <strong class=\"hl-vocab\">comply</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả nhân viên phải tuân thủ các quy định an toàn mới bắt đầu từ tháng tới.</em>"
       },
       {
         "question": "The director is responsible ______ approving all marketing budget requests.",
         "options": {
           "A": "with",
           "B": "to",
-          "C": "for",
-          "D": "of"
+          "C": "of",
+          "D": "for"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. for</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính từ đi kèm giới từ: <code><span class=\"hl-vocab\">be responsible for something / doing something</span></code> (chịu trách nhiệm về cái gì / việc gì).<br>- Sau chỗ trống là động từ dạng V-ing (<span class=\"hl-blue\">approving</span>).<br><br><strong>Dịch câu:</strong><br><em>Giám đốc chịu trách nhiệm phê duyệt tất cả các yêu cầu ngân sách tiếp thị.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. for</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính từ đi kèm giới từ: <code><span class=\"hl-vocab\">be responsible for something / doing something</span></code> (chịu trách nhiệm về cái gì / việc gì).<br>- Sau chỗ trống là động từ dạng V-ing (<span class=\"hl-blue\">approving</span>).<br><br><strong>Dịch câu:</strong><br><em>Giám đốc chịu trách nhiệm phê duyệt tất cả các yêu cầu ngân sách tiếp thị.</em>"
       },
       {
         "question": "Candidates who are interested ______ the job opening must submit their resumes by Monday.",
         "options": {
-          "A": "on",
-          "B": "in",
+          "A": "in",
+          "B": "on",
           "C": "at",
           "D": "with"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. in</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính từ đi kèm giới từ: <code><span class=\"hl-vocab\">be interested in something</span></code> (quan tâm / thích thú với cái gì).<br><br><strong>Dịch câu:</strong><br><em>Các ứng viên quan tâm đến vị trí tuyển dụng phải nộp sơ yếu lý lịch trước thứ Hai.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. in</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính từ đi kèm giới từ: <code><span class=\"hl-vocab\">be interested in something</span></code> (quan tâm / thích thú với cái gì).<br><br><strong>Dịch câu:</strong><br><em>Các ứng viên quan tâm đến vị trí tuyển dụng phải nộp sơ yếu lý lịch trước thứ Hai.</em>"
       },
       {
         "question": "The company has limited access ______ the confidential files to senior managers.",
         "options": {
-          "A": "to",
-          "B": "with",
+          "A": "with",
+          "B": "to",
           "C": "for",
           "D": "from"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc danh từ đi kèm giới từ: <code><span class=\"hl-vocab\">access to something</span></code> (quyền truy cập vào cái gì).<br><br><strong>Dịch câu:</strong><br><em>Công ty đã giới hạn quyền truy cập vào các tệp tin bảo mật cho các quản lý cấp cao.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc danh từ đi kèm giới từ: <code><span class=\"hl-vocab\">access to something</span></code> (quyền truy cập vào cái gì).<br><br><strong>Dịch câu:</strong><br><em>Công ty đã giới hạn quyền truy cập vào các tệp tin bảo mật cho các quản lý cấp cao.</em>"
       },
       {
         "question": "______ the weather report, a heavy storm is expected to arrive this evening.",
         "options": {
           "A": "In addition to",
-          "B": "According to",
+          "B": "In charge of",
           "C": "Because of",
-          "D": "In charge of"
+          "D": "According to"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. according to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc cụm giới từ cố định: <code><span class=\"hl-vocab\">according to</span></code> (theo như).<br>- Các phương án còn lại không phù hợp về ngữ nghĩa:<br>  + <span class=\"hl-orange\">In addition to</span>: ngoài... ra<br>  + <span class=\"hl-orange\">Because of</span>: bởi vì<br>  + <span class=\"hl-orange\">In charge of</span>: phụ trách<br><br><strong>Dịch câu:</strong><br><em>Theo báo cáo thời tiết, một cơn bão lớn dự kiến sẽ đổ bộ vào tối nay.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. according to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc cụm giới từ cố định: <code><span class=\"hl-vocab\">according to</span></code> (theo như).<br>- Các phương án còn lại không phù hợp về ngữ nghĩa:<br>  + <span class=\"hl-orange\">In addition to</span>: ngoài... ra<br>  + <span class=\"hl-orange\">Because of</span>: bởi vì<br>  + <span class=\"hl-orange\">In charge of</span>: phụ trách<br><br><strong>Dịch câu:</strong><br><em>Theo báo cáo thời tiết, một cơn bão lớn dự kiến sẽ đổ bộ vào tối nay.</em>"
       },
       {
         "question": "The meeting was postponed ______ a scheduling conflict among the board members.",
         "options": {
-          "A": "because",
+          "A": "due to",
           "B": "although",
-          "C": "due to",
+          "C": "because",
           "D": "instead of"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. due to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau chỗ trống là một cụm danh từ (<span class=\"hl-blue\">a scheduling conflict</span>) biểu thị lý do nguyên nhân, nên cần một giới từ hoặc cụm giới từ chỉ nguyên nhân.<br>- Chọn <code><span class=\"hl-vocab\">due to</span></code> (do / bởi vì).<br>- Loại <span class=\"hl-orange\">because</span> và <span class=\"hl-orange\">although</span> vì đây là liên từ phải đi kèm một mệnh đề hoàn chỉnh.<br><br><strong>Dịch câu:</strong><br><em>Cuộc họp đã bị hoãn lại do xung đột lịch trình giữa các thành viên ban quản trị.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. due to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau chỗ trống là một cụm danh từ (<span class=\"hl-blue\">a scheduling conflict</span>) biểu thị lý do nguyên nhân, nên cần một giới từ hoặc cụm giới từ chỉ nguyên nhân.<br>- Chọn <code><span class=\"hl-vocab\">due to</span></code> (do / bởi vì).<br>- Loại <span class=\"hl-orange\">because</span> và <span class=\"hl-orange\">although</span> vì đây là liên từ phải đi kèm một mệnh đề hoàn chỉnh.<br><br><strong>Dịch câu:</strong><br><em>Cuộc họp đã bị hoãn lại do xung đột lịch trình giữa các thành viên ban quản trị.</em>"
       },
       {
         "question": "Mr. Patel attended the international conference ______ behalf of the entire sales team.",
         "options": {
-          "A": "on",
+          "A": "at",
           "B": "in",
-          "C": "at",
+          "C": "on",
           "D": "for"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. on</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc cụm giới từ cố định: <code><span class=\"hl-vocab\">on behalf of someone / something</span></code> (thay mặt cho ai / cái gì).<br><br><strong>Dịch câu:</strong><br><em>Ông Patel đã tham dự hội nghị quốc tế thay mặt cho toàn bộ đội ngũ bán hàng.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. on</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc cụm giới từ cố định: <code><span class=\"hl-vocab\">on behalf of someone / something</span></code> (thay mặt cho ai / cái gì).<br><br><strong>Dịch câu:</strong><br><em>Ông Patel đã tham dự hội nghị quốc tế thay mặt cho toàn bộ đội ngũ bán hàng.</em>"
       },
       {
         "question": "Applicants must be capable ______ working independently under high pressure.",
@@ -5798,23 +5798,23 @@ const toeicReadingData = [
         "question": "The corporate headquarters is located ______ the bank and the post office.",
         "options": {
           "A": "among",
-          "B": "between",
-          "C": "next to",
+          "B": "next to",
+          "C": "between",
           "D": "behind"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. between</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới từ chỉ vị trí: <code><span class=\"hl-vocab\">between A and B</span></code> (giữa A và B).<br>- Do phía sau có liên từ <strong class=\"hl-blue\">and</strong> liên kết hai địa danh, ta chọn <strong class=\"hl-vocab\">between</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trụ sở chính của công ty nằm ở giữa ngân hàng và bưu điện.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. between</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới từ chỉ vị trí: <code><span class=\"hl-vocab\">between A and B</span></code> (giữa A và B).<br>- Do phía sau có liên từ <strong class=\"hl-blue\">and</strong> liên kết hai địa danh, ta chọn <strong class=\"hl-vocab\">between</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trụ sở chính của công ty nằm ở giữa ngân hàng và bưu điện.</em>"
       },
       {
         "question": "Please ensure that you read the safety handbook before ______ the laboratory.",
         "options": {
           "A": "enter",
           "B": "to enter",
-          "C": "entering",
-          "D": "entered"
+          "C": "entered",
+          "D": "entering"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. entering</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau giới từ (ở đây là giới từ chỉ thời gian <strong class=\"hl-blue\">before</strong>), động từ đi kèm trực tiếp phải chia ở dạng V-ing.<br>- Chọn danh động từ <code><span class=\"hl-vocab\">entering</span></code>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng đảm bảo rằng bạn đã đọc sổ tay an toàn trước khi vào phòng thí nghiệm.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. entering</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau giới từ (ở đây là giới từ chỉ thời gian <strong class=\"hl-blue\">before</strong>), động từ đi kèm trực tiếp phải chia ở dạng V-ing.<br>- Chọn danh động từ <code><span class=\"hl-vocab\">entering</span></code>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng đảm bảo rằng bạn đã đọc sổ tay an toàn trước khi vào phòng thí nghiệm.</em>"
       },
       {
         "question": "The construction of the new office building was completed ______ schedule.",
@@ -5875,23 +5875,23 @@ const toeicReadingData = [
         "question": "The HR manager thanked the candidate for ______ to the interview on short notice.",
         "options": {
           "A": "come",
-          "B": "coming",
+          "B": "came",
           "C": "to come",
-          "D": "came"
+          "D": "coming"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. coming</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau giới từ <strong class=\"hl-blue\">for</strong>, động từ đi kèm phải chia ở dạng V-ing.<br>- Chọn danh động từ <code><span class=\"hl-vocab\">coming</span></code>.<br><br><strong>Dịch câu:</strong><br><em>Quản lý nhân sự đã cảm ơn ứng viên vì đã đến phỏng vấn dù thông báo gấp.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. coming</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau giới từ <strong class=\"hl-blue\">for</strong>, động từ đi kèm phải chia ở dạng V-ing.<br>- Chọn danh động từ <code><span class=\"hl-vocab\">coming</span></code>.<br><br><strong>Dịch câu:</strong><br><em>Quản lý nhân sự đã cảm ơn ứng viên vì đã đến phỏng vấn dù thông báo gấp.</em>"
       },
       {
         "question": "The supervisor congratulated the team ______ exceeding the monthly sales target.",
         "options": {
-          "A": "on",
-          "B": "for",
+          "A": "for",
+          "B": "on",
           "C": "with",
           "D": "about"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. on</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ đi kèm giới từ: <code><span class=\"hl-vocab\">congratulate someone on something / V-ing</span></code> (chúc mừng ai về cái gì / việc gì).<br>- Do đó chọn giới từ <strong class=\"hl-vocab\">on</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã chúc mừng cả nhóm vì đã vượt mục tiêu doanh số hàng tháng.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. on</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ đi kèm giới từ: <code><span class=\"hl-vocab\">congratulate someone on something / V-ing</span></code> (chúc mừng ai về cái gì / việc gì).<br>- Do đó chọn giới từ <strong class=\"hl-vocab\">on</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã chúc mừng cả nhóm vì đã vượt mục tiêu doanh số hàng tháng.</em>"
       }
     ],
     "homework": [
@@ -5899,78 +5899,78 @@ const toeicReadingData = [
         "question": "The board of directors will meet ______ 10:00 a.m. to discuss the merger.",
         "options": {
           "A": "on",
-          "B": "at",
-          "C": "in",
+          "B": "in",
+          "C": "at",
           "D": "for"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. at</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sử dụng giới từ chỉ thời gian trước mốc giờ cụ thể (<code>10:00 a.m.</code>) -> chọn giới từ <strong class=\"hl-vocab\">at</strong>."
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. at</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sử dụng giới từ chỉ thời gian trước mốc giờ cụ thể (<code>10:00 a.m.</code>) -> chọn giới từ <strong class=\"hl-vocab\">at</strong>."
       },
       {
         "question": "The annual general meeting is scheduled ______ October 24th.",
         "options": {
-          "A": "at",
+          "A": "on",
           "B": "in",
-          "C": "on",
+          "C": "at",
           "D": "by"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. on</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sử dụng giới từ chỉ thời gian trước ngày cụ thể trong tháng (<code>October 24th</code>) -> chọn giới từ <strong class=\"hl-vocab\">on</strong>."
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. on</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sử dụng giới từ chỉ thời gian trước ngày cụ thể trong tháng (<code>October 24th</code>) -> chọn giới từ <strong class=\"hl-vocab\">on</strong>."
       },
       {
         "question": "The new marketing campaign will launch ______ summer.",
         "options": {
           "A": "on",
           "B": "at",
-          "C": "in",
-          "D": "by"
+          "C": "by",
+          "D": "in"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. in</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sử dụng giới từ chỉ thời gian trước mùa trong năm (<code>summer</code>) -> chọn giới từ <strong class=\"hl-vocab\">in</strong>."
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. in</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sử dụng giới từ chỉ thời gian trước mùa trong năm (<code>summer</code>) -> chọn giới từ <strong class=\"hl-vocab\">in</strong>."
       },
       {
         "question": "All applicants must submit their portfolios ______ Friday afternoon.",
         "options": {
-          "A": "by",
-          "B": "until",
+          "A": "until",
+          "B": "by",
           "C": "since",
           "D": "during"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. by</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả thời hạn cuối cùng, trước hoặc chậm nhất là một mốc thời gian -> dùng giới từ <strong class=\"hl-vocab\">by</strong> (trước/chậm nhất là).<br>- Loại <strong class=\"hl-vocab\">until</strong> vì diễn tả hành động liên tục cho tới một thời điểm."
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. by</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả thời hạn cuối cùng, trước hoặc chậm nhất là một mốc thời gian -> dùng giới từ <strong class=\"hl-vocab\">by</strong> (trước/chậm nhất là).<br>- Loại <strong class=\"hl-vocab\">until</strong> vì diễn tả hành động liên tục cho tới một thời điểm."
       },
       {
         "question": "The staff underwent intensive training ______ the transition to the new system.",
         "options": {
-          "A": "since",
+          "A": "during",
           "B": "for",
-          "C": "during",
+          "C": "since",
           "D": "until"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. during</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước một cụm danh từ chỉ một thời kỳ, sự kiện để biểu thị hành động diễn ra trong suốt thời kỳ đó (<code>the transition to the new system</code>) -> chọn giới từ <strong class=\"hl-vocab\">during</strong> (trong suốt)."
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. during</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước một cụm danh từ chỉ một thời kỳ, sự kiện để biểu thị hành động diễn ra trong suốt thời kỳ đó (<code>the transition to the new system</code>) -> chọn giới từ <strong class=\"hl-vocab\">during</strong> (trong suốt)."
       },
       {
         "question": "The manager has been working at this company ______ 2018.",
         "options": {
           "A": "for",
-          "B": "since",
+          "B": "until",
           "C": "during",
-          "D": "until"
+          "D": "since"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. since</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trong câu chia ở thì hiện tại hoàn thành tiếp diễn (has been working) và có mốc thời gian ở quá khứ (<code>2018</code>) -> dùng giới từ <strong class=\"hl-vocab\">since</strong> (từ khi)."
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. since</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trong câu chia ở thì hiện tại hoàn thành tiếp diễn (has been working) và có mốc thời gian ở quá khứ (<code>2018</code>) -> dùng giới từ <strong class=\"hl-vocab\">since</strong> (từ khi)."
       },
       {
         "question": "The laboratory will remain closed ______ next Monday for renovations.",
         "options": {
           "A": "since",
-          "B": "for",
-          "C": "until",
+          "B": "until",
+          "C": "for",
           "D": "during"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. until</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả trạng thái đóng cửa tiếp diễn liên tục kéo dài cho tới một mốc thời gian trong tương lai -> chọn giới từ <strong class=\"hl-vocab\">until</strong> (cho đến khi)."
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. until</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả trạng thái đóng cửa tiếp diễn liên tục kéo dài cho tới một mốc thời gian trong tương lai -> chọn giới từ <strong class=\"hl-vocab\">until</strong> (cho đến khi)."
       },
       {
         "question": "The marketing director is responsible ______ organizing the promotional events.",
@@ -5986,46 +5986,46 @@ const toeicReadingData = [
       {
         "question": "Employees who are interested ______ the training program should sign up at the front desk.",
         "options": {
-          "A": "on",
+          "A": "in",
           "B": "with",
-          "C": "in",
+          "C": "on",
           "D": "at"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. in</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính từ đi kèm giới từ cố định: <code><span class=\"hl-vocab\">be interested in something / V-ing</span></code> (quan tâm/thích thú về cái gì). -> chọn <strong class=\"hl-vocab\">in</strong>."
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. in</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính từ đi kèm giới từ cố định: <code><span class=\"hl-vocab\">be interested in something / V-ing</span></code> (quan tâm/thích thú về cái gì). -> chọn <strong class=\"hl-vocab\">in</strong>."
       },
       {
         "question": "The supervisor congratulated Mr. Harris ______ his promotion to regional manager.",
         "options": {
           "A": "for",
-          "B": "on",
-          "C": "with",
+          "B": "with",
+          "C": "on",
           "D": "about"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. on</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ đi kèm giới từ: <code><span class=\"hl-vocab\">congratulate someone on something</span></code> (chúc mừng ai về cái gì). -> chọn giới từ <strong class=\"hl-vocab\">on</strong>."
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. on</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc động từ đi kèm giới từ: <code><span class=\"hl-vocab\">congratulate someone on something</span></code> (chúc mừng ai về cái gì). -> chọn giới từ <strong class=\"hl-vocab\">on</strong>."
       },
       {
         "question": "The new security policy will be implemented in accordance ______ local laws.",
         "options": {
-          "A": "with",
-          "B": "to",
+          "A": "to",
+          "B": "with",
           "C": "for",
           "D": "of"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. with</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc cụm giới từ cố định: <code><span class=\"hl-vocab\">in accordance with something</span></code> (phù hợp với / theo đúng như cái gì). -> chọn <strong class=\"hl-vocab\">with</strong>."
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. with</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc cụm giới từ cố định: <code><span class=\"hl-vocab\">in accordance with something</span></code> (phù hợp với / theo đúng như cái gì). -> chọn <strong class=\"hl-vocab\">with</strong>."
       },
       {
         "question": "Ms. Dubois accepted the prize on behalf ______ the development team.",
         "options": {
-          "A": "of",
+          "A": "for",
           "B": "to",
           "C": "with",
-          "D": "for"
+          "D": "of"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. of</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc cụm giới từ cố định: <code><span class=\"hl-vocab\">on behalf of someone / something</span></code> (thay mặt cho ai / tổ chức nào). -> chọn giới từ <strong class=\"hl-vocab\">of</strong>."
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. of</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc cụm giới từ cố định: <code><span class=\"hl-vocab\">on behalf of someone / something</span></code> (thay mặt cho ai / tổ chức nào). -> chọn giới từ <strong class=\"hl-vocab\">of</strong>."
       },
       {
         "question": "The marketing department is looking for an effective solution ______ our sales decline.",
@@ -6041,46 +6041,46 @@ const toeicReadingData = [
       {
         "question": "Candidates must be capable ______ managing multiple projects simultaneously.",
         "options": {
-          "A": "to",
+          "A": "of",
           "B": "for",
-          "C": "of",
+          "C": "to",
           "D": "with"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. of</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính từ đi kèm giới từ cố định: <code><span class=\"hl-vocab\">be capable of something / V-ing</span></code> (có năng lực, khả năng làm gì). -> chọn giới từ <strong class=\"hl-vocab\">of</strong>."
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. of</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính từ đi kèm giới từ cố định: <code><span class=\"hl-vocab\">be capable of something / V-ing</span></code> (có năng lực, khả năng làm gì). -> chọn giới từ <strong class=\"hl-vocab\">of</strong>."
       },
       {
         "question": "The company has restricted access ______ the server room to authorized personnel only.",
         "options": {
-          "A": "to",
+          "A": "for",
           "B": "on",
           "C": "with",
-          "D": "for"
+          "D": "to"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc danh từ đi kèm giới từ: <code><span class=\"hl-vocab\">access to something</span></code> (quyền tiếp cận, lối vào cái gì). -> chọn giới từ <strong class=\"hl-vocab\">to</strong>."
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc danh từ đi kèm giới từ: <code><span class=\"hl-vocab\">access to something</span></code> (quyền tiếp cận, lối vào cái gì). -> chọn giới từ <strong class=\"hl-vocab\">to</strong>."
       },
       {
         "question": "The construction of the new warehouse was completed ahead ______ schedule.",
         "options": {
-          "A": "of",
-          "B": "to",
+          "A": "to",
+          "B": "of",
           "C": "on",
           "D": "by"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. of</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới từ kép chỉ thời gian: <code><span class=\"hl-vocab\">ahead of schedule</span></code> (trước thời hạn / trước tiến độ). -> chọn giới từ <strong class=\"hl-vocab\">of</strong>."
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. of</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới từ kép chỉ thời gian: <code><span class=\"hl-vocab\">ahead of schedule</span></code> (trước thời hạn / trước tiến độ). -> chọn giới từ <strong class=\"hl-vocab\">of</strong>."
       },
       {
         "question": "The customer service policy was updated in response ______ user feedback.",
         "options": {
           "A": "for",
-          "B": "to",
+          "B": "of",
           "C": "with",
-          "D": "of"
+          "D": "to"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc cụm giới từ cố định: <code><span class=\"hl-vocab\">in response to something</span></code> (nhằm đáp lại / phản hồi lại cái gì). -> chọn giới từ <strong class=\"hl-vocab\">to</strong>."
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. to</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc cụm giới từ cố định: <code><span class=\"hl-vocab\">in response to something</span></code> (nhằm đáp lại / phản hồi lại cái gì). -> chọn giới từ <strong class=\"hl-vocab\">to</strong>."
       },
       {
         "question": "The design of the new model is very similar ______ the previous one.",
@@ -6451,12 +6451,12 @@ const toeicReadingData = [
         "question": "The team has ______ information about the client's requirements, so we must ask for more details.",
         "options": {
           "A": "many",
-          "B": "little",
+          "B": "several",
           "C": "few",
-          "D": "several"
+          "D": "little"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. little</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau chỗ trống là danh từ không đếm được <code>information</code> (thông tin) -> loại các phương án <strong class=\"hl-vocab\">many</strong>, <strong class=\"hl-vocab\">few</strong>, và <strong class=\"hl-vocab\">several</strong> (vì chỉ đi với danh từ đếm được số nhiều).<br>- Dịch nghĩa ngữ cảnh: Cả nhóm có rất ít thông tin về yêu cầu của khách hàng, vì vậy chúng tôi phải hỏi thêm chi tiết (nghĩa phủ định: rất ít, không đủ) -> chọn từ chỉ số lượng <strong class=\"hl-vocab\">little</strong>."
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. little</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Sau chỗ trống là danh từ không đếm được <code>information</code> (thông tin) -> loại các phương án <strong class=\"hl-vocab\">many</strong>, <strong class=\"hl-vocab\">few</strong>, và <strong class=\"hl-vocab\">several</strong> (vì chỉ đi với danh từ đếm được số nhiều).<br>- Dịch nghĩa ngữ cảnh: Cả nhóm có rất ít thông tin về yêu cầu của khách hàng, vì vậy chúng tôi phải hỏi thêm chi tiết (nghĩa phủ định: rất ít, không đủ) -> chọn từ chỉ số lượng <strong class=\"hl-vocab\">little</strong>."
       },
       {
         "question": "______ of the committee members voted in favor of the new proposal.",
@@ -6473,45 +6473,45 @@ const toeicReadingData = [
         "question": "The store offers ______ discounts on clearance items this week.",
         "options": {
           "A": "another",
-          "B": "much",
-          "C": "various",
+          "B": "various",
+          "C": "much",
           "D": "each"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. various</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau chỗ trống là danh từ số nhiều <code>discounts</code> (các khoản chiết khấu/giảm giá).<br>- Cấu trúc: <code>various + danh từ số nhiều</code> (nhiều loại khác nhau).<br>- Loại <strong class=\"hl-vocab\">another</strong> và <strong class=\"hl-vocab\">each</strong> vì đi kèm danh từ số ít.<br>- Loại <strong class=\"hl-vocab\">much</strong> vì đi kèm danh từ không đếm được."
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. various</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau chỗ trống là danh từ số nhiều <code>discounts</code> (các khoản chiết khấu/giảm giá).<br>- Cấu trúc: <code>various + danh từ số nhiều</code> (nhiều loại khác nhau).<br>- Loại <strong class=\"hl-vocab\">another</strong> và <strong class=\"hl-vocab\">each</strong> vì đi kèm danh từ số ít.<br>- Loại <strong class=\"hl-vocab\">much</strong> vì đi kèm danh từ không đếm được."
       },
       {
         "question": "The supervisor noted that there was ______ progress made on the project yesterday.",
         "options": {
-          "A": "many",
+          "A": "little",
           "B": "several",
-          "C": "little",
+          "C": "many",
           "D": "few"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. little</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ không đếm được <code>progress</code> (tiến độ / sự tiến triển).<br>- Chỉ có lượng từ <strong class=\"hl-vocab\">little</strong> (ít / hầu như không có) là đi với danh từ không đếm được.<br>- Các phương án còn lại (<strong class=\"hl-vocab\">many</strong>, <strong class=\"hl-vocab\">several</strong>, <strong class=\"hl-vocab\">few</strong>) đều chỉ đi với danh từ đếm được số nhiều."
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. little</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ không đếm được <code>progress</code> (tiến độ / sự tiến triển).<br>- Chỉ có lượng từ <strong class=\"hl-vocab\">little</strong> (ít / hầu như không có) là đi với danh từ không đếm được.<br>- Các phương án còn lại (<strong class=\"hl-vocab\">many</strong>, <strong class=\"hl-vocab\">several</strong>, <strong class=\"hl-vocab\">few</strong>) đều chỉ đi với danh từ đếm được số nhiều."
       },
       {
         "question": "If you have ______ questions about the training session, please ask the HR coordinator.",
         "options": {
-          "A": "any",
+          "A": "much",
           "B": "another",
-          "C": "much",
+          "C": "any",
           "D": "each"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. any</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống bổ nghĩa cho danh từ số nhiều <code>questions</code> (các câu hỏi) nằm trong mệnh đề điều kiện 'If' -> dùng từ hạn định <strong class=\"hl-vocab\">any</strong> (bất kỳ).<br>- Loại <strong class=\"hl-vocab\">another</strong> và <strong class=\"hl-vocab\">each</strong> vì chỉ đi với danh từ số ít.<br>- Loại <strong class=\"hl-vocab\">much</strong> vì chỉ đi với danh từ không đếm được."
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. any</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống bổ nghĩa cho danh từ số nhiều <code>questions</code> (các câu hỏi) nằm trong mệnh đề điều kiện 'If' -> dùng từ hạn định <strong class=\"hl-vocab\">any</strong> (bất kỳ).<br>- Loại <strong class=\"hl-vocab\">another</strong> và <strong class=\"hl-vocab\">each</strong> vì chỉ đi với danh từ số ít.<br>- Loại <strong class=\"hl-vocab\">much</strong> vì chỉ đi với danh từ không đếm được."
       },
       {
         "question": "Both of the candidates ______ qualified for the senior accounting position.",
         "options": {
           "A": "is",
           "B": "was",
-          "C": "are",
-          "D": "has been"
+          "C": "has been",
+          "D": "are"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. are</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ của câu bắt đầu bằng cấu trúc: <code>Both of + danh từ số nhiều</code> (Cả hai...) -> động từ trong câu luôn chia ở dạng số nhiều.<br>- Do đó chọn động từ số nhiều <strong class=\"hl-vocab\">are</strong>."
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. are</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ của câu bắt đầu bằng cấu trúc: <code>Both of + danh từ số nhiều</code> (Cả hai...) -> động từ trong câu luôn chia ở dạng số nhiều.<br>- Do đó chọn động từ số nhiều <strong class=\"hl-vocab\">are</strong>."
       },
       {
         "question": "The manager requested ______ copy of the report for the board meeting.",
@@ -6539,12 +6539,12 @@ const toeicReadingData = [
         "question": "______ employee must register their vehicle with the security office.",
         "options": {
           "A": "Several",
-          "B": "Each",
+          "B": "Both",
           "C": "All",
-          "D": "Both"
+          "D": "Each"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. Each</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ số ít <code>employee</code> (nhân viên) và có tính từ sở hữu số ít 'their' (mang nghĩa trung tính đại diện cho từng người) -> dùng từ hạn định số ít <strong class=\"hl-vocab\">Each</strong> (Mỗi).<br>- Các phương án còn lại (<strong class=\"hl-vocab\">Several</strong>, <strong class=\"hl-vocab\">All</strong>, <strong class=\"hl-vocab\">Both</strong>) đều đi kèm danh từ số nhiều."
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. Each</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ số ít <code>employee</code> (nhân viên) và có tính từ sở hữu số ít 'their' (mang nghĩa trung tính đại diện cho từng người) -> dùng từ hạn định số ít <strong class=\"hl-vocab\">Each</strong> (Mỗi).<br>- Các phương án còn lại (<strong class=\"hl-vocab\">Several</strong>, <strong class=\"hl-vocab\">All</strong>, <strong class=\"hl-vocab\">Both</strong>) đều đi kèm danh từ số nhiều."
       },
       {
         "question": "The merger is ______ complete, and the announcement will be made tomorrow.",
@@ -6571,13 +6571,13 @@ const toeicReadingData = [
       {
         "question": "Do we have ______ space in the warehouse for the new shipment?",
         "options": {
-          "A": "enough",
+          "A": "another",
           "B": "much of",
-          "C": "another",
+          "C": "enough",
           "D": "almost"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. enough</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>space</code> (không gian / chỗ trống) -> dùng từ hạn định <strong class=\"hl-vocab\">enough</strong> (đủ) đứng trước danh từ.<br>- Loại <strong class=\"hl-vocab\">another</strong> vì space không đếm được.<br>- Loại <strong class=\"hl-vocab\">almost</strong> vì là trạng từ."
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. enough</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>space</code> (không gian / chỗ trống) -> dùng từ hạn định <strong class=\"hl-vocab\">enough</strong> (đủ) đứng trước danh từ.<br>- Loại <strong class=\"hl-vocab\">another</strong> vì space không đếm được.<br>- Loại <strong class=\"hl-vocab\">almost</strong> vì là trạng từ."
       },
       {
         "question": "Some files were archived, while ______ were deleted from the server.",
@@ -6594,12 +6594,12 @@ const toeicReadingData = [
         "question": "Please make sure that ______ department head signs the form.",
         "options": {
           "A": "all",
-          "B": "every",
+          "B": "both",
           "C": "several",
-          "D": "both"
+          "D": "every"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. every</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ đếm được số ít <code>department head</code> (trưởng bộ phận) -> cần dùng từ hạn định đi với danh từ số ít.<br>- Chọn <strong class=\"hl-vocab\">every</strong> (mọi / mỗi).<br>- Loại <strong class=\"hl-vocab\">all</strong>, <strong class=\"hl-vocab\">several</strong>, <strong class=\"hl-vocab\">both</strong> vì đều đi kèm danh từ số nhiều."
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. every</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ đếm được số ít <code>department head</code> (trưởng bộ phận) -> cần dùng từ hạn định đi với danh từ số ít.<br>- Chọn <strong class=\"hl-vocab\">every</strong> (mọi / mỗi).<br>- Loại <strong class=\"hl-vocab\">all</strong>, <strong class=\"hl-vocab\">several</strong>, <strong class=\"hl-vocab\">both</strong> vì đều đi kèm danh từ số nhiều."
       },
       {
         "question": "We still have ______ days left to complete the survey.",
@@ -6637,35 +6637,35 @@ const toeicReadingData = [
       {
         "question": "______ invoice must be checked by the accountant before payment.",
         "options": {
-          "A": "Both",
+          "A": "Each",
           "B": "All",
-          "C": "Each",
+          "C": "Both",
           "D": "Several"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. Each</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ số ít <code>invoice</code> (hóa đơn) -> cần từ hạn định đi với danh từ số ít.<br>- Chọn <strong class=\"hl-vocab\">Each</strong> (Mỗi).<br>- Loại <strong class=\"hl-vocab\">Both</strong>, <strong class=\"hl-vocab\">All</strong>, và <strong class=\"hl-vocab\">Several</strong> vì chúng đi với danh từ số nhiều."
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Each</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ số ít <code>invoice</code> (hóa đơn) -> cần từ hạn định đi với danh từ số ít.<br>- Chọn <strong class=\"hl-vocab\">Each</strong> (Mỗi).<br>- Loại <strong class=\"hl-vocab\">Both</strong>, <strong class=\"hl-vocab\">All</strong>, và <strong class=\"hl-vocab\">Several</strong> vì chúng đi với danh từ số nhiều."
       },
       {
         "question": "The firm will rent ______ office space in the downtown area.",
         "options": {
           "A": "another",
-          "B": "other",
+          "B": "the others",
           "C": "others",
-          "D": "the others"
+          "D": "other"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. other</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ <code>office space</code> (không gian văn phòng) là danh từ không đếm được.<br>- Cấu trúc: <code>other + danh từ không đếm được / danh từ số nhiều</code> (khác). -> chọn <strong class=\"hl-vocab\">other</strong>.<br>- Loại <strong class=\"hl-vocab\">another</strong> vì chỉ đi với danh từ đếm được số ít."
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. other</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Danh từ <code>office space</code> (không gian văn phòng) là danh từ không đếm được.<br>- Cấu trúc: <code>other + danh từ không đếm được / danh từ số nhiều</code> (khác). -> chọn <strong class=\"hl-vocab\">other</strong>.<br>- Loại <strong class=\"hl-vocab\">another</strong> vì chỉ đi với danh từ đếm được số ít."
       },
       {
         "question": "Almost ______ members agreed to the new schedule.",
         "options": {
           "A": "most",
-          "B": "all",
-          "C": "both",
+          "B": "both",
+          "C": "all",
           "D": "every"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. all</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc trạng từ chỉ toàn thể: <code>Almost + all + danh từ số nhiều</code> (Hầu như tất cả). Không dùng 'Almost most'.<br>- Loại <strong class=\"hl-vocab\">every</strong> vì every đi với danh từ số ít."
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. all</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc trạng từ chỉ toàn thể: <code>Almost + all + danh từ số nhiều</code> (Hầu như tất cả). Không dùng 'Almost most'.<br>- Loại <strong class=\"hl-vocab\">every</strong> vì every đi với danh từ số ít."
       }
     ]
   },
@@ -7019,34 +7019,34 @@ const toeicReadingData = [
         "question": "This is the ______ challenging project we have faced this year.",
         "options": {
           "A": "more",
-          "B": "most",
+          "B": "highly",
           "C": "much",
-          "D": "highly"
+          "D": "most"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. most</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Có mạo từ xác định <strong class=\"hl-blue\">the</strong> ở phía trước và tính từ dài <code>challenging</code> → cần cấu trúc so sánh nhất <code>the most + tính từ dài</code>.<br>- Do đó chọn trạng từ so sánh nhất <strong class=\"hl-vocab\">most</strong>.<br><br><strong>Dịch câu:</strong><br><em>Đây là dự án thử thách nhất mà chúng tôi phải đối mặt trong năm nay.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. most</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Có mạo từ xác định <strong class=\"hl-blue\">the</strong> ở phía trước và tính từ dài <code>challenging</code> → cần cấu trúc so sánh nhất <code>the most + tính từ dài</code>.<br>- Do đó chọn trạng từ so sánh nhất <strong class=\"hl-vocab\">most</strong>.<br><br><strong>Dịch câu:</strong><br><em>Đây là dự án thử thách nhất mà chúng tôi phải đối mặt trong năm nay.</em>"
       },
       {
         "question": "The new technician is as ______ as any experienced staff member.",
         "options": {
           "A": "skill",
-          "B": "skillful",
-          "C": "skillfully",
+          "B": "skillfully",
+          "C": "skillful",
           "D": "more skillful"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. skillful</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh bằng: <code>as + tính từ / trạng từ + as</code>.<br>- Chỗ trống đứng sau động từ liên kết <strong class=\"hl-blue\">is</strong> → cần tính từ làm bổ ngữ cho chủ ngữ.<br>- Chọn tính từ <strong class=\"hl-vocab\">skillful</strong> (lành nghề, khéo léo).<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên mới lành nghề như bất kỳ nhân viên giàu kinh nghiệm nào.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. skillful</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh bằng: <code>as + tính từ / trạng từ + as</code>.<br>- Chỗ trống đứng sau động từ liên kết <strong class=\"hl-blue\">is</strong> → cần tính từ làm bổ ngữ cho chủ ngữ.<br>- Chọn tính từ <strong class=\"hl-vocab\">skillful</strong> (lành nghề, khéo léo).<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên mới lành nghề như bất kỳ nhân viên giàu kinh nghiệm nào.</em>"
       },
       {
         "question": "The new server is ______ more powerful than the old network hardware.",
         "options": {
-          "A": "very",
+          "A": "much",
           "B": "highly",
-          "C": "much",
+          "C": "very",
           "D": "quite"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. much</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước cụm so sánh hơn <code>more powerful than</code> → dùng trạng từ <strong class=\"hl-vocab\">much</strong> để nhấn mạnh mức độ của so sánh hơn (mạnh mẽ hơn nhiều).<br>- Trạng từ <strong class=\"hl-vocab\">very</strong> không đi kèm trực tiếp với dạng so sánh hơn.<br><br><strong>Dịch câu:</strong><br><em>Máy chủ mới mạnh mẽ hơn nhiều so với phần cứng mạng cũ.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. much</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước cụm so sánh hơn <code>more powerful than</code> → dùng trạng từ <strong class=\"hl-vocab\">much</strong> để nhấn mạnh mức độ của so sánh hơn (mạnh mẽ hơn nhiều).<br>- Trạng từ <strong class=\"hl-vocab\">very</strong> không đi kèm trực tiếp với dạng so sánh hơn.<br><br><strong>Dịch câu:</strong><br><em>Máy chủ mới mạnh mẽ hơn nhiều so với phần cứng mạng cũ.</em>"
       },
       {
         "question": "She is one of the most successful ______ in our sales history.",
@@ -7063,23 +7063,23 @@ const toeicReadingData = [
         "question": "The ______ we launch the product, the better our market share will be.",
         "options": {
           "A": "soon",
-          "B": "sooner",
-          "C": "soonest",
+          "B": "soonest",
+          "C": "sooner",
           "D": "more soon"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. sooner</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh kép (càng... càng...): <code>The + so sánh hơn + chủ ngữ + động từ, the + so sánh hơn + chủ ngữ + động từ</code>.<br>- Vì <code>soon</code> là trạng từ ngắn nên ta chuyển sang dạng so sánh hơn là <code>sooner</code>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta ra mắt sản phẩm càng sớm, thị phần của chúng ta sẽ càng tốt.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. sooner</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh kép (càng... càng...): <code>The + so sánh hơn + chủ ngữ + động từ, the + so sánh hơn + chủ ngữ + động từ</code>.<br>- Vì <code>soon</code> là trạng từ ngắn nên ta chuyển sang dạng so sánh hơn là <code>sooner</code>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta ra mắt sản phẩm càng sớm, thị phần của chúng ta sẽ càng tốt.</em>"
       },
       {
         "question": "The new manager communicates ______ clearly than the previous director.",
         "options": {
-          "A": "more",
+          "A": "very",
           "B": "most",
           "C": "much",
-          "D": "very"
+          "D": "more"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. more</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau có từ <strong class=\"hl-blue\">than</strong> → cần cấu trúc so sánh hơn.<br>- Kết hợp với trạng từ dài <code>clearly</code> → dùng <code>more</code> để tạo thành <code>more + trạng từ + than</code>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý mới giao tiếp rõ ràng hơn vị giám đốc trước đó.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. more</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau có từ <strong class=\"hl-blue\">than</strong> → cần cấu trúc so sánh hơn.<br>- Kết hợp với trạng từ dài <code>clearly</code> → dùng <code>more</code> để tạo thành <code>more + trạng từ + than</code>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý mới giao tiếp rõ ràng hơn vị giám đốc trước đó.</em>"
       },
       {
         "question": "This is the ______ way to reach the airport from the hotel.",
@@ -7117,13 +7117,13 @@ const toeicReadingData = [
       {
         "question": "The customer service department is as ______ as the marketing team.",
         "options": {
-          "A": "active",
+          "A": "action",
           "B": "actively",
           "C": "activity",
-          "D": "action"
+          "D": "active"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. active</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh bằng: <code>as + tính từ / trạng từ + as</code>.<br>- Chỗ trống đứng sau động từ liên kết <strong class=\"hl-blue\">is</strong> → cần tính từ bổ nghĩa cho chủ ngữ. Chọn tính từ <strong class=\"hl-vocab\">active</strong> (năng động).<br><br><strong>Dịch câu:</strong><br><em>Bộ phận chăm sóc khách hàng năng động như đội ngũ tiếp thị.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. active</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh bằng: <code>as + tính từ / trạng từ + as</code>.<br>- Chỗ trống đứng sau động từ liên kết <strong class=\"hl-blue\">is</strong> → cần tính từ bổ nghĩa cho chủ ngữ. Chọn tính từ <strong class=\"hl-vocab\">active</strong> (năng động).<br><br><strong>Dịch câu:</strong><br><em>Bộ phận chăm sóc khách hàng năng động như đội ngũ tiếp thị.</em>"
       },
       {
         "question": "The company chose the ______ disruptive schedule for the office moves.",
@@ -7140,34 +7140,34 @@ const toeicReadingData = [
         "question": "Mr. Vance has worked here for more ______ ten years.",
         "options": {
           "A": "as",
-          "B": "than",
-          "C": "so",
+          "B": "so",
+          "C": "than",
           "D": "like"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. than</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chỉ khoảng thời gian nhiều hơn: <code>more than + khoảng thời gian</code> (nhiều hơn / hơn).<br>- Chọn giới từ <strong class=\"hl-vocab\">than</strong> đứng sau <code>more</code>.<br><br><strong>Dịch câu:</strong><br><em>Ông Vance đã làm việc ở đây được hơn mười năm.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. than</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chỉ khoảng thời gian nhiều hơn: <code>more than + khoảng thời gian</code> (nhiều hơn / hơn).<br>- Chọn giới từ <strong class=\"hl-vocab\">than</strong> đứng sau <code>more</code>.<br><br><strong>Dịch câu:</strong><br><em>Ông Vance đã làm việc ở đây được hơn mười năm.</em>"
       },
       {
         "question": "The presentation should take no ______ than fifteen minutes.",
         "options": {
-          "A": "longer",
-          "B": "more",
+          "A": "more",
+          "B": "longer",
           "C": "less",
           "D": "fewer"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. more</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới hạn tối đa: <code>no more than + số từ</code> (không quá / tối đa).<br>- Chọn trạng từ <strong class=\"hl-vocab\">more</strong> để tạo thành cụm từ cố định <code>no more than</code>.<br><br><strong>Dịch câu:</strong><br><em>Bài thuyết trình chỉ nên diễn ra tối đa mười lăm phút.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. more</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giới hạn tối đa: <code>no more than + số từ</code> (không quá / tối đa).<br>- Chọn trạng từ <strong class=\"hl-vocab\">more</strong> để tạo thành cụm từ cố định <code>no more than</code>.<br><br><strong>Dịch câu:</strong><br><em>Bài thuyết trình chỉ nên diễn ra tối đa mười lăm phút.</em>"
       },
       {
         "question": "The new office chairs are ______ than the old ones.",
         "options": {
           "A": "cozy",
-          "B": "cozier",
+          "B": "more cozy",
           "C": "coziest",
-          "D": "more cozy"
+          "D": "cozier"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. cozier</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau có từ <strong class=\"hl-blue\">than</strong> → cần dạng so sánh hơn.<br>- Tính từ <code>cozy</code> (tiện nghi, thoải mái) kết thúc bằng phụ âm + y nên ta đổi y thành i rồi thêm đuôi <code>-er</code> thành <code>cozier</code>.<br><br><strong>Dịch câu:</strong><br><em>Những chiếc ghế văn phòng mới thoải mái hơn những chiếc ghế cũ.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. cozier</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau có từ <strong class=\"hl-blue\">than</strong> → cần dạng so sánh hơn.<br>- Tính từ <code>cozy</code> (tiện nghi, thoải mái) kết thúc bằng phụ âm + y nên ta đổi y thành i rồi thêm đuôi <code>-er</code> thành <code>cozier</code>.<br><br><strong>Dịch câu:</strong><br><em>Những chiếc ghế văn phòng mới thoải mái hơn những chiếc ghế cũ.</em>"
       },
       {
         "question": "The shipping costs for the new package are far ______ than we planned.",
@@ -7183,35 +7183,35 @@ const toeicReadingData = [
       {
         "question": "The laptop keyboard is not ______ quiet as the desktop model.",
         "options": {
-          "A": "so",
-          "B": "as",
+          "A": "as",
+          "B": "so",
           "C": "more",
           "D": "than"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. as</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh bằng dạng phủ định: <code>not as + tính từ / trạng từ + as</code> hoặc <code>not so + tính từ / trạng từ + as</code>.<br>- Chỗ trống đứng trước tính từ <code>quiet</code> và sau <code>not</code>, phía sau có <code>as</code> → chọn trạng từ so sánh <strong class=\"hl-vocab\">as</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bàn phím máy tính xách tay không êm như bàn phím máy tính để bàn.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. as</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh bằng dạng phủ định: <code>not as + tính từ / trạng từ + as</code> hoặc <code>not so + tính từ / trạng từ + as</code>.<br>- Chỗ trống đứng trước tính từ <code>quiet</code> và sau <code>not</code>, phía sau có <code>as</code> → chọn trạng từ so sánh <strong class=\"hl-vocab\">as</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bàn phím máy tính xách tay không êm như bàn phím máy tính để bàn.</em>"
       },
       {
         "question": "The ______ the marketing director thinks about the offer, the more interested he becomes.",
         "options": {
           "A": "long",
-          "B": "longer",
+          "B": "more long",
           "C": "longest",
-          "D": "more long"
+          "D": "longer"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. longer</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh kép (càng... càng...): <code>The + so sánh hơn..., the + so sánh hơn...</code>.<br>- Tính từ ngắn <code>long</code> chuyển sang dạng so sánh hơn là <code>longer</code>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị càng suy nghĩ lâu về lời đề xuất, ông ấy càng trở nên quan tâm hơn.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. longer</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh kép (càng... càng...): <code>The + so sánh hơn..., the + so sánh hơn...</code>.<br>- Tính từ ngắn <code>long</code> chuyển sang dạng so sánh hơn là <code>longer</code>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị càng suy nghĩ lâu về lời đề xuất, ông ấy càng trở nên quan tâm hơn.</em>"
       },
       {
         "question": "The weather today is even ______ than it was yesterday.",
         "options": {
           "A": "bad",
-          "B": "worse",
-          "C": "worst",
+          "B": "worst",
+          "C": "worse",
           "D": "badly"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. worse</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau có từ <strong class=\"hl-blue\">than</strong> và phía trước có trạng từ nhấn mạnh <code>even</code> → cần cấu trúc so sánh hơn.<br>- Tính từ bất quy tắc <code>bad</code> chuyển sang dạng so sánh hơn là <strong class=\"hl-vocab\">worse</strong> (tồi tệ hơn).<br><br><strong>Dịch câu:</strong><br><em>Thời tiết hôm nay thậm chí còn tồi tệ hơn ngày hôm qua.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. worse</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía sau có từ <strong class=\"hl-blue\">than</strong> và phía trước có trạng từ nhấn mạnh <code>even</code> → cần cấu trúc so sánh hơn.<br>- Tính từ bất quy tắc <code>bad</code> chuyển sang dạng so sánh hơn là <strong class=\"hl-vocab\">worse</strong> (tồi tệ hơn).<br><br><strong>Dịch câu:</strong><br><em>Thời tiết hôm nay thậm chí còn tồi tệ hơn ngày hôm qua.</em>"
       }
     ]
   },
