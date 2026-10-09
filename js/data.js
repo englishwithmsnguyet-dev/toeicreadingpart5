@@ -6905,13 +6905,13 @@ const toeicReadingData = [
       {
         "question": "The project coordinator chose the ______ complex option to save time.",
         "options": {
-          "A": "least",
-          "B": "less",
+          "A": "less",
+          "B": "least",
           "C": "little",
           "D": "minor"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. least</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía trước chỗ trống có mạo từ xác định <strong class=\"hl-blue\">the</strong> → nghĩ ngay đến dạng so sánh nhất.<br>- Đi kèm tính từ dài <code>complex</code> (phức tạp) → cần trạng từ so sánh kém nhất <code>least</code> để tạo thành cụm <code>the least complex option</code> (lựa chọn ít phức tạp nhất).<br><br><strong>Dịch câu:</strong><br><em>Điều phối viên dự án đã chọn phương án ít phức tạp nhất để tiết kiệm thời gian.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. least</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phía trước chỗ trống có mạo từ xác định <strong class=\"hl-blue\">the</strong> → nghĩ ngay đến dạng so sánh nhất.<br>- Đi kèm tính từ dài <code>complex</code> (phức tạp) → cần trạng từ so sánh kém nhất <code>least</code> để tạo thành cụm <code>the least complex option</code> (lựa chọn ít phức tạp nhất).<br><br><strong>Dịch câu:</strong><br><em>Điều phối viên dự án đã chọn phương án ít phức tạp nhất để tiết kiệm thời gian.</em>"
       },
       {
         "question": "The research department spent more ______ three months collecting data.",
@@ -6932,8 +6932,8 @@ const toeicReadingData = [
           "C": "minor",
           "D": "lower"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. less</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc nhấn mạnh số lượng lớn: <code>no less than + số từ / danh từ</code> (không ít hơn).<br>- Do đó chọn trạng từ <strong class=\"hl-vocab\">less</strong> để hoàn thiện cụm từ cố định <code>no less than</code>.<br><br><strong>Dịch câu:</strong><br><em>Văn phòng khu vực đã nhận được không ít hơn năm mươi đơn ứng tuyển cho vị trí thực tập.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. fewer</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Căn cứ vào danh từ đếm được số nhiều phía sau: <strong class=\"hl-blue\">applications</strong> (các đơn ứng tuyển).<br>- Cấu trúc so sánh: <code>no fewer than + danh từ đếm được số nhiều</code> (không dưới / không ít hơn...).<br>- <code>less</code> thường đi với danh từ không đếm được hoặc khối lượng/khoản tiền tổng thể; còn với danh từ đếm được số nhiều (applications) thì chuẩn ngữ pháp phải dùng <strong class=\"hl-vocab\">fewer</strong>.<br><br><strong>Dịch câu:</strong><br><em>Văn phòng khu vực đã nhận được không dưới năm mươi đơn ứng tuyển cho vị trí thực tập.</em>"
       },
       {
         "question": "Under the new management, the workload has become ______ than before.",
