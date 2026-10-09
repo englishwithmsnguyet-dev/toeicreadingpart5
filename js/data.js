@@ -6961,12 +6961,12 @@ const toeicReadingData = [
         "question": "The second candidate was not ______ qualified as the first applicant.",
         "options": {
           "A": "as",
-          "B": "so",
+          "B": "such",
           "C": "more",
           "D": "than"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. as</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh bằng ở dạng phủ định: <code>not as + tính từ / trạng từ + as</code> (hoặc <code>not so + tính từ / trạng từ + as</code>).<br>- Phía sau có từ liên kết <code>as</code> và phía trước có <code>not</code> → chọn trạng từ so sánh <strong class=\"hl-vocab\">as</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ứng viên thứ hai không có đủ năng lực như ứng viên đầu tiên.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. as</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh bằng ở dạng phủ định: <code>not as + tính từ / trạng từ + as</code> (không... bằng...).<br>- Phía sau có tính từ <code>qualified</code> và liên từ so sánh <code>as</code> → chọn trạng từ so sánh <strong class=\"hl-vocab\">as</strong> để hoàn thiện cấu trúc <code>not as qualified as</code>.<br>- Các phương án còn lại: <code>such</code> (cần đi với cụm danh từ), <code>more</code> (phải đi với than), <code>than</code> đều không phù hợp ngữ pháp.<br><br><strong>Dịch câu:</strong><br><em>Ứng viên thứ hai không có đủ năng lực như ứng viên đầu tiên.</em>"
       },
       {
         "question": "The ______ the project team prepares, the more successful the presentation will be.",
