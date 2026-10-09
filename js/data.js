@@ -6238,13 +6238,13 @@ const toeicReadingData = [
       {
         "question": "______ of the board members attended the annual meeting last Tuesday.",
         "options": {
-          "A": "Each",
+          "A": "Mostly",
           "B": "Every",
           "C": "Almost",
           "D": "Most"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. Most</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc: <code>Most + of + the/these/those... + danh từ số nhiều</code> (Phần lớn, hầu hết).<br>- Loại <strong class=\"hl-vocab\">Each</strong> vì 'Each of the + danh từ số nhiều' mặc dù đúng ngữ pháp nhưng động từ đi kèm phải chia số ít, trong khi ở quá khứ 'attended' không phân biệt nhưng 'Most of' hợp nghĩa tập thể hơn.<br>- Loại <strong class=\"hl-vocab\">Every</strong> vì 'Every' không đi trực tiếp với 'of' (phải dùng 'Every one of').<br>- Loại <strong class=\"hl-vocab\">Almost</strong> vì 'Almost' là trạng từ, không đi trực tiếp với 'of' (phải dùng 'Almost all of').<br><br><strong>Dịch câu:</strong><br><em>Hầu hết các thành viên ban giám đốc đã tham dự cuộc họp thường niên vào thứ Ba tuần trước.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. Most</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đại từ chỉ số lượng: <code>Most + of + the/these/those... + danh từ số nhiều</code> (Hầu hết / Phần lớn).<br>- Loại <strong class=\"hl-vocab\">Every</strong> vì <code>every</code> là tính từ hạn định đi trực tiếp với danh từ số ít, không đi trực tiếp với <code>of</code> (phải dùng <em>every one of</em>).<br>- Loại <strong class=\"hl-vocab\">Almost</strong> và <strong class=\"hl-vocab\">Mostly</strong> vì đây là các trạng từ, không thể làm chủ ngữ đứng trước <code>of</code> để chỉ số lượng (muốn dùng <em>almost</em> thì phải là <em>almost all of</em>).<br><br><strong>Dịch câu:</strong><br><em>Hầu hết các thành viên ban giám đốc đã tham dự cuộc họp thường niên vào thứ Ba tuần trước.</em>"
       },
       {
         "question": "The company offers ______ training programs to help employees improve their technical skills.",
@@ -6460,13 +6460,13 @@ const toeicReadingData = [
       {
         "question": "______ of the committee members voted in favor of the new proposal.",
         "options": {
-          "A": "Each",
+          "A": "Mostly",
           "B": "Every",
           "C": "Most",
           "D": "Almost"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. Most</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc từ chỉ số lượng đi kèm giới từ: <code>Most + of + the/these/those... + danh từ số nhiều</code> (Hầu hết / Phần lớn).<br>- Loại <strong class=\"hl-vocab\">Every</strong> vì Every không đi trực tiếp với 'of' (phải dùng Every one of).<br>- Loại <strong class=\"hl-vocab\">Almost</strong> vì Almost là trạng từ, không đứng làm từ hạn định trước 'of' trực tiếp (phải dùng Almost all of).<br>- Loại <strong class=\"hl-vocab\">Each</strong> vì động từ chia ở dạng số nhiều (mặc dù voted ở quá khứ chung nhưng xét nghĩa tập thể 'hầu hết' phù hợp hơn)."
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. Most</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đại từ chỉ số lượng đi kèm giới từ: <code>Most + of + the/these/those... + danh từ số nhiều</code> (Hầu hết / Phần lớn).<br>- Loại <strong class=\"hl-vocab\">Every</strong> vì <code>every</code> là tính từ hạn định, không đi trực tiếp với <code>of</code> (phải dùng <em>every one of</em>).<br>- Loại <strong class=\"hl-vocab\">Almost</strong> và <strong class=\"hl-vocab\">Mostly</strong> vì đây là các trạng từ, không làm chủ ngữ đứng trước <code>of</code> trực tiếp (phải dùng <em>almost all of</em>).<br><br><strong>Dịch câu:</strong><br><em>Hầu hết các thành viên ủy ban đã bỏ phiếu ủng hộ đề xuất mới.</em>"
       },
       {
         "question": "The store offers ______ discounts on clearance items this week.",
