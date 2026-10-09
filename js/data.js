@@ -7183,12 +7183,12 @@ const toeicReadingData = [
         "question": "The laptop keyboard is not ______ quiet as the desktop model.",
         "options": {
           "A": "as",
-          "B": "so",
+          "B": "such",
           "C": "more",
           "D": "than"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. as</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh bằng dạng phủ định: <code>not as + tính từ / trạng từ + as</code> hoặc <code>not so + tính từ / trạng từ + as</code>.<br>- Chỗ trống đứng trước tính từ <code>quiet</code> và sau <code>not</code>, phía sau có <code>as</code> → chọn trạng từ so sánh <strong class=\"hl-vocab\">as</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bàn phím máy tính xách tay không êm như bàn phím máy tính để bàn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. as</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh bằng dạng phủ định: <code>not as + tính từ / trạng từ + as</code> (không... bằng...).<br>- Chỗ trống đứng trước tính từ <code>quiet</code> và sau <code>not</code>, phía sau có <code>as</code> → chọn trạng từ so sánh <strong class=\"hl-vocab\">as</strong> để hoàn thiện cấu trúc <code>not as quiet as</code>.<br>- Các phương án còn lại: <code>such</code> (cần đi với cụm danh từ), <code>more</code> (phải đi với than), <code>than</code> đều không phù hợp ngữ pháp.<br><br><strong>Dịch câu:</strong><br><em>Bàn phím máy tính xách tay không êm như bàn phím máy tính để bàn.</em>"
       },
       {
         "question": "The ______ the marketing director thinks about the offer, the more interested he becomes.",
