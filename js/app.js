@@ -344,18 +344,45 @@ document.addEventListener('DOMContentLoaded', () => {
     let pendingChapterId = null;
     let pendingTestId = null;
 
+    function normalizeVietnameseName(str) {
+        if (!str) return '';
+        return str
+            .normalize('NFD')
+            .replace(/[\u0300-\u036f]/g, '')
+            .replace(/đ/g, 'd')
+            .replace(/Đ/g, 'D')
+            .toLowerCase()
+            .replace(/\s+/g, ' ')
+            .trim();
+    }
+
+    function isThuTrangStudent(name) {
+        return normalizeVietnameseName(name) === 'pham thi thu trang';
+    }
+
+    function getMaxDefaultUnlockedChapter() {
+        const currentStudent = localStorage.getItem('studentName') || '';
+        if (isThuTrangStudent(currentStudent)) {
+            return 2;
+        }
+        return 13;
+    }
+
     function updateLockStatusInSidebar() {
+        const maxUnlocked = getMaxDefaultUnlockedChapter();
         submenuItems.forEach(item => {
             const chId = parseInt(item.getAttribute('data-id'));
-            if (chId > 13) {
+            if (isNaN(chId)) return;
+
+            const lockIcon = item.querySelector('.lock-badge');
+            if (lockIcon) lockIcon.remove();
+            
+            // Get the raw text ignoring icon if present
+            const textNode = Array.from(item.childNodes).find(n => n.nodeType === Node.TEXT_NODE && n.textContent.trim().length > 0);
+            const titleText = textNode ? textNode.textContent.trim() : item.textContent.trim();
+
+            if (chId > maxUnlocked) {
                 const isUnlocked = localStorage.getItem(`chapter_${chId}_unlocked`) === 'true';
-                const lockIcon = item.querySelector('.lock-badge');
-                if (lockIcon) lockIcon.remove();
-                
-                // Get the raw text ignoring icon if present
-                const textNode = Array.from(item.childNodes).find(n => n.nodeType === Node.TEXT_NODE && n.textContent.trim().length > 0);
-                const titleText = textNode ? textNode.textContent.trim() : item.textContent.trim();
-                
                 if (!isUnlocked) {
                     item.innerHTML = `${titleText} <span class="lock-badge" style="color: var(--color-gold); margin-left: auto; font-size: 0.85rem; padding-left: 8px;"><i class="fa-solid fa-lock"></i></span>`;
                     item.style.display = 'flex';
@@ -367,6 +394,11 @@ document.addEventListener('DOMContentLoaded', () => {
                     item.style.alignItems = 'center';
                     item.style.justifyContent = 'space-between';
                 }
+            } else {
+                item.innerHTML = titleText;
+                item.style.display = '';
+                item.style.alignItems = '';
+                item.style.justifyContent = '';
             }
         });
 
@@ -446,7 +478,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function showChapterView(chapterId) {
-        if (chapterId > 13) {
+        const maxUnlocked = getMaxDefaultUnlockedChapter();
+        if (chapterId > maxUnlocked) {
             const isUnlocked = localStorage.getItem(`chapter_${chapterId}_unlocked`) === 'true';
             if (!isUnlocked) {
                 pendingChapterId = chapterId;
@@ -1209,6 +1242,19 @@ document.addEventListener('DOMContentLoaded', () => {
             }, 400);
         } else {
             localStorage.setItem('studentName', name);
+            if (isThuTrangStudent(name)) {
+                for (let i = 3; i <= 13; i++) {
+                    localStorage.removeItem(`chapter_${i}_unlocked`);
+                }
+                for (let t = 1; t <= 9; t++) {
+                    localStorage.removeItem(`test_${t}_unlocked`);
+                }
+                if ((currentChapter !== null && (currentChapter + 1) > 2) || currentTestIndex !== null) {
+                    showHomeView();
+                }
+            }
+            updateLockStatusInSidebar();
+
             nameInputError.style.display = 'none';
             nameEntryOverlay.style.opacity = '0';
             setTimeout(() => {
