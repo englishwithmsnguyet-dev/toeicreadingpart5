@@ -980,14 +980,23 @@ body.light-theme .quiz-card {
     color: var(--text-primary);
 }
 
-.question-text span.blank-space {
+.question-text span.blank-space,
+.example-question-text span.blank-space,
+.slide-body span.blank-space,
+span.blank-space {
+    display: inline-block;
+    min-width: 68px;
     border-bottom: 2.5px dashed var(--color-cyan);
     padding: 0 16px;
+    margin: 0 2px;
     color: var(--color-cyan);
     text-shadow: 0 0 5px rgba(0, 242, 254, 0.2);
 }
 
-body.light-theme .question-text span.blank-space {
+body.light-theme .question-text span.blank-space,
+body.light-theme .example-question-text span.blank-space,
+body.light-theme .slide-body span.blank-space,
+body.light-theme span.blank-space {
     border-bottom-color: var(--color-blue);
     color: var(--color-blue);
     text-shadow: none;
