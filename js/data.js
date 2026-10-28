@@ -5,124 +5,124 @@ const toeicReadingData = [
     "slides": [
       {
         "slide_index": 3,
-        "title": "PHẦN 01:",
+        "title": "PHẦN 01: DANH TỪ (NOUNS)",
         "is_html": true,
-        "html_content": "<div style=\"text-align: center; margin-top: 30px; padding: 10px;\"><h2 class=\"hl-vocab\" style=\"font-size: 2rem; font-family: var(--font-heading); margin-bottom: 16px;\">DANH TỪ (NOUNS)</h2><p style=\"font-size: 1.1rem; color: var(--text-secondary); max-width: 550px; margin: 0 auto; line-height: 1.6;\">Tìm hiểu về định nghĩa, chức năng, các vị trí thường gặp của danh từ, cách phân biệt danh từ đếm được, không đếm được và các đuôi danh từ phổ biến trong đề thi TOEIC.</p></div>"
+        "html_content": "<div style=\"text-align: center; margin-top: 15px; padding: 24px 16px;\">\n    <div style=\"width: 68px; height: 68px; border-radius: 20px; background: linear-gradient(135deg, rgba(0, 242, 254, 0.18), rgba(168, 85, 247, 0.18)); border: 1px solid rgba(0, 242, 254, 0.35); display: inline-flex; align-items: center; justify-content: center; font-size: 2rem; color: var(--color-cyan); margin-bottom: 18px; box-shadow: 0 8px 25px rgba(0, 242, 254, 0.2);\">\n        <i class=\"fa-solid fa-cubes\"></i>\n    </div>\n    <h2 class=\"hl-vocab\" style=\"font-size: 2.2rem; font-family: var(--font-heading); margin-bottom: 14px; letter-spacing: 0.02em;\">DANH TỪ (NOUNS)</h2>\n    <p style=\"font-size: 1.12rem; color: var(--text-secondary); max-width: 620px; margin: 0 auto 24px auto; line-height: 1.75; text-align: center !important;\">Tìm hiểu về định nghĩa, chức năng, các vị trí thường gặp của danh từ, cách phân biệt danh từ đếm được, không đếm được và các đuôi danh từ phổ biến trong đề thi TOEIC.</p>\n    <div style=\"display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;\">\n        <span class=\"pos-tag\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i> 14 Nhóm hậu tố trọng tâm</span>\n        <span class=\"pos-tag tag-purple\"><i class=\"fa-solid fa-location-crosshairs\"></i> 7 Vị trí vàng trong câu</span>\n        <span class=\"pos-tag tag-gold\"><i class=\"fa-solid fa-bolt\"></i> Mẹo giải nhanh không cần dịch</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 4,
         "title": "I. KHÁI NIỆM",
         "is_html": true,
-        "html_content": "<strong>Danh từ </strong>là từ dùng để chỉ <strong>người, sự vật, sự việc, nơi chốn, hiện tượng</strong>, <strong>cảm xúc </strong>hoặc<strong> khái niệm trừu tượng</strong>. Trong <strong>TOEIC READING PART 05</strong>, danh từ không được kiểm tra theo định nghĩa học thuật hay nghĩa của từ, mà được kiểm tra thông qua <strong>chức năng ngữ pháp và vị trí trong câu</strong>."
+        "html_content": "<div class=\"slide-callout\">\n    <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-book-open\"></i> Định nghĩa cốt lõi</span>\n    <div style=\"margin-top: 6px; font-size: 1.12rem;\">\n        <strong class=\"hl-cyan\">Danh từ (Nouns)</strong> là từ dùng để chỉ:\n    </div>\n    <div class=\"pos-tag-group\" style=\"margin-top: 12px;\">\n        <span class=\"pos-tag\"><i class=\"fa-solid fa-user\"></i> người</span>\n        <span class=\"pos-tag tag-purple\"><i class=\"fa-solid fa-box-open\"></i> sự vật</span>\n        <span class=\"pos-tag tag-pink\"><i class=\"fa-solid fa-calendar-check\"></i> sự việc</span>\n        <span class=\"pos-tag\"><i class=\"fa-solid fa-location-dot\"></i> nơi chốn</span>\n        <span class=\"pos-tag tag-gold\"><i class=\"fa-solid fa-cloud-Showers-heavy\"></i> hiện tượng</span>\n        <span class=\"pos-tag tag-pink\"><i class=\"fa-solid fa-heart\"></i> cảm xúc</span>\n        <span class=\"pos-tag tag-purple\"><i class=\"fa-solid fa-lightbulb\"></i> khái niệm trừu tượng</span>\n    </div>\n</div>\n<div class=\"slide-callout callout-gold\" style=\"margin-top: 16px;\">\n    <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-bullseye\"></i> Trọng tâm trong TOEIC READING PART 05</span>\n    <div style=\"margin-top: 6px; font-size: 1.12rem;\">\n        Trong <strong class=\"hl-purple\">TOEIC READING PART 05</strong>, danh từ <strong class=\"hl-red\">không được kiểm tra theo định nghĩa học thuật hay nghĩa của từ</strong>, mà được kiểm tra thông qua <span class=\"hl-box\"><i class=\"fa-solid fa-key\"></i> chức năng ngữ pháp và vị trí trong câu</span>.\n    </div>\n</div>"
       },
       {
         "slide_index": 5,
-        "title": "II. NHẬN DẠNG",
+        "title": "II. NHẬN DẠNG DANH TỪ",
         "is_html": true,
-        "html_content": "<strong>1. Nhận dạng danh từ thông qua HẬU TỐ</strong><br>Trong <strong>TOEIC</strong>, rất nhiều đáp án được xây dựng theo <strong><span class=\"hl-red\">họ từ </span></strong>(word family). Việc nhận diện <strong>hậu tố </strong>giúp học viên <strong>khoanh vùng nhanh </strong>các đáp án có khả năng là danh từ."
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-magnifying-glass\" style=\"margin-right: 6px;\"></i> 1. Nhận dạng danh từ thông qua HẬU TỐ (Suffixes)</div>\n<div class=\"slide-callout callout-purple\">\n    <div style=\"font-size: 1.12rem; margin-bottom: 10px;\">\n        <i class=\"fa-solid fa-circle-nodes\" style=\"color: var(--color-purple);\"></i> Trong <strong class=\"hl-cyan\">TOEIC</strong>, rất nhiều đáp án được xây dựng theo <span class=\"hl-box-red\">họ từ (word family)</span>.\n    </div>\n    <div style=\"font-size: 1.12rem;\">\n        <i class=\"fa-solid fa-bolt\" style=\"color: var(--color-gold);\"></i> Việc nhận diện <strong class=\"hl-yellow\">hậu tố</strong> giúp học viên <span class=\"hl-box\">khoanh vùng nhanh</span> các đáp án có khả năng là <strong class=\"hl-green\">danh từ</strong>.\n    </div>\n</div>\n<div class=\"slide-grid-3\" style=\"margin-top: 16px;\">\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-cyan);\">\n        <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-user-tie\"></i> Nhóm chỉ người</span>\n        <div style=\"font-size: 0.95rem; color: var(--text-secondary); margin-top: 4px;\"><code>-er</code>, <code>-or</code>, <code>-ee</code>, <code>-ist</code>, <code>-ian/-an</code>, <code>-ant/-ent</code></div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-purple);\">\n        <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-bolt\"></i> Hành động – Kết quả</span>\n        <div style=\"font-size: 0.95rem; color: var(--text-secondary); margin-top: 4px;\"><code>-tion/-sion</code>, <code>-ment</code>, <code>-ance/-ence</code>, <code>-al</code>, <code>-ure</code></div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-pink);\">\n        <span class=\"slide-badge-pink\"><i class=\"fa-solid fa-gem\"></i> Trạng thái – Khái niệm</span>\n        <div style=\"font-size: 0.95rem; color: var(--text-secondary); margin-top: 4px;\"><code>-ness</code>, <code>-ity</code>, <code>-ship</code>, <code>-ing</code></div>\n    </div>\n</div>"
       },
       {
         "slide_index": 6,
         "title": "HẬU TỐ DANH TỪ CHỈ NGƯỜI",
         "is_html": true,
-        "html_content": "<strong><span class=\"hl-blue\">1. -er / -or (người thực hiện hành động)</span></strong><br><strong class=\"hl-vocab\">manager</strong> /ˈmænɪdʒər/ – quản lý<br><strong class=\"hl-vocab\">director</strong> /dəˈrektər/ – giám đốc<br><strong class=\"hl-vocab\">employer</strong> /ɪmˈplɔɪər/ – chủ lao động, nhà tuyển dụng<br><strong class=\"hl-vocab\">operator</strong> /ˈɑːpəreɪtər/ – người vận hành<br><strong class=\"hl-vocab\">visitor</strong> /ˈvɪzɪtər/ – khách tham quan"
+        "html_content": "<div class=\"suffix-header-badge \"><i class=\"fa-solid fa-user-tie\" style=\"margin-right: 6px;\"></i> 1. -er / -or (người thực hiện hành động)</div><div class=\"suffix-grid\"><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">manag<span class=\"suffix-highlight\">er</span></span>\n        <span class=\"suffix-ipa\">/ˈmænɪdʒər/</span>\n    </div>\n    <div class=\"suffix-meaning\">quản lý</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">direct<span class=\"suffix-highlight\">or</span></span>\n        <span class=\"suffix-ipa\">/dəˈrektər/</span>\n    </div>\n    <div class=\"suffix-meaning\">giám đốc</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">employ<span class=\"suffix-highlight\">er</span></span>\n        <span class=\"suffix-ipa\">/ɪmˈplɔɪər/</span>\n    </div>\n    <div class=\"suffix-meaning\">chủ lao động, nhà tuyển dụng</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">operat<span class=\"suffix-highlight\">or</span></span>\n        <span class=\"suffix-ipa\">/ˈɑːpəreɪtər/</span>\n    </div>\n    <div class=\"suffix-meaning\">người vận hành</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">visit<span class=\"suffix-highlight\">or</span></span>\n        <span class=\"suffix-ipa\">/ˈvɪzɪtər/</span>\n    </div>\n    <div class=\"suffix-meaning\">khách tham quan</div>\n</div></div>"
       },
       {
         "slide_index": 7,
         "title": "HẬU TỐ DANH TỪ CHỈ NGƯỜI",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 2. -ee (người nhận hành động)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">employee</span>\n        <span class=\"suffix-ipa\">/ɪmˈplɔɪiː/</span>\n    </div>\n    <div class=\"suffix-meaning\">nhân viên</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">trainee</span>\n        <span class=\"suffix-ipa\">/ˌtreɪˈniː/</span>\n    </div>\n    <div class=\"suffix-meaning\">thực tập sinh</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">interviewee</span>\n        <span class=\"suffix-ipa\">/ˌɪntərvjuˈiː/</span>\n    </div>\n    <div class=\"suffix-meaning\">người được phỏng vấn</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">nominee</span>\n        <span class=\"suffix-ipa\">/ˌnɑːməˈniː/</span>\n    </div>\n    <div class=\"suffix-meaning\">người được đề cử</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">retiree</span>\n        <span class=\"suffix-ipa\">/ˌrɪtaɪəˈriː/</span>\n    </div>\n    <div class=\"suffix-meaning\">người đã nghỉ hưu</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge \"><i class=\"fa-solid fa-user-check\" style=\"margin-right: 6px;\"></i> 2. -ee (người nhận hành động)</div><div class=\"suffix-grid\"><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">employ<span class=\"suffix-highlight\">ee</span></span>\n        <span class=\"suffix-ipa\">/ɪmˈplɔɪiː/</span>\n    </div>\n    <div class=\"suffix-meaning\">nhân viên</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">train<span class=\"suffix-highlight\">ee</span></span>\n        <span class=\"suffix-ipa\">/ˌtreɪˈniː/</span>\n    </div>\n    <div class=\"suffix-meaning\">thực tập sinh</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">interview<span class=\"suffix-highlight\">ee</span></span>\n        <span class=\"suffix-ipa\">/ˌɪntərvjuˈiː/</span>\n    </div>\n    <div class=\"suffix-meaning\">người được phỏng vấn</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">nomin<span class=\"suffix-highlight\">ee</span></span>\n        <span class=\"suffix-ipa\">/ˌnɑːməˈniː/</span>\n    </div>\n    <div class=\"suffix-meaning\">người được đề cử</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">retir<span class=\"suffix-highlight\">ee</span></span>\n        <span class=\"suffix-ipa\">/ˌrɪtaɪəˈriː/</span>\n    </div>\n    <div class=\"suffix-meaning\">người đã nghỉ hưu</div>\n</div></div>"
       },
       {
         "slide_index": 8,
         "title": "HẬU TỐ DANH TỪ CHỈ NGƯỜI",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 3. -ist (nghề nghiệp / chuyên gia)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">economist</span>\n        <span class=\"suffix-ipa\">/ɪˈkɑːnəmɪst/</span>\n    </div>\n    <div class=\"suffix-meaning\">nhà kinh tế</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">journalist</span>\n        <span class=\"suffix-ipa\">/ˈdʒɜːrnəlɪst/</span>\n    </div>\n    <div class=\"suffix-meaning\">nhà báo</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">scientist</span>\n        <span class=\"suffix-ipa\">/ˈsaɪəntɪst/</span>\n    </div>\n    <div class=\"suffix-meaning\">nhà khoa học</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">specialist</span>\n        <span class=\"suffix-ipa\">/ˈspeʃəlɪst/</span>\n    </div>\n    <div class=\"suffix-meaning\">chuyên gia</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">psychologist</span>\n        <span class=\"suffix-ipa\">/saɪˈkɑːlədʒɪst/</span>\n    </div>\n    <div class=\"suffix-meaning\">nhà tâm lý học</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge \"><i class=\"fa-solid fa-user-graduate\" style=\"margin-right: 6px;\"></i> 3. -ist (nghề nghiệp / chuyên gia)</div><div class=\"suffix-grid\"><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">econom<span class=\"suffix-highlight\">ist</span></span>\n        <span class=\"suffix-ipa\">/ɪˈkɑːnəmɪst/</span>\n    </div>\n    <div class=\"suffix-meaning\">nhà kinh tế</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">journal<span class=\"suffix-highlight\">ist</span></span>\n        <span class=\"suffix-ipa\">/ˈdʒɜːrnəlɪst/</span>\n    </div>\n    <div class=\"suffix-meaning\">nhà báo</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">scient<span class=\"suffix-highlight\">ist</span></span>\n        <span class=\"suffix-ipa\">/ˈsaɪəntɪst/</span>\n    </div>\n    <div class=\"suffix-meaning\">nhà khoa học</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">special<span class=\"suffix-highlight\">ist</span></span>\n        <span class=\"suffix-ipa\">/ˈspeʃəlɪst/</span>\n    </div>\n    <div class=\"suffix-meaning\">chuyên gia</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">psycholog<span class=\"suffix-highlight\">ist</span></span>\n        <span class=\"suffix-ipa\">/saɪˈkɑːlədʒɪst/</span>\n    </div>\n    <div class=\"suffix-meaning\">nhà tâm lý học</div>\n</div></div>"
       },
       {
         "slide_index": 9,
         "title": "HẬU TỐ DANH TỪ CHỈ NGƯỜI",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 4. -ian / -an (nghề nghiệp / quốc tịch)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">technician</span>\n        <span class=\"suffix-ipa\">/tekˈnɪʃən/</span>\n    </div>\n    <div class=\"suffix-meaning\">kỹ thuật viên</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">librarian</span>\n        <span class=\"suffix-ipa\">/laɪˈbreriən/</span>\n    </div>\n    <div class=\"suffix-meaning\">thủ thư</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">electrician</span>\n        <span class=\"suffix-ipa\">/ɪˌlekˈtrɪʃən/</span>\n    </div>\n    <div class=\"suffix-meaning\">thợ điện</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">American</span>\n        <span class=\"suffix-ipa\">/əˈmerɪkən/</span>\n    </div>\n    <div class=\"suffix-meaning\">người Mỹ</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">Canadian</span>\n        <span class=\"suffix-ipa\">/kəˈneɪdiən/</span>\n    </div>\n    <div class=\"suffix-meaning\">người Canada</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge \"><i class=\"fa-solid fa-id-badge\" style=\"margin-right: 6px;\"></i> 4. -ian / -an (nghề nghiệp / quốc tịch)</div><div class=\"suffix-grid\"><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">technic<span class=\"suffix-highlight\">ian</span></span>\n        <span class=\"suffix-ipa\">/tekˈnɪʃən/</span>\n    </div>\n    <div class=\"suffix-meaning\">kỹ thuật viên</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">librar<span class=\"suffix-highlight\">ian</span></span>\n        <span class=\"suffix-ipa\">/laɪˈbreriən/</span>\n    </div>\n    <div class=\"suffix-meaning\">thủ thư</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">electric<span class=\"suffix-highlight\">ian</span></span>\n        <span class=\"suffix-ipa\">/ɪˌlekˈtrɪʃən/</span>\n    </div>\n    <div class=\"suffix-meaning\">thợ điện</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">Americ<span class=\"suffix-highlight\">an</span></span>\n        <span class=\"suffix-ipa\">/əˈmerɪkən/</span>\n    </div>\n    <div class=\"suffix-meaning\">người Mỹ</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">Canad<span class=\"suffix-highlight\">ian</span></span>\n        <span class=\"suffix-ipa\">/kəˈneɪdiən/</span>\n    </div>\n    <div class=\"suffix-meaning\">người Canada</div>\n</div></div>"
       },
       {
         "slide_index": 10,
         "title": "HẬU TỐ DANH TỪ CHỈ NGƯỜI",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 5. -ant / -ent (vai trò / chức danh)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">assistant</span>\n        <span class=\"suffix-ipa\">/əˈsɪstənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">trợ lý</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">accountant</span>\n        <span class=\"suffix-ipa\">/əˈkaʊntənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">kế toán viên</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">consultant</span>\n        <span class=\"suffix-ipa\">/kənˈsʌltənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">cố vấn viên</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">applicant</span>\n        <span class=\"suffix-ipa\">/ˈæplɪkənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">người nộp đơn, ứng viên</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">attendant</span>\n        <span class=\"suffix-ipa\">/əˈtendənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">người phục vụ</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">resident</span>\n        <span class=\"suffix-ipa\">/ˈrezɪdənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">cư dân</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge \"><i class=\"fa-solid fa-user-shield\" style=\"margin-right: 6px;\"></i> 5. -ant / -ent (vai trò / chức danh)</div><div class=\"suffix-grid\"><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">assist<span class=\"suffix-highlight\">ant</span></span>\n        <span class=\"suffix-ipa\">/əˈsɪstənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">trợ lý</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">account<span class=\"suffix-highlight\">ant</span></span>\n        <span class=\"suffix-ipa\">/əˈkaʊntənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">kế toán viên</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">consult<span class=\"suffix-highlight\">ant</span></span>\n        <span class=\"suffix-ipa\">/kənˈsʌltənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">cố vấn viên</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">applic<span class=\"suffix-highlight\">ant</span></span>\n        <span class=\"suffix-ipa\">/ˈæplɪkənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">người nộp đơn, ứng viên</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">attend<span class=\"suffix-highlight\">ant</span></span>\n        <span class=\"suffix-ipa\">/əˈtendənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">người phục vụ</div>\n</div><div class=\"suffix-card \">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">resid<span class=\"suffix-highlight\">ent</span></span>\n        <span class=\"suffix-ipa\">/ˈrezɪdənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">cư dân</div>\n</div></div>"
       },
       {
         "slide_index": 11,
         "title": "HẬU TỐ DANH TỪ CHỈ HÀNH ĐỘNG – KẾT QUẢ",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 6. -tion / -sion / -ation</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">information</span>\n        <span class=\"suffix-ipa\">/ˌɪnfərˈmeɪʃən/</span>\n    </div>\n    <div class=\"suffix-meaning\">thông tin</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">decision</span>\n        <span class=\"suffix-ipa\">/dɪˈsɪʒən/</span>\n    </div>\n    <div class=\"suffix-meaning\">quyết định</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">communication</span>\n        <span class=\"suffix-ipa\">/kəˌmjuːnɪˈkeɪʃən/</span>\n    </div>\n    <div class=\"suffix-meaning\">giao tiếp</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">organization</span>\n        <span class=\"suffix-ipa\">/ˌɔːrɡənəˈzeɪʃən/</span>\n    </div>\n    <div class=\"suffix-meaning\">tổ chức</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">production</span>\n        <span class=\"suffix-ipa\">/prəˈdʌkʃən/</span>\n    </div>\n    <div class=\"suffix-meaning\">sản xuất</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-purple\"><i class=\"fa-solid fa-bolt\" style=\"margin-right: 6px;\"></i> 6. -tion / -sion / -ation (hành động / kết quả)</div><div class=\"suffix-grid\"><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">inform<span class=\"suffix-highlight\">ation</span></span>\n        <span class=\"suffix-ipa\">/ˌɪnfərˈmeɪʃən/</span>\n    </div>\n    <div class=\"suffix-meaning\">thông tin</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">deci<span class=\"suffix-highlight\">sion</span></span>\n        <span class=\"suffix-ipa\">/dɪˈsɪʒən/</span>\n    </div>\n    <div class=\"suffix-meaning\">quyết định</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">communic<span class=\"suffix-highlight\">ation</span></span>\n        <span class=\"suffix-ipa\">/kəˌmjuːnɪˈkeɪʃən/</span>\n    </div>\n    <div class=\"suffix-meaning\">giao tiếp</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">organiz<span class=\"suffix-highlight\">ation</span></span>\n        <span class=\"suffix-ipa\">/ˌɔːrɡənəˈzeɪʃən/</span>\n    </div>\n    <div class=\"suffix-meaning\">tổ chức</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">produc<span class=\"suffix-highlight\">tion</span></span>\n        <span class=\"suffix-ipa\">/prəˈdʌkʃən/</span>\n    </div>\n    <div class=\"suffix-meaning\">sản xuất</div>\n</div></div>"
       },
       {
         "slide_index": 12,
         "title": "HẬU TỐ DANH TỪ CHỈ HÀNH ĐỘNG – KẾT QUẢ",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 7. -ment</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">development</span>\n        <span class=\"suffix-ipa\">/dɪˈveləpmənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự phát triển</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">management</span>\n        <span class=\"suffix-ipa\">/ˈmænɪdʒmənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự quản lý</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">agreement</span>\n        <span class=\"suffix-ipa\">/əˈɡriːmənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự đồng ý</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">improvement</span>\n        <span class=\"suffix-ipa\">/ɪmˈpruːvmənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự cải thiện</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">employment</span>\n        <span class=\"suffix-ipa\">/ɪmˈplɔɪmənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">việc làm</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-purple\"><i class=\"fa-solid fa-bolt\" style=\"margin-right: 6px;\"></i> 7. -ment (hành động / kết quả)</div><div class=\"suffix-grid\"><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">develop<span class=\"suffix-highlight\">ment</span></span>\n        <span class=\"suffix-ipa\">/dɪˈveləpmənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự phát triển</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">manage<span class=\"suffix-highlight\">ment</span></span>\n        <span class=\"suffix-ipa\">/ˈmænɪdʒmənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự quản lý</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">agree<span class=\"suffix-highlight\">ment</span></span>\n        <span class=\"suffix-ipa\">/əˈɡriːmənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự đồng ý</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">improve<span class=\"suffix-highlight\">ment</span></span>\n        <span class=\"suffix-ipa\">/ɪmˈpruːvmənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự cải thiện</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">employ<span class=\"suffix-highlight\">ment</span></span>\n        <span class=\"suffix-ipa\">/ɪmˈplɔɪmənt/</span>\n    </div>\n    <div class=\"suffix-meaning\">việc làm</div>\n</div></div>"
       },
       {
         "slide_index": 13,
         "title": "HẬU TỐ DANH TỪ CHỈ HÀNH ĐỘNG – KẾT QUẢ",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 8. -ance / -ence</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">performance</span>\n        <span class=\"suffix-ipa\">/pərˈfɔːrməns/</span>\n    </div>\n    <div class=\"suffix-meaning\">hiệu suất</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">attendance</span>\n        <span class=\"suffix-ipa\">/əˈtendəns/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự tham dự</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">importance</span>\n        <span class=\"suffix-ipa\">/ɪmˈpɔːrtəns/</span>\n    </div>\n    <div class=\"suffix-meaning\">tầm quan trọng</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">difference</span>\n        <span class=\"suffix-ipa\">/ˈdɪfrəns/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự khác biệt</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">confidence</span>\n        <span class=\"suffix-ipa\">/ˈkɑːnfɪdəns/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự tự tin</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-purple\"><i class=\"fa-solid fa-bolt\" style=\"margin-right: 6px;\"></i> 8. -ance / -ence (hành động / kết quả)</div><div class=\"suffix-grid\"><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">perform<span class=\"suffix-highlight\">ance</span></span>\n        <span class=\"suffix-ipa\">/pərˈfɔːrməns/</span>\n    </div>\n    <div class=\"suffix-meaning\">hiệu suất</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">attend<span class=\"suffix-highlight\">ance</span></span>\n        <span class=\"suffix-ipa\">/əˈtendəns/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự tham dự</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">import<span class=\"suffix-highlight\">ance</span></span>\n        <span class=\"suffix-ipa\">/ɪmˈpɔːrtəns/</span>\n    </div>\n    <div class=\"suffix-meaning\">tầm quan trọng</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">differ<span class=\"suffix-highlight\">ence</span></span>\n        <span class=\"suffix-ipa\">/ˈdɪfrəns/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự khác biệt</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">confid<span class=\"suffix-highlight\">ence</span></span>\n        <span class=\"suffix-ipa\">/ˈkɑːnfɪdəns/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự tự tin</div>\n</div></div>"
       },
       {
         "slide_index": 14,
         "title": "HẬU TỐ DANH TỪ CHỈ HÀNH ĐỘNG – KẾT QUẢ",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 9. -al</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">approval</span>\n        <span class=\"suffix-ipa\">/əˈpruːvəl/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự chấp thuận</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">proposal</span>\n        <span class=\"suffix-ipa\">/prəˈpoʊzəl/</span>\n    </div>\n    <div class=\"suffix-meaning\">đề xuất</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">arrival</span>\n        <span class=\"suffix-ipa\">/əˈraɪvəl/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự đến nơi</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">refusal</span>\n        <span class=\"suffix-ipa\">/rɪˈfjuːzəl/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự từ chối</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">withdrawal</span>\n        <span class=\"suffix-ipa\">/wɪðˈdrɔːəl/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự rút lui</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-purple\"><i class=\"fa-solid fa-star\" style=\"margin-right: 6px;\"></i> 9. -al (danh từ đặc biệt tận cùng bằng -al)</div><div class=\"suffix-grid\"><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">approv<span class=\"suffix-highlight\">al</span></span>\n        <span class=\"suffix-ipa\">/əˈpruːvəl/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự chấp thuận</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">propos<span class=\"suffix-highlight\">al</span></span>\n        <span class=\"suffix-ipa\">/prəˈpoʊzəl/</span>\n    </div>\n    <div class=\"suffix-meaning\">đề xuất</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">arriv<span class=\"suffix-highlight\">al</span></span>\n        <span class=\"suffix-ipa\">/əˈraɪvəl/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự đến nơi</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">refus<span class=\"suffix-highlight\">al</span></span>\n        <span class=\"suffix-ipa\">/rɪˈfjuːzəl/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự từ chối</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">withdraw<span class=\"suffix-highlight\">al</span></span>\n        <span class=\"suffix-ipa\">/wɪðˈdrɔːəl/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự rút lui</div>\n</div></div>"
       },
       {
         "slide_index": 15,
         "title": "HẬU TỐ DANH TỪ CHỈ HÀNH ĐỘNG – KẾT QUẢ",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 10. -ure</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">procedure</span>\n        <span class=\"suffix-ipa\">/prəˈsiːdʒər/</span>\n    </div>\n    <div class=\"suffix-meaning\">thủ tục</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">failure</span>\n        <span class=\"suffix-ipa\">/ˈfeɪljər/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự thất bại</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">pressure</span>\n        <span class=\"suffix-ipa\">/ˈpreʃər/</span>\n    </div>\n    <div class=\"suffix-meaning\">áp lực</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">exposure</span>\n        <span class=\"suffix-ipa\">/ɪkˈspoʊʒər/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự phơi bày</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">departure</span>\n        <span class=\"suffix-ipa\">/dɪˈpɑːrtʃər/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự khởi hành</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-purple\"><i class=\"fa-solid fa-bolt\" style=\"margin-right: 6px;\"></i> 10. -ure (hành động / kết quả)</div><div class=\"suffix-grid\"><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">proced<span class=\"suffix-highlight\">ure</span></span>\n        <span class=\"suffix-ipa\">/prəˈsiːdʒər/</span>\n    </div>\n    <div class=\"suffix-meaning\">thủ tục</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">fail<span class=\"suffix-highlight\">ure</span></span>\n        <span class=\"suffix-ipa\">/ˈfeɪljər/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự thất bại</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">press<span class=\"suffix-highlight\">ure</span></span>\n        <span class=\"suffix-ipa\">/ˈpreʃər/</span>\n    </div>\n    <div class=\"suffix-meaning\">áp lực</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">expos<span class=\"suffix-highlight\">ure</span></span>\n        <span class=\"suffix-ipa\">/ɪkˈspoʊʒər/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự phơi bày</div>\n</div><div class=\"suffix-card card-purple\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">depart<span class=\"suffix-highlight\">ure</span></span>\n        <span class=\"suffix-ipa\">/dɪˈpɑːrtʃər/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự khởi hành</div>\n</div></div>"
       },
       {
         "slide_index": 16,
         "title": "HẬU TỐ DANH TỪ CHỈ TRẠNG THÁI – KHÁI NIỆM",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 11. -ness</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">effectiveness</span>\n        <span class=\"suffix-ipa\">/ɪˈfektɪvnəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">hiệu quả</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">readiness</span>\n        <span class=\"suffix-ipa\">/ˈredinəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự sẵn sàng</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">awareness</span>\n        <span class=\"suffix-ipa\">/əˈwernəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">nhận thức</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">weakness</span>\n        <span class=\"suffix-ipa\">/ˈwiːknəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">điểm yếu</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">usefulness</span>\n        <span class=\"suffix-ipa\">/ˈjuːsfəlnəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">tính hữu dụng</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-pink\"><i class=\"fa-solid fa-gem\" style=\"margin-right: 6px;\"></i> 11. -ness (trạng thái / tính chất)</div><div class=\"suffix-grid\"><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">effective<span class=\"suffix-highlight\">ness</span></span>\n        <span class=\"suffix-ipa\">/ɪˈfektɪvnəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">hiệu quả</div>\n</div><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">readi<span class=\"suffix-highlight\">ness</span></span>\n        <span class=\"suffix-ipa\">/ˈredinəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự sẵn sàng</div>\n</div><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">aware<span class=\"suffix-highlight\">ness</span></span>\n        <span class=\"suffix-ipa\">/əˈwernəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">nhận thức</div>\n</div><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">weak<span class=\"suffix-highlight\">ness</span></span>\n        <span class=\"suffix-ipa\">/ˈwiːknəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">điểm yếu</div>\n</div><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">useful<span class=\"suffix-highlight\">ness</span></span>\n        <span class=\"suffix-ipa\">/ˈjuːsfəlnəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">tính hữu dụng</div>\n</div></div>"
       },
       {
         "slide_index": 17,
         "title": "HẬU TỐ DANH TỪ CHỈ TRẠNG THÁI – KHÁI NIỆM",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 12. -ity</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">responsibility</span>\n        <span class=\"suffix-ipa\">/rɪˌspɑːnsəˈbɪləti/</span>\n    </div>\n    <div class=\"suffix-meaning\">trách nhiệm</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">productivity</span>\n        <span class=\"suffix-ipa\">/ˌproʊdʌkˈtɪvəti/</span>\n    </div>\n    <div class=\"suffix-meaning\">năng suất</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">security</span>\n        <span class=\"suffix-ipa\">/sɪˈkjʊrəti/</span>\n    </div>\n    <div class=\"suffix-meaning\">an ninh</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">availability</span>\n        <span class=\"suffix-ipa\">/əˌveɪləˈbɪləti/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự sẵn có</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">reliability</span>\n        <span class=\"suffix-ipa\">/rɪˌlaɪəˈbɪləti/</span>\n    </div>\n    <div class=\"suffix-meaning\">độ tin cậy</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-pink\"><i class=\"fa-solid fa-gem\" style=\"margin-right: 6px;\"></i> 12. -ity (trạng thái / phẩm chất)</div><div class=\"suffix-grid\"><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">responsibil<span class=\"suffix-highlight\">ity</span></span>\n        <span class=\"suffix-ipa\">/rɪˌspɑːnsəˈbɪləti/</span>\n    </div>\n    <div class=\"suffix-meaning\">trách nhiệm</div>\n</div><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">productiv<span class=\"suffix-highlight\">ity</span></span>\n        <span class=\"suffix-ipa\">/ˌproʊdʌkˈtɪvəti/</span>\n    </div>\n    <div class=\"suffix-meaning\">năng suất</div>\n</div><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">secur<span class=\"suffix-highlight\">ity</span></span>\n        <span class=\"suffix-ipa\">/sɪˈkjʊrəti/</span>\n    </div>\n    <div class=\"suffix-meaning\">an ninh</div>\n</div><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">availabil<span class=\"suffix-highlight\">ity</span></span>\n        <span class=\"suffix-ipa\">/əˌveɪləˈbɪləti/</span>\n    </div>\n    <div class=\"suffix-meaning\">sự sẵn có</div>\n</div><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">reliabil<span class=\"suffix-highlight\">ity</span></span>\n        <span class=\"suffix-ipa\">/rɪˌlaɪəˈbɪləti/</span>\n    </div>\n    <div class=\"suffix-meaning\">độ tin cậy</div>\n</div></div>"
       },
       {
         "slide_index": 18,
         "title": "HẬU TỐ DANH TỪ CHỈ TRẠNG THÁI – KHÁI NIỆM",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 13. -ship</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">leadership</span>\n        <span class=\"suffix-ipa\">/ˈliːdərʃɪp/</span>\n    </div>\n    <div class=\"suffix-meaning\">khả năng lãnh đạo</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">partnership</span>\n        <span class=\"suffix-ipa\">/ˈpɑːrtnərʃɪp/</span>\n    </div>\n    <div class=\"suffix-meaning\">quan hệ đối tác</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">membership</span>\n        <span class=\"suffix-ipa\">/ˈmembərʃɪp/</span>\n    </div>\n    <div class=\"suffix-meaning\">tư cách thành viên</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">ownership</span>\n        <span class=\"suffix-ipa\">/ˈoʊnərʃɪp/</span>\n    </div>\n    <div class=\"suffix-meaning\">quyền sở hữu</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">internship</span>\n        <span class=\"suffix-ipa\">/ˈɪntɜːrnʃɪp/</span>\n    </div>\n    <div class=\"suffix-meaning\">kỳ thực tập</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-pink\"><i class=\"fa-solid fa-handshake\" style=\"margin-right: 6px;\"></i> 13. -ship (tư cách / mối quan hệ)</div><div class=\"suffix-grid\"><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">leader<span class=\"suffix-highlight\">ship</span></span>\n        <span class=\"suffix-ipa\">/ˈliːdərʃɪp/</span>\n    </div>\n    <div class=\"suffix-meaning\">khả năng lãnh đạo</div>\n</div><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">partner<span class=\"suffix-highlight\">ship</span></span>\n        <span class=\"suffix-ipa\">/ˈpɑːrtnərʃɪp/</span>\n    </div>\n    <div class=\"suffix-meaning\">quan hệ đối tác</div>\n</div><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">member<span class=\"suffix-highlight\">ship</span></span>\n        <span class=\"suffix-ipa\">/ˈmembərʃɪp/</span>\n    </div>\n    <div class=\"suffix-meaning\">tư cách thành viên</div>\n</div><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">owner<span class=\"suffix-highlight\">ship</span></span>\n        <span class=\"suffix-ipa\">/ˈoʊnərʃɪp/</span>\n    </div>\n    <div class=\"suffix-meaning\">quyền sở hữu</div>\n</div><div class=\"suffix-card card-pink\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">intern<span class=\"suffix-highlight\">ship</span></span>\n        <span class=\"suffix-ipa\">/ˈɪntɜːrnʃɪp/</span>\n    </div>\n    <div class=\"suffix-meaning\">kỳ thực tập</div>\n</div></div>"
       },
       {
         "slide_index": 19,
         "title": "DANH ĐỘNG TỪ",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> -ing (danh động từ)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">training</span>\n        <span class=\"suffix-ipa\">/ˈtreɪnɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">đào tạo</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">meeting</span>\n        <span class=\"suffix-ipa\">/ˈmiːtɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">cuộc họp</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">planning</span>\n        <span class=\"suffix-ipa\">/ˈplænɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">việc lập kế hoạch</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">hiring</span>\n        <span class=\"suffix-ipa\">/ˈhaɪərɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">việc tuyển dụng</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">marketing</span>\n        <span class=\"suffix-ipa\">/ˈmɑːrkɪtɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">tiếp thị</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-green\"><i class=\"fa-solid fa-layer-group\" style=\"margin-right: 6px;\"></i> 14. -ing (danh động từ thông dụng)</div><div class=\"suffix-grid\"><div class=\"suffix-card card-green\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">train<span class=\"suffix-highlight\">ing</span></span>\n        <span class=\"suffix-ipa\">/ˈtreɪnɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">đào tạo</div>\n</div><div class=\"suffix-card card-green\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">meet<span class=\"suffix-highlight\">ing</span></span>\n        <span class=\"suffix-ipa\">/ˈmiːtɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">cuộc họp</div>\n</div><div class=\"suffix-card card-green\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">plann<span class=\"suffix-highlight\">ing</span></span>\n        <span class=\"suffix-ipa\">/ˈplænɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">việc lập kế hoạch</div>\n</div><div class=\"suffix-card card-green\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">hir<span class=\"suffix-highlight\">ing</span></span>\n        <span class=\"suffix-ipa\">/ˈhaɪərɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">việc tuyển dụng</div>\n</div><div class=\"suffix-card card-green\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">market<span class=\"suffix-highlight\">ing</span></span>\n        <span class=\"suffix-ipa\">/ˈmɑːrkɪtɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">tiếp thị</div>\n</div></div>"
       },
       {
         "slide_index": 20,
-        "title": "LƯU Ý",
+        "title": "LƯU Ý QUAN TRỌNG",
         "is_html": true,
-        "html_content": "Ngoài các hậu tố danh từ phổ biến trên, trong <strong>TOEIC PART 05 </strong>vẫn có thể gặp một số hậu tố khác (như <em>–age, –ery/–ry, –ship, –ism, –logy, –ics, –dom, –hood…</em>),<br><strong>V-ing</strong> <strong><span class=\"hl-red\">CHỈ</span></strong> <strong><span class=\"hl-red\">ĐƯỢC CHỌN </span></strong>khi cấu trúc câu <strong><span class=\"hl-red\">BẮT BUỘC dùng V-ing</span></strong>. Nếu không có dấu hiệu bắt buộc, <strong><span class=\"hl-cyan\">ưu tiên DANH TỪ THUẦN</span></strong>."
+        "html_content": "<div class=\"slide-callout\">\n    <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-circle-plus\"></i> Các hậu tố danh từ mở rộng</span>\n    <div style=\"margin-top: 6px; font-size: 1.08rem;\">\n        Ngoài các hậu tố danh từ phổ biến trên, trong <strong class=\"hl-cyan\">TOEIC PART 05</strong> vẫn có thể gặp một số hậu tố khác như:\n    </div>\n    <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n        <span class=\"pos-tag\">–age</span>\n        <span class=\"pos-tag tag-purple\">–ery / –ry</span>\n        <span class=\"pos-tag tag-pink\">–ship</span>\n        <span class=\"pos-tag\">–ism</span>\n        <span class=\"pos-tag tag-gold\">–logy</span>\n        <span class=\"pos-tag tag-purple\">–ics</span>\n        <span class=\"pos-tag\">–dom</span>\n        <span class=\"pos-tag tag-pink\">–hood</span>\n    </div>\n</div>\n<div class=\"slide-callout callout-red\" style=\"margin-top: 16px;\">\n    <span class=\"slide-badge-pink\"><i class=\"fa-solid fa-triangle-exclamation\"></i> Quy tắc vàng khi đối mặt với V-ing và Danh từ thuần</span>\n    <div style=\"margin-top: 8px; font-size: 1.12rem;\">\n        <i class=\"fa-solid fa-ban\" style=\"color: #ef4444;\"></i> <strong class=\"hl-yellow\">V-ing</strong> <span class=\"hl-box-red\">CHỈ ĐƯỢC CHỌN</span> khi cấu trúc câu <strong class=\"hl-red\">BẮT BUỘC dùng V-ing</strong>.\n    </div>\n    <div style=\"margin-top: 10px; font-size: 1.12rem;\">\n        <i class=\"fa-solid fa-circle-check\" style=\"color: var(--color-success);\"></i> Nếu không có dấu hiệu bắt buộc, <span class=\"hl-box\"><i class=\"fa-solid fa-crown\"></i> ưu tiên DANH TỪ THUẦN</span>.\n    </div>\n</div>"
       },
       {
         "slide_index": 21,
-        "title": "II. NHẬN DẠNG",
+        "title": "II. NHẬN DẠNG DANH TỪ",
         "is_html": true,
-        "html_content": "<strong>2. Nhận dạng danh từ qua VỊ TRÍ TRONG CÂU</strong><br>Trong <strong>TOEIC PART 05</strong>, vị trí trong câu là tiêu chí QUYẾT ĐỊNH để xác định danh từ. Khi đã xác định đúng vị trí, thí sinh có thể <strong>loại ngay các đáp án sai từ loại</strong>, không cần dịch toàn câu."
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 2. Nhận dạng danh từ qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout callout-gold\">\n    <div style=\"font-size: 1.12rem; margin-bottom: 8px;\">\n        <i class=\"fa-solid fa-star\" style=\"color: var(--color-gold);\"></i> Trong <strong class=\"hl-cyan\">TOEIC PART 05</strong>, vị trí trong câu là <span class=\"hl-box\">tiêu chí QUYẾT ĐỊNH</span> để xác định danh từ.\n    </div>\n    <div style=\"font-size: 1.12rem;\">\n        <i class=\"fa-solid fa-check-double\" style=\"color: var(--color-success);\"></i> Khi đã xác định đúng vị trí, thí sinh có thể <strong class=\"hl-green\">loại ngay các đáp án sai từ loại</strong>, <strong class=\"hl-yellow\">không cần dịch toàn câu</strong>.\n    </div>\n</div>\n<div class=\"verb-pattern-grid\" style=\"margin-top: 14px;\">\n    <div class=\"verb-pattern-item\"><div class=\"verb-phrase\"><span class=\"hl-core\">2.1. Làm Chủ ngữ</span></div><div class=\"verb-meaning\"><code>S + V + O</code></div></div>\n    <div class=\"verb-pattern-item theme-purple\"><div class=\"verb-phrase\"><span class=\"hl-core-purple\">2.2. Làm Tân ngữ</span></div><div class=\"verb-meaning\"><code>S + V + O</code></div></div>\n    <div class=\"verb-pattern-item theme-pink\"><div class=\"verb-phrase\"><span class=\"hl-core-pink\">2.3. Sau Tính từ</span></div><div class=\"verb-meaning\"><code>Adj + Noun</code></div></div>\n    <div class=\"verb-pattern-item theme-orange\"><div class=\"verb-phrase\"><span class=\"hl-vocab\">2.4. Sau Giới từ</span></div><div class=\"verb-meaning\"><code>Prep + Noun</code></div></div>\n    <div class=\"verb-pattern-item\"><div class=\"verb-phrase\"><span class=\"hl-core\">2.5. Sau Mạo từ</span></div><div class=\"verb-meaning\"><code>a/an/the + Noun</code></div></div>\n    <div class=\"verb-pattern-item theme-purple\"><div class=\"verb-phrase\"><span class=\"hl-core-purple\">2.6. Sau TT Sở hữu</span></div><div class=\"verb-meaning\"><code>Possessive + Noun</code></div></div>\n    <div class=\"verb-pattern-item theme-pink\"><div class=\"verb-phrase\"><span class=\"hl-core-pink\">2.7. Sau Từ hạn định</span></div><div class=\"verb-meaning\"><code>Determiner + Noun</code></div></div>\n</div>"
       },
       {
         "slide_index": 22,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>2.1. Danh từ làm CHỦ NGỮ</strong><br><strong>- Dấu hiệu nhận diện: </strong>Chỗ trống đứng trước <strong>ĐỘNG TỪ CHÍNH</strong><br><strong>- Cấu trúc: </strong><strong><span class=\"hl-red\">S + V + O </span></strong>→ <strong>Danh từ là S</strong><br><strong>EXAMPLE 01: </strong><br>____ is required for all employees attending the training session.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.1. Danh từ làm CHỦ NGỮ (Subject)</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng đầu câu, ngay trước <strong class=\"hl-cyan\">ĐỘNG TỪ CHÍNH</strong>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S + V + O</span> <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 6px;\"></i> <strong class=\"hl-green\">Danh từ đóng vai trò là S</strong></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 01</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\"><span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-cyan\">is required</span> for all employees attending the training session.</div>\n</div>",
         "options": {
           "A": "Apply",
           "B": "Applicant",
@@ -130,14 +130,14 @@ const toeicReadingData = [
           "D": "Applying"
         },
         "correct_answer": "C",
-        "explanation_html": "Cần danh từ số ít làm chủ ngữ đứng trước động từ \"is required\" và sau trạng ngữ chỉ thời gian. Cấu trúc: [N] + is required. Ở đây ta có \"Application\" (sự nộp đơn/lá đơn) phù hợp về nghĩa hơn là danh từ chỉ người \"Applicant\" (người nộp đơn)."
+        "explanation_html": "Cần <strong>danh từ số ít</strong> làm chủ ngữ đứng trước động từ chia số ít <code>is required</code>. Cấu trúc: <code>[Noun] + is required</code>. Chọn danh từ chỉ sự việc <strong class=\"hl-vocab\">Application</strong> <em>(việc đăng ký / đơn đăng ký)</em> phù hợp nghĩa hơn danh từ chỉ người <code>Applicant</code> <em>(ứng viên - đếm được số ít không đứng một mình thiếu mạo từ)</em>."
       },
       {
         "slide_index": 23,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>2.1. Danh từ làm CHỦ NGỮ</strong><br><strong>- Dấu hiệu nhận diện: </strong>Chỗ trống đứng trước <strong>ĐỘNG TỪ CHÍNH</strong><br><strong>- Cấu trúc: </strong><strong><span class=\"hl-red\">S + V + O </span></strong>→ <strong>Danh từ là S</strong><br><strong>EXAMPLE 02: </strong><br>____ has been approved by the management team.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.1. Danh từ làm CHỦ NGỮ (Subject)</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng đầu câu, ngay trước <strong class=\"hl-cyan\">ĐỘNG TỪ CHÍNH</strong>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S + V + O</span> <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 6px;\"></i> <strong class=\"hl-green\">Danh từ đóng vai trò là S</strong></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 02</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\"><span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-cyan\">has been approved</span> by the management team.</div>\n</div>",
         "options": {
           "A": "Propose",
           "B": "Proposal",
@@ -145,14 +145,14 @@ const toeicReadingData = [
           "D": "Propositional"
         },
         "correct_answer": "B",
-        "explanation_html": "Cần danh từ làm chủ ngữ đứng trước động từ \"has been approved\". Đuôi \"-al\" ở đây đóng vai trò là danh từ đặc biệt: \"Proposal\" (bản đề xuất)."
+        "explanation_html": "Cần <strong>danh từ</strong> làm chủ ngữ đứng trước cụm động từ chính <code>has been approved</code>. Hậu tố <code>-al</code> ở đây là đuôi danh từ đặc biệt: chọn <strong class=\"hl-vocab\">Proposal</strong> <em>(bản đề xuất)</em>."
       },
       {
         "slide_index": 24,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>2.2. Danh từ làm TÂN NGỮ </strong><br><strong>- Dấu hiệu nhận diện: </strong>Chỗ trống đứng sau <strong>ĐỘNG TỪ CHÍNH</strong><br><strong>- Cấu trúc: </strong><strong><span class=\"hl-red\">S + V + O </span></strong>→ <strong>Danh từ là O</strong><br><strong>EXAMPLE 01: </strong><br>The company provides ____ to new employees.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.2. Danh từ làm TÂN NGỮ (Object)</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng ngay sau <strong class=\"hl-purple\">NGOẠI ĐỘNG TỪ CHÍNH</strong>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S + V + O</span> <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-purple); margin: 0 6px;\"></i> <strong class=\"hl-green\">Danh từ đóng vai trò là O</strong></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 01</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The company <span class=\"hl-purple\">provides</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> to new employees.</div>\n</div>",
         "options": {
           "A": "inform",
           "B": "informative",
@@ -160,14 +160,14 @@ const toeicReadingData = [
           "D": "informatively"
         },
         "correct_answer": "C",
-        "explanation_html": "Cần danh từ làm tân ngữ trực tiếp đứng sau động từ \"provides\". Đuôi \"-tion\" là dấu hiệu nhận biết danh từ \"information\" (thông tin)."
+        "explanation_html": "Cần <strong>danh từ</strong> làm tân ngữ trực tiếp đứng sau ngoại động từ <code>provides</code>. Hậu tố <code>-tion</code> là dấu hiệu nhận biết danh từ <strong class=\"hl-vocab\">information</strong> <em>(thông tin)</em>."
       },
       {
         "slide_index": 25,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>2.2. Danh từ làm TÂN NGỮ </strong><br><strong>- Dấu hiệu nhận diện: </strong>Chỗ trống đứng sau <strong>ĐỘNG TỪ CHÍNH</strong><br><strong>- Cấu trúc: </strong><strong><span class=\"hl-red\">S + V + O </span></strong>→ <strong>Danh từ là O</strong><br><strong>EXAMPLE 02: </strong><br>The manager requested ____ from the supplier.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.2. Danh từ làm TÂN NGỮ (Object)</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng ngay sau <strong class=\"hl-purple\">NGOẠI ĐỘNG TỪ CHÍNH</strong>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S + V + O</span> <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-purple); margin: 0 6px;\"></i> <strong class=\"hl-green\">Danh từ đóng vai trò là O</strong></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 02</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The manager <span class=\"hl-purple\">requested</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> from the supplier.</div>\n</div>",
         "options": {
           "A": "assist",
           "B": "assistant",
@@ -175,14 +175,14 @@ const toeicReadingData = [
           "D": "assisting"
         },
         "correct_answer": "C",
-        "explanation_html": "Cần danh từ làm tân ngữ sau động từ \"requested\". Đuôi \"-ance\" là danh từ \"assistance\" (sự hỗ trợ). Cần phân biệt với danh từ chỉ người \"assistant\" (trợ lý) không hợp nghĩa trong ngữ cảnh này."
+        "explanation_html": "Cần <strong>danh từ</strong> làm tân ngữ sau ngoại động từ <code>requested</code>. Hậu tố <code>-ance</code> là danh từ chỉ sự việc <strong class=\"hl-vocab\">assistance</strong> <em>(sự hỗ trợ)</em>. Phân biệt với danh từ chỉ người <code>assistant</code> <em>(người trợ lý - đếm được số ít không đứng độc lập thiếu mạo từ)</em>."
       },
       {
         "slide_index": 26,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>2.3. Danh từ đứng sau TÍNH TỪ</strong><br><strong>- Dấu hiệu nhận diện: </strong>Chỗ trống đứng sau <strong>TÍNH TỪ</strong><br><strong>- Cấu trúc: </strong><strong><span class=\"hl-red\">… adjective + noun </span></strong><br><strong>EXAMPLE 01: </strong><br>The manager has extensive ____ in project coordination.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-pink\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.3. Danh từ đứng sau TÍNH TỪ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng ngay sau <strong class=\"txt-pink\">TÍNH TỪ (Adjective)</strong>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">… adjective + noun</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 01</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The manager has <span class=\"txt-pink\" style=\"font-weight:700;\">extensive</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> in project coordination.</div>\n</div>",
         "options": {
           "A": "experience",
           "B": "experienced",
@@ -190,14 +190,14 @@ const toeicReadingData = [
           "D": "experiential"
         },
         "correct_answer": "A",
-        "explanation_html": "Cần danh từ đứng sau tính từ \"extensive\" để tạo thành cụm danh từ. \"experience\" (kinh nghiệm) là danh từ thuần."
+        "explanation_html": "Cần <strong>danh từ</strong> đứng sau tính từ <code>extensive</code> <em>(sâu rộng)</em> để tạo thành cụm danh từ làm tân ngữ. Chọn danh từ thuần <strong class=\"hl-vocab\">experience</strong> <em>(kinh nghiệm)</em>."
       },
       {
         "slide_index": 27,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>2.3. Danh từ đứng sau TÍNH TỪ trong CỤM DANH TỪ</strong><br><strong>- Dấu hiệu nhận diện: </strong>Chỗ trống đứng sau <strong>TÍNH TỪ</strong><br><strong>- Cấu trúc: </strong><strong><span class=\"hl-red\">… adjective + noun </span></strong><br><strong>EXAMPLE 02: </strong><br>The company received positive ____ from its customers.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-pink\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.3. Danh từ đứng sau TÍNH TỪ trong CỤM DANH TỪ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng ngay sau <strong class=\"txt-pink\">TÍNH TỪ (Adjective)</strong>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">… adjective + noun</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 02</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The company received <span class=\"txt-pink\" style=\"font-weight:700;\">positive</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> from its customers.</div>\n</div>",
         "options": {
           "A": "respond",
           "B": "responsive",
@@ -205,14 +205,14 @@ const toeicReadingData = [
           "D": "responding"
         },
         "correct_answer": "C",
-        "explanation_html": "Cần danh từ đứng sau tính từ \"positive\". \"response\" (sự phản hồi) là danh từ."
+        "explanation_html": "Cần <strong>danh từ</strong> đứng sau tính từ <code>positive</code> <em>(tích cực)</em>. Chọn danh từ <strong class=\"hl-vocab\">response</strong> <em>(sự phản hồi)</em>."
       },
       {
         "slide_index": 28,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>2.4. Danh từ đứng sau GIỚI TỪ </strong><br><strong>- Dấu hiệu nhận diện: </strong>Chỗ trống đứng sau <strong>GIỚI TỪ </strong>(in, on, at, for, with, after, before, due to, because of…).<br><strong>- Cấu trúc: </strong><strong><span class=\"hl-red\">… preposition + noun </span></strong><br><strong>EXAMPLE 01: </strong><br>Employees are paid according to ____.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.4. Danh từ đứng sau GIỚI TỪ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau <strong class=\"hl-cyan\">GIỚI TỪ</strong> (<code>in</code>, <code>on</code>, <code>at</code>, <code>for</code>, <code>with</code>, <code>after</code>, <code>before</code>, <code>due to</code>, <code>because of</code>, <code>according to</code>…).</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">… preposition + noun</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 01</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">Employees are paid <span class=\"hl-cyan\">according to</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>.</div>\n</div>",
         "options": {
           "A": "perform",
           "B": "performance",
@@ -220,14 +220,14 @@ const toeicReadingData = [
           "D": "performative"
         },
         "correct_answer": "B",
-        "explanation_html": "Cần danh từ đứng sau giới từ \"according to\". Đuôi \"-ment/-ance\" là hậu tố của danh từ: \"performance\" (hiệu suất làm việc)."
+        "explanation_html": "Cần <strong>danh từ</strong> đứng sau cụm giới từ <code>according to</code> <em>(theo như / dựa trên)</em>. Hậu tố <code>-ance</code> là dấu hiệu của danh từ <strong class=\"hl-vocab\">performance</strong> <em>(hiệu suất làm việc)</em>."
       },
       {
         "slide_index": 29,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>2.4. Danh từ đứng sau GIỚI TỪ </strong><br><strong>- Dấu hiệu nhận diện: </strong>Chỗ trống đứng sau <strong>GIỚI TỪ </strong>((in, on, at, for, with, after, before, due to, because of…).<br><strong>- Cấu trúc: </strong><strong><span class=\"hl-red\">… preposition + noun </span></strong><br><strong>EXAMPLE 02: </strong><br>The company is responsible for ____ of customer data.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.4. Danh từ đứng sau GIỚI TỪ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau <strong class=\"hl-cyan\">GIỚI TỪ</strong> (<code>in</code>, <code>on</code>, <code>at</code>, <code>for</code>, <code>with</code>, <code>after</code>, <code>before</code>, <code>due to</code>, <code>because of</code>…).</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">… preposition + noun</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 02</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The company is responsible <span class=\"hl-cyan\">for</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-purple\">of</span> customer data.</div>\n</div>",
         "options": {
           "A": "protect",
           "B": "protected",
@@ -235,14 +235,14 @@ const toeicReadingData = [
           "D": "protective"
         },
         "correct_answer": "C",
-        "explanation_html": "Cần danh từ đứng sau giới từ \"for\" và trước cụm \"of customer data\". Đuôi \"-tion\" là danh từ \"protection\" (sự bảo vệ)."
+        "explanation_html": "Cần <strong>danh từ</strong> đứng sau giới từ <code>for</code> và trước giới từ <code>of</code> trong cấu trúc <code>Prep + Noun + of + Noun</code>. Hậu tố <code>-tion</code> là danh từ <strong class=\"hl-vocab\">protection</strong> <em>(sự bảo vệ)</em>."
       },
       {
         "slide_index": 30,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>2.5. Danh từ đứng sau MẠO TỪ</strong><br><strong>- Dấu hiệu nhận diện: </strong>Chỗ trống đứng sau <strong>MẠO TỪ </strong>(a, an, the).<br><strong>- Cấu trúc: </strong><strong><span class=\"hl-red\">… article + noun </span></strong><br><strong>EXAMPLE 01: </strong><br>A ____ will be sent to all staff members by email.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.5. Danh từ đứng sau MẠO TỪ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau <strong class=\"hl-purple\">MẠO TỪ</strong> (<code>a</code>, <code>an</code>, <code>the</code>).</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">… article (a / an / the) + noun</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 01</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\"><span class=\"hl-purple\" style=\"font-weight:700;\">A</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> will be sent to all staff members by email.</div>\n</div>",
         "options": {
           "A": "notify",
           "B": "notification",
@@ -250,14 +250,14 @@ const toeicReadingData = [
           "D": "notified"
         },
         "correct_answer": "B",
-        "explanation_html": "Cần danh từ số ít đếm được đứng sau mạo từ \"A\". Đuôi \"-tion\" là danh từ \"notification\" (thông báo)."
+        "explanation_html": "Cần <strong>danh từ đếm được số ít</strong> đứng sau mạo từ <code>A</code>. Hậu tố <code>-tion</code> là danh từ <strong class=\"hl-vocab\">notification</strong> <em>(thông báo)</em>."
       },
       {
         "slide_index": 31,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>2.5. Danh từ đứng sau MẠO TỪ</strong><br><strong>- Dấu hiệu nhận diện: </strong>Chỗ trống đứng sau <strong>MẠO TỪ </strong>(a, an, the).<br><strong>- Cấu trúc: </strong><strong><span class=\"hl-red\">… article + noun </span></strong><br><strong>EXAMPLE 02: </strong><br>Please review the ____ carefully before signing the contract.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.5. Danh từ đứng sau MẠO TỪ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau <strong class=\"hl-purple\">MẠO TỪ</strong> (<code>a</code>, <code>an</code>, <code>the</code>).</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">… article (a / an / the) + noun</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 02</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">Please review <span class=\"hl-purple\" style=\"font-weight:700;\">the</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> carefully before signing the contract.</div>\n</div>",
         "options": {
           "A": "revise",
           "B": "revising",
@@ -265,14 +265,14 @@ const toeicReadingData = [
           "D": "revised"
         },
         "correct_answer": "C",
-        "explanation_html": "Cần danh từ đứng sau mạo từ \"the\". Đuôi \"-sion\" là danh từ \"revision\" (bản sửa đổi)."
+        "explanation_html": "Cần <strong>danh từ</strong> đứng sau mạo từ xác định <code>the</code>. Hậu tố <code>-sion</code> là danh từ <strong class=\"hl-vocab\">revision</strong> <em>(bản sửa đổi)</em>."
       },
       {
         "slide_index": 32,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>2.6. Danh từ đứng sau TÍNH TỪ SỞ HỮU</strong><br><strong>- Dấu hiệu nhận diện: </strong>Chỗ trống đứng ngay sau <strong>tính từ sở hữu </strong>(my, his, her, its, our, their).<br><strong>- Cấu trúc: </strong><strong><span class=\"hl-red\">… possessive adjective + noun </span></strong><br><strong>EXAMPLE 01: </strong><br>All employees are required to submit their ____ by Friday.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-pink\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.6. Danh từ đứng sau TÍNH TỪ SỞ HỮU</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng ngay sau <strong class=\"txt-pink\">TÍNH TỪ SỞ HỮU</strong> (<code>my</code>, <code>his</code>, <code>her</code>, <code>its</code>, <code>our</code>, <code>your</code>, <code>their</code>).</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">… possessive adjective + noun</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 01</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">All employees are required to submit <span class=\"txt-pink\" style=\"font-weight:700;\">their</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> by Friday.</div>\n</div>",
         "options": {
           "A": "apply",
           "B": "application",
@@ -280,14 +280,14 @@ const toeicReadingData = [
           "D": "applied"
         },
         "correct_answer": "B",
-        "explanation_html": "Cần danh từ đứng sau tính từ sở hữu \"their\". Đuôi \"-tion\" là danh từ \"application\" (đơn xin việc/ứng tuyển)."
+        "explanation_html": "Cần <strong>danh từ</strong> đứng sau tính từ sở hữu <code>their</code>. Hậu tố <code>-tion</code> là danh từ <strong class=\"hl-vocab\">application</strong> <em>(đơn đăng ký / ứng tuyển)</em>."
       },
       {
         "slide_index": 33,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>2.6. Danh từ đứng sau TÍNH TỪ SỞ HỮU</strong><br><strong>- Dấu hiệu nhận diện: </strong>Chỗ trống đứng ngay sau <strong>tính từ sở hữu </strong>(my, his, her, its, our, their).<br><strong>- Cấu trúc: </strong><strong><span class=\"hl-red\">… possessive adjective + noun </span></strong><br><strong>EXAMPLE 02: </strong><br>The supplier confirmed its ____ in writing.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-pink\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.6. Danh từ đứng sau TÍNH TỪ SỞ HỮU</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng ngay sau <strong class=\"txt-pink\">TÍNH TỪ SỞ HỮU</strong> (<code>my</code>, <code>his</code>, <code>her</code>, <code>its</code>, <code>our</code>, <code>your</code>, <code>their</code>).</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">… possessive adjective + noun</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 02</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The supplier confirmed <span class=\"txt-pink\" style=\"font-weight:700;\">its</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> in writing.</div>\n</div>",
         "options": {
           "A": "agree",
           "B": "agreed",
@@ -295,13 +295,13 @@ const toeicReadingData = [
           "D": "agreeing"
         },
         "correct_answer": "C",
-        "explanation_html": "Cần danh từ đứng sau tính từ sở hữu \"its\". Đuôi \"-ment\" là danh từ \"agreement\" (sự đồng ý/thỏa thuận)."
+        "explanation_html": "Cần <strong>danh từ</strong> đứng sau tính từ sở hữu <code>its</code>. Hậu tố <code>-ment</code> là danh từ <strong class=\"hl-vocab\">agreement</strong> <em>(sự đồng ý / thỏa thuận)</em>."
       },
       {
         "slide_index": 34,
         "title": "2.7. Danh từ đứng sau TỪ HẠN ĐỊNH",
         "is_html": true,
-        "html_content": "<strong>- Dấu hiệu nhận diện: </strong>Chỗ trống đứng sau <strong>TỪ HẠN ĐỊNH </strong><br><strong>TỪ CHỈ ĐỊNH</strong> – <strong>this, that, these, those </strong><br><strong>TỪ CHỈ SỐ LƯỢNG </strong>– <strong>all, every, most, many, much, some, few, little, any, no</strong>, …<br><strong>- Cấu trúc: </strong><strong><span class=\"hl-red\">… determine + noun </span></strong>"
+        "html_content": "<div class=\"slide-callout\" style=\"margin-top: 0;\">\n    <div style=\"font-size: 1.08rem;\">\n        <i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan);\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng ngay sau <strong class=\"hl-cyan\">TỪ HẠN ĐỊNH (Determiners)</strong>:\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-cyan);\">\n        <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-hand-point-right\"></i> TỪ CHỈ ĐỊNH (Demonstratives)</span>\n        <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n            <span class=\"pos-tag\">this</span>\n            <span class=\"pos-tag\">that</span>\n            <span class=\"pos-tag tag-purple\">these</span>\n            <span class=\"pos-tag tag-purple\">those</span>\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-purple);\">\n        <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-layer-group\"></i> TỪ CHỈ SỐ LƯỢNG (Quantifiers)</span>\n        <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n            <span class=\"pos-tag tag-purple\">all</span>\n            <span class=\"pos-tag tag-purple\">every</span>\n            <span class=\"pos-tag tag-pink\">most</span>\n            <span class=\"pos-tag\">many</span>\n            <span class=\"pos-tag\">much</span>\n            <span class=\"pos-tag tag-gold\">some</span>\n            <span class=\"pos-tag tag-gold\">several</span>\n            <span class=\"pos-tag\">few / little</span>\n            <span class=\"pos-tag tag-pink\">any / no</span>\n        </div>\n    </div>\n</div>\n<div class=\"slide-callout callout-gold\" style=\"margin-top: 16px;\">\n    <i class=\"fa-solid fa-gears\" style=\"color: var(--color-gold);\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">… determiner + noun</span>\n</div>"
       },
       {
         "slide_index": 35,
@@ -310,7 +310,7 @@ const toeicReadingData = [
         "is_multi": true,
         "questions": [
           {
-            "question_html": "That ____ was mentioned in the previous report.",
+            "question_html": "<span class=\"slide-badge-cyan\" style=\"margin-right: 8px;\">EXAMPLE 01</span> <strong class=\"hl-cyan\">That</strong> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> was mentioned in the previous report.",
             "options": {
               "A": "explain",
               "B": "explained",
@@ -318,10 +318,10 @@ const toeicReadingData = [
               "D": "explaining"
             },
             "correct_answer": "C",
-            "explanation_html": "Cần danh từ số ít làm chủ ngữ đứng trước động từ \"was mentioned\" và sau tính từ chỉ định \"That\"."
+            "explanation_html": "Cần <strong>danh từ đếm được số ít</strong> làm chủ ngữ đứng sau từ chỉ định số ít <code>That</code> và trước động từ số ít <code>was mentioned</code> → chọn <strong class=\"hl-vocab\">explanation</strong>."
           },
           {
-            "question_html": "Several ____ were postponed due to budget constraints.",
+            "question_html": "<span class=\"slide-badge-purple\" style=\"margin-right: 8px;\">EXAMPLE 02</span> <strong class=\"hl-purple\">Several</strong> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> were postponed due to budget constraints.",
             "options": {
               "A": "arrange",
               "B": "arranging",
@@ -329,7 +329,7 @@ const toeicReadingData = [
               "D": "arrangements"
             },
             "correct_answer": "D",
-            "explanation_html": "Cần danh từ số nhiều đứng sau từ hạn định số lượng số nhiều \"Several\"."
+            "explanation_html": "Cần <strong>danh từ đếm được số nhiều</strong> đứng sau lượng từ số nhiều <code>Several</code> và trước động từ <code>were postponed</code> → chọn <strong class=\"hl-vocab\">arrangements</strong>."
           }
         ]
       }
@@ -344,7 +344,7 @@ const toeicReadingData = [
           "D": "proposal"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. proposal</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Vị trí trống đứng sau tính từ chỉ định hoặc mạo từ 'the new' nên cần điền một danh từ. Đuôi '-al' trong 'proposal' là danh từ chỉ bản đề xuất.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">proposal</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ban giám đốc hiện đang xem xét bản đề xuất mới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. proposal</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Vị trí trống đứng sau tính từ chỉ định hoặc mạo từ <code>the new</code> nên cần điền một danh từ. Đuôi <code>-al</code> trong <code>proposal</code> là danh từ chỉ bản đề xuất.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">proposal</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ban giám đốc hiện đang xem xét bản đề xuất mới.</em>"
       },
       {
         "question": "Mr. Kim received ______ from his supervisor regarding the conference.",
@@ -355,7 +355,7 @@ const toeicReadingData = [
           "D": "approvingly"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. approval</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Vị trí trống đứng sau động từ hành động 'received' và làm tân ngữ trực tiếp của câu nên cần điền một danh từ. 'approval' là danh từ chỉ sự phê duyệt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">approval</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Kim đã nhận được sự phê duyệt từ người giám sát của mình liên quan đến hội nghị.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. approval</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Vị trí trống đứng sau động từ hành động <code>received</code> và làm tân ngữ trực tiếp của câu nên cần điền một danh từ. <code>approval</code> là danh từ chỉ sự phê duyệt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">approval</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Kim đã nhận được sự phê duyệt từ người giám sát của mình liên quan đến hội nghị.</em>"
       },
       {
         "question": "The customer service department values client ______ above all else.",
@@ -366,7 +366,7 @@ const toeicReadingData = [
           "D": "satisfied"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. satisfaction</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ 'client' để tạo thành cụm danh từ làm tân ngữ của câu, chỗ trống cần điền một danh từ. 'satisfaction' là danh từ chỉ sự hài lòng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">satisfaction</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận dịch vụ khách hàng coi trọng sự hài lòng của khách hàng hơn tất cả những thứ khác.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. satisfaction</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ <code>client</code> để tạo thành cụm danh từ làm tân ngữ của câu, chỗ trống cần điền một danh từ. <code>satisfaction</code> là danh từ chỉ sự hài lòng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">satisfaction</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận dịch vụ khách hàng coi trọng sự hài lòng của khách hàng hơn tất cả những thứ khác.</em>"
       },
       {
         "question": "We need to hire an experienced ______ to lead the marketing campaign.",
@@ -377,7 +377,7 @@ const toeicReadingData = [
           "D": "specialist"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. specialist</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'an' và tính từ 'experienced' làm bổ ngữ chỉ người nên cần điền danh từ chỉ người ở số ít. 'specialist' là danh từ chỉ chuyên gia.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">specialist</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta cần thuê một chuyên gia có kinh nghiệm để dẫn dắt chiến dịch tiếp thị.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. specialist</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>an</code> và tính từ <code>experienced</code> làm bổ ngữ chỉ người nên cần điền danh từ chỉ người ở số ít. <code>specialist</code> là danh từ chỉ chuyên gia.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">specialist</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta cần thuê một chuyên gia có kinh nghiệm để dẫn dắt chiến dịch tiếp thị.</em>"
       },
       {
         "question": "Please submit your travel expense ______ by the end of the week.",
@@ -388,7 +388,7 @@ const toeicReadingData = [
           "D": "receivable"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. receipts</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm từ 'travel expense' làm tân ngữ cho động từ 'submit' nên cần danh từ. Ở đây ta chọn danh từ số nhiều 'receipts' (các hóa đơn) để chỉ chung các chứng từ cần nộp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">receipts</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng nộp các biên lai chi phí đi lại của bạn trước cuối tuần.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. receipts</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm từ <code>travel expense</code> làm tân ngữ cho động từ <code>submit</code> nên cần danh từ. Ở đây ta chọn danh từ số nhiều <code>receipts</code> (các hóa đơn) để chỉ chung các chứng từ cần nộp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">receipts</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng nộp các biên lai chi phí đi lại của bạn trước cuối tuần.</em>"
       },
       {
         "question": "The company has seen a significant ______ in sales this quarter.",
@@ -399,7 +399,7 @@ const toeicReadingData = [
           "D": "grown"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. growth</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'a' và tính từ 'significant' nên vị trí này cần điền một danh từ. 'growth' là danh từ chỉ sự tăng trưởng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">growth</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đã nhận thấy một sự tăng trưởng đáng kể về doanh số bán hàng trong quý này.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. growth</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> và tính từ <code>significant</code> nên vị trí này cần điền một danh từ. <code>growth</code> là danh từ chỉ sự tăng trưởng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">growth</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đã nhận thấy một sự tăng trưởng đáng kể về doanh số bán hàng trong quý này.</em>"
       },
       {
         "question": "Only candidates with matching ______ will be invited for an interview.",
@@ -410,7 +410,7 @@ const toeicReadingData = [
           "D": "qualified"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. qualifications</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ 'with' và tính từ 'matching' để làm tân ngữ nên cần điền một danh từ. Danh từ số nhiều 'qualifications' (các bằng cấp, phẩm chất) phù hợp ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">qualifications</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chỉ những ứng viên có các bằng cấp phù hợp mới được mời tham dự phỏng vấn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. qualifications</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ <code>with</code> và tính từ <code>matching</code> để làm tân ngữ nên cần điền một danh từ. Danh từ số nhiều <code>qualifications</code> (các bằng cấp, phẩm chất) phù hợp ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">qualifications</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chỉ những ứng viên có các bằng cấp phù hợp mới được mời tham dự phỏng vấn.</em>"
       },
       {
         "question": "We are looking for a suitable ______ to the office space problem.",
@@ -421,7 +421,7 @@ const toeicReadingData = [
           "D": "solvent"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. solution</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'a' và tính từ 'suitable' nên vị trí trống cần điền một danh từ. 'solution' là danh từ chỉ giải pháp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">solution</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đang tìm kiếm một giải pháp thích hợp cho vấn đề không gian văn phòng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. solution</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> và tính từ <code>suitable</code> nên vị trí trống cần điền một danh từ. <code>solution</code> là danh từ chỉ giải pháp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">solution</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đang tìm kiếm một giải pháp thích hợp cho vấn đề không gian văn phòng.</em>"
       },
       {
         "question": "All ______ must wear safety helmets while visiting the construction site.",
@@ -432,7 +432,7 @@ const toeicReadingData = [
           "D": "visitors"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. visitors</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng đầu câu làm chủ ngữ trước động từ chính 'must wear' nên cần điền một danh từ. Danh từ chỉ người ở số nhiều 'visitors' (các khách tham quan) phù hợp với ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">visitors</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả khách tham quan phải đội mũ bảo hiểm bảo hộ khi đến thăm công trường xây dựng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. visitors</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng đầu câu làm chủ ngữ trước động từ chính <code>must wear</code> nên cần điền một danh từ. Danh từ chỉ người ở số nhiều <code>visitors</code> (các khách tham quan) phù hợp với ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">visitors</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả khách tham quan phải đội mũ bảo hiểm bảo hộ khi đến thăm công trường xây dựng.</em>"
       },
       {
         "question": "The new manager has earned the ______ of all her team members.",
@@ -443,7 +443,7 @@ const toeicReadingData = [
           "D": "respected"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. respect</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'the' và trước giới từ 'of' nên vị trí trống cần điền một danh từ. 'respect' là danh từ chỉ sự tôn trọng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">respect</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý mới đã nhận được sự tôn trọng của tất cả các thành viên trong nhóm của cô ấy.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. respect</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>the</code> và trước giới từ <code>of</code> nên vị trí trống cần điền một danh từ. <code>respect</code> là danh từ chỉ sự tôn trọng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">respect</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý mới đã nhận được sự tôn trọng của tất cả các thành viên trong nhóm của cô ấy.</em>"
       },
       {
         "question": "The legal department requested additional ______ to finalize the contract.",
@@ -454,7 +454,7 @@ const toeicReadingData = [
           "D": "documentary"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. documents</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ 'additional' và làm tân ngữ của động từ 'requested' nên cần điền một danh từ. Danh từ số nhiều 'documents' (các tài liệu) phù hợp ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">documents</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận pháp lý đã yêu cầu các tài liệu bổ sung để hoàn tất hợp đồng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. documents</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ <code>additional</code> và làm tân ngữ của động từ <code>requested</code> nên cần điền một danh từ. Danh từ số nhiều <code>documents</code> (các tài liệu) phù hợp ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">documents</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận pháp lý đã yêu cầu các tài liệu bổ sung để hoàn tất hợp đồng.</em>"
       },
       {
         "question": "Dr. Aris is a leading ______ in the field of renewable energy.",
@@ -465,7 +465,7 @@ const toeicReadingData = [
           "D": "authority"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. authority</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'a' và tính từ 'leading' bổ nghĩa cho danh từ chỉ người làm vị ngữ nên cần điền danh từ. 'authority' ở đây mang nghĩa là một chuyên gia/học giả uy tín.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">authority</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tiến sĩ Aris là một chuyên gia hàng đầu trong lĩnh vực năng lượng tái tạo.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. authority</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> và tính từ <code>leading</code> bổ nghĩa cho danh từ chỉ người làm vị ngữ nên cần điền danh từ. <code>authority</code> ở đây mang nghĩa là một chuyên gia/học giả uy tín.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">authority</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tiến sĩ Aris là một chuyên gia hàng đầu trong lĩnh vực năng lượng tái tạo.</em>"
       },
       {
         "question": "Our team has made a major ______ to the international space project.",
@@ -476,7 +476,7 @@ const toeicReadingData = [
           "D": "contributed"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. contribution</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'a' và tính từ 'major' nên chỗ trống cần điền một danh từ số ít. 'contribution' là danh từ chỉ sự đóng góp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">contribution</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm của chúng tôi đã có một sự đóng góp lớn cho dự án vũ trụ quốc tế.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. contribution</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> và tính từ <code>major</code> nên chỗ trống cần điền một danh từ số ít. <code>contribution</code> là danh từ chỉ sự đóng góp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">contribution</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm của chúng tôi đã có một sự đóng góp lớn cho dự án vũ trụ quốc tế.</em>"
       },
       {
         "question": "Before making a decision, we should consider all ______.",
@@ -487,7 +487,7 @@ const toeicReadingData = [
           "D": "alternatives"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. alternatives</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau từ hạn định 'all' nên chỗ trống cần điền một danh từ số nhiều hoặc danh từ không đếm được. 'alternatives' (các lựa chọn thay thế) là danh từ số nhiều phù hợp ngữ nghĩa.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">alternatives</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trước khi đưa ra quyết định, chúng ta nên cân nhắc tất cả các phương án thay thế.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. alternatives</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau từ hạn định <code>all</code> nên chỗ trống cần điền một danh từ số nhiều hoặc danh từ không đếm được. <code>alternatives</code> (các lựa chọn thay thế) là danh từ số nhiều phù hợp ngữ nghĩa.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">alternatives</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trước khi đưa ra quyết định, chúng ta nên cân nhắc tất cả các phương án thay thế.</em>"
       },
       {
         "question": "The ______ of the annual conference will be announced tomorrow.",
@@ -498,7 +498,7 @@ const toeicReadingData = [
           "D": "locally"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. location</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'the' và trước cụm giới từ 'of the annual conference' làm chủ ngữ nên cần điền một danh từ. 'location' là danh từ chỉ địa điểm.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">location</strong>.<br><br><strong>Dịch câu:</strong><br><em>Địa điểm của hội nghị thường niên sẽ được công bố vào ngày mai.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. location</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>the</code> và trước cụm giới từ <code>of the annual conference</code> làm chủ ngữ nên cần điền một danh từ. <code>location</code> là danh từ chỉ địa điểm.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">location</strong>.<br><br><strong>Dịch câu:</strong><br><em>Địa điểm của hội nghị thường niên sẽ được công bố vào ngày mai.</em>"
       },
       {
         "question": "The supervisor expressed her ______ with the project results.",
@@ -509,7 +509,7 @@ const toeicReadingData = [
           "D": "pleased"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. pleasure</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ sở hữu 'her' và làm tân ngữ cho động từ 'expressed' nên cần điền một danh từ. 'pleasure' là danh từ chỉ sự hài lòng, niềm vui thích.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">pleasure</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã bày tỏ sự hài lòng của mình với các kết quả của dự án.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. pleasure</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ sở hữu <code>her</code> và làm tân ngữ cho động từ <code>expressed</code> nên cần điền một danh từ. <code>pleasure</code> là danh từ chỉ sự hài lòng, niềm vui thích.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">pleasure</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã bày tỏ sự hài lòng của mình với các kết quả của dự án.</em>"
       },
       {
         "question": "Please confirm your ______ by replying to this email.",
@@ -520,7 +520,7 @@ const toeicReadingData = [
           "D": "attended"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. attendance</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ sở hữu 'your' nên vị trí trống cần điền một danh từ. Ở đây 'attendance' (sự tham dự) phù hợp ngữ cảnh hơn danh từ chỉ người 'attendant' (người phục vụ).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">attendance</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng xác nhận sự tham dự của bạn bằng cách trả lời email này.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. attendance</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ sở hữu <code>your</code> nên vị trí trống cần điền một danh từ. Ở đây <code>attendance</code> (sự tham dự) phù hợp ngữ cảnh hơn danh từ chỉ người <code>attendant</code> (người phục vụ).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">attendance</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng xác nhận sự tham dự của bạn bằng cách trả lời email này.</em>"
       },
       {
         "question": "The new system was developed to improve office ______.",
@@ -531,7 +531,7 @@ const toeicReadingData = [
           "D": "efficacious"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. efficiency</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ 'office' để làm tân ngữ bổ nghĩa cho động từ 'improve' nên cần điền danh từ. 'efficiency' là danh từ chỉ hiệu suất hoặc hiệu quả làm việc.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">efficiency</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hệ thống mới được phát triển để nâng cao hiệu suất làm việc của văn phòng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. efficiency</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ <code>office</code> để làm tân ngữ bổ nghĩa cho động từ <code>improve</code> nên cần điền danh từ. <code>efficiency</code> là danh từ chỉ hiệu suất hoặc hiệu quả làm việc.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">efficiency</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hệ thống mới được phát triển để nâng cao hiệu suất làm việc của văn phòng.</em>"
       },
       {
         "question": "The sudden ______ of the CEO surprised the entire business community.",
@@ -542,7 +542,7 @@ const toeicReadingData = [
           "D": "retiring"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. retirement</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'the' và tính từ 'sudden' làm chủ ngữ cho câu nên cần điền danh từ. 'retirement' là danh từ chỉ sự nghỉ hưu.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">retirement</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sự nghỉ hưu đột ngột của Giám đốc điều hành đã làm ngạc nhiên toàn bộ cộng đồng doanh nghiệp.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. retirement</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>the</code> và tính từ <code>sudden</code> làm chủ ngữ cho câu nên cần điền danh từ. <code>retirement</code> là danh từ chỉ sự nghỉ hưu.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">retirement</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sự nghỉ hưu đột ngột của Giám đốc điều hành đã làm ngạc nhiên toàn bộ cộng đồng doanh nghiệp.</em>"
       },
       {
         "question": "We must strictly follow safety ______ in the chemical laboratory.",
@@ -553,7 +553,7 @@ const toeicReadingData = [
           "D": "regulatory"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. regulations</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ bổ nghĩa 'safety' làm tân ngữ cho động từ 'follow' nên cần điền danh từ. Danh từ số nhiều 'regulations' (các quy định) phù hợp ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">regulations</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta phải tuân thủ nghiêm ngặt các quy định an toàn trong phòng thí nghiệm hóa chất.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. regulations</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ bổ nghĩa <code>safety</code> làm tân ngữ cho động từ <code>follow</code> nên cần điền danh từ. Danh từ số nhiều <code>regulations</code> (các quy định) phù hợp ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">regulations</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta phải tuân thủ nghiêm ngặt các quy định an toàn trong phòng thí nghiệm hóa chất.</em>"
       }
     ],
     "homework": [
@@ -566,7 +566,7 @@ const toeicReadingData = [
           "D": "agreeably"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. agreement</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'an' làm tân ngữ trực tiếp cho động từ 'reached' nên cần điền danh từ. 'agreement' là danh từ chỉ sự thỏa thuận, đồng ý.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">agreement</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ủy ban đã đạt được một sự thỏa thuận sau ba giờ thảo luận.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. agreement</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>an</code> làm tân ngữ trực tiếp cho động từ <code>reached</code> nên cần điền danh từ. <code>agreement</code> là danh từ chỉ sự thỏa thuận, đồng ý.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">agreement</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ủy ban đã đạt được một sự thỏa thuận sau ba giờ thảo luận.</em>"
       },
       {
         "question": "The company offers competitive ______ to attract top talents.",
@@ -577,7 +577,7 @@ const toeicReadingData = [
           "D": "compensatory"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. compensation</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ 'competitive' làm tân ngữ cho động từ 'offers' nên cần điền một danh từ. 'compensation' là danh từ chỉ khoản bồi thường hoặc chế độ đãi ngộ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">compensation</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đưa ra mức chế độ đãi ngộ cạnh tranh để thu hút những tài năng hàng đầu.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. compensation</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ <code>competitive</code> làm tân ngữ cho động từ <code>offers</code> nên cần điền một danh từ. <code>compensation</code> là danh từ chỉ khoản bồi thường hoặc chế độ đãi ngộ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">compensation</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đưa ra mức chế độ đãi ngộ cạnh tranh để thu hút những tài năng hàng đầu.</em>"
       },
       {
         "question": "______ is required for entry into the high-security facility.",
@@ -588,7 +588,7 @@ const toeicReadingData = [
           "D": "Permitting"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. Permission</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm chủ ngữ cho động từ chính 'is required' nên cần điền danh từ. Ở đây ta chọn danh từ không đếm được 'permission' (sự cho phép/sự đồng ý) phù hợp ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">Permission</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sự cho phép là bắt buộc để đi vào cơ sở an ninh cao.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. Permission</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Làm chủ ngữ cho động từ chính <code>is required</code> nên cần điền danh từ. Ở đây ta chọn danh từ không đếm được <code>permission</code> (sự cho phép/sự đồng ý) phù hợp ngữ cảnh.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">Permission</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sự cho phép là bắt buộc để đi vào cơ sở an ninh cao.</em>"
       },
       {
         "question": "The maintenance department is responsible for building ______.",
@@ -599,7 +599,7 @@ const toeicReadingData = [
           "D": "maintainable"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. maintenance</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ 'building' và sau giới từ 'for' nên chỗ trống cần điền một danh từ để tạo cụm danh từ. 'maintenance' là danh từ chỉ sự bảo trì.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">maintenance</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận bảo trì chịu trách nhiệm về việc bảo trì tòa nhà.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. maintenance</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ <code>building</code> và sau giới từ <code>for</code> nên chỗ trống cần điền một danh từ để tạo cụm danh từ. <code>maintenance</code> là danh từ chỉ sự bảo trì.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">maintenance</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận bảo trì chịu trách nhiệm về việc bảo trì tòa nhà.</em>"
       },
       {
         "question": "We are currently reviewing the ______ for the chief financial officer role.",
@@ -610,7 +610,7 @@ const toeicReadingData = [
           "D": "applicable"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. applicants</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'the' và trước giới từ 'for' nên cần điền danh từ. Ở đây danh từ chỉ người ở số nhiều 'applicants' (các ứng viên) phù hợp về nghĩa.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">applicants</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi hiện đang xem xét các ứng viên cho vai trò giám đốc tài chính.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. applicants</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>the</code> và trước giới từ <code>for</code> nên cần điền danh từ. Ở đây danh từ chỉ người ở số nhiều <code>applicants</code> (các ứng viên) phù hợp về nghĩa.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">applicants</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi hiện đang xem xét các ứng viên cho vai trò giám đốc tài chính.</em>"
       },
       {
         "question": "Our marketing department is collecting customer ______ on the new model.",
@@ -621,7 +621,7 @@ const toeicReadingData = [
           "D": "feedbacker"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. feedback</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ bổ nghĩa 'customer' làm tân ngữ trực tiếp nên cần điền danh từ. 'feedback' là danh từ không đếm được chỉ ý kiến phản hồi.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">feedback</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận tiếp thị của chúng tôi đang thu thập phản hồi của khách hàng về kiểu mẫu mới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. feedback</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ bổ nghĩa <code>customer</code> làm tân ngữ trực tiếp nên cần điền danh từ. <code>feedback</code> là danh từ không đếm được chỉ ý kiến phản hồi.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">feedback</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận tiếp thị của chúng tôi đang thu thập phản hồi của khách hàng về kiểu mẫu mới.</em>"
       },
       {
         "question": "All conference participants must complete the ______ form.",
@@ -632,7 +632,7 @@ const toeicReadingData = [
           "D": "regulatory"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. registration</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'form' để tạo thành cụm danh từ 'registration form' (đơn đăng ký) làm tân ngữ nên cần danh từ đóng vai trò bổ nghĩa.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">registration</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả những người tham gia hội nghị phải điền vào đơn đăng ký.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. registration</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>form</code> để tạo thành cụm danh từ <code>registration form</code> (đơn đăng ký) làm tân ngữ nên cần danh từ đóng vai trò bổ nghĩa.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">registration</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả những người tham gia hội nghị phải điền vào đơn đăng ký.</em>"
       },
       {
         "question": "The supervisor expressed ______ over the project's delay.",
@@ -643,7 +643,7 @@ const toeicReadingData = [
           "D": "concernment"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. concern</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động 'expressed' để làm tân ngữ trực tiếp nên cần điền danh từ. 'concern' là danh từ chỉ sự lo ngại.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">concern</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã bày tỏ sự lo ngại trước sự chậm trễ của dự án.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. concern</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động <code>expressed</code> để làm tân ngữ trực tiếp nên cần điền danh từ. <code>concern</code> là danh từ chỉ sự lo ngại.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">concern</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã bày tỏ sự lo ngại trước sự chậm trễ của dự án.</em>"
       },
       {
         "question": "The factory must check its ______ capacity to meet the high demand.",
@@ -654,7 +654,7 @@ const toeicReadingData = [
           "D": "productive"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. production</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'capacity' để tạo thành cụm danh từ 'production capacity' (năng lực sản xuất) làm tân ngữ nên cần danh từ đóng vai trò bổ nghĩa.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">production</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhà máy phải kiểm tra năng lực sản xuất của mình để đáp ứng nhu cầu cao.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. production</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>capacity</code> để tạo thành cụm danh từ <code>production capacity</code> (năng lực sản xuất) làm tân ngữ nên cần danh từ đóng vai trò bổ nghĩa.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">production</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhà máy phải kiểm tra năng lực sản xuất của mình để đáp ứng nhu cầu cao.</em>"
       },
       {
         "question": "The sudden ______ of the schedule caused confusion among the staff.",
@@ -665,7 +665,7 @@ const toeicReadingData = [
           "D": "alterable"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. alteration</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'the' và tính từ 'sudden' làm chủ ngữ chính của câu nên cần điền một danh từ. 'alteration' là danh từ chỉ sự thay đổi.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">alteration</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sự thay đổi đột ngột của lịch trình đã gây ra sự nhầm lẫn trong nhân viên.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. alteration</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>the</code> và tính từ <code>sudden</code> làm chủ ngữ chính của câu nên cần điền một danh từ. <code>alteration</code> là danh từ chỉ sự thay đổi.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">alteration</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sự thay đổi đột ngột của lịch trình đã gây ra sự nhầm lẫn trong nhân viên.</em>"
       },
       {
         "question": "We are proud of our ______ with local business partners.",
@@ -676,7 +676,7 @@ const toeicReadingData = [
           "D": "associative"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. association</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ sở hữu 'our' và giới từ 'of' nên chỗ trống cần điền một danh từ. 'association' là danh từ chỉ sự liên kết hoặc mối quan hệ hợp tác.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">association</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi tự hào về mối quan hệ hợp tác của chúng tôi với các đối tác kinh doanh địa phương.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. association</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ sở hữu <code>our</code> và giới từ <code>of</code> nên chỗ trống cần điền một danh từ. <code>association</code> là danh từ chỉ sự liên kết hoặc mối quan hệ hợp tác.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">association</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi tự hào về mối quan hệ hợp tác của chúng tôi với các đối tác kinh doanh địa phương.</em>"
       },
       {
         "question": "The marketing team is looking for a creative ______ to design the logo.",
@@ -687,7 +687,7 @@ const toeicReadingData = [
           "D": "professionalism"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. professional</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'a' và tính từ 'creative' bổ nghĩa cho người nên cần điền một danh từ chỉ người. 'professional' là một danh từ đặc biệt chỉ chuyên gia/người chuyên nghiệp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">professional</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm tiếp thị đang tìm kiếm một chuyên gia sáng tạo để thiết kế logo.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. professional</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> và tính từ <code>creative</code> bổ nghĩa cho người nên cần điền một danh từ chỉ người. <code>professional</code> là một danh từ đặc biệt chỉ chuyên gia/người chuyên nghiệp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">professional</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm tiếp thị đang tìm kiếm một chuyên gia sáng tạo để thiết kế logo.</em>"
       },
       {
         "question": "Due to budget limitations, we must place a ______ on travel expenses.",
@@ -698,7 +698,7 @@ const toeicReadingData = [
           "D": "limited"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. limitation</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'a' và trước giới từ 'on' nên vị trí trống cần điền một danh từ số ít. 'limitation' là danh từ chỉ sự giới hạn.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">limitation</strong>.<br><br><strong>Dịch câu:</strong><br><em>Do giới hạn ngân sách, chúng ta phải đặt một sự giới hạn đối với chi phí đi lại.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. limitation</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> và trước giới từ <code>on</code> nên vị trí trống cần điền một danh từ số ít. <code>limitation</code> là danh từ chỉ sự giới hạn.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">limitation</strong>.<br><br><strong>Dịch câu:</strong><br><em>Do giới hạn ngân sách, chúng ta phải đặt một sự giới hạn đối với chi phí đi lại.</em>"
       },
       {
         "question": "The customer service agent handled the complaint with great ______.",
@@ -709,7 +709,7 @@ const toeicReadingData = [
           "D": "professionally"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. professionalism</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ 'with' và tính từ 'great' làm tân ngữ nên chỗ trống cần điền một danh từ. 'professionalism' là danh từ chỉ sự chuyên nghiệp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">professionalism</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên dịch vụ khách hàng đã xử lý khiếu nại với sự chuyên nghiệp tuyệt vời.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. professionalism</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ <code>with</code> và tính từ <code>great</code> làm tân ngữ nên chỗ trống cần điền một danh từ. <code>professionalism</code> là danh từ chỉ sự chuyên nghiệp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">professionalism</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên dịch vụ khách hàng đã xử lý khiếu nại với sự chuyên nghiệp tuyệt vời.</em>"
       },
       {
         "question": "The company announcement confirmed the ______ of the new policy.",
@@ -720,7 +720,7 @@ const toeicReadingData = [
           "D": "implementor"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. implementation</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'the' và trước giới từ 'of' nên vị trí trống cần điền danh từ chỉ sự vật. 'implementation' là danh từ chỉ sự thực thi/áp dụng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">implementation</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thông báo của công ty đã xác nhận việc thực thi chính sách mới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. implementation</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>the</code> và trước giới từ <code>of</code> nên vị trí trống cần điền danh từ chỉ sự vật. <code>implementation</code> là danh từ chỉ sự thực thi/áp dụng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">implementation</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thông báo của công ty đã xác nhận việc thực thi chính sách mới.</em>"
       },
       {
         "question": "All employees must sign the confidentiality ______ before starting.",
@@ -731,7 +731,7 @@ const toeicReadingData = [
           "D": "agreeably"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. agreement</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ 'confidentiality' để tạo thành cụm danh từ 'confidentiality agreement' (thỏa thuận bảo mật) làm tân ngữ nên cần điền danh từ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">agreement</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả nhân viên phải ký thỏa thuận bảo mật trước khi bắt đầu làm việc.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. agreement</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ <code>confidentiality</code> để tạo thành cụm danh từ <code>confidentiality agreement</code> (thỏa thuận bảo mật) làm tân ngữ nên cần điền danh từ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">agreement</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả nhân viên phải ký thỏa thuận bảo mật trước khi bắt đầu làm việc.</em>"
       },
       {
         "question": "We are proud of the ______ of our research team.",
@@ -742,7 +742,7 @@ const toeicReadingData = [
           "D": "achievements"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. achievements</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'the' và trước giới từ 'of' làm tân ngữ nên cần điền danh từ. Danh từ số nhiều 'achievements' (các thành tựu) phù hợp về nghĩa.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">achievements</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi tự hào về những thành tựu của đội ngũ nghiên cứu của chúng tôi.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. achievements</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>the</code> và trước giới từ <code>of</code> làm tân ngữ nên cần điền danh từ. Danh từ số nhiều <code>achievements</code> (các thành tựu) phù hợp về nghĩa.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">achievements</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi tự hào về những thành tựu của đội ngũ nghiên cứu của chúng tôi.</em>"
       },
       {
         "question": "The board expressed deep ______ with the quarterly sales results.",
@@ -753,7 +753,7 @@ const toeicReadingData = [
           "D": "disappointment"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. disappointment</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ 'deep' làm tân ngữ cho động từ 'expressed' nên vị trí trống cần điền danh từ. 'disappointment' là danh từ chỉ sự thất vọng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">disappointment</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ban giám đốc đã bày tỏ sự thất vọng sâu sắc đối với các kết quả doanh số hàng quý.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. disappointment</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tính từ <code>deep</code> làm tân ngữ cho động từ <code>expressed</code> nên vị trí trống cần điền danh từ. <code>disappointment</code> là danh từ chỉ sự thất vọng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">disappointment</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ban giám đốc đã bày tỏ sự thất vọng sâu sắc đối với các kết quả doanh số hàng quý.</em>"
       },
       {
         "question": "The marketing director requested a detailed ______ of the survey results.",
@@ -764,7 +764,7 @@ const toeicReadingData = [
           "D": "analytical"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. analysis</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'a' và tính từ 'detailed' nên vị trí này cần điền một danh từ chỉ vật. 'analysis' là danh từ chỉ sự phân tích.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">analysis</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã yêu cầu một sự phân tích chi tiết về các kết quả khảo sát.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. analysis</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>a</code> và tính từ <code>detailed</code> nên vị trí này cần điền một danh từ chỉ vật. <code>analysis</code> là danh từ chỉ sự phân tích.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">analysis</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã yêu cầu một sự phân tích chi tiết về các kết quả khảo sát.</em>"
       },
       {
         "question": "Please check the ______ of the printer before printing the document.",
@@ -775,7 +775,7 @@ const toeicReadingData = [
           "D": "connectedly"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. connection</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ 'the' và trước giới từ 'of' nên vị trí trống cần điền một danh từ. 'connection' là danh từ chỉ kết nối/đường truyền.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">connection</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng kiểm tra kết nối của máy in trước khi in tài liệu.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. connection</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau mạo từ <code>the</code> và trước giới từ <code>of</code> nên vị trí trống cần điền một danh từ. <code>connection</code> là danh từ chỉ kết nối/đường truyền.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">connection</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng kiểm tra kết nối của máy in trước khi in tài liệu.</em>"
       }
     ]
   },
@@ -785,28 +785,28 @@ const toeicReadingData = [
     "slides": [
       {
         "slide_index": 36,
-        "title": "PHẦN 02:",
+        "title": "PHẦN 02: ĐỘNG TỪ (VERBS)",
         "is_html": true,
-        "html_content": "<div style=\"text-align: center; margin-top: 30px; padding: 10px;\"><h2 class=\"hl-vocab\" style=\"font-size: 2rem; font-family: var(--font-heading); margin-bottom: 16px;\">ĐỘNG TỪ (VERBS)</h2><p style=\"font-size: 1.1rem; color: var(--text-secondary); max-width: 550px; margin: 0 auto; line-height: 1.6;\">Tìm hiểu về các thì trong tiếng Anh, cách chia động từ theo chủ ngữ, phân biệt động từ chính, động từ khuyết thiếu và các dạng chia thì thường gặp trong phần thi TOEIC Reading.</p></div>"
+        "html_content": "<div style=\"text-align: center; margin-top: 15px; padding: 24px 16px;\">\n    <div style=\"width: 68px; height: 68px; border-radius: 20px; background: linear-gradient(135deg, rgba(168, 85, 247, 0.2), rgba(236, 72, 153, 0.2)); border: 1px solid rgba(168, 85, 247, 0.4); display: inline-flex; align-items: center; justify-content: center; font-size: 2rem; color: var(--color-purple); margin-bottom: 18px; box-shadow: 0 8px 25px rgba(168, 85, 247, 0.22);\">\n        <i class=\"fa-solid fa-bolt\"></i>\n    </div>\n    <h2 class=\"hl-vocab\" style=\"font-size: 2.2rem; font-family: var(--font-heading); margin-bottom: 14px; letter-spacing: 0.02em;\">ĐỘNG TỪ (VERBS)</h2>\n    <p style=\"font-size: 1.12rem; color: var(--text-secondary); max-width: 620px; margin: 0 auto 24px auto; line-height: 1.75; text-align: center !important;\">Tìm hiểu về các thì trong tiếng Anh, cách chia động từ theo chủ ngữ, phân biệt động từ chính, động từ khuyết thiếu và các dạng chia thì thường gặp trong phần thi TOEIC Reading.</p>\n    <div style=\"display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;\">\n        <span class=\"pos-tag\"><i class=\"fa-solid fa-location-crosshairs\"></i> 6 Vị trí nhận diện động từ</span>\n        <span class=\"pos-tag tag-purple\"><i class=\"fa-solid fa-clock\"></i> Hệ thống các Thì trọng tâm</span>\n        <span class=\"pos-tag tag-gold\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i> Chiến thuật nhìn cấu trúc chọn ngay</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 37,
         "title": "I. KHÁI NIỆM",
         "is_html": true,
-        "html_content": "Động từ là từ diễn tả hành động, trạng thái hoặc sự tồn tại. Trong <strong>TOEIC READING PART 05</strong>, động từ <strong>không được kiểm tra theo nghĩa từ vựng đơn thuần</strong>, mà chủ yếu được kiểm tra qua:<br><span class=\"hl-red\">– </span><strong><span class=\"hl-red\">VỊ TRÍ </span></strong><span class=\"hl-red\">trong câu</span><br><span class=\"hl-red\">– </span><strong><span class=\"hl-red\">HÌNH THỨC </span></strong><span class=\"hl-red\">động từ (thì, thể, số, dạng)</span><br><span class=\"hl-red\">– </span><strong><span class=\"hl-red\">SỰ PHỐI HỢP </span></strong><span class=\"hl-red\">với chủ ngữ và cấu trúc ngữ pháp xung quanh</span><br>Thí sinh làm đúng câu động từ thường <strong>không cần dịch toàn câu</strong>, chỉ cần xác định đúng cấu trúc."
+        "html_content": "<div class=\"slide-callout\">\n    <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-book-open\"></i> Định nghĩa</span>\n    <div style=\"font-size: 1.1rem; margin-top: 4px;\">\n        <strong class=\"hl-cyan\">Động từ (Verbs)</strong> là từ diễn tả <strong class=\"hl-yellow\">hành động</strong>, <strong class=\"hl-purple\">trạng thái</strong> hoặc <strong class=\"hl-green\">sự tồn tại</strong>. Trong <strong class=\"hl-cyan\">TOEIC READING PART 05</strong>, động từ <strong class=\"hl-red\">không được kiểm tra theo nghĩa từ vựng đơn thuần</strong>, mà chủ yếu được kiểm tra qua <strong>3 yếu tố cốt lõi</strong>:\n    </div>\n</div>\n<div class=\"slide-grid-3\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-cyan);\">\n        <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-location-dot\"></i> 1. VỊ TRÍ</span>\n        <div style=\"font-size: 0.98rem; font-weight: 600; margin-top: 4px;\"><strong class=\"hl-cyan\">VỊ TRÍ</strong> đứng của động từ trong câu</div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-purple);\">\n        <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-sliders\"></i> 2. HÌNH THỨC</span>\n        <div style=\"font-size: 0.98rem; font-weight: 600; margin-top: 4px;\"><strong class=\"hl-purple\">HÌNH THỨC</strong> động từ <em>(thì, thể, số, dạng)</em></div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-pink);\">\n        <span class=\"slide-badge-pink\"><i class=\"fa-solid fa-link\"></i> 3. SỰ PHỐI HỢP</span>\n        <div style=\"font-size: 0.98rem; font-weight: 600; margin-top: 4px;\"><strong class=\"txt-pink\">SỰ PHỐI HỢP</strong> với chủ ngữ & cấu trúc xung quanh</div>\n    </div>\n</div>\n<div class=\"slide-callout callout-green\" style=\"margin-top: 14px;\">\n    <i class=\"fa-solid fa-wand-magic-sparkles\" style=\"color: var(--color-gold);\"></i> <strong>Chiến thuật:</strong> Thí sinh làm đúng câu động từ thường <strong class=\"hl-green\">không cần dịch toàn câu</strong>, chỉ cần <span class=\"hl-box\">xác định đúng cấu trúc</span>.\n</div>"
       },
       {
         "slide_index": 38,
-        "title": "II. NHẬN DẠNG",
+        "title": "II. NHẬN DẠNG ĐỘNG TỪ",
         "is_html": true,
-        "html_content": "<strong>1. Nhận dạng động từ thông qua VỊ TRÍ TRONG CÂU</strong><br><strong><span class=\"hl-blue\">1.1. Động từ chính trong câu</span></strong><br>Dấu hiệu nhận diện:<br>Chỗ trống đứng <strong>sau chủ ngữ</strong><br>Câu <strong>chưa có động từ chính</strong><br><span class=\"hl-red\">→ Cấu trúc nền tảng: </span><strong><span class=\"hl-red\">S + ____ + O. </span></strong>"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 1. Nhận dạng động từ thông qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout\" style=\"margin-top: 8px;\">\n    <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-star\"></i> 1.1. Động từ chính trong câu (Main Verb)</span>\n    <div style=\"margin-top: 10px; font-weight: 700; color: var(--color-cyan);\"><i class=\"fa-solid fa-magnifying-glass\"></i> Dấu hiệu nhận diện:</div>\n    <div class=\"slide-grid-2\" style=\"margin-top: 8px;\">\n        <div class=\"slide-card-premium\" style=\"padding: 12px 16px;\">\n            <i class=\"fa-solid fa-circle-check\" style=\"color: var(--color-cyan);\"></i> Chỗ trống đứng ngay <strong class=\"hl-cyan\">sau chủ ngữ (S)</strong>\n        </div>\n        <div class=\"slide-card-premium\" style=\"padding: 12px 16px;\">\n            <i class=\"fa-solid fa-circle-check\" style=\"color: var(--color-purple);\"></i> Câu <strong class=\"hl-yellow\">chưa có động từ chính</strong> được chia thì\n        </div>\n    </div>\n    <div style=\"margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--border-color);\">\n        <i class=\"fa-solid fa-gears\" style=\"color: var(--color-gold);\"></i> <strong>Cấu trúc nền tảng:</strong> <span class=\"hl-box\">S + ____ (V chính) + O</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 39,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The company ____ a new marketing strategy last quarter.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 1.1. Động từ chính trong câu</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau chủ ngữ <code>The company</code>, câu chưa có động từ chính.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S + V (chia thì) + O</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\"><span class=\"hl-cyan\">The company</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> a new marketing strategy <span class=\"hl-yellow\">last quarter</span>.</div>\n</div>",
         "options": {
           "A": "development",
           "B": "developed",
@@ -814,20 +814,20 @@ const toeicReadingData = [
           "D": "developmentally"
         },
         "correct_answer": "B",
-        "explanation_html": "Cấu trúc câu thiếu động từ chính (V-main) cho chủ ngữ \"The company\". Cụm trạng từ thời gian quá khứ \"last quarter\" yêu cầu chia thì Quá khứ đơn: V-ed -> \"developed\"."
+        "explanation_html": "Cấu trúc câu đang thiếu <strong>động từ chính (V-main)</strong> cho chủ ngữ <code>The company</code>. Cụm trạng từ thời gian quá khứ <code>last quarter</code> <em>(quý trước)</em> yêu cầu chia thì <strong>Quá khứ đơn (V₂/ed)</strong> → chọn <strong class=\"hl-vocab\">developed</strong>."
       },
       {
         "slide_index": 40,
-        "title": "II. NHẬN DẠNG",
+        "title": "II. NHẬN DẠNG ĐỘNG TỪ",
         "is_html": true,
-        "html_content": "<strong>1. Nhận dạng động từ thông qua VỊ TRÍ TRONG CÂU</strong><br><strong><span class=\"hl-blue\">1.2. Động từ sau trạng từ tần suất / trạng từ chỉ thời gian</span></strong><br>Dấu hiệu nhận diện:<br><span class=\"hl-red\">→ Chỗ trống đứng sau </span><strong><span class=\"hl-red\">always</span></strong><span class=\"hl-red\">, </span><strong><span class=\"hl-red\">usually</span></strong><span class=\"hl-red\">, </span><strong><span class=\"hl-red\">often</span></strong><span class=\"hl-red\">, </span><strong><span class=\"hl-red\">recently</span></strong><span class=\"hl-red\">, </span><strong><span class=\"hl-red\">currently</span></strong><span class=\"hl-red\">…</span>"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 1. Nhận dạng động từ thông qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout callout-purple\" style=\"margin-top: 8px;\">\n    <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-clock-rotate-left\"></i> 1.2. Động từ sau trạng từ tần suất / trạng từ chỉ thời gian</span>\n    <div style=\"margin-top: 10px; font-weight: 700; color: var(--color-purple);\"><i class=\"fa-solid fa-magnifying-glass\"></i> Dấu hiệu nhận diện:</div>\n    <div style=\"margin-top: 6px;\">Chỗ trống đứng ngay sau các trạng từ chỉ tần suất hoặc thời gian phổ biến:</div>\n    <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n        <span class=\"pos-tag\">always</span>\n        <span class=\"pos-tag\">usually</span>\n        <span class=\"pos-tag\">often</span>\n        <span class=\"pos-tag tag-purple\">frequently</span>\n        <span class=\"pos-tag tag-gold\">recently</span>\n        <span class=\"pos-tag tag-pink\">currently</span>\n    </div>\n    <div style=\"margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--border-color);\">\n        <i class=\"fa-solid fa-gears\" style=\"color: var(--color-gold);\"></i> <strong>Cấu trúc nền tảng:</strong> <span class=\"hl-box\">S + Adv (tần suất / thời gian) + ____ (V chính) + O</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 41,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The finance department usually ____ monthly expense reports.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 1.2. Động từ sau trạng từ tần suất</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau chủ ngữ <code>The finance department</code> và trạng từ tần suất <code>usually</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S + always / usually / often + V (chia thì)</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\"><span class=\"hl-cyan\">The finance department</span> <span class=\"hl-purple\" style=\"font-weight:700;\">usually</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> monthly expense reports.</div>\n</div>",
         "options": {
           "A": "prepare",
           "B": "prepares",
@@ -835,20 +835,20 @@ const toeicReadingData = [
           "D": "preparation"
         },
         "correct_answer": "B",
-        "explanation_html": "Trạng từ chỉ tần suất \"usually\" chỉ thì Hiện tại đơn. Chủ ngữ \"The finance department\" là danh từ số ít (số ít/không đếm được), do đó động từ chia thêm \"-s/-es\" -> \"prepares\"."
+        "explanation_html": "Trạng từ tần suất <code>usually</code> là dấu hiệu của thì <strong>Hiện tại đơn</strong>. Chủ ngữ <code>The finance department</code> là danh từ số ít, do đó động từ phải chia thêm <code>-s/-es</code> → chọn <strong class=\"hl-vocab\">prepares</strong>."
       },
       {
         "slide_index": 42,
-        "title": "II. NHẬN DẠNG",
+        "title": "II. NHẬN DẠNG ĐỘNG TỪ",
         "is_html": true,
-        "html_content": "<strong>1. Nhận dạng động từ thông qua VỊ TRÍ TRONG CÂU</strong><br><strong><span class=\"hl-blue\">1.3. Động từ sau trợ động từ</span></strong><br>Dấu hiệu nhận diện:<br>→ Chỗ trống <strong>đứng sau trợ động từ</strong>: do / does / did / will / can / must / should / may…<br><span class=\"hl-red\">→ Cấu trúc nền tảng: </span><strong><span class=\"hl-red\">trợ động từ + V</span></strong><strong><span class=\"hl-red\">0</span></strong>"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 1. Nhận dạng động từ thông qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout\" style=\"margin-top: 8px;\">\n    <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-rocket\"></i> 1.3. Động từ sau trợ động từ / động từ khuyết thiếu</span>\n    <div style=\"margin-top: 10px; font-weight: 700; color: var(--color-cyan);\"><i class=\"fa-solid fa-magnifying-glass\"></i> Dấu hiệu nhận diện:</div>\n    <div style=\"margin-top: 6px;\">Chỗ trống đứng sau các <strong>trợ động từ</strong> hoặc <strong>động từ khuyết thiếu (Modal Verbs)</strong>:</div>\n    <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n        <span class=\"pos-tag\">do / does / did</span>\n        <span class=\"pos-tag tag-purple\">will / would</span>\n        <span class=\"pos-tag tag-gold\">can / could</span>\n        <span class=\"pos-tag tag-pink\">must / have to</span>\n        <span class=\"pos-tag\">should / ought to</span>\n        <span class=\"pos-tag tag-purple\">may / might</span>\n    </div>\n    <div style=\"margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--border-color);\">\n        <i class=\"fa-solid fa-gears\" style=\"color: var(--color-gold);\"></i> <strong>Cấu trúc nền tảng:</strong> <span class=\"hl-box\">Trợ động từ / Modal Verb + V₀ (nguyên mẫu)</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 43,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The manager can ____ the final decision.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 1.3. Động từ sau trợ động từ / Modal verb</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng ngay sau động từ khuyết thiếu <code>can</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">Modal verb (can / will / must / should…) + V₀</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The manager <span class=\"hl-cyan\" style=\"font-weight:700;\">can</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> the final decision.</div>\n</div>",
         "options": {
           "A": "makes",
           "B": "made",
@@ -856,20 +856,20 @@ const toeicReadingData = [
           "D": "making"
         },
         "correct_answer": "C",
-        "explanation_html": "Động từ đứng sau động từ khuyết thiếu (Modal verb) \"can\" phải ở dạng nguyên mẫu không \"to\" (V-bare) -> \"make\"."
+        "explanation_html": "Động từ đứng ngay sau động từ khuyết thiếu (Modal verb) <code>can</code> bắt buộc phải ở dạng <strong>nguyên mẫu không to (V₀)</strong> → chọn <strong class=\"hl-vocab\">make</strong>."
       },
       {
         "slide_index": 44,
-        "title": "II. NHẬN DẠNG",
+        "title": "II. NHẬN DẠNG ĐỘNG TỪ",
         "is_html": true,
-        "html_content": "<strong>1. Nhận dạng động từ thông qua VỊ TRÍ TRONG CÂU</strong><br><strong><span class=\"hl-blue\">1.4. Động từ trong cấu trúc bị động </span></strong><br>Dấu hiệu nhận diện:<br>→ Có <strong>tobe</strong> (am / is / are / was / were / been / being)<br><span class=\"hl-red\">→ Cấu trúc nền tảng: </span><strong><span class=\"hl-red\">tobe + V</span></strong><strong><span class=\"hl-red\">3</span></strong><strong><span class=\"hl-red\">ed</span></strong>"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 1. Nhận dạng động từ thông qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout callout-gold\" style=\"margin-top: 8px;\">\n    <span class=\"slide-badge-pink\"><i class=\"fa-solid fa-shield-halved\"></i> 1.4. Động từ trong cấu trúc bị động (Passive Voice)</span>\n    <div style=\"margin-top: 10px; font-weight: 700; color: var(--color-gold);\"><i class=\"fa-solid fa-magnifying-glass\"></i> Dấu hiệu nhận diện:</div>\n    <div style=\"margin-top: 6px;\">Phía trước chỗ trống có động từ <strong>tobe</strong> và chủ ngữ nhận tác động của hành động:</div>\n    <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n        <span class=\"pos-tag\">am / is / are</span>\n        <span class=\"pos-tag tag-purple\">was / were</span>\n        <span class=\"pos-tag tag-gold\">be / been</span>\n        <span class=\"pos-tag tag-pink\">being</span>\n    </div>\n    <div style=\"margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--border-color);\">\n        <i class=\"fa-solid fa-gears\" style=\"color: var(--color-gold);\"></i> <strong>Cấu trúc nền tảng:</strong> <span class=\"hl-box\">tobe + V₃/ed</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 45,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The documents are ____ before submission.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-pink\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 1.4. Động từ trong cấu trúc bị động</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau động từ tobe <code>are</code> và trước cụm giới từ <code>before submission</code> (không có tân ngữ).</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">tobe + V₃/ed</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The documents <span class=\"txt-pink\" style=\"font-weight:700;\">are</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-purple\">before submission</span>.</div>\n</div>",
         "options": {
           "A": "makes",
           "B": "made",
@@ -877,20 +877,20 @@ const toeicReadingData = [
           "D": "making"
         },
         "correct_answer": "B",
-        "explanation_html": "Cấu trúc câu bị động (Passive voice): to be + V3/ed. Ở đây \"are\" đi kèm động từ phân từ 2 (V-ed/V3) -> \"made\" (được lập/tạo ra)."
+        "explanation_html": "Cấu trúc câu bị động (Passive Voice): <code>tobe + V₃/ed</code>. Ở đây <code>are</code> đi kèm quá khứ phân từ (V₃/ed) → chọn <strong class=\"hl-vocab\">made</strong>."
       },
       {
         "slide_index": 46,
-        "title": "II. NHẬN DẠNG",
+        "title": "II. NHẬN DẠNG ĐỘNG TỪ",
         "is_html": true,
-        "html_content": "<strong>1. Nhận dạng động từ thông qua VỊ TRÍ TRONG CÂU</strong><br><strong><span class=\"hl-blue\">1.5. Động từ sau “to”</span></strong><br>Dấu hiệu nhận diện:<br>→ Khi “to” đứng sau các động từ want, need, decide, plan, agree, hope, expect, refuse to, …<br><span class=\"hl-red\">→ Cấu trúc nền tảng: </span><strong><span class=\"hl-red\">một số động từ + to + V</span></strong><strong><span class=\"hl-red\">0</span></strong>"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 1. Nhận dạng động từ thông qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout callout-purple\" style=\"margin-top: 8px;\">\n    <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-arrow-right-to-bracket\"></i> 1.5. Động từ nguyên mẫu sau “to” (To-infinitive)</span>\n    <div style=\"margin-top: 10px; font-weight: 700; color: var(--color-purple);\"><i class=\"fa-solid fa-magnifying-glass\"></i> Dấu hiệu nhận diện:</div>\n    <div style=\"margin-top: 6px;\">Khi <code>to</code> đứng sau các động từ chỉ mong muốn, dự định, quyết định:</div>\n    <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n        <span class=\"pos-tag\">want to</span>\n        <span class=\"pos-tag\">need to</span>\n        <span class=\"pos-tag tag-purple\">decide to</span>\n        <span class=\"pos-tag tag-purple\">plan to</span>\n        <span class=\"pos-tag tag-gold\">agree to</span>\n        <span class=\"pos-tag tag-gold\">hope to</span>\n        <span class=\"pos-tag tag-pink\">expect to</span>\n        <span class=\"pos-tag tag-pink\">refuse to</span>\n    </div>\n    <div style=\"margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--border-color);\">\n        <i class=\"fa-solid fa-gears\" style=\"color: var(--color-gold);\"></i> <strong>Cấu trúc nền tảng:</strong> <span class=\"hl-box\">một số động từ + to + V₀</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 47,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The company decided to ____ the new policy.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 1.5. Động từ nguyên mẫu sau “to”</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng ngay sau cụm <code>decided to</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">V + to + V₀ (nguyên mẫu)</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The company <span class=\"hl-purple\" style=\"font-weight:700;\">decided to</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> the new policy.</div>\n</div>",
         "options": {
           "A": "implements",
           "B": "implementing",
@@ -898,20 +898,20 @@ const toeicReadingData = [
           "D": "implemented"
         },
         "correct_answer": "C",
-        "explanation_html": "Cấu trúc: decide + to-V (quyết định làm gì). Do đó cần chọn động từ nguyên mẫu có \"to\" -> \"implement\"."
+        "explanation_html": "Cấu trúc: <code>decide + to V₀</code> <em>(quyết định làm gì)</em>. Do đó sau <code>to</code> cần chọn động từ nguyên mẫu → chọn <strong class=\"hl-vocab\">implement</strong>."
       },
       {
         "slide_index": 48,
-        "title": "II. NHẬN DẠNG",
+        "title": "II. NHẬN DẠNG ĐỘNG TỪ",
         "is_html": true,
-        "html_content": "<strong>1. Nhận dạng động từ thông qua VỊ TRÍ TRONG CÂU</strong><br><strong><span class=\"hl-blue\">1.6. Động từ sau giới từ </span></strong><br>Dấu hiệu nhận diện:<br>→ Chỗ trống đứng sau giới từ: <strong>in</strong>, <strong>on</strong>, <strong>at</strong>, <strong>for</strong>, <strong>with</strong>, <strong>after</strong>, <strong>before</strong>, <strong>by</strong>…<br><span class=\"hl-red\">→ Cấu trúc nền tảng: </span><strong><span class=\"hl-red\">giới từ + V</span></strong><strong><span class=\"hl-red\">ing</span></strong>"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 1. Nhận dạng động từ thông qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout\" style=\"margin-top: 8px;\">\n    <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-link\"></i> 1.6. Động từ đứng sau giới từ (Preposition + V-ing)</span>\n    <div style=\"margin-top: 10px; font-weight: 700; color: var(--color-cyan);\"><i class=\"fa-solid fa-magnifying-glass\"></i> Dấu hiệu nhận diện:</div>\n    <div style=\"margin-top: 6px;\">Chỗ trống đứng ngay sau giới từ và phía sau vẫn còn <strong>tân ngữ (danh từ)</strong>:</div>\n    <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n        <span class=\"pos-tag\">in</span>\n        <span class=\"pos-tag\">on</span>\n        <span class=\"pos-tag\">at</span>\n        <span class=\"pos-tag tag-purple\">for</span>\n        <span class=\"pos-tag tag-purple\">with</span>\n        <span class=\"pos-tag tag-gold\">after</span>\n        <span class=\"pos-tag tag-gold\">before</span>\n        <span class=\"pos-tag tag-pink\">by / without</span>\n    </div>\n    <div style=\"margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--border-color);\">\n        <i class=\"fa-solid fa-gears\" style=\"color: var(--color-gold);\"></i> <strong>Cấu trúc nền tảng:</strong> <span class=\"hl-box\">giới từ + V-ing (+ tân ngữ)</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 49,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>She is responsible for ____ the schedule.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 1.6. Động từ đứng sau giới từ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau giới từ <code>for</code> và phía sau có cụm danh từ làm tân ngữ <code>the schedule</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">giới từ + V-ing + tân ngữ</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">She is responsible <span class=\"hl-cyan\" style=\"font-weight:700;\">for</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-yellow\">the schedule</span>.</div>\n</div>",
         "options": {
           "A": "prepare",
           "B": "prepared",
@@ -919,20 +919,20 @@ const toeicReadingData = [
           "D": "preparation"
         },
         "correct_answer": "C",
-        "explanation_html": "Đứng sau giới từ \"for\" phải là danh động từ (V-ing) hoặc danh từ. Vì phía sau có tân ngữ \"the schedule\" nên ta chọn V-ing -> \"preparing\" đóng vai trò là động từ có tân ngữ."
+        "explanation_html": "Đứng sau giới từ <code>for</code> có thể là V-ing hoặc danh từ. Tuy nhiên vì phía sau có tân ngữ trực tiếp <code>the schedule</code>, ta bắt buộc chọn <strong>danh động từ (V-ing)</strong> → chọn <strong class=\"hl-vocab\">preparing</strong>."
       },
       {
         "slide_index": 50,
-        "title": "II. NHẬN DẠNG",
+        "title": "2.1. Các thì ĐƠN (Simple tenses)",
         "is_html": true,
-        "html_content": "<strong>2. Nhận dạng HÌNH THỨC ĐỘNG TỪ chia theo CÁC THÌ</strong><br><strong><span class=\"hl-blue\">2.1. Các thì ĐƠN (Simple tenses) </span></strong><br>Dạng động từ có thể là: Động từ thường (<strong>Vo, Vs/es, V2ed</strong>) hoặc Tobe (<strong>am/is/are, was/were, will be</strong>)<br>→ <strong>Hiện tại đơn: </strong><span class=\"hl-red\">S + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">o</span></strong><strong><span class=\"hl-red\">/V</span></strong><strong><span class=\"hl-red\">s/es</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span> (hoặc Tobe: <strong>am / is / are</strong>)<br>→ <strong>Quá khứ đơn: </strong><span class=\"hl-red\">S + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">2</span></strong><strong><span class=\"hl-red\">ed</span></strong><span class=\"hl-red\"> + O</span> (hoặc Tobe: <strong>was / were</strong>)<br>→ <strong>Tương lai đơn: </strong><span class=\"hl-red\">S + will + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">o</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span> (hoặc Tobe: <strong>will be</strong>)"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-clock\" style=\"margin-right: 6px;\"></i> 2. Nhận dạng HÌNH THỨC ĐỘNG TỪ chia theo CÁC THÌ</div>\n<div class=\"slide-callout\" style=\"margin-top: 6px; margin-bottom: 14px; padding: 12px 16px;\">\n    <strong>Dạng động từ có thể là:</strong> <span class=\"pos-tag\">Động từ thường: V₀, V-s/es, V₂/ed</span> hoặc <span class=\"pos-tag tag-purple\">Tobe: am/is/are, was/were, will be</span>\n</div>\n<div style=\"display: flex; flex-direction: column; gap: 10px;\">\n    <div class=\"tense-card\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-sun\" style=\"color: var(--color-cyan);\"></i> Hiện tại đơn (Present Simple)</span>\n            <span class=\"tense-formula\">S + V₀ / V-s/es + O</span>\n        </div>\n        <div style=\"font-size: 0.92rem; color: var(--text-secondary);\">• Hoặc với động từ Tobe: <code>S + am / is / are + …</code></div>\n    </div>\n    <div class=\"tense-card tense-purple\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-clock-rotate-left\" style=\"color: var(--color-purple);\"></i> Quá khứ đơn (Past Simple)</span>\n            <span class=\"tense-formula\">S + V₂/ed + O</span>\n        </div>\n        <div style=\"font-size: 0.92rem; color: var(--text-secondary);\">• Hoặc với động từ Tobe: <code>S + was / were + …</code></div>\n    </div>\n    <div class=\"tense-card tense-gold\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-paper-plane\" style=\"color: var(--color-gold);\"></i> Tương lai đơn (Future Simple)</span>\n            <span class=\"tense-formula\">S + will + V₀ + O</span>\n        </div>\n        <div style=\"font-size: 0.92rem; color: var(--text-secondary);\">• Hoặc với động từ Tobe: <code>S + will be + …</code></div>\n    </div>\n</div>"
       },
       {
         "slide_index": 51,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The company ____ a new policy every year.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.1. Các thì ĐƠN (Simple tenses)</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Trạng ngữ chỉ tần suất lặp lại <code>every year</code> → chia thì Hiện tại đơn.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S (số ít) + V-s/es + O</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\"><span class=\"hl-cyan\">The company</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> a new policy <span class=\"hl-yellow\">every year</span>.</div>\n</div>",
         "options": {
           "A": "introduce",
           "B": "introduces",
@@ -940,20 +940,20 @@ const toeicReadingData = [
           "D": "introducing"
         },
         "correct_answer": "B",
-        "explanation_html": "Trạng ngữ chỉ tần suất \"every year\" yêu cầu chia thì Hiện tại đơn. Chủ ngữ \"The company\" là số ít nên động từ chia thêm \"-s/-es\" -> \"introduces\"."
+        "explanation_html": "Trạng ngữ chỉ tần suất <code>every year</code> <em>(mỗi năm)</em> yêu cầu chia thì <strong>Hiện tại đơn</strong>. Chủ ngữ <code>The company</code> là danh từ số ít nên động từ chia thêm <code>-s/-es</code> → chọn <strong class=\"hl-vocab\">introduces</strong>."
       },
       {
         "slide_index": 52,
         "title": "2.2. Các thì TIẾP DIỄN (Continuous tenses)",
         "is_html": true,
-        "html_content": "Dạng động bắt buộc phải là: <strong>V</strong><strong>ing</strong><br>→ <strong>Hiện tại tiếp diễn: </strong><span class=\"hl-red\">S + am/is/are + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>.<br>→ <strong>Quá khứ tiếp diễn: </strong><span class=\"hl-red\">S + was/were + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><span class=\"hl-red\"> + O</span>.<br>→ <strong>Tương lai tiếp diễn: </strong><span class=\"hl-red\">S + will + be + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>.<br>→ <strong>HTHT tiếp diễn: </strong><span class=\"hl-red\">S + have/has + been + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>.<br>→ <strong>QKHT tiếp diễn: </strong><span class=\"hl-red\">S + had + been + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>.<br>→ <strong>TLHT tiếp diễn: </strong><span class=\"hl-red\">S + will + have + been + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">ing</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>."
+        "html_content": "<div class=\"slide-callout callout-purple\" style=\"margin-top: 0; margin-bottom: 14px; padding: 12px 18px;\">\n    <i class=\"fa-solid fa-bolt\" style=\"color: var(--color-purple);\"></i> <strong>Dạng động từ bắt buộc phải là:</strong> <span class=\"hl-box\">V-ing</span> <em>(đi sau trợ động từ tobe tương ứng với từng thì)</em>\n</div>\n<div class=\"slide-grid-2\">\n    <div class=\"tense-card\">\n        <span class=\"tense-name\"><i class=\"fa-solid fa-circle-play\" style=\"color: var(--color-cyan);\"></i> Hiện tại tiếp diễn</span>\n        <span class=\"tense-formula\">S + am/is/are + V-ing + O</span>\n    </div>\n    <div class=\"tense-card tense-purple\">\n        <span class=\"tense-name\"><i class=\"fa-solid fa-clock-rotate-left\" style=\"color: var(--color-purple);\"></i> Quá khứ tiếp diễn</span>\n        <span class=\"tense-formula\">S + was/were + V-ing + O</span>\n    </div>\n    <div class=\"tense-card tense-gold\">\n        <span class=\"tense-name\"><i class=\"fa-solid fa-forward\" style=\"color: var(--color-gold);\"></i> Tương lai tiếp diễn</span>\n        <span class=\"tense-formula\">S + will + be + V-ing + O</span>\n    </div>\n    <div class=\"tense-card tense-green\">\n        <span class=\"tense-name\"><i class=\"fa-solid fa-arrows-spin\" style=\"color: var(--color-success);\"></i> HTHT tiếp diễn</span>\n        <span class=\"tense-formula\">S + have/has + been + V-ing + O</span>\n    </div>\n    <div class=\"tense-card tense-pink\">\n        <span class=\"tense-name\"><i class=\"fa-solid fa-hourglass-half\" style=\"color: var(--color-pink);\"></i> QKHT tiếp diễn</span>\n        <span class=\"tense-formula\">S + had + been + V-ing + O</span>\n    </div>\n    <div class=\"tense-card\">\n        <span class=\"tense-name\"><i class=\"fa-solid fa-rocket\" style=\"color: var(--color-cyan);\"></i> TLHT tiếp diễn</span>\n        <span class=\"tense-formula\">S + will + have + been + V-ing + O</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 53,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The technicians are ____ the network system at the moment.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.2. Các thì TIẾP DIỄN (Continuous tenses)</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Phía trước có động từ tobe <code>are</code> và cuối câu có trạng ngữ <code>at the moment</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S + am/is/are + V-ing + O</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The technicians <span class=\"hl-purple\" style=\"font-weight:700;\">are</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> the network system <span class=\"hl-yellow\">at the moment</span>.</div>\n</div>",
         "options": {
           "A": "check",
           "B": "checked",
@@ -961,20 +961,20 @@ const toeicReadingData = [
           "D": "checkup"
         },
         "correct_answer": "C",
-        "explanation_html": "Cụm thời gian \"at the moment\" chỉ hành động đang xảy ra (thì Hiện tại tiếp diễn: be + V-ing). Ở đây ta chọn \"checking\"."
+        "explanation_html": "Cụm thời gian <code>at the moment</code> <em>(ngay lúc này)</em> chỉ hành động đang diễn ra ở <strong>Hiện tại tiếp diễn</strong> (<code>are + V-ing</code>) → chọn <strong class=\"hl-vocab\">checking</strong>."
       },
       {
         "slide_index": 54,
-        "title": "2.3. Các thì HOÀN THÀNH(Perfect tenses)",
+        "title": "2.3. Các thì HOÀN THÀNH (Perfect tenses)",
         "is_html": true,
-        "html_content": "Dạng động bắt buộc phải là: <strong>V</strong><strong>3</strong><strong>ed</strong><br>→ <strong>Hiện tại hoàn thành: </strong><span class=\"hl-red\">S + have/has + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">3</span></strong><strong><span class=\"hl-red\">ed</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>.<br>→ <strong>Quá khứ hoàn thành: </strong><span class=\"hl-red\">S + had + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">3</span></strong><strong><span class=\"hl-red\">ed</span></strong><span class=\"hl-red\"> + O</span>.<br>→ <strong>Tương lai hoàn thành: </strong><span class=\"hl-red\">S + will + have + </span><strong><span class=\"hl-red\">V</span></strong><strong><span class=\"hl-red\">3</span></strong><strong><span class=\"hl-red\">ed</span></strong><strong><span class=\"hl-red\"> </span></strong><span class=\"hl-red\">+ O</span>."
+        "html_content": "<div class=\"slide-callout callout-gold\" style=\"margin-top: 0; margin-bottom: 14px; padding: 12px 18px;\">\n    <i class=\"fa-solid fa-star\" style=\"color: var(--color-gold);\"></i> <strong>Dạng động từ bắt buộc phải là:</strong> <span class=\"hl-box\">V₃/ed</span> <em>(đi sau trợ động từ have / has / had)</em>\n</div>\n<div style=\"display: flex; flex-direction: column; gap: 12px;\">\n    <div class=\"tense-card tense-green\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-circle-check\" style=\"color: var(--color-success);\"></i> Hiện tại hoàn thành (Present Perfect)</span>\n            <span class=\"tense-formula\">S + have / has + V₃/ed + O</span>\n        </div>\n        <div style=\"font-size: 0.92rem; color: var(--text-secondary);\">• Dấu hiệu thường gặp: <code>since</code>, <code>for</code>, <code>recently</code>, <code>lately</code>, <code>already</code>, <code>yet</code>, <code>just</code>, <code>so far</code>…</div>\n    </div>\n    <div class=\"tense-card tense-purple\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-backward-step\" style=\"color: var(--color-purple);\"></i> Quá khứ hoàn thành (Past Perfect)</span>\n            <span class=\"tense-formula\">S + had + V₃/ed + O</span>\n        </div>\n        <div style=\"font-size: 0.92rem; color: var(--text-secondary);\">• Diễn tả hành động xảy ra <strong>trước một hành động hoặc mốc thời gian khác trong quá khứ</strong> (<code>before</code>, <code>by the time + QKĐ</code>).</div>\n    </div>\n    <div class=\"tense-card tense-gold\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-flag-checkered\" style=\"color: var(--color-gold);\"></i> Tương lai hoàn thành (Future Perfect)</span>\n            <span class=\"tense-formula\">S + will + have + V₃/ed + O</span>\n        </div>\n        <div style=\"font-size: 0.92rem; color: var(--text-secondary);\">• Dấu hiệu đặc trưng: <code>by + mốc thời gian tương lai</code>, <code>by the end of next month/year</code>, <code>by this time next year</code>…</div>\n    </div>\n</div>"
       },
       {
         "slide_index": 55,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The company has ____ the contract recently.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-pink\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.3. Các thì HOÀN THÀNH (Perfect tenses)</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Phía trước có trợ động từ <code>has</code> và cuối câu có trạng từ <code>recently</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S + have / has + V₃/ed + O</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The company <span class=\"txt-pink\" style=\"font-weight:700;\">has</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> the contract <span class=\"hl-yellow\">recently</span>.</div>\n</div>",
         "options": {
           "A": "sign",
           "B": "signed",
@@ -982,7 +982,7 @@ const toeicReadingData = [
           "D": "signs"
         },
         "correct_answer": "B",
-        "explanation_html": "Trạng từ \"recently\" chỉ hành động đã xảy ra (thì Hiện tại hoàn thành: have/has + V3/ed). Do đó cần chọn động từ phân từ 2 -> \"signed\"."
+        "explanation_html": "Trạng từ <code>recently</code> <em>(gần đây)</em> và trợ động từ <code>has</code> là dấu hiệu của thì <strong>Hiện tại hoàn thành</strong> (<code>have/has + V₃/ed</code>) → chọn quá khứ phân từ <strong class=\"hl-vocab\">signed</strong>."
       }
     ],
     "questions": [
@@ -995,7 +995,7 @@ const toeicReadingData = [
           "D": "relocated"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. relocated</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ thời gian 'last month' (tháng trước) yêu cầu động từ chính chia ở thì Quá khứ đơn -> chọn 'relocated'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">relocated</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đã chuyển trụ sở chính của mình đến Chicago vào tháng trước.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. relocated</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ thời gian <code>last month</code> (tháng trước) yêu cầu động từ chính chia ở thì Quá khứ đơn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>relocated</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">relocated</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đã chuyển trụ sở chính của mình đến Chicago vào tháng trước.</em>"
       },
       {
         "question": "The accounting department usually ______ the budget report on Fridays.",
@@ -1006,7 +1006,7 @@ const toeicReadingData = [
           "D": "prepared"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. prepares</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ chỉ tần suất 'usually' (thường xuyên) chỉ hành động lặp đi lặp lại ở Hiện tại đơn. Chủ ngữ 'The accounting department' là số ít nên động từ chia thêm '-s/-es' -> 'prepares'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">prepares</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận kế toán thường chuẩn bị báo cáo ngân sách vào các ngày thứ Sáu.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. prepares</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ chỉ tần suất <code>usually</code> (thường xuyên) chỉ hành động lặp đi lặp lại ở Hiện tại đơn. Chủ ngữ <code>The accounting department</code> là số ít nên động từ chia thêm <code>-s/-es</code> <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> <code>prepares</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">prepares</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận kế toán thường chuẩn bị báo cáo ngân sách vào các ngày thứ Sáu.</em>"
       },
       {
         "question": "We ______ the new software system next Monday morning.",
@@ -1017,7 +1017,7 @@ const toeicReadingData = [
           "D": "installing"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. will install</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm chỉ thời gian tương lai 'next Monday morning' (sáng thứ Hai tới) yêu cầu chia thì Tương lai đơn -> chọn 'will install'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will install</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi sẽ cài đặt hệ thống phần mềm mới vào sáng thứ Hai tới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. will install</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm chỉ thời gian tương lai <code>next Monday morning</code> (sáng thứ Hai tới) yêu cầu chia thì Tương lai đơn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>will install</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will install</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi sẽ cài đặt hệ thống phần mềm mới vào sáng thứ Hai tới.</em>"
       },
       {
         "question": "Ms. Watson ______ as the regional manager since 2020.",
@@ -1028,7 +1028,7 @@ const toeicReadingData = [
           "D": "is serving"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. has served</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'since + mốc thời gian' (kể từ năm 2020) yêu cầu động từ chính chia ở thì Hiện tại hoàn thành -> chọn 'has served'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">has served</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bà Watson đã phục vụ với tư cách là giám đốc khu vực kể từ năm 2020.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. has served</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu <code>since + mốc thời gian</code> (kể từ năm 2020) yêu cầu động từ chính chia ở thì Hiện tại hoàn thành <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>has served</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">has served</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bà Watson đã phục vụ với tư cách là giám đốc khu vực kể từ năm 2020.</em>"
       },
       {
         "question": "The software engineers ______ a bug in the code at the moment.",
@@ -1039,7 +1039,7 @@ const toeicReadingData = [
           "D": "will fix"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. are fixing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm trạng ngữ thời gian 'at the moment' (ngay lúc này) chỉ hành động đang diễn ra nên động từ chính chia ở thì Hiện tại tiếp diễn -> chọn 'are fixing'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are fixing</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các kỹ sư phần mềm đang sửa một lỗi trong mã nguồn vào lúc này.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. are fixing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm trạng ngữ thời gian <code>at the moment</code> (ngay lúc này) chỉ hành động đang diễn ra nên động từ chính chia ở thì Hiện tại tiếp diễn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>are fixing</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are fixing</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các kỹ sư phần mềm đang sửa một lỗi trong mã nguồn vào lúc này.</em>"
       },
       {
         "question": "Our supervisor ______ the proposal before the client arrived.",
@@ -1050,7 +1050,7 @@ const toeicReadingData = [
           "D": "had reviewed"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. had reviewed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Hành động xảy ra trước một hành động khác trong quá khứ ('before the client arrived') yêu cầu chia ở thì Quá khứ hoàn thành -> chọn 'had reviewed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">had reviewed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát của chúng tôi đã xem xét bản đề xuất trước khi khách hàng đến.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. had reviewed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Hành động xảy ra trước một hành động khác trong quá khứ (<code>before the client arrived</code>) yêu cầu chia ở thì Quá khứ hoàn thành <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>had reviewed</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">had reviewed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát của chúng tôi đã xem xét bản đề xuất trước khi khách hàng đến.</em>"
       },
       {
         "question": "By this time next year, the company ______ three new branches.",
@@ -1061,7 +1061,7 @@ const toeicReadingData = [
           "D": "opens"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. will have opened</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc 'By + mốc thời gian trong tương lai' (Tính đến thời điểm này năm tới) yêu cầu chia thì Tương lai hoàn thành -> chọn 'will have opened'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will have opened</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tính đến thời điểm này năm tới, công ty sẽ đã mở được ba chi nhánh mới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. will have opened</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc <code>By + mốc thời gian trong tương lai</code> (Tính đến thời điểm này năm tới) yêu cầu chia thì Tương lai hoàn thành <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>will have opened</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will have opened</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tính đến thời điểm này năm tới, công ty sẽ đã mở được ba chi nhánh mới.</em>"
       },
       {
         "question": "The marketing director decided ______ the product launch date.",
@@ -1072,7 +1072,7 @@ const toeicReadingData = [
           "D": "postponing"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. to postpone</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ 'decide' yêu cầu động từ theo sau nó ở dạng động từ nguyên mẫu có 'to' (to-infinitive) -> chọn 'to postpone'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">to postpone</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã quyết định trì hoãn ngày ra mắt sản phẩm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. to postpone</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ <code>decide</code> yêu cầu động từ theo sau nó ở dạng động từ nguyên mẫu có <code>to</code> (to-infinitive) <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>to postpone</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">to postpone</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã quyết định trì hoãn ngày ra mắt sản phẩm.</em>"
       },
       {
         "question": "The technician can ______ the computer network within an hour.",
@@ -1083,7 +1083,7 @@ const toeicReadingData = [
           "D": "repair"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. repair</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu 'can' là động từ nguyên mẫu không 'to' (bare infinitive) -> chọn 'repair'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">repair</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên có thể sửa chữa mạng máy tính trong vòng một giờ.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. repair</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu <code>can</code> là động từ nguyên mẫu không <code>to</code> (bare infinitive) <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>repair</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">repair</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên có thể sửa chữa mạng máy tính trong vòng một giờ.</em>"
       },
       {
         "question": "Mr. Vance avoided ______ his manager about the budget deficit.",
@@ -1094,7 +1094,7 @@ const toeicReadingData = [
           "D": "to tell"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. telling</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ 'avoid' yêu cầu động từ theo sau nó ở dạng danh động từ (V-ing) -> chọn 'telling'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">telling</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Vance đã tránh nói với quản lý của mình về việc thâm hụt ngân sách.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. telling</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ <code>avoid</code> yêu cầu động từ theo sau nó ở dạng danh động từ (V-ing) <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>telling</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">telling</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Vance đã tránh nói với quản lý của mình về việc thâm hụt ngân sách.</em>"
       },
       {
         "question": "The new regulations ______ all employees to register their vehicles.",
@@ -1105,7 +1105,7 @@ const toeicReadingData = [
           "D": "require"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. require</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ 'The new regulations' là danh từ số nhiều nên động từ chính chia ở dạng số nhiều ở Hiện tại đơn -> chọn 'require'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">require</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các quy định mới yêu cầu tất cả nhân viên phải đăng ký xe của họ.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. require</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ <code>The new regulations</code> là danh từ số nhiều nên động từ chính chia ở dạng số nhiều ở Hiện tại đơn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>require</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">require</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các quy định mới yêu cầu tất cả nhân viên phải đăng ký xe của họ.</em>"
       },
       {
         "question": "If you ______ the document, please return it to the HR office.",
@@ -1116,7 +1116,7 @@ const toeicReadingData = [
           "D": "finding"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. find</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trong mệnh đề điều kiện loại 1 (mệnh đề If), động từ chính chia ở thì Hiện tại đơn -> chọn 'find'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">find</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nếu bạn tìm thấy tài liệu, vui lòng trả lại cho văn phòng nhân sự.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. find</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trong mệnh đề điều kiện loại 1 (mệnh đề If), động từ chính chia ở thì Hiện tại đơn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>find</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">find</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nếu bạn tìm thấy tài liệu, vui lòng trả lại cho văn phòng nhân sự.</em>"
       },
       {
         "question": "The logistics team ______ the shipment yesterday afternoon.",
@@ -1127,7 +1127,7 @@ const toeicReadingData = [
           "D": "dispatching"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. dispatched</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ chỉ thời gian quá khứ 'yesterday afternoon' (chiều hôm qua) yêu cầu chia ở thì Quá khứ đơn -> chọn 'dispatched'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">dispatched</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm hậu cần đã gửi lô hàng đi vào chiều hôm qua.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. dispatched</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ chỉ thời gian quá khứ <code>yesterday afternoon</code> (chiều hôm qua) yêu cầu chia ở thì Quá khứ đơn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>dispatched</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">dispatched</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm hậu cần đã gửi lô hàng đi vào chiều hôm qua.</em>"
       },
       {
         "question": "We ______ to hear that the project was a great success.",
@@ -1138,7 +1138,7 @@ const toeicReadingData = [
           "D": "pleasing"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. are pleased</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính thái bị động chỉ cảm xúc của con người: 'be pleased to-V' (rất vui mừng/hài lòng khi làm gì) -> chọn 'are pleased'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are pleased</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi rất vui mừng khi nghe tin rằng dự án đã thành công tốt đẹp.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. are pleased</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính thái bị động chỉ cảm xúc của con người: <code>be pleased to-V</code> (rất vui mừng/hài lòng khi làm gì) <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>are pleased</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are pleased</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi rất vui mừng khi nghe tin rằng dự án đã thành công tốt đẹp.</em>"
       },
       {
         "question": "The laboratory team ______ the chemical solution very carefully yesterday.",
@@ -1149,7 +1149,7 @@ const toeicReadingData = [
           "D": "analyse"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. analyzed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dựa vào dấu hiệu thời gian 'yesterday' (hôm qua), động từ chính chia ở thì Quá khứ đơn -> chọn 'analyzed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">analyzed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm nghiên cứu phòng thí nghiệm đã phân tích dung dịch hóa chất rất cẩn thận vào hôm qua.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. analyzed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dựa vào dấu hiệu thời gian <code>yesterday</code> (hôm qua), động từ chính chia ở thì Quá khứ đơn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>analyzed</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">analyzed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm nghiên cứu phòng thí nghiệm đã phân tích dung dịch hóa chất rất cẩn thận vào hôm qua.</em>"
       },
       {
         "question": "Please let Mr. Patel ______ the contract before it is printed.",
@@ -1160,7 +1160,7 @@ const toeicReadingData = [
           "D": "signed"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. sign</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc với động từ cầu khiến: 'let + tân ngữ + động từ nguyên mẫu không to' -> chọn 'sign'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">sign</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng để ông Patel ký hợp đồng trước khi nó được in.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. sign</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc với động từ cầu khiến: <code>let + tân ngữ + động từ nguyên mẫu không to</code> <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>sign</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">sign</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng để ông Patel ký hợp đồng trước khi nó được in.</em>"
       },
       {
         "question": "The supervisor requested that the report ______ submitted immediately.",
@@ -1171,7 +1171,7 @@ const toeicReadingData = [
           "D": "been"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. be</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc câu giả định (subjunctive mood) với động từ 'requested': 'request + that + S + động từ nguyên mẫu không to' -> chọn 'be' cho dạng bị động.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã yêu cầu báo cáo đó phải được nộp ngay lập tức.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. be</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc câu giả định (subjunctive mood) với động từ <code>requested</code>: <code>request + that + S + động từ nguyên mẫu không to</code> <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>be</code> cho dạng bị động.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã yêu cầu báo cáo đó phải được nộp ngay lập tức.</em>"
       },
       {
         "question": "The security guards ______ the building patrol every night.",
@@ -1182,7 +1182,7 @@ const toeicReadingData = [
           "D": "conduct"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. conduct</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ 'The security guards' là số nhiều, và trạng từ tần suất 'every night' chỉ thói quen nên chia động từ nguyên mẫu ở Hiện tại đơn -> chọn 'conduct'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">conduct</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các nhân viên bảo vệ thực hiện việc tuần tra tòa nhà mỗi tối.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. conduct</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ <code>The security guards</code> là số nhiều, và trạng từ tần suất <code>every night</code> chỉ thói quen nên chia động từ nguyên mẫu ở Hiện tại đơn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>conduct</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">conduct</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các nhân viên bảo vệ thực hiện việc tuần tra tòa nhà mỗi tối.</em>"
       },
       {
         "question": "The marketing director has decided ______ the promotional campaign.",
@@ -1193,7 +1193,7 @@ const toeicReadingData = [
           "D": "launched"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. to launch</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ 'decide' đi kèm động từ nguyên mẫu có 'to' (to-infinitive) -> chọn 'to launch'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">to launch</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã quyết định khởi động chiến dịch quảng bá.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. to launch</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ <code>decide</code> đi kèm động từ nguyên mẫu có <code>to</code> (to-infinitive) <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>to launch</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">to launch</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã quyết định khởi động chiến dịch quảng bá.</em>"
       },
       {
         "question": "The software program ______ automatically every Sunday night.",
@@ -1204,7 +1204,7 @@ const toeicReadingData = [
           "D": "updating"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. updates</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm chỉ tần suất 'every Sunday night' chỉ hành động lặp lại định kỳ ở Hiện tại đơn. Chủ ngữ 'The software program' là danh từ số ít nên chia động từ thêm '-s/-es' -> 'updates'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">updates</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chương trình phần mềm tự động cập nhật vào mỗi tối Chủ Nhật.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. updates</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm chỉ tần suất <code>every Sunday night</code> chỉ hành động lặp lại định kỳ ở Hiện tại đơn. Chủ ngữ <code>The software program</code> là danh từ số ít nên chia động từ thêm <code>-s/-es</code> <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> <code>updates</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">updates</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chương trình phần mềm tự động cập nhật vào mỗi tối Chủ Nhật.</em>"
       }
     ],
     "homework": [
@@ -1217,7 +1217,7 @@ const toeicReadingData = [
           "D": "reviewed"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. was reviewing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả một hành động đang diễn ra trong quá khứ ('was reviewing') thì một hành động khác xen vào ('when I entered') -> chọn thì Quá khứ tiếp diễn.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was reviewing</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bà Davies đang xem xét đề xuất ngân sách khi tôi bước vào văn phòng của cô ấy.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. was reviewing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả một hành động đang diễn ra trong quá khứ (<code>was reviewing</code>) thì một hành động khác xen vào (<code>when I entered</code>) <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn thì Quá khứ tiếp diễn.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was reviewing</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bà Davies đang xem xét đề xuất ngân sách khi tôi bước vào văn phòng của cô ấy.</em>"
       },
       {
         "question": "The IT support team ______ the server issues already.",
@@ -1228,7 +1228,7 @@ const toeicReadingData = [
           "D": "resolving"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. has resolved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu trạng từ 'already' (đã... rồi) yêu cầu động từ chính chia ở thì Hiện tại hoàn thành -> chọn 'has resolved'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">has resolved</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm hỗ trợ công nghệ thông tin đã giải quyết xong các sự cố máy chủ rồi.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. has resolved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu trạng từ <code>already</code> (đã... rồi) yêu cầu động từ chính chia ở thì Hiện tại hoàn thành <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>has resolved</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">has resolved</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm hỗ trợ công nghệ thông tin đã giải quyết xong các sự cố máy chủ rồi.</em>"
       },
       {
         "question": "The research department ______ new materials since last year.",
@@ -1239,7 +1239,7 @@ const toeicReadingData = [
           "D": "test"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. has been testing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'since + mốc thời gian' (kể từ năm ngoái) nhấn mạnh tính liên tục của hành động kéo dài từ quá khứ đến hiện tại nên chia thì Hiện tại hoàn thành tiếp diễn -> chọn 'has been testing'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">has been testing</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận nghiên cứu đã và đang thử nghiệm các vật liệu mới kể từ năm ngoái.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. has been testing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu <code>since + mốc thời gian</code> (kể từ năm ngoái) nhấn mạnh tính liên tục của hành động kéo dài từ quá khứ đến hiện tại nên chia thì Hiện tại hoàn thành tiếp diễn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>has been testing</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">has been testing</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận nghiên cứu đã và đang thử nghiệm các vật liệu mới kể từ năm ngoái.</em>"
       },
       {
         "question": "The sales department ______ its monthly target yesterday morning.",
@@ -1250,7 +1250,7 @@ const toeicReadingData = [
           "D": "reaching"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. reached</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ chỉ thời gian quá khứ 'yesterday morning' (sáng hôm qua) yêu cầu chia ở thì Quá khứ đơn -> chọn 'reached'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">reached</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận bán hàng đã đạt được mục tiêu hàng tháng vào sáng hôm qua.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. reached</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ chỉ thời gian quá khứ <code>yesterday morning</code> (sáng hôm qua) yêu cầu chia ở thì Quá khứ đơn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>reached</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">reached</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận bán hàng đã đạt được mục tiêu hàng tháng vào sáng hôm qua.</em>"
       },
       {
         "question": "We ______ the annual report to all shareholders tomorrow afternoon.",
@@ -1261,7 +1261,7 @@ const toeicReadingData = [
           "D": "mailing"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will mail</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Mốc thời gian tương lai 'tomorrow afternoon' (chiều mai) yêu cầu chia ở thì Tương lai đơn -> chọn 'will mail'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will mail</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi sẽ gửi báo cáo thường niên đến tất cả các cổ đông vào chiều mai.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will mail</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Mốc thời gian tương lai <code>tomorrow afternoon</code> (chiều mai) yêu cầu chia ở thì Tương lai đơn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>will mail</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will mail</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi sẽ gửi báo cáo thường niên đến tất cả các cổ đông vào chiều mai.</em>"
       },
       {
         "question": "The company ______ its staff size to cut down on operational costs.",
@@ -1272,7 +1272,7 @@ const toeicReadingData = [
           "D": "reducing"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. has reduced</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Câu nói về một hành động đã xảy ra và để lại kết quả ở hiện tại (cắt giảm chi phí) nên chia ở thì Hiện tại hoàn thành -> chọn 'has reduced'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">has reduced</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đã giảm quy mô nhân sự của mình để cắt giảm chi phí hoạt động.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. has reduced</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Câu nói về một hành động đã xảy ra và để lại kết quả ở hiện tại (cắt giảm chi phí) nên chia ở thì Hiện tại hoàn thành <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>has reduced</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">has reduced</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đã giảm quy mô nhân sự của mình để cắt giảm chi phí hoạt động.</em>"
       },
       {
         "question": "The new project manager ______ the team members very well.",
@@ -1283,7 +1283,7 @@ const toeicReadingData = [
           "D": "known"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. knows</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ tình thái/trạng thái 'know' không chia ở dạng tiếp diễn. Chủ ngữ số ít 'The new project manager' yêu cầu chia ở Hiện tại đơn -> chọn 'knows'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">knows</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trưởng dự án mới biết rất rõ các thành viên trong nhóm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. knows</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ tình thái/trạng thái <code>know</code> không chia ở dạng tiếp diễn. Chủ ngữ số ít <code>The new project manager</code> yêu cầu chia ở Hiện tại đơn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>knows</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">knows</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trưởng dự án mới biết rất rõ các thành viên trong nhóm.</em>"
       },
       {
         "question": "Our supervisor ______ the document before she signed it.",
@@ -1294,7 +1294,7 @@ const toeicReadingData = [
           "D": "checking"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. had checked</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Hành động kiểm tra xảy ra trước hành động ký trong quá khứ ('before she signed it') nên chia ở thì Quá khứ hoàn thành -> chọn 'had checked'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">had checked</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát của chúng tôi đã kiểm tra tài liệu trước khi cô ấy ký vào đó.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. had checked</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Hành động kiểm tra xảy ra trước hành động ký trong quá khứ (<code>before she signed it</code>) nên chia ở thì Quá khứ hoàn thành <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>had checked</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">had checked</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát của chúng tôi đã kiểm tra tài liệu trước khi cô ấy ký vào đó.</em>"
       },
       {
         "question": "By the end of this month, Ms. Lopez ______ at the agency for ten years.",
@@ -1305,7 +1305,7 @@ const toeicReadingData = [
           "D": "worked"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. will have worked</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc 'By the end of + khoảng thời gian tương lai' kết hợp với khoảng thời gian kéo dài 'for ten years' yêu cầu chia thì Tương lai hoàn thành -> chọn 'will have worked'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will have worked</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tính đến cuối tháng này, cô Lopez sẽ đã làm việc tại đại lý được mười năm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. will have worked</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc <code>By the end of + khoảng thời gian tương lai</code> kết hợp với khoảng thời gian kéo dài <code>for ten years</code> yêu cầu chia thì Tương lai hoàn thành <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>will have worked</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will have worked</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tính đến cuối tháng này, cô Lopez sẽ đã làm việc tại đại lý được mười năm.</em>"
       },
       {
         "question": "You should ______ the security instructions before entering the plant.",
@@ -1316,7 +1316,7 @@ const toeicReadingData = [
           "D": "reading"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. read</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu 'should' là động từ nguyên mẫu không 'to' (bare infinitive) -> chọn 'read'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">read</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bạn nên đọc các hướng dẫn an toàn trước khi vào nhà máy.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. read</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu <code>should</code> là động từ nguyên mẫu không <code>to</code> (bare infinitive) <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>read</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">read</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bạn nên đọc các hướng dẫn an toàn trước khi vào nhà máy.</em>"
       },
       {
         "question": "The manager promised ______ the issue as soon as possible.",
@@ -1327,7 +1327,7 @@ const toeicReadingData = [
           "D": "addressed"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. to address</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ 'promise' yêu cầu động từ theo sau nó ở dạng động từ nguyên mẫu có 'to' (to-infinitive) -> chọn 'to address'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">to address</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã hứa sẽ giải quyết vấn đề sớm nhất có thể.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. to address</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ <code>promise</code> yêu cầu động từ theo sau nó ở dạng động từ nguyên mẫu có <code>to</code> (to-infinitive) <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>to address</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">to address</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã hứa sẽ giải quyết vấn đề sớm nhất có thể.</em>"
       },
       {
         "question": "We are considering ______ a new consultant for the project.",
@@ -1338,7 +1338,7 @@ const toeicReadingData = [
           "D": "hired"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. hiring</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ 'consider' yêu cầu động từ theo sau nó ở dạng danh động từ (V-ing) -> chọn 'hiring'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">hiring</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đang cân nhắc việc thuê một cố vấn mới cho dự án.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. hiring</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Động từ <code>consider</code> yêu cầu động từ theo sau nó ở dạng danh động từ (V-ing) <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>hiring</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">hiring</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đang cân nhắc việc thuê một cố vấn mới cho dự án.</em>"
       },
       {
         "question": "The main server ______ down unexpectedly three times last week.",
@@ -1349,7 +1349,7 @@ const toeicReadingData = [
           "D": "going"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. went</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ thời gian quá khứ 'last week' (tuần trước) yêu cầu chia ở thì Quá khứ đơn -> chọn 'went'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">went</strong>.<br><br><strong>Dịch câu:</strong><br><em>Máy chủ chính đã bị sập đột ngột ba lần vào tuần trước.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. went</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm từ thời gian quá khứ <code>last week</code> (tuần trước) yêu cầu chia ở thì Quá khứ đơn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>went</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">went</strong>.<br><br><strong>Dịch câu:</strong><br><em>Máy chủ chính đã bị sập đột ngột ba lần vào tuần trước.</em>"
       },
       {
         "question": "The assistant was busy ______ the documents for the audit.",
@@ -1360,7 +1360,7 @@ const toeicReadingData = [
           "D": "prepared"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. preparing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc 'be busy + V-ing' (bận rộn làm việc gì) -> chọn danh động từ 'preparing'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">preparing</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người trợ lý đang bận rộn chuẩn bị các tài liệu cho kỳ kiểm toán.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. preparing</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc <code>be busy + V-ing</code> (bận rộn làm việc gì) <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn danh động từ <code>preparing</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">preparing</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người trợ lý đang bận rộn chuẩn bị các tài liệu cho kỳ kiểm toán.</em>"
       },
       {
         "question": "If the weather ______ good tomorrow, the event will take place outside.",
@@ -1371,7 +1371,7 @@ const toeicReadingData = [
           "D": "be"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. is</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trong câu điều kiện loại 1, mệnh đề điều kiện (mệnh đề If) chia ở thì Hiện tại đơn -> chọn 'is'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nếu thời tiết tốt vào ngày mai, sự kiện sẽ diễn ra ở ngoài trời.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. is</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trong câu điều kiện loại 1, mệnh đề điều kiện (mệnh đề If) chia ở thì Hiện tại đơn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>is</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nếu thời tiết tốt vào ngày mai, sự kiện sẽ diễn ra ở ngoài trời.</em>"
       },
       {
         "question": "Please help the client ______ a parking space in the garage.",
@@ -1382,7 +1382,7 @@ const toeicReadingData = [
           "D": "finds"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. find</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc với động từ help: 'help + tân ngữ + động từ nguyên mẫu không to (hoặc có to)'. Trong các phương án, chọn động từ nguyên mẫu 'find'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">find</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng giúp khách hàng tìm một chỗ đậu xe trong nhà xe.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. find</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc với động từ help: <code>help + tân ngữ + động từ nguyên mẫu không to (hoặc có to)</code>. Trong các phương án, chọn động từ nguyên mẫu <code>find</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">find</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng giúp khách hàng tìm một chỗ đậu xe trong nhà xe.</em>"
       },
       {
         "question": "The project proposal must ______ to the client by Friday.",
@@ -1393,7 +1393,7 @@ const toeicReadingData = [
           "D": "submitted"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. be submitted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu 'must' ở thể bị động chỉ bổn phận của vật (bản đề xuất phải được nộp): 'must + be + V3/ed' -> chọn 'be submitted'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be submitted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bản đề xuất dự án phải được nộp cho khách hàng trước thứ Sáu.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. be submitted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu <code>must</code> ở thể bị động chỉ bổn phận của vật (bản đề xuất phải được nộp): <code>must + be + V3/ed</code> <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>be submitted</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be submitted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bản đề xuất dự án phải được nộp cho khách hàng trước thứ Sáu.</em>"
       },
       {
         "question": "The corporate training ______ at 9:00 a.m. every Monday morning.",
@@ -1404,7 +1404,7 @@ const toeicReadingData = [
           "D": "started"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. starts</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả lịch trình, thời khóa biểu lặp đi lặp lại ở Hiện tại đơn. Chủ ngữ 'The corporate training' là số ít nên động từ chia thêm '-s/-es' -> 'starts'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">starts</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chương trình đào tạo của doanh nghiệp bắt đầu vào lúc 9 giờ sáng mỗi sáng thứ Hai.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. starts</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả lịch trình, thời khóa biểu lặp đi lặp lại ở Hiện tại đơn. Chủ ngữ <code>The corporate training</code> là số ít nên động từ chia thêm <code>-s/-es</code> <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> <code>starts</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">starts</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chương trình đào tạo của doanh nghiệp bắt đầu vào lúc 9 giờ sáng mỗi sáng thứ Hai.</em>"
       },
       {
         "question": "Ms. Jenkins ______ a presentation on marketing strategies now.",
@@ -1415,7 +1415,7 @@ const toeicReadingData = [
           "D": "has given"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. is giving</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ chỉ thời gian 'now' (bây giờ) yêu cầu động từ chính chia ở thì Hiện tại tiếp diễn -> chọn 'is giving'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is giving</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bà Jenkins hiện đang thực hiện một bài thuyết trình về các chiến lược tiếp thị.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. is giving</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ chỉ thời gian <code>now</code> (bây giờ) yêu cầu động từ chính chia ở thì Hiện tại tiếp diễn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>is giving</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is giving</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bà Jenkins hiện đang thực hiện một bài thuyết trình về các chiến lược tiếp thị.</em>"
       },
       {
         "question": "Our marketing department ______ the promotion campaign last month.",
@@ -1426,7 +1426,7 @@ const toeicReadingData = [
           "D": "completing"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. completed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm chỉ thời gian quá khứ 'last month' (tháng trước) yêu cầu động từ chính chia ở thì Quá khứ đơn -> chọn 'completed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">completed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận tiếp thị của chúng tôi đã hoàn thành chiến dịch quảng bá vào tháng trước.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. completed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm chỉ thời gian quá khứ <code>last month</code> (tháng trước) yêu cầu động từ chính chia ở thì Quá khứ đơn <i class=\"fa-solid fa-arrow-right\" style=\"color: var(--color-cyan); margin: 0 4px;\"></i> chọn <code>completed</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">completed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận tiếp thị của chúng tôi đã hoàn thành chiến dịch quảng bá vào tháng trước.</em>"
       }
     ]
   },
