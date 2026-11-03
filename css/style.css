@@ -986,9 +986,11 @@ body.light-theme .quiz-card {
 span.blank-space {
     display: inline-block;
     min-width: 68px;
+    letter-spacing: 2px;
+    font-weight: 700;
     border-bottom: 2.5px dashed var(--color-cyan);
-    padding: 0 16px;
-    margin: 0 2px;
+    padding: 0 10px;
+    margin: 0 4px;
     color: var(--color-cyan);
     text-shadow: 0 0 5px rgba(0, 242, 254, 0.2);
 }

@@ -681,7 +681,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         ${slide.questions.map((q, idx) => `
                             <div class="sub-question-card" style="background: rgba(255,255,255,0.015); border: 1px solid var(--border-color); padding: 20px; border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); transition: border-color 0.2s;">
                                 <div class="example-question-text" style="font-size: 1.15rem; margin-bottom: 16px; line-height: 1.6; font-weight: 600; color: var(--text-primary);">
-                                    ${q.question_html.replace(/_{3,}/g, '<span class="blank-space">&nbsp;&nbsp;&nbsp;&nbsp;</span>')}
+                                    ${q.question_html.replace(/_{3,}/g, '<span class="blank-space">_ _ _ _</span>')}
                                 </div>
                                 
                                 <div class="options-list q-options-${idx}" style="margin-top: 12px; gap: 14px; margin-bottom: 0;">
@@ -753,7 +753,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="slide-header">${slide.title}</div>
                     <div class="slide-body interactive-example-container">
                         <div class="example-question-text" style="font-size: 1.2rem; margin-bottom: 20px; line-height: 1.6; color: var(--text-primary);">
-                            ${slide.question_html.replace(/_{3,}/g, '<span class="blank-space">&nbsp;&nbsp;&nbsp;&nbsp;</span>')}
+                            ${slide.question_html.replace(/_{3,}/g, '<span class="blank-space">_ _ _ _</span>')}
                         </div>
                         
                         <div class="options-list interactive-example-options" style="margin-top: 16px; margin-bottom: 20px;">
@@ -926,7 +926,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Format Question sentence to style '____'
         let formattedQ = question.question;
-        formattedQ = formattedQ.replace(/_{4,}/g, '<span class="blank-space">&nbsp;&nbsp;&nbsp;&nbsp;</span>');
+        formattedQ = formattedQ.replace(/_{3,}/g, '<span class="blank-space">_ _ _ _</span>');
 
         questionText.innerHTML = formattedQ;
 
