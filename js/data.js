@@ -1436,94 +1436,94 @@ const toeicReadingData = [
     "slides": [
       {
         "slide_index": 56,
-        "title": "PHẦN 03:",
+        "title": "PHẦN 03: TÍNH TỪ (ADJECTIVES)",
         "is_html": true,
-        "html_content": "<div style=\"text-align: center; margin-top: 30px; padding: 10px;\"><h2 class=\"hl-vocab\" style=\"font-size: 2rem; font-family: var(--font-heading); margin-bottom: 16px;\">TÍNH TỪ (ADJECTIVES)</h2><p style=\"font-size: 1.1rem; color: var(--text-secondary); max-width: 550px; margin: 0 auto; line-height: 1.6;\">Tìm hiểu về vị trí, vai trò của tính từ trong câu, các hậu tố nhận diện tính từ phổ biến và cách phân biệt cặp tính từ dễ gây nhầm lẫn như phân từ đuôi -ed và -ing.</p></div>"
+        "html_content": "<div style=\"text-align: center; margin-top: 15px; padding: 24px 16px;\">\n    <div style=\"width: 68px; height: 68px; border-radius: 20px; background: linear-gradient(135deg, rgba(236, 72, 153, 0.2), rgba(245, 158, 11, 0.2)); border: 1px solid rgba(236, 72, 153, 0.4); display: inline-flex; align-items: center; justify-content: center; font-size: 2rem; color: var(--color-pink); margin-bottom: 18px; box-shadow: 0 8px 25px rgba(236, 72, 153, 0.22);\">\n        <i class=\"fa-solid fa-wand-magic-sparkles\"></i>\n    </div>\n    <h2 class=\"hl-vocab\" style=\"font-size: 2.2rem; font-family: var(--font-heading); margin-bottom: 14px; letter-spacing: 0.02em;\">TÍNH TỪ (ADJECTIVES)</h2>\n    <p style=\"font-size: 1.12rem; color: var(--text-secondary); max-width: 620px; margin: 0 auto 24px auto; line-height: 1.75; text-align: center !important;\">Tìm hiểu về vị trí, vai trò của tính từ trong câu, các hậu tố nhận diện tính từ phổ biến và cách phân biệt cặp tính từ dễ gây nhầm lẫn như phân từ đuôi -ed và -ing trong bài thi TOEIC.</p>\n    <div style=\"display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;\">\n        <span class=\"pos-tag\"><i class=\"fa-solid fa-bookmark\"></i> 11 Nhóm hậu tố nhận diện</span>\n        <span class=\"pos-tag tag-purple\"><i class=\"fa-solid fa-location-crosshairs\"></i> 5 Vị trí vàng trong câu</span>\n        <span class=\"pos-tag tag-gold\"><i class=\"fa-solid fa-scale-balanced\"></i> Phân biệt Tính từ vs V₃/ed & Trạng từ</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 57,
         "title": "I. KHÁI NIỆM",
         "is_html": true,
-        "html_content": "<strong>Tính từ</strong> là từ dùng để <strong>miêu tả đặc điểm, tính chất, trạng thái hoặc mức độ</strong> của <strong>danh từ</strong>, <strong>đại từ</strong>, hoặc<strong> dùng để miêu tả CHỦ TỪ trong câu thông qua động từ liên kết</strong>. Trong <strong>TOEIC READING PART 05</strong>, tính từ <strong>KHÔNG được kiểm tra theo nghĩa</strong>, mà chủ yếu được kiểm tra thông qua:<br>- <strong>HẬU TỐ</strong><br>– <strong>VỊ TRÍ trong câu</strong><br>– <strong>SỰ KẾT HỢP với danh từ hoặc động từ liên kết</strong><br>– <strong>PHÂN BIỆT với động từ V</strong><strong>3</strong><strong> hoặc trạng từ</strong>"
+        "html_content": "<div class=\"slide-callout\">\n    <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-book-open\"></i> Định nghĩa</span>\n    <div style=\"font-size: 1.1rem; margin-top: 4px;\">\n        <strong class=\"hl-cyan\">Tính từ (Adjectives)</strong> là từ dùng để miêu tả <strong class=\"hl-yellow\">đặc điểm, tính chất, trạng thái hoặc mức độ</strong> của danh từ, đại từ, hoặc dùng để miêu tả <strong>chủ từ</strong> thông qua động từ liên kết (linking verbs). Trong <strong class=\"hl-cyan\">TOEIC READING PART 05</strong>, tính từ <strong class=\"hl-red\">không được kiểm tra theo nghĩa từ vựng đơn thuần</strong>, mà chủ yếu kiểm tra qua <strong>4 yếu tố cốt lõi</strong>:\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-cyan);\">\n        <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i> 1. HẬU TỐ NHẬN DIỆN</span>\n        <div style=\"font-size: 0.98rem; font-weight: 600; margin-top: 4px;\">Nhận dạng đuôi từ đặc trưng <em>(-able, -al, -ive, -ous, -ic, -ful, -ed, -ing...)</em></div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-purple);\">\n        <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-location-dot\"></i> 2. VỊ TRÍ TRONG CÂU</span>\n        <div style=\"font-size: 0.98rem; font-weight: 600; margin-top: 4px;\">Đứng trước danh từ, sau linking verb, sau trạng từ mức độ, sau tân ngữ...</div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-pink);\">\n        <span class=\"slide-badge-pink\"><i class=\"fa-solid fa-link\"></i> 3. PHỐI HỢP NGỮ PHÁP</span>\n        <div style=\"font-size: 0.98rem; font-weight: 600; margin-top: 4px;\">Bổ nghĩa cho danh từ tạo thành cụm danh từ hoàn chỉnh <code>determiner + adj + noun</code></div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-gold);\">\n        <span class=\"slide-badge-gold\" style=\"color: var(--color-gold);\"><i class=\"fa-solid fa-scale-balanced\"></i> 4. PHÂN BIỆT BẪY TỪ LOẠI</span>\n        <div style=\"font-size: 0.98rem; font-weight: 600; margin-top: 4px;\">Phân biệt với phân từ bị động <code>V₃/ed</code> và trạng từ tận cùng bằng đuôi <code>-ly</code></div>\n    </div>\n</div>\n<div class=\"slide-callout callout-green\" style=\"margin-top: 14px;\">\n    <i class=\"fa-solid fa-lightbulb\" style=\"color: var(--color-gold);\"></i> <strong>Chiến thuật:</strong> Nhận diện đúng hậu tố và vị trí giúp thí sinh <strong class=\"hl-green\">loại ngay 3 phương án nhiễu</strong> trong vài giây mà <strong class=\"hl-yellow\">không cần dịch nghĩa cả câu</strong>.\n</div>"
       },
       {
         "slide_index": 58,
         "title": "II. NHẬN DẠNG",
         "is_html": true,
-        "html_content": "<strong><span class=\"hl-orange\">1. Nhận dạng TÍNH</span></strong><strong><span class=\"hl-orange\"> TỪ </span></strong><strong><span class=\"hl-orange\">qua HẬU</span></strong><strong><span class=\"hl-orange\"> TỐ của từ</span></strong><br>Trong <strong>TOEIC READING PART 05</strong>, rất nhiều đáp án được xây dựng theo <strong>họ từ (word family)</strong>. Việc nhận diện <strong>hậu tố tính từ</strong> giúp học viên <strong>khoanh vùng nhanh</strong> các đáp án có khả năng là <strong>TÍNH TỪ</strong>, trước khi kiểm tra vị trí trong câu."
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 1. Nhận dạng TÍNH TỪ qua HẬU TỐ của từ</div>\n<div class=\"slide-callout callout-purple\">\n    <div style=\"font-size: 1.1rem; margin-bottom: 8px;\">\n        <i class=\"fa-solid fa-layer-group\" style=\"color: var(--color-purple);\"></i> Trong <strong class=\"hl-purple\">TOEIC READING PART 05</strong>, rất nhiều đáp án được xây dựng theo <strong class=\"hl-cyan\">họ từ (Word Family)</strong> gồm: <code>Noun - Verb - Adjective - Adverb</code>.\n    </div>\n    <div style=\"font-size: 1.1rem;\">\n        <i class=\"fa-solid fa-circle-check\" style=\"color: var(--color-success);\"></i> Việc nhận diện <strong>hậu tố tính từ</strong> giúp học viên <span class=\"hl-box\">khoanh vùng nhanh</span> các đáp án có khả năng là <strong>TÍNH TỪ</strong> trước khi kiểm tra vị trí trong câu.\n    </div>\n</div>\n<div class=\"pos-tag-group\" style=\"margin-top: 14px;\">\n    <span class=\"pos-tag\">-able / -ible</span>\n    <span class=\"pos-tag\">-al</span>\n    <span class=\"pos-tag tag-purple\">-ive</span>\n    <span class=\"pos-tag tag-purple\">-ous</span>\n    <span class=\"pos-tag tag-pink\">-y</span>\n    <span class=\"pos-tag tag-pink\">-ed / -ing</span>\n    <span class=\"pos-tag tag-gold\">-ful</span>\n    <span class=\"pos-tag tag-gold\">-less</span>\n    <span class=\"pos-tag\">-ic / -ical</span>\n    <span class=\"pos-tag tag-pink\">-ly (ngoại lệ)</span>\n</div>"
       },
       {
         "slide_index": 59,
         "title": "HẬU TỐ TÍNH TỪ CHỈ ĐẶC ĐIỂM – TÍNH CHẤT",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 1. –able / –ible (có thể, phù hợp)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">acceptable</span>\n        <span class=\"suffix-ipa\">/əkˈseptəbl/</span>\n    </div>\n    <div class=\"suffix-meaning\">có thể chấp nhận được</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">available</span>\n        <span class=\"suffix-ipa\">/əˈveɪləbl/</span>\n    </div>\n    <div class=\"suffix-meaning\">có sẵn</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">reliable</span>\n        <span class=\"suffix-ipa\">/rɪˈlaɪəbl/</span>\n    </div>\n    <div class=\"suffix-meaning\">đáng tin cậy</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">adjustable</span>\n        <span class=\"suffix-ipa\">/əˈdʒʌstəbl/</span>\n    </div>\n    <div class=\"suffix-meaning\">có thể điều chỉnh</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">predictable</span>\n        <span class=\"suffix-ipa\">/prɪˈdɪktəbl/</span>\n    </div>\n    <div class=\"suffix-meaning\">có thể dự đoán</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 1. –able / –ible (có thể, phù hợp)</div>\n<div class=\"suffix-grid\">\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">accept<span class=\"suffix-highlight\">able</span></span>\n            <span class=\"suffix-ipa\">/əkˈseptəbl/</span>\n        </div>\n        <div class=\"suffix-meaning\">có thể chấp nhận được</div>\n    </div>\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">avail<span class=\"suffix-highlight\">able</span></span>\n            <span class=\"suffix-ipa\">/əˈveɪləbl/</span>\n        </div>\n        <div class=\"suffix-meaning\">có sẵn</div>\n    </div>\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">reli<span class=\"suffix-highlight\">able</span></span>\n            <span class=\"suffix-ipa\">/rɪˈlaɪəbl/</span>\n        </div>\n        <div class=\"suffix-meaning\">đáng tin cậy</div>\n    </div>\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">adjust<span class=\"suffix-highlight\">able</span></span>\n            <span class=\"suffix-ipa\">/əˈdʒʌstəbl/</span>\n        </div>\n        <div class=\"suffix-meaning\">có thể điều chỉnh</div>\n    </div>\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">predict<span class=\"suffix-highlight\">able</span></span>\n            <span class=\"suffix-ipa\">/prɪˈdɪktəbl/</span>\n        </div>\n        <div class=\"suffix-meaning\">có thể dự đoán</div>\n    </div>\n</div>"
       },
       {
         "slide_index": 60,
         "title": "HẬU TỐ TÍNH TỪ CHỈ ĐẶC ĐIỂM – TÍNH CHẤT",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 2. –al (liên quan đến, thuộc về)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">financial</span>\n        <span class=\"suffix-ipa\">/faɪˈnænʃl/</span>\n    </div>\n    <div class=\"suffix-meaning\">thuộc tài chính</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">regional</span>\n        <span class=\"suffix-ipa\">/ˈriːdʒənl/</span>\n    </div>\n    <div class=\"suffix-meaning\">thuộc khu vực</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">personal</span>\n        <span class=\"suffix-ipa\">/ˈpɜːsənl/</span>\n    </div>\n    <div class=\"suffix-meaning\">cá nhân</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">annual</span>\n        <span class=\"suffix-ipa\">/ˈænjuəl/</span>\n    </div>\n    <div class=\"suffix-meaning\">hàng năm</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">internal</span>\n        <span class=\"suffix-ipa\">/ɪnˈtɜːnl/</span>\n    </div>\n    <div class=\"suffix-meaning\">nội bộ</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 2. –al (liên quan đến, thuộc về)</div>\n<div class=\"suffix-grid\">\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">financi<span class=\"suffix-highlight\">al</span></span>\n            <span class=\"suffix-ipa\">/faɪˈnænʃl/</span>\n        </div>\n        <div class=\"suffix-meaning\">thuộc tài chính</div>\n    </div>\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">region<span class=\"suffix-highlight\">al</span></span>\n            <span class=\"suffix-ipa\">/ˈriːdʒənl/</span>\n        </div>\n        <div class=\"suffix-meaning\">thuộc khu vực</div>\n    </div>\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">person<span class=\"suffix-highlight\">al</span></span>\n            <span class=\"suffix-ipa\">/ˈpɜːsənl/</span>\n        </div>\n        <div class=\"suffix-meaning\">cá nhân</div>\n    </div>\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">annu<span class=\"suffix-highlight\">al</span></span>\n            <span class=\"suffix-ipa\">/ˈænjuəl/</span>\n        </div>\n        <div class=\"suffix-meaning\">hàng năm</div>\n    </div>\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">intern<span class=\"suffix-highlight\">al</span></span>\n            <span class=\"suffix-ipa\">/ɪnˈtɜːnl/</span>\n        </div>\n        <div class=\"suffix-meaning\">nội bộ</div>\n    </div>\n</div>"
       },
       {
         "slide_index": 61,
         "title": "HẬU TỐ TÍNH TỪ CHỈ ĐẶC ĐIỂM – TÍNH CHẤT",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 3. –ive (tính chất, xu hướng)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">effective</span>\n        <span class=\"suffix-ipa\">/ɪˈfektɪv/</span>\n    </div>\n    <div class=\"suffix-meaning\">hiệu quả</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">productive</span>\n        <span class=\"suffix-ipa\">/prəˈdʌktɪv/</span>\n    </div>\n    <div class=\"suffix-meaning\">năng suất</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">competitive</span>\n        <span class=\"suffix-ipa\">/kəmˈpetətɪv/</span>\n    </div>\n    <div class=\"suffix-meaning\">có tính cạnh tranh</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">protective</span>\n        <span class=\"suffix-ipa\">/prəˈtektɪv/</span>\n    </div>\n    <div class=\"suffix-meaning\">mang tính bảo vệ</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">innovative</span>\n        <span class=\"suffix-ipa\">/ˈɪnəveɪtɪv/</span>\n    </div>\n    <div class=\"suffix-meaning\">đổi mới</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-purple\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 3. –ive (tính chất, xu hướng)</div>\n<div class=\"suffix-grid\">\n    <div class=\"suffix-card card-purple\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">effect<span class=\"suffix-highlight\">ive</span></span>\n            <span class=\"suffix-ipa\">/ɪˈfektɪv/</span>\n        </div>\n        <div class=\"suffix-meaning\">hiệu quả</div>\n    </div>\n    <div class=\"suffix-card card-purple\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">product<span class=\"suffix-highlight\">ive</span></span>\n            <span class=\"suffix-ipa\">/prəˈdʌktɪv/</span>\n        </div>\n        <div class=\"suffix-meaning\">năng suất</div>\n    </div>\n    <div class=\"suffix-card card-purple\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">competit<span class=\"suffix-highlight\">ive</span></span>\n            <span class=\"suffix-ipa\">/kəmˈpetətɪv/</span>\n        </div>\n        <div class=\"suffix-meaning\">có tính cạnh tranh</div>\n    </div>\n    <div class=\"suffix-card card-purple\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">protect<span class=\"suffix-highlight\">ive</span></span>\n            <span class=\"suffix-ipa\">/prəˈtektɪv/</span>\n        </div>\n        <div class=\"suffix-meaning\">mang tính bảo vệ</div>\n    </div>\n    <div class=\"suffix-card card-purple\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">innovat<span class=\"suffix-highlight\">ive</span></span>\n            <span class=\"suffix-ipa\">/ˈɪnəveɪtɪv/</span>\n        </div>\n        <div class=\"suffix-meaning\">đổi mới, sáng tạo</div>\n    </div>\n</div>"
       },
       {
         "slide_index": 62,
         "title": "HẬU TỐ TÍNH TỪ CHỈ ĐẶC ĐIỂM – TÍNH CHẤT",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 4. –ous (trạng thái, đặc điểm)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">dangerous</span>\n        <span class=\"suffix-ipa\">/ˈdeɪndʒərəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">nguy hiểm</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">continuous</span>\n        <span class=\"suffix-ipa\">/kənˈtɪnjuəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">liên tục</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">various</span>\n        <span class=\"suffix-ipa\">/ˈveəriəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">đa dạng</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">previous</span>\n        <span class=\"suffix-ipa\">/ˈpriːviəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">trước đó</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">numerous</span>\n        <span class=\"suffix-ipa\">/ˈnjuːmərəs/</span>\n    </div>\n    <div class=\"suffix-meaning\">nhiều</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-purple\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 4. –ous (trạng thái, đặc điểm)</div>\n<div class=\"suffix-grid\">\n    <div class=\"suffix-card card-purple\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">danger<span class=\"suffix-highlight\">ous</span></span>\n            <span class=\"suffix-ipa\">/ˈdeɪndʒərəs/</span>\n        </div>\n        <div class=\"suffix-meaning\">nguy hiểm</div>\n    </div>\n    <div class=\"suffix-card card-purple\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">continu<span class=\"suffix-highlight\">ous</span></span>\n            <span class=\"suffix-ipa\">/kənˈtɪnjuəs/</span>\n        </div>\n        <div class=\"suffix-meaning\">liên tục</div>\n    </div>\n    <div class=\"suffix-card card-purple\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">vari<span class=\"suffix-highlight\">ous</span></span>\n            <span class=\"suffix-ipa\">/ˈveəriəs/</span>\n        </div>\n        <div class=\"suffix-meaning\">đa dạng</div>\n    </div>\n    <div class=\"suffix-card card-purple\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">previ<span class=\"suffix-highlight\">ous</span></span>\n            <span class=\"suffix-ipa\">/ˈpriːviəs/</span>\n        </div>\n        <div class=\"suffix-meaning\">trước đó</div>\n    </div>\n    <div class=\"suffix-card card-purple\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">numer<span class=\"suffix-highlight\">ous</span></span>\n            <span class=\"suffix-ipa\">/ˈnjuːmərəs/</span>\n        </div>\n        <div class=\"suffix-meaning\">nhiều, đông đảo</div>\n    </div>\n</div>"
       },
       {
         "slide_index": 63,
         "title": "HẬU TỐ TÍNH TỪ CHỈ ĐẶC ĐIỂM – TÍNH CHẤT",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 5. –y (đặc điểm)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">busy</span>\n        <span class=\"suffix-ipa\">/ˈbɪzi/</span>\n    </div>\n    <div class=\"suffix-meaning\">bận rộn</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">risky</span>\n        <span class=\"suffix-ipa\">/ˈrɪski/</span>\n    </div>\n    <div class=\"suffix-meaning\">rủi ro</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">cozy</span>\n        <span class=\"suffix-ipa\">/ˈkəʊzi/</span>\n    </div>\n    <div class=\"suffix-meaning\">ấm cúng</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">healthy</span>\n        <span class=\"suffix-ipa\">/ˈhelθi/</span>\n    </div>\n    <div class=\"suffix-meaning\">khỏe mạnh</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">messy</span>\n        <span class=\"suffix-ipa\">/ˈmesi/</span>\n    </div>\n    <div class=\"suffix-meaning\">bừa bộn</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-pink\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 5. –y (đặc điểm)</div>\n<div class=\"suffix-grid\">\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">bus<span class=\"suffix-highlight\">y</span></span>\n            <span class=\"suffix-ipa\">/ˈbɪzi/</span>\n        </div>\n        <div class=\"suffix-meaning\">bận rộn</div>\n    </div>\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">risk<span class=\"suffix-highlight\">y</span></span>\n            <span class=\"suffix-ipa\">/ˈrɪski/</span>\n        </div>\n        <div class=\"suffix-meaning\">rủi ro</div>\n    </div>\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">coz<span class=\"suffix-highlight\">y</span></span>\n            <span class=\"suffix-ipa\">/ˈkəʊzi/</span>\n        </div>\n        <div class=\"suffix-meaning\">ấm cúng</div>\n    </div>\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">health<span class=\"suffix-highlight\">y</span></span>\n            <span class=\"suffix-ipa\">/ˈhelθi/</span>\n        </div>\n        <div class=\"suffix-meaning\">khỏe mạnh</div>\n    </div>\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">mess<span class=\"suffix-highlight\">y</span></span>\n            <span class=\"suffix-ipa\">/ˈmesi/</span>\n        </div>\n        <div class=\"suffix-meaning\">bừa bộn</div>\n    </div>\n</div>"
       },
       {
         "slide_index": 64,
         "title": "HẬU TỐ TÍNH TỪ CHỈ TRẠNG THÁI – CẢM XÚC",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 6. –ed (trạng thái, cảm xúc của người)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">satisfied</span>\n        <span class=\"suffix-ipa\">/ˈsætɪsfaɪd/</span>\n    </div>\n    <div class=\"suffix-meaning\">hài lòng</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">confused</span>\n        <span class=\"suffix-ipa\">/kənˈfjuːzd/</span>\n    </div>\n    <div class=\"suffix-meaning\">bối rối</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">interested</span>\n        <span class=\"suffix-ipa\">/ˈɪntrəstɪd/</span>\n    </div>\n    <div class=\"suffix-meaning\">quan tâm</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">experienced</span>\n        <span class=\"suffix-ipa\">/ɪkˈspɪəriənst/</span>\n    </div>\n    <div class=\"suffix-meaning\">có kinh nghiệm</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">motivated</span>\n        <span class=\"suffix-ipa\">/ˈməʊtɪveɪtɪd/</span>\n    </div>\n    <div class=\"suffix-meaning\">có động lực</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-pink\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 6. –ed (trạng thái, cảm xúc của người)</div>\n<div class=\"suffix-grid\">\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">satisfi<span class=\"suffix-highlight\">ed</span></span>\n            <span class=\"suffix-ipa\">/ˈsætɪsfaɪd/</span>\n        </div>\n        <div class=\"suffix-meaning\">hài lòng</div>\n    </div>\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">confus<span class=\"suffix-highlight\">ed</span></span>\n            <span class=\"suffix-ipa\">/kənˈfjuːzd/</span>\n        </div>\n        <div class=\"suffix-meaning\">bối rối</div>\n    </div>\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">interest<span class=\"suffix-highlight\">ed</span></span>\n            <span class=\"suffix-ipa\">/ˈɪntrəstɪd/</span>\n        </div>\n        <div class=\"suffix-meaning\">quan tâm, thích thú</div>\n    </div>\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">experienc<span class=\"suffix-highlight\">ed</span></span>\n            <span class=\"suffix-ipa\">/ɪkˈspɪəriənst/</span>\n        </div>\n        <div class=\"suffix-meaning\">có kinh nghiệm</div>\n    </div>\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">motivat<span class=\"suffix-highlight\">ed</span></span>\n            <span class=\"suffix-ipa\">/ˈməʊtɪveɪtɪd/</span>\n        </div>\n        <div class=\"suffix-meaning\">có động lực</div>\n    </div>\n</div>"
       },
       {
         "slide_index": 65,
         "title": "HẬU TỐ TÍNH TỪ CHỈ TRẠNG THÁI – CẢM XÚC",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 7. –ing (đặc điểm của sự việc, tình huống)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">confusing</span>\n        <span class=\"suffix-ipa\">/kənˈfjuːzɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">gây bối rối</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">interesting</span>\n        <span class=\"suffix-ipa\">/ˈɪntrəstɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">thú vị</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">challenging</span>\n        <span class=\"suffix-ipa\">/ˈtʃælɪndʒɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">mang tính thách thức</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">rewarding</span>\n        <span class=\"suffix-ipa\">/rɪˈwɔːdɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">đáng giá</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">time-consuming</span>\n        <span class=\"suffix-ipa\">/ˈtaɪm kənˌsjuːmɪŋ/</span>\n    </div>\n    <div class=\"suffix-meaning\">tốn thời gian</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-green\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 7. –ing (đặc điểm của sự việc, tình huống)</div>\n<div class=\"suffix-grid\">\n    <div class=\"suffix-card card-green\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">confus<span class=\"suffix-highlight\">ing</span></span>\n            <span class=\"suffix-ipa\">/kənˈfjuːzɪŋ/</span>\n        </div>\n        <div class=\"suffix-meaning\">gây bối rối</div>\n    </div>\n    <div class=\"suffix-card card-green\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">interest<span class=\"suffix-highlight\">ing</span></span>\n            <span class=\"suffix-ipa\">/ˈɪntrəstɪŋ/</span>\n        </div>\n        <div class=\"suffix-meaning\">thú vị</div>\n    </div>\n    <div class=\"suffix-card card-green\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">challeng<span class=\"suffix-highlight\">ing</span></span>\n            <span class=\"suffix-ipa\">/ˈtʃælɪndʒɪŋ/</span>\n        </div>\n        <div class=\"suffix-meaning\">mang tính thách thức</div>\n    </div>\n    <div class=\"suffix-card card-green\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">reward<span class=\"suffix-highlight\">ing</span></span>\n            <span class=\"suffix-ipa\">/rɪˈwɔːdɪŋ/</span>\n        </div>\n        <div class=\"suffix-meaning\">bổ ích, đáng giá</div>\n    </div>\n    <div class=\"suffix-card card-green\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">time-consum<span class=\"suffix-highlight\">ing</span></span>\n            <span class=\"suffix-ipa\">/ˈtaɪm kənˌsjuːmɪŋ/</span>\n        </div>\n        <div class=\"suffix-meaning\">tốn thời gian</div>\n    </div>\n</div>"
       },
       {
         "slide_index": 66,
         "title": "MỘT SỐ HẬU TỐ KHÁC",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 8. –ful (có, đầy)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">useful</span>\n        <span class=\"suffix-ipa\">/ˈjuːsfl/</span>\n    </div>\n    <div class=\"suffix-meaning\">hữu ích</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">successful</span>\n        <span class=\"suffix-ipa\">/səkˈsesfl/</span>\n    </div>\n    <div class=\"suffix-meaning\">thành công</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">careful</span>\n        <span class=\"suffix-ipa\">/ˈkeəfl/</span>\n    </div>\n    <div class=\"suffix-meaning\">cẩn thận</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">helpful</span>\n        <span class=\"suffix-ipa\">/ˈhelpfl/</span>\n    </div>\n    <div class=\"suffix-meaning\">giúp ích</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">meaningful</span>\n        <span class=\"suffix-ipa\">/ˈmiːnɪŋfl/</span>\n    </div>\n    <div class=\"suffix-meaning\">có ý nghĩa</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-gold\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 8. –ful (có, tràn đầy)</div>\n<div class=\"suffix-grid\">\n    <div class=\"suffix-card card-gold\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">use<span class=\"suffix-highlight\">ful</span></span>\n            <span class=\"suffix-ipa\">/ˈjuːsfl/</span>\n        </div>\n        <div class=\"suffix-meaning\">hữu ích</div>\n    </div>\n    <div class=\"suffix-card card-gold\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">success<span class=\"suffix-highlight\">ful</span></span>\n            <span class=\"suffix-ipa\">/səkˈsesfl/</span>\n        </div>\n        <div class=\"suffix-meaning\">thành công</div>\n    </div>\n    <div class=\"suffix-card card-gold\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">care<span class=\"suffix-highlight\">ful</span></span>\n            <span class=\"suffix-ipa\">/ˈkeəfl/</span>\n        </div>\n        <div class=\"suffix-meaning\">cẩn thận</div>\n    </div>\n    <div class=\"suffix-card card-gold\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">help<span class=\"suffix-highlight\">ful</span></span>\n            <span class=\"suffix-ipa\">/ˈhelpfl/</span>\n        </div>\n        <div class=\"suffix-meaning\">giúp ích</div>\n    </div>\n    <div class=\"suffix-card card-gold\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">meaning<span class=\"suffix-highlight\">ful</span></span>\n            <span class=\"suffix-ipa\">/ˈmiːnɪŋfl/</span>\n        </div>\n        <div class=\"suffix-meaning\">có ý nghĩa</div>\n    </div>\n</div>"
       },
       {
         "slide_index": 67,
         "title": "MỘT SỐ HẬU TỐ KHÁC",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 9. –less (không có)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">useless</span>\n        <span class=\"suffix-ipa\">/ˈjuːsləs/</span>\n    </div>\n    <div class=\"suffix-meaning\">vô dụng</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">careless</span>\n        <span class=\"suffix-ipa\">/ˈkeələs/</span>\n    </div>\n    <div class=\"suffix-meaning\">bất cẩn</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">harmless</span>\n        <span class=\"suffix-ipa\">/ˈhɑːmləs/</span>\n    </div>\n    <div class=\"suffix-meaning\">vô hại</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">hopeless</span>\n        <span class=\"suffix-ipa\">/ˈhəʊpləs/</span>\n    </div>\n    <div class=\"suffix-meaning\">vô vọng</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">powerless</span>\n        <span class=\"suffix-ipa\">/ˈpaʊələs/</span>\n    </div>\n    <div class=\"suffix-meaning\">bất lực</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-pink\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 9. –less (không có, thiếu)</div>\n<div class=\"suffix-grid\">\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">use<span class=\"suffix-highlight\">less</span></span>\n            <span class=\"suffix-ipa\">/ˈjuːsləs/</span>\n        </div>\n        <div class=\"suffix-meaning\">vô dụng</div>\n    </div>\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">care<span class=\"suffix-highlight\">less</span></span>\n            <span class=\"suffix-ipa\">/ˈkeələs/</span>\n        </div>\n        <div class=\"suffix-meaning\">bất cẩn</div>\n    </div>\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">harm<span class=\"suffix-highlight\">less</span></span>\n            <span class=\"suffix-ipa\">/ˈhɑːmləs/</span>\n        </div>\n        <div class=\"suffix-meaning\">vô hại</div>\n    </div>\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">hope<span class=\"suffix-highlight\">less</span></span>\n            <span class=\"suffix-ipa\">/ˈhəʊpləs/</span>\n        </div>\n        <div class=\"suffix-meaning\">vô vọng</div>\n    </div>\n    <div class=\"suffix-card card-pink\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">power<span class=\"suffix-highlight\">less</span></span>\n            <span class=\"suffix-ipa\">/ˈpaʊələs/</span>\n        </div>\n        <div class=\"suffix-meaning\">bất lực, không có quyền</div>\n    </div>\n</div>"
       },
       {
         "slide_index": 68,
         "title": "MỘT SỐ HẬU TỐ KHÁC",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 10. –ic / –ical (liên quan đến lĩnh vực)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">economic</span>\n        <span class=\"suffix-ipa\">/ˌiːkəˈnɒmɪk/</span>\n    </div>\n    <div class=\"suffix-meaning\">thuộc kinh tế</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">electronic</span>\n        <span class=\"suffix-ipa\">/ɪˌlekˈtrɒnɪk/</span>\n    </div>\n    <div class=\"suffix-meaning\">điện tử</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">technical</span>\n        <span class=\"suffix-ipa\">/ˈteknɪkl/</span>\n    </div>\n    <div class=\"suffix-meaning\">kỹ thuật</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">practical</span>\n        <span class=\"suffix-ipa\">/ˈpræktɪkl/</span>\n    </div>\n    <div class=\"suffix-meaning\">thực tế</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">logical</span>\n        <span class=\"suffix-ipa\">/ˈlɒdʒɪkl/</span>\n    </div>\n    <div class=\"suffix-meaning\">hợp lý</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 10. –ic / –ical (liên quan đến lĩnh vực)</div>\n<div class=\"suffix-grid\">\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">econom<span class=\"suffix-highlight\">ic</span></span>\n            <span class=\"suffix-ipa\">/ˌiːkəˈnɒmɪk/</span>\n        </div>\n        <div class=\"suffix-meaning\">thuộc kinh tế</div>\n    </div>\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">electron<span class=\"suffix-highlight\">ic</span></span>\n            <span class=\"suffix-ipa\">/ɪˌlekˈtrɒnɪk/</span>\n        </div>\n        <div class=\"suffix-meaning\">điện tử</div>\n    </div>\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">techn<span class=\"suffix-highlight\">ical</span></span>\n            <span class=\"suffix-ipa\">/ˈteknɪkl/</span>\n        </div>\n        <div class=\"suffix-meaning\">kỹ thuật</div>\n    </div>\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">pract<span class=\"suffix-highlight\">ical</span></span>\n            <span class=\"suffix-ipa\">/ˈpræktɪkl/</span>\n        </div>\n        <div class=\"suffix-meaning\">thực tế</div>\n    </div>\n    <div class=\"suffix-card\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">log<span class=\"suffix-highlight\">ical</span></span>\n            <span class=\"suffix-ipa\">/ˈlɒdʒɪkl/</span>\n        </div>\n        <div class=\"suffix-meaning\">hợp lý, logic</div>\n    </div>\n</div>"
       },
       {
         "slide_index": 69,
         "title": "MỘT SỐ HẬU TỐ KHÁC",
         "is_html": true,
-        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-bookmark\" style=\"margin-right: 6px;\"></i> 11. –ly (chỉ có MỘT SỐ là TÍNH TỪ)</div><div class=\"suffix-grid\"><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">likely</span>\n        <span class=\"suffix-ipa\">/ˈlaɪkli/</span>\n    </div>\n    <div class=\"suffix-meaning\">có khả năng</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">friendly</span>\n        <span class=\"suffix-ipa\">/ˈfrendli/</span>\n    </div>\n    <div class=\"suffix-meaning\">thân thiện</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">costly</span>\n        <span class=\"suffix-ipa\">/ˈkɒstli/</span>\n    </div>\n    <div class=\"suffix-meaning\">tốn kém</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">daily</span>\n        <span class=\"suffix-ipa\">/ˈdeɪli/</span>\n    </div>\n    <div class=\"suffix-meaning\">hàng ngày</div>\n</div><div class=\"suffix-card\">\n    <div class=\"suffix-word-row\">\n        <span class=\"suffix-word\">timely</span>\n        <span class=\"suffix-ipa\">/ˈtaɪmli/</span>\n    </div>\n    <div class=\"suffix-meaning\">kịp thời, đúng lúc</div>\n</div></div>"
+        "html_content": "<div class=\"suffix-header-badge badge-gold\"><i class=\"fa-solid fa-triangle-exclamation\" style=\"margin-right: 6px;\"></i> 11. –ly (chỉ có MỘT SỐ từ là TÍNH TỪ)</div>\n<div class=\"suffix-grid\">\n    <div class=\"suffix-card card-gold\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">like<span class=\"suffix-highlight\">ly</span></span>\n            <span class=\"suffix-ipa\">/ˈlaɪkli/</span>\n        </div>\n        <div class=\"suffix-meaning\">có khả năng</div>\n    </div>\n    <div class=\"suffix-card card-gold\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">friend<span class=\"suffix-highlight\">ly</span></span>\n            <span class=\"suffix-ipa\">/ˈfrendli/</span>\n        </div>\n        <div class=\"suffix-meaning\">thân thiện</div>\n    </div>\n    <div class=\"suffix-card card-gold\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">cost<span class=\"suffix-highlight\">ly</span></span>\n            <span class=\"suffix-ipa\">/ˈkɒstli/</span>\n        </div>\n        <div class=\"suffix-meaning\">đắt đỏ, tốn kém</div>\n    </div>\n    <div class=\"suffix-card card-gold\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">dai<span class=\"suffix-highlight\">ly</span></span>\n            <span class=\"suffix-ipa\">/ˈdeɪli/</span>\n        </div>\n        <div class=\"suffix-meaning\">hàng ngày</div>\n    </div>\n    <div class=\"suffix-card card-gold\">\n        <div class=\"suffix-word-row\">\n            <span class=\"suffix-word\">time<span class=\"suffix-highlight\">ly</span></span>\n            <span class=\"suffix-ipa\">/ˈtaɪmli/</span>\n        </div>\n        <div class=\"suffix-meaning\">kịp thời, đúng lúc</div>\n    </div>\n</div>"
       },
       {
         "slide_index": 70,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>This instruction manual is very ____ for new employees.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-bookmark\"></i> 1. Nhận dạng tính từ qua HẬU TỐ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau liên động từ <code>is</code> và trạng từ mức độ <code>very</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S + is + very + ADJ</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">This instruction manual is <span class=\"hl-purple\" style=\"font-weight:700;\">very</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> for new employees.</div>\n</div>",
         "options": {
           "A": "help",
           "B": "helpful",
@@ -1531,20 +1531,20 @@ const toeicReadingData = [
           "D": "helping"
         },
         "correct_answer": "B",
-        "explanation_html": "Đứng sau trạng từ chỉ mức độ \"very\" và liên động từ \"is\" là tính từ (Adj). \"helpful\" (có ích/giúp ích) phù hợp về nghĩa."
+        "explanation_html": "Đứng sau trạng từ chỉ mức độ <code>very</code> và liên động từ <code>is</code> là một <strong>tính từ</strong>. Hậu tố <code>-ful</code> mang nghĩa có ích: chọn tính từ <strong class=\"hl-vocab\">helpful</strong> <em>(có ích / hữu ích)</em> phù hợp ngữ cảnh."
       },
       {
         "slide_index": 71,
-        "title": "II. NHẬN DẠNG",
+        "title": "II. NHẬN DẠNG TÍNH TỪ",
         "is_html": true,
-        "html_content": "<strong><span class=\"hl-orange\">2</span></strong><strong><span class=\"hl-orange\">. Nhận dạng TÍNH</span></strong><strong><span class=\"hl-orange\"> TỪ </span></strong><strong><span class=\"hl-orange\">qua VỊ TRÍ TRONG CÂU</span></strong><br><strong><span class=\"hl-blue\">2.1. Tính từ đứng </span></strong><strong><span class=\"hl-blue\">TRƯỚC DANH TỪ</span></strong><br><strong>Dấu hiệu nhận diện:</strong><br>Chỗ trống <strong><span class=\"hl-yellow\">đứng ngay trước danh từ</span></strong><br>Thường <strong><span class=\"hl-yellow\">đứng sau từ hạn định</span></strong>: <strong><span class=\"hl-red\">MẠO TỪ</span></strong> (a / an / the), <strong><span class=\"hl-red\">TỪ CHỈ ĐỊNH </span></strong>(<span class=\"hl-cyan\">this</span> / <span class=\"hl-cyan\">that</span> / <span class=\"hl-cyan\">these</span> / <span class=\"hl-cyan\">those</span>), <strong><span class=\"hl-red\">TÍNH TỪ SỞ HỮU </span></strong>(<span class=\"hl-green\">my</span> / <span class=\"hl-green\">our</span> / <span class=\"hl-green\">their</span>,<span class=\"hl-green\"> </span>…), <strong><span class=\"hl-red\">LƯỢNG TỪ </span></strong>(<span class=\"hl-green\">some</span> / <span class=\"hl-green\">many</span> / <span class=\"hl-green\">two</span>, …)<br><span class=\"hl-red\">→ Cấu trúc nền tảng: </span><strong>determiner</strong><strong> </strong><strong>+ </strong><strong><span class=\"hl-red\">adj </span></strong><strong>+ n. </strong>"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 2. Nhận dạng tính từ qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout\">\n    <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.1. Tính từ đứng TRƯỚC DANH TỪ</span>\n    <div style=\"margin-top: 10px; font-weight: 700; color: var(--color-cyan);\"><i class=\"fa-solid fa-magnifying-glass\"></i> Dấu hiệu nhận diện:</div>\n    <div style=\"margin-top: 6px;\">Chỗ trống <strong>đứng ngay trước danh từ</strong> để bổ nghĩa cho danh từ đó, và thường theo sau các <strong>từ hạn định</strong>:</div>\n    <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n        <span class=\"pos-tag\">Mạo từ: a / an / the</span>\n        <span class=\"pos-tag tag-purple\">Chỉ định: this / that / these / those</span>\n        <span class=\"pos-tag tag-pink\">Sở hữu: my / our / their / its...</span>\n        <span class=\"pos-tag tag-gold\">Lượng từ: some / many / several / two...</span>\n    </div>\n    <div style=\"margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--border-color);\">\n        <i class=\"fa-solid fa-gears\" style=\"color: var(--color-gold);\"></i> <strong>Cấu trúc nền tảng:</strong> <span class=\"hl-box\">determiner + ADJ + noun</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 72,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The company released a ____ report.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.1. Tính từ đứng TRƯỚC DANH TỪ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau mạo từ <code>a</code> và ngay trước danh từ <code>report</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">a + ADJ + noun</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The company released a <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-cyan\">report</span>.</div>\n</div>",
         "options": {
           "A": "analyze",
           "B": "analysis",
@@ -1552,20 +1552,20 @@ const toeicReadingData = [
           "D": "analytically"
         },
         "correct_answer": "C",
-        "explanation_html": "Cần tính từ đứng trước danh từ \"report\" để bổ nghĩa cho danh từ đó. \"analytical\" (mang tính phân tích) là tính từ."
+        "explanation_html": "Cần <strong>tính từ</strong> đứng trước danh từ <code>report</code> để bổ nghĩa cho danh từ đó. Hậu tố <code>-ical</code> biểu thị tính từ: chọn <strong class=\"hl-vocab\">analytical</strong> <em>(mang tính phân tích)</em>."
       },
       {
         "slide_index": 73,
-        "title": "II. NHẬN DẠNG",
+        "title": "II. NHẬN DẠNG TÍNH TỪ",
         "is_html": true,
-        "html_content": "<strong><span class=\"hl-orange\">2</span></strong><strong><span class=\"hl-orange\">. Nhận dạng TÍNH</span></strong><strong><span class=\"hl-orange\"> TỪ </span></strong><strong><span class=\"hl-orange\">qua VỊ TRÍ TRONG CÂU</span></strong><br><strong><span class=\"hl-blue\">2.2. Tính từ đứng </span></strong><strong><span class=\"hl-blue\">SAU ĐỘNG TỪ LIÊN KẾT</span></strong><br><strong>Dấu hiệu nhận diện:</strong><br>Chỗ trống đứng sau động từ liên kết (tobe, seem, appear, become, remain, stay, look, sound, …)<br><strong>KHÔNG</strong> có tân ngữ phía sau<br><span class=\"hl-red\">→ Cấu trúc nền tảng: </span><strong>S </strong><strong>+ linking verb</strong><strong> +</strong><strong> </strong><strong><span class=\"hl-red\">adj</span></strong><strong>. </strong>"
+        "html_content": "<div class=\"suffix-header-badge badge-purple\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 2. Nhận dạng tính từ qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout callout-purple\">\n    <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-link\"></i> 2.2. Tính từ đứng SAU ĐỘNG TỪ LIÊN KẾT (Linking Verbs)</span>\n    <div style=\"margin-top: 10px; font-weight: 700; color: var(--color-purple);\"><i class=\"fa-solid fa-magnifying-glass\"></i> Dấu hiệu nhận diện:</div>\n    <div style=\"margin-top: 6px;\">Chỗ trống đứng ngay sau các động từ liên kết và <strong>KHÔNG có tân ngữ</strong> phía sau:</div>\n    <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n        <span class=\"pos-tag tag-purple\">tobe: am / is / are / was / were</span>\n        <span class=\"pos-tag tag-purple\">seem / appear (dường như)</span>\n        <span class=\"pos-tag tag-purple\">become / get (trở nên)</span>\n        <span class=\"pos-tag tag-purple\">remain / stay (vẫn duy trì)</span>\n        <span class=\"pos-tag tag-purple\">look / sound / taste / feel (cảm quan)</span>\n    </div>\n    <div style=\"margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--border-color);\">\n        <i class=\"fa-solid fa-gears\" style=\"color: var(--color-gold);\"></i> <strong>Cấu trúc nền tảng:</strong> <span class=\"hl-box\">S + linking verb + ADJ</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 74,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The office looks ____ after the renovation.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.2. Tính từ đứng SAU ĐỘNG TỪ LIÊN KẾT</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau động từ liên kết <code>looks</code>, không có tân ngữ.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S + look / seem / remain + ADJ</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The office <span class=\"hl-cyan\">looks</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> after the renovation.</div>\n</div>",
         "options": {
           "A": "professionally",
           "B": "professional",
@@ -1573,20 +1573,20 @@ const toeicReadingData = [
           "D": "professionalize"
         },
         "correct_answer": "B",
-        "explanation_html": "Động từ chỉ trạng thái (linking verb) \"looks\" yêu cầu đi kèm với tính từ (Adj) ở phía sau -> \"professional\" (chuyên nghiệp)."
+        "explanation_html": "Động từ liên kết chỉ trạng thái / cảm quan <code>looks</code> yêu cầu theo sau là một <strong>tính từ</strong> miêu tả chủ ngữ <code>The office</code> → chọn tính từ <strong class=\"hl-vocab\">professional</strong> <em>(chuyên nghiệp)</em>."
       },
       {
         "slide_index": 75,
-        "title": "II. NHẬN DẠNG",
+        "title": "II. NHẬN DẠNG TÍNH TỪ",
         "is_html": true,
-        "html_content": "<strong><span class=\"hl-orange\">2. Nhận dạng TÍNH TỪ qua VỊ TRÍ TRONG CÂU</span></strong><br><strong><span class=\"hl-blue\">2</span></strong><strong><span class=\"hl-blue\">.3. Tính từ đứng </span></strong><strong><span class=\"hl-blue\">SAU TRẠNG</span></strong><strong><span class=\"hl-blue\"> TỪ</span></strong><br><strong>Dấu hiệu nhận diện:</strong><br>Chỗ trống đứng sau trạng từ: <em>very, quite, too, extremely, rather, fairly…</em><br>Trước đó là động từ liên kết<br><span class=\"hl-red\">→ Cấu trúc nền: </span><strong>S </strong><strong>+ linking</strong><strong> verb + adv </strong><strong>+ </strong><strong><span class=\"hl-red\">adj</span></strong><strong>. </strong>"
+        "html_content": "<div class=\"suffix-header-badge badge-pink\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 2. Nhận dạng tính từ qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout callout-pink\">\n    <span class=\"slide-badge-pink\"><i class=\"fa-solid fa-chart-line\"></i> 2.3. Tính từ đứng SAU TRẠNG TỪ MỨC ĐỘ</span>\n    <div style=\"margin-top: 10px; font-weight: 700; color: var(--color-pink);\"><i class=\"fa-solid fa-magnifying-glass\"></i> Dấu hiệu nhận diện:</div>\n    <div style=\"margin-top: 6px;\">Chỗ trống đứng sau các trạng từ chỉ mức độ phổ biến trong bài thi TOEIC:</div>\n    <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n        <span class=\"pos-tag tag-pink\">very</span>\n        <span class=\"pos-tag tag-pink\">quite</span>\n        <span class=\"pos-tag tag-pink\">extremely</span>\n        <span class=\"pos-tag tag-pink\">rather</span>\n        <span class=\"pos-tag tag-pink\">fairly</span>\n        <span class=\"pos-tag tag-pink\">highly</span>\n        <span class=\"pos-tag tag-pink\">exceptionally</span>\n    </div>\n    <div style=\"margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--border-color);\">\n        <i class=\"fa-solid fa-gears\" style=\"color: var(--color-gold);\"></i> <strong>Cấu trúc nền tảng:</strong> <span class=\"hl-box\">S + linking verb + ADV + ADJ</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 76,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The training session was quite ____ for new employees.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-pink\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.3. Tính từ đứng SAU TRẠNG TỪ MỨC ĐỘ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau động từ to be <code>was</code> và trạng từ mức độ <code>quite</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">was + quite + ADJ</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The training session was <span class=\"hl-purple\" style=\"font-weight:700;\">quite</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> for new employees.</div>\n</div>",
         "options": {
           "A": "benefit",
           "B": "beneficial",
@@ -1594,20 +1594,20 @@ const toeicReadingData = [
           "D": "benefiting"
         },
         "correct_answer": "B",
-        "explanation_html": "Đứng sau liên động từ \"was\" và trạng từ mức độ \"quite\" là một tính từ -> \"beneficial\" (có lợi)."
+        "explanation_html": "Đứng sau liên động từ <code>was</code> và trạng từ mức độ <code>quite</code> là một <strong>tính từ</strong> → chọn <strong class=\"hl-vocab\">beneficial</strong> <em>(có lợi, bổ ích)</em>."
       },
       {
         "slide_index": 77,
-        "title": "II. NHẬN DẠNG",
+        "title": "II. NHẬN DẠNG TÍNH TỪ",
         "is_html": true,
-        "html_content": "<strong><span class=\"hl-orange\">2. Nhận dạng TÍNH TỪ qua VỊ TRÍ TRONG CÂU</span></strong><br><strong><span class=\"hl-blue\">2</span></strong><strong><span class=\"hl-blue\">.4. Tính từ đứng </span></strong><strong><span class=\"hl-blue\">TRƯỚC ENOUGH</span></strong><br><strong>Dấu hiệu nhận diện:</strong><br>Chỗ trống đứng trước enough<br>Trước đó là động từ liên kết<br><span class=\"hl-red\">→ Cấu trúc nền tảng: </span><strong>S </strong><strong>+ linking</strong><strong> verb </strong><strong>+ </strong><strong><span class=\"hl-red\">adj</span></strong><strong> + enough (+ to V / for N).</strong>"
+        "html_content": "<div class=\"suffix-header-badge badge-gold\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 2. Nhận dạng tính từ qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout callout-gold\">\n    <span class=\"slide-badge-gold\" style=\"color: var(--color-gold);\"><i class=\"fa-solid fa-circle-check\"></i> 2.4. Tính từ đứng TRƯỚC ENOUGH</span>\n    <div style=\"margin-top: 10px; font-weight: 700; color: var(--color-gold);\"><i class=\"fa-solid fa-magnifying-glass\"></i> Dấu hiệu nhận diện:</div>\n    <div style=\"margin-top: 6px;\">Chỗ trống đứng ngay trước từ <code>enough</code>, và phía trước là động từ liên kết:</div>\n    <div style=\"margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--border-color);\">\n        <i class=\"fa-solid fa-gears\" style=\"color: var(--color-gold);\"></i> <strong>Cấu trúc nền tảng:</strong> <span class=\"hl-box\">S + linking verb + ADJ + enough (+ to V / for N)</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 78,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The meeting room is ____ enough for all participants.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-gold\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.4. Tính từ đứng TRƯỚC ENOUGH</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau động từ <code>is</code> và đứng ngay trước <code>enough</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">is + ADJ + enough</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The meeting room is <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-yellow\" style=\"font-weight:700;\">enough</span> for all participants.</div>\n</div>",
         "options": {
           "A": "space",
           "B": "spacious",
@@ -1615,20 +1615,20 @@ const toeicReadingData = [
           "D": "spaceness"
         },
         "correct_answer": "B",
-        "explanation_html": "Cấu trúc: [Adj] + enough (đủ... để làm gì). Đứng trước \"enough\" và sau động từ to be \"is\" là tính từ -> \"spacious\" (rộng rãi)."
+        "explanation_html": "Cấu trúc: <code>[Adj] + enough</code> <em>(đủ... để làm gì)</em>. Đứng trước <code>enough</code> và sau động từ to be <code>is</code> là <strong>tính từ</strong> → chọn <strong class=\"hl-vocab\">spacious</strong> <em>(rộng rãi)</em>."
       },
       {
         "slide_index": 79,
-        "title": "II. NHẬN DẠNG",
+        "title": "II. NHẬN DẠNG TÍNH TỪ",
         "is_html": true,
-        "html_content": "<strong><span class=\"hl-orange\">2. Nhận dạng TÍNH TỪ qua VỊ TRÍ TRONG CÂU</span></strong><br><strong><span class=\"hl-blue\">2</span></strong><strong><span class=\"hl-blue\">.5. Tính từ đứng </span></strong><strong><span class=\"hl-blue\">SAU TÂN</span></strong><strong><span class=\"hl-blue\"> NGỮ</span></strong><br><strong>Dấu hiệu nhận diện:</strong><br>Chỗ trống đứng <strong>sau tân ngữ</strong>(thuờng là danh từ)<br>Trước đó là các động từ: <em>make, find, keep, consider, leave, render </em><br><span class=\"hl-red\">→ Cấu trúc nền: </span><strong>S + V </strong><strong>+ O </strong><strong>+ </strong><strong><span class=\"hl-red\">adj</span></strong><strong>. </strong>"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 2. Nhận dạng tính từ qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout\">\n    <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-cubes-stacked\"></i> 2.5. Tính từ đứng SAU TÂN NGỮ</span>\n    <div style=\"margin-top: 10px; font-weight: 700; color: var(--color-cyan);\"><i class=\"fa-solid fa-magnifying-glass\"></i> Dấu hiệu nhận diện:</div>\n    <div style=\"margin-top: 6px;\">Chỗ trống đứng <strong>sau tân ngữ (thường là danh từ)</strong> của các ngoại động từ đặc biệt:</div>\n    <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n        <span class=\"pos-tag\">make + O + ADJ (làm cho...)</span>\n        <span class=\"pos-tag tag-purple\">find + O + ADJ (nhận thấy...)</span>\n        <span class=\"pos-tag tag-pink\">keep + O + ADJ (giữ cho...)</span>\n        <span class=\"pos-tag tag-gold\">consider + O + ADJ (coi như...)</span>\n        <span class=\"pos-tag\">leave + O + ADJ (để cho...)</span>\n    </div>\n    <div style=\"margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--border-color);\">\n        <i class=\"fa-solid fa-gears\" style=\"color: var(--color-gold);\"></i> <strong>Cấu trúc nền tảng:</strong> <span class=\"hl-box\">S + V (make/keep/find/consider) + O + ADJ</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 80,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The new policy makes employees ____ at work.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.5. Tính từ đứng SAU TÂN NGỮ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau tân ngữ <code>employees</code> theo sau động từ <code>makes</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">make + O + ADJ</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The new policy <span class=\"hl-purple\" style=\"font-weight:700;\">makes</span> <span class=\"hl-cyan\">employees</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> at work.</div>\n</div>",
         "options": {
           "A": "efficiency",
           "B": "efficiently",
@@ -1636,25 +1636,25 @@ const toeicReadingData = [
           "D": "efficientness"
         },
         "correct_answer": "C",
-        "explanation_html": "Cấu trúc: make + tân ngữ (O) + tính từ (Adj) (làm cho ai/cái gì trở nên như thế nào). Do đó ta chọn tính từ -> \"efficient\" (hiệu quả)."
+        "explanation_html": "Cấu trúc: <code>make + O + [Adj]</code> <em>(làm cho ai/cái gì trở nên như thế nào)</em>. Tân ngữ là <code>employees</code>, do đó ta cần một <strong>tính từ</strong> bổ nghĩa trạng thái → chọn <strong class=\"hl-vocab\">efficient</strong> <em>(hiệu quả, năng suất)</em>."
       },
       {
         "slide_index": 81,
-        "title": "5 vị trí cốt lõi của TÍNH TỪ:",
+        "title": "TỔNG KẾT: 5 VỊ TRÍ CỐT LÕI CỦA TÍNH TỪ",
         "is_html": true,
-        "html_content": "<strong>1. Trước danh từ</strong> → determiner + <span class=\"hl-red\">adj</span> + noun ✔<br><strong>2. Sau động từ liên kết</strong> → S + linking verb + <span class=\"hl-red\">adj</span> ✔<br><strong>3. Sau trạng từ mức độ</strong> → S + linking verb + adv + <span class=\"hl-red\">adj</span> ✔<br><strong>4. Sau tân ngữ </strong> → S + V + O + <span class=\"hl-red\">adj</span> ✔<br><strong>5. Trước enough</strong> → <span class=\"hl-red\">adj</span> + enough (+ to V / for N) ✔"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> Tổng kết 5 vị trí nhận diện TÍNH TỪ nhanh trong TOEIC Part 5</div>\n<div class=\"verb-pattern-grid\" style=\"margin-top: 14px;\">\n    <div class=\"verb-pattern-item\"><div class=\"verb-phrase\"><span class=\"hl-core\">1. Trước Danh từ</span></div><div class=\"verb-meaning\"><code>determiner + ADJ + noun</code></div></div>\n    <div class=\"verb-pattern-item theme-purple\"><div class=\"verb-phrase\"><span class=\"hl-core-purple\">2. Sau Linking Verbs</span></div><div class=\"verb-meaning\"><code>S + linking verb + ADJ</code></div></div>\n    <div class=\"verb-pattern-item theme-pink\"><div class=\"verb-phrase\"><span class=\"hl-core-pink\">3. Sau Trạng từ mức độ</span></div><div class=\"verb-meaning\"><code>S + linking verb + adv + ADJ</code></div></div>\n    <div class=\"verb-pattern-item theme-orange\"><div class=\"verb-phrase\"><span class=\"hl-vocab\">4. Sau Tân ngữ (make/keep)</span></div><div class=\"verb-meaning\"><code>S + V + O + ADJ</code></div></div>\n    <div class=\"verb-pattern-item\"><div class=\"verb-phrase\"><span class=\"hl-core\">5. Trước Enough</span></div><div class=\"verb-meaning\"><code>ADJ + enough (+ to V)</code></div></div>\n</div>\n<div class=\"slide-callout callout-green\" style=\"margin-top: 16px;\">\n    <i class=\"fa-solid fa-circle-check\" style=\"color: var(--color-success);\"></i> <strong>Quy tắc phản xạ:</strong> Chỉ cần xác định được 1 trong 5 cấu trúc trên, lập tức chọn ngay <strong>TÍNH TỪ</strong> mà không cần bận tâm các phương án khác!\n</div>"
       },
       {
         "slide_index": 82,
-        "title": "LƯU Ý QUAN TRỌNG:",
+        "title": "LƯU Ý 01: PHÂN BIỆT TÍNH TỪ VS V₃/ED",
         "is_html": true,
-        "html_content": "👉 Trong PART 05, <strong>tính từ thường bị nhầm</strong> với <strong>V</strong><strong>3</strong><strong>ed</strong> và <strong>trạng từ (–ly)</strong>.<br>Cách phân biệt <strong>chỉ dựa vào VỊ TRÍ</strong>, không cần dịch nghĩa.<br><strong><span class=\"hl-cyan\">1️⃣ TÍNH TỪ vs V</span></strong><strong><span class=\"hl-cyan\">3</span></strong><strong><span class=\"hl-cyan\">ed</span></strong><strong><span class=\"hl-cyan\"> (bị động)</span></strong><br>Không có <strong>“by + tác nhân”</strong> → <strong>TÍNH TỪ</strong><br>Có <strong>“by + tác nhân”</strong> → <strong>V</strong><strong>3</strong><strong>ed</strong><strong> (bị động)</strong><br><strong>Example:</strong><br>The office door is <strong>closed</strong>. → <em>tính từ</em><br>The office door was <strong>closed</strong> <strong>by staff</strong>. → <em>bị động</em>"
+        "html_content": "<div class=\"slide-callout callout-purple\">\n    <div style=\"font-size: 1.1rem;\">\n        <i class=\"fa-solid fa-triangle-exclamation\" style=\"color: var(--color-purple);\"></i> Trong Part 5, <strong>tính từ thường bị nhầm</strong> với <strong>V₃/ed (dạng bị động)</strong>. Cách phân biệt chỉ dựa vào <strong>VỊ TRÍ & TÁC NHÂN</strong>, không cần dịch nghĩa:\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-cyan);\">\n        <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-tag\"></i> 1. TÍNH TỪ THUẦN</span>\n        <div style=\"font-size: 0.95rem; margin-top: 8px; color: var(--text-secondary); line-height: 1.6;\">\n            <strong>Không có</strong> <code>by + tác nhân</code> phía sau → Diễn tả <strong>trạng thái hiện có</strong> của chủ ngữ.\n        </div>\n        <div style=\"margin-top: 10px; padding: 8px 12px; background: rgba(0, 242, 254, 0.05); border-radius: 8px; font-size: 0.95rem;\">\n            The office door is <strong class=\"hl-cyan\">closed</strong>.<br>\n            <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ closed = tính từ (cửa đang đóng)</span>\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-purple);\">\n        <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-gears\"></i> 2. V₃/ed (BỊ ĐỘNG)</span>\n        <div style=\"font-size: 0.95rem; margin-top: 8px; color: var(--text-secondary); line-height: 1.6;\">\n            <strong>Có</strong> <code>by + tác nhân</code> phía sau → Nhấn mạnh <strong>hành động được thực hiện</strong> bởi ai đó.\n        </div>\n        <div style=\"margin-top: 10px; padding: 8px 12px; background: rgba(168, 85, 247, 0.05); border-radius: 8px; font-size: 0.95rem;\">\n            The office door was <strong class=\"hl-purple\">closed</strong> <span class=\"hl-yellow\">by staff</span>.<br>\n            <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ closed = động từ bị động (được đóng bởi NV)</span>\n        </div>\n    </div>\n</div>"
       },
       {
         "slide_index": 83,
-        "title": "LƯU Ý QUAN TRỌNG:",
+        "title": "LƯU Ý 02: PHÂN BIỆT TÍNH TỪ VS TRẠNG TỪ",
         "is_html": true,
-        "html_content": "👉 Trong PART 05, <strong>tính từ thường bị nhầm</strong> với <strong>V</strong><strong>3</strong><strong>ed</strong> và <strong>trạng từ (–ly)</strong>.<br>Cách phân biệt <strong>chỉ dựa vào VỊ TRÍ</strong>, không cần dịch nghĩa.<br><strong><span class=\"hl-cyan\">2️⃣ TÍNH TỪ vs TRẠNG TỪ</span></strong><br>Sau<strong> động từ liên kết </strong>→ <strong>TÍNH TỪ</strong><br>Sau <strong>động từ chỉ hành động</strong> → <strong>TRẠNG TỪ</strong><br><strong>Example:</strong><br>The instructions are <strong>clear</strong>.<br>The instructions were explained <strong>clearly</strong>."
+        "html_content": "<div class=\"slide-callout callout-gold\">\n    <div style=\"font-size: 1.1rem;\">\n        <i class=\"fa-solid fa-scale-balanced\" style=\"color: var(--color-gold);\"></i> <strong>Quy tắc cốt lõi:</strong> Phân biệt Tính từ và Trạng từ dựa vào <strong>loại động từ</strong> đứng trước:\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-cyan);\">\n        <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-link\"></i> ĐỘNG TỪ LIÊN KẾT (Linking Verb)</span>\n        <div style=\"font-size: 0.95rem; margin-top: 8px; color: var(--text-secondary); line-height: 1.6;\">\n            Sau <strong>linking verb</strong> <em>(be, seem, look, remain, become...)</em> → Bắt buộc dùng <strong class=\"hl-cyan\">TÍNH TỪ</strong> để miêu tả chủ ngữ.\n        </div>\n        <div style=\"margin-top: 10px; padding: 8px 12px; background: rgba(0, 242, 254, 0.05); border-radius: 8px; font-size: 0.95rem;\">\n            The instructions are <strong class=\"hl-cyan\">clear</strong>.<br>\n            <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ clear = tính từ bổ nghĩa cho instructions</span>\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-purple);\">\n        <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-person-running\"></i> ĐỘNG TỪ HÀNH ĐỘNG (Action Verb)</span>\n        <div style=\"font-size: 0.95rem; margin-top: 8px; color: var(--text-secondary); line-height: 1.6;\">\n            Sau <strong>action verb</strong> <em>(explain, speak, write, operate...)</em> → Bắt buộc dùng <strong class=\"hl-purple\">TRẠNG TỪ</strong> để bổ nghĩa cho hành động.\n        </div>\n        <div style=\"margin-top: 10px; padding: 8px 12px; background: rgba(168, 85, 247, 0.05); border-radius: 8px; font-size: 0.95rem;\">\n            The instructions were explained <strong class=\"hl-purple\">clearly</strong>.<br>\n            <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ clearly = trạng từ bổ nghĩa cho explained</span>\n        </div>\n    </div>\n</div>"
       }
     ],
     "questions": [
@@ -1667,7 +1667,7 @@ const toeicReadingData = [
           "D": "suitability"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. suitable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ 'candidate' và sau mạo từ 'a' để bổ nghĩa cho danh từ nên cần điền một tính từ. 'suitable' là tính từ chỉ sự phù hợp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">suitable</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đang tìm kiếm một ứng viên phù hợp để điền vào vị trí quản lý.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. suitable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước danh từ <code>candidate</code> và sau mạo từ <code>a</code> để bổ nghĩa cho danh từ nên cần điền một tính từ. <code>suitable</code> là tính từ chỉ sự phù hợp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">suitable</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đang tìm kiếm một ứng viên phù hợp để điền vào vị trí quản lý.</em>"
       },
       {
         "question": "The team leader was ______ with the outstanding performance of the staff.",
@@ -1678,7 +1678,7 @@ const toeicReadingData = [
           "D": "impressively"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. impressed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết 'was' để mô tả cảm xúc của con người (bị ấn tượng bởi cái gì) nên chọn phân từ đóng vai trò tính từ đuôi '-ed' -> 'impressed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">impressed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trưởng nhóm đã bị ấn tượng với hiệu suất làm việc xuất sắc của nhân viên.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. impressed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết <code>was</code> để mô tả cảm xúc của con người (bị ấn tượng bởi cái gì) nên chọn phân từ đóng vai trò tính từ đuôi <code>-ed</code> → <code>impressed</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">impressed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Trưởng nhóm đã bị ấn tượng với hiệu suất làm việc xuất sắc của nhân viên.</em>"
       },
       {
         "question": "The product demonstration was very ______ to the potential clients.",
@@ -1689,7 +1689,7 @@ const toeicReadingData = [
           "D": "informative"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. informative</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trạng từ chỉ mức độ 'very' và động từ to be 'was' nên chỗ trống cần điền một tính từ bổ nghĩa cho vật. 'informative' là tính từ chỉ tính hữu ích, chứa nhiều thông tin.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">informative</strong>.<br><br><strong>Dịch câu:</strong><br><em>Buổi trình diễn sản phẩm rất hữu ích và nhiều thông tin đối với các khách hàng tiềm năng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. informative</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trạng từ chỉ mức độ <code>very</code> và động từ to be <code>was</code> nên chỗ trống cần điền một tính từ bổ nghĩa cho vật. <code>informative</code> là tính từ chỉ tính hữu ích, chứa nhiều thông tin.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">informative</strong>.<br><br><strong>Dịch câu:</strong><br><em>Buổi trình diễn sản phẩm rất hữu ích và nhiều thông tin đối với các khách hàng tiềm năng.</em>"
       },
       {
         "question": "Please keep all ______ documents in the locked cabinet.",
@@ -1700,7 +1700,7 @@ const toeicReadingData = [
           "D": "confidentiality"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. confidential</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ số nhiều 'documents' để bổ nghĩa nên chỗ trống cần điền một tính từ. 'confidential' là tính từ chỉ tính bảo mật.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">confidential</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng giữ tất cả các tài liệu bảo mật trong tủ có khóa.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. confidential</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ số nhiều <code>documents</code> để bổ nghĩa nên chỗ trống cần điền một tính từ. <code>confidential</code> là tính từ chỉ tính bảo mật.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">confidential</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng giữ tất cả các tài liệu bảo mật trong tủ có khóa.</em>"
       },
       {
         "question": "The new manager remains ______ about reaching the quarterly target.",
@@ -1711,7 +1711,7 @@ const toeicReadingData = [
           "D": "optimism"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. optimistic</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết 'remains' (vẫn như thế nào) nên chỗ trống cần điền một tính từ. 'optimistic' là tính từ chỉ sự lạc quan.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">optimistic</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý mới vẫn lạc quan về việc đạt được mục tiêu hàng quý.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. optimistic</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết <code>remains</code> (vẫn như thế nào) nên chỗ trống cần điền một tính từ. <code>optimistic</code> là tính từ chỉ sự lạc quan.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">optimistic</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý mới vẫn lạc quan về việc đạt được mục tiêu hàng quý.</em>"
       },
       {
         "question": "The initial project design was ______ due to budget limitations.",
@@ -1722,7 +1722,7 @@ const toeicReadingData = [
           "D": "impractical"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. impractical</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be 'was' để làm vị ngữ bổ nghĩa cho chủ ngữ 'design' nên cần điền một tính từ. 'impractical' là tính từ chỉ sự không thực tế.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">impractical</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thiết kế dự án ban đầu không thực tế do các giới hạn về ngân sách.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. impractical</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be <code>was</code> để làm vị ngữ bổ nghĩa cho chủ ngữ <code>design</code> nên cần điền một tính từ. <code>impractical</code> là tính từ chỉ sự không thực tế.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">impractical</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thiết kế dự án ban đầu không thực tế do các giới hạn về ngân sách.</em>"
       },
       {
         "question": "It is ______ to check all invoices before making any payment.",
@@ -1733,7 +1733,7 @@ const toeicReadingData = [
           "D": "necessitate"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. necessary</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chủ ngữ giả: 'It is + tính từ + to-V' (Thật là... để làm việc gì) -> chỗ trống cần điền tính từ 'necessary' (cần thiết).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">necessary</strong>.<br><br><strong>Dịch câu:</strong><br><em>Việc kiểm tra tất cả các hóa đơn trước khi thực hiện bất kỳ khoản thanh toán nào là cần thiết.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. necessary</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chủ ngữ giả: 'It is + tính từ + to-V' (Thật là... để làm việc gì) → chỗ trống cần điền tính từ <code>necessary</code> (cần thiết).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">necessary</strong>.<br><br><strong>Dịch câu:</strong><br><em>Việc kiểm tra tất cả các hóa đơn trước khi thực hiện bất kỳ khoản thanh toán nào là cần thiết.</em>"
       },
       {
         "question": "The marketing director gave a ______ speech at the annual seminar.",
@@ -1744,7 +1744,7 @@ const toeicReadingData = [
           "D": "brief"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. brief</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'speech' để bổ nghĩa cho danh từ đó nên vị trí trống cần điền một tính từ. 'brief' là tính từ chỉ sự ngắn gọn.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">brief</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã phát biểu một bài thuyết trình ngắn gọn tại buổi chuyên đề thường niên.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. brief</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>speech</code> để bổ nghĩa cho danh từ đó nên vị trí trống cần điền một tính từ. <code>brief</code> là tính từ chỉ sự ngắn gọn.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">brief</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã phát biểu một bài thuyết trình ngắn gọn tại buổi chuyên đề thường niên.</em>"
       },
       {
         "question": "The technical support team was ______ in resolving the issue.",
@@ -1755,7 +1755,7 @@ const toeicReadingData = [
           "D": "helplessly"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. helpful</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be 'was' nên chỗ trống cần điền một tính từ bổ nghĩa cho người. 'helpful' là tính từ chỉ sự hữu ích, hay giúp đỡ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">helpful</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm hỗ trợ kỹ thuật đã rất có ích trong việc giải quyết sự cố.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. helpful</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be <code>was</code> nên chỗ trống cần điền một tính từ bổ nghĩa cho người. <code>helpful</code> là tính từ chỉ sự hữu ích, hay giúp đỡ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">helpful</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm hỗ trợ kỹ thuật đã rất có ích trong việc giải quyết sự cố.</em>"
       },
       {
         "question": "We need to find a more ______ way to manufacture these parts.",
@@ -1766,7 +1766,7 @@ const toeicReadingData = [
           "D": "economize"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. economical</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau từ chỉ mức độ so sánh 'more' và đứng trước danh từ 'way' nên vị trí trống cần điền tính từ. 'economical' là tính từ chỉ tính tiết kiệm.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">economical</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta cần tìm một cách tiết kiệm hơn để sản xuất các bộ phận này.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. economical</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau từ chỉ mức độ so sánh <code>more</code> và đứng trước danh từ <code>way</code> nên vị trí trống cần điền tính từ. <code>economical</code> là tính từ chỉ tính tiết kiệm.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">economical</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta cần tìm một cách tiết kiệm hơn để sản xuất các bộ phận này.</em>"
       },
       {
         "question": "The presentation slides were visually ______ and caught everyone's attention.",
@@ -1777,7 +1777,7 @@ const toeicReadingData = [
           "D": "attraction"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. attractive</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trạng từ 'visually' và liên động từ 'were' để bổ nghĩa cho chủ ngữ 'slides' nên cần điền tính từ. 'attractive' là tính từ chỉ sự hấp dẫn, đẹp mắt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">attractive</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các trang thuyết trình trông rất đẹp mắt và thu hút sự chú ý của mọi người.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. attractive</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau trạng từ <code>visually</code> và liên động từ <code>were</code> để bổ nghĩa cho chủ ngữ <code>slides</code> nên cần điền tính từ. <code>attractive</code> là tính từ chỉ sự hấp dẫn, đẹp mắt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">attractive</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các trang thuyết trình trông rất đẹp mắt và thu hút sự chú ý của mọi người.</em>"
       },
       {
         "question": "The manager was ______ of the team's ability to finish on time.",
@@ -1788,7 +1788,7 @@ const toeicReadingData = [
           "D": "confidential"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. confident</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính từ đi kèm giới từ: 'be confident of something' (tự tin về điều gì) -> chọn tính từ 'confident'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">confident</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã tự tin về khả năng hoàn thành đúng hạn của cả nhóm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. confident</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính từ đi kèm giới từ: <code>be confident of something</code> (tự tin về điều gì) → chọn tính từ <code>confident</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">confident</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã tự tin về khả năng hoàn thành đúng hạn của cả nhóm.</em>"
       },
       {
         "question": "The software update made the database system much more ______.",
@@ -1799,7 +1799,7 @@ const toeicReadingData = [
           "D": "reliance"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. reliable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc với động từ make: 'make + tân ngữ + tính từ' (làm cho cái gì trở nên thế nào) -> chọn tính từ 'reliable' (đáng tin cậy).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">reliable</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bản cập nhật phần mềm đã làm cho hệ thống cơ sở dữ liệu trở nên đáng tin cậy hơn nhiều.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. reliable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc với động từ make: 'make + tân ngữ + tính từ' (làm cho cái gì trở nên thế nào) → chọn tính từ <code>reliable</code> (đáng tin cậy).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">reliable</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bản cập nhật phần mềm đã làm cho hệ thống cơ sở dữ liệu trở nên đáng tin cậy hơn nhiều.</em>"
       },
       {
         "question": "Our company offers a ______ range of services to meet client needs.",
@@ -1810,7 +1810,7 @@ const toeicReadingData = [
           "D": "breadth"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. broad</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'range' và sau mạo từ 'a' để bổ nghĩa nên chỗ trống cần điền một tính từ. 'broad' là tính từ chỉ sự rộng rãi/phong phú.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">broad</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty chúng tôi cung cấp một loạt các dịch vụ phong phú để đáp ứng nhu cầu của khách hàng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. broad</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>range</code> và sau mạo từ <code>a</code> để bổ nghĩa nên chỗ trống cần điền một tính từ. <code>broad</code> là tính từ chỉ sự rộng rãi/phong phú.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">broad</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty chúng tôi cung cấp một loạt các dịch vụ phong phú để đáp ứng nhu cầu của khách hàng.</em>"
       },
       {
         "question": "The client remains ______ with the current progress of the project.",
@@ -1821,7 +1821,7 @@ const toeicReadingData = [
           "D": "satisfied"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. satisfied</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết 'remains' để mô tả trạng thái cảm xúc của con người (hài lòng với cái gì) nên cần điền tính từ đuôi '-ed' -> 'satisfied'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">satisfied</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng vẫn hài lòng với tiến độ hiện tại của dự án.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. satisfied</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết <code>remains</code> để mô tả trạng thái cảm xúc của con người (hài lòng với cái gì) nên cần điền tính từ đuôi <code>-ed</code> → <code>satisfied</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">satisfied</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng vẫn hài lòng với tiến độ hiện tại của dự án.</em>"
       },
       {
         "question": "The marketing team designed a very ______ promotional flyer.",
@@ -1832,7 +1832,7 @@ const toeicReadingData = [
           "D": "creativity"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. creative</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'flyer' và sau trạng từ 'very' nên vị trí trống cần điền một tính từ bổ nghĩa. 'creative' là tính từ chỉ tính sáng tạo.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">creative</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm tiếp thị đã thiết kế một tờ rơi quảng cáo rất sáng tạo.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. creative</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>flyer</code> và sau trạng từ <code>very</code> nên vị trí trống cần điền một tính từ bổ nghĩa. <code>creative</code> là tính từ chỉ tính sáng tạo.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">creative</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm tiếp thị đã thiết kế một tờ rơi quảng cáo rất sáng tạo.</em>"
       },
       {
         "question": "We must be ______ of the regulations before launching the product.",
@@ -1843,7 +1843,7 @@ const toeicReadingData = [
           "D": "mind"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. mindful</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính từ đi kèm giới từ: 'be mindful of something' (lưu ý/chú ý đến cái gì) -> chọn tính từ 'mindful'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">mindful</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta phải lưu ý đến các quy định trước khi ra mắt sản phẩm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. mindful</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc tính từ đi kèm giới từ: <code>be mindful of something</code> (lưu ý/chú ý đến cái gì) → chọn tính từ <code>mindful</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">mindful</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta phải lưu ý đến các quy định trước khi ra mắt sản phẩm.</em>"
       },
       {
         "question": "The supervisor is ______ for approving all travel expenses.",
@@ -1854,7 +1854,7 @@ const toeicReadingData = [
           "D": "responsible"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. responsible</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: 'be responsible for something / V-ing' (chịu trách nhiệm về cái gì) -> chọn tính từ 'responsible'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">responsible</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát chịu trách nhiệm phê duyệt tất cả các chi phí đi lại.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. responsible</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: <code>be responsible for something / V-ing</code> (chịu trách nhiệm về cái gì) → chọn tính từ <code>responsible</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">responsible</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát chịu trách nhiệm phê duyệt tất cả các chi phí đi lại.</em>"
       },
       {
         "question": "The training session was ______ to all new employees.",
@@ -1865,7 +1865,7 @@ const toeicReadingData = [
           "D": "benefiting"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. beneficial</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be 'was' bổ nghĩa cho chủ ngữ 'session' nên chỗ trống cần điền một tính từ. 'beneficial' là tính từ chỉ sự có lợi, ích lợi.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">beneficial</strong>.<br><br><strong>Dịch câu:</strong><br><em>Buổi đào tạo rất có ích cho tất cả các nhân viên mới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. beneficial</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be <code>was</code> bổ nghĩa cho chủ ngữ <code>session</code> nên chỗ trống cần điền một tính từ. <code>beneficial</code> là tính từ chỉ sự có lợi, ích lợi.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">beneficial</strong>.<br><br><strong>Dịch câu:</strong><br><em>Buổi đào tạo rất có ích cho tất cả các nhân viên mới.</em>"
       },
       {
         "question": "The proposed design is ______ with the company's brand identity.",
@@ -1876,86 +1876,86 @@ const toeicReadingData = [
           "D": "consist"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. consistent</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: 'be consistent with something' (nhất quán/phù hợp với cái gì) -> chọn tính từ 'consistent'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">consistent</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thiết kế được đề xuất là nhất quán với bản sắc thương hiệu của công ty.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. consistent</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: <code>be consistent with something</code> (nhất quán/phù hợp với cái gì) → chọn tính từ <code>consistent</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">consistent</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thiết kế được đề xuất là nhất quán với bản sắc thương hiệu của công ty.</em>"
       }
     ],
     "homework": [
       {
         "question": "Ms. Gable is a highly ______ financial consultant.",
         "options": {
-          "A": "respect",
+          "A": "respected",
           "B": "respectful",
           "C": "respectable",
-          "D": "respected"
+          "D": "respect"
         },
-        "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. respected</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'consultant' và sau trạng từ 'highly' để bổ nghĩa cho người được kính trọng/tôn trọng trong nghề nghiệp -> chọn tính từ ở dạng phân từ bị động 'respected'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">respected</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bà Gable là một cố vấn tài chính được kính trọng cao.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. respected</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>consultant</code> và sau trạng từ <code>highly</code> để bổ nghĩa cho người được kính trọng/tôn trọng trong nghề nghiệp → chọn tính từ ở dạng phân từ bị động <code>respected</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">respected</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bà Gable là một cố vấn tài chính được kính trọng cao.</em>"
       },
       {
         "question": "The new office layout is ______ to a productive work environment.",
         "options": {
           "A": "conduce",
-          "B": "conducive",
-          "C": "conducively",
+          "B": "conducively",
+          "C": "conducive",
           "D": "conduciveness"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. conducive</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: 'be conducive to something' (có lợi / giúp ích cho cái gì) -> chọn tính từ 'conducive'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">conducive</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bố cục văn phòng mới có lợi cho một môi trường làm việc hiệu quả.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. conducive</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: <code>be conducive to something</code> (có lợi / giúp ích cho cái gì) → chọn tính từ <code>conducive</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">conducive</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bố cục văn phòng mới có lợi cho một môi trường làm việc hiệu quả.</em>"
       },
       {
         "question": "Our department has a ______ budget for the upcoming fiscal year.",
         "options": {
-          "A": "limited",
-          "B": "limiting",
+          "A": "limiting",
+          "B": "limited",
           "C": "limit",
           "D": "limitation"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. limited</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'budget' bổ nghĩa chỉ tính chất ngân sách bị giới hạn/hạn chế -> chọn tính từ ở dạng phân từ 'limited'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">limited</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận của chúng tôi có một ngân sách hạn chế cho năm tài chính sắp tới.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. limited</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>budget</code> bổ nghĩa chỉ tính chất ngân sách bị giới hạn/hạn chế → chọn tính từ ở dạng phân từ <code>limited</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">limited</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận của chúng tôi có một ngân sách hạn chế cho năm tài chính sắp tới.</em>"
       },
       {
         "question": "The customer service agent was very ______ during the call.",
         "options": {
-          "A": "polite",
+          "A": "politic",
           "B": "politely",
           "C": "politeness",
-          "D": "politic"
+          "D": "polite"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. polite</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be 'was' và trạng từ 'very' nên chỗ trống cần điền một tính từ mô tả tính cách người. 'polite' là tính từ chỉ sự lịch sự.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">polite</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên dịch vụ khách hàng đã rất lịch sự trong suốt cuộc gọi.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. polite</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be <code>was</code> và trạng từ <code>very</code> nên chỗ trống cần điền một tính từ mô tả tính cách người. <code>polite</code> là tính từ chỉ sự lịch sự.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">polite</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên dịch vụ khách hàng đã rất lịch sự trong suốt cuộc gọi.</em>"
       },
       {
         "question": "The company has strict regulations to keep client data ______.",
         "options": {
-          "A": "secure",
-          "B": "securely",
+          "A": "securely",
+          "B": "secure",
           "C": "security",
           "D": "securities"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. secure</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc với động từ keep: 'keep + tân ngữ + tính từ' (giữ cho cái gì như thế nào) -> chọn tính từ 'secure' (an toàn, bảo mật).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">secure</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty có các quy định nghiêm ngặt để giữ cho dữ liệu khách hàng được bảo mật.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. secure</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc với động từ keep: 'keep + tân ngữ + tính từ' (giữ cho cái gì như thế nào) → chọn tính từ <code>secure</code> (an toàn, bảo mật).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">secure</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty có các quy định nghiêm ngặt để giữ cho dữ liệu khách hàng được bảo mật.</em>"
       },
       {
         "question": "The manager was ______ of the success of the new product.",
         "options": {
-          "A": "doubt",
-          "B": "doubtful",
+          "A": "doubtful",
+          "B": "doubt",
           "C": "doubtfully",
           "D": "doubtfulness"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. doubtful</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: 'be doubtful of/about something' (nghi ngờ về cái gì) -> chọn tính từ 'doubtful'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">doubtful</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã nghi ngờ về sự thành công của sản phẩm mới.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. doubtful</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: <code>be doubtful of/about something</code> (nghi ngờ về cái gì) → chọn tính từ <code>doubtful</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">doubtful</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã nghi ngờ về sự thành công của sản phẩm mới.</em>"
       },
       {
         "question": "Please provide a ______ explanation for the project's delay.",
         "options": {
-          "A": "clear",
+          "A": "clarity",
           "B": "clearly",
           "C": "clearness",
-          "D": "clarity"
+          "D": "clear"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. clear</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'explanation' và sau mạo từ 'a' để bổ nghĩa nên chỗ trống cần điền một tính từ. 'clear' là tính từ chỉ sự rõ ràng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">clear</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng cung cấp một lời giải thích rõ ràng cho sự chậm trễ của dự án.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. clear</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>explanation</code> và sau mạo từ <code>a</code> để bổ nghĩa nên chỗ trống cần điền một tính từ. <code>clear</code> là tính từ chỉ sự rõ ràng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">clear</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng cung cấp một lời giải thích rõ ràng cho sự chậm trễ của dự án.</em>"
       },
       {
         "question": "The conference presentation was highly ______ to the audience.",
@@ -1966,62 +1966,62 @@ const toeicReadingData = [
           "D": "interestingly"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. interesting</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be 'was' và trạng từ 'highly' để bổ nghĩa cho chủ ngữ chỉ vật 'presentation' (mang tính thú vị) -> chọn tính từ đuôi '-ing' là 'interesting'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">interesting</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bài thuyết trình hội nghị rất thú vị đối với khán giả.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. interesting</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be <code>was</code> và trạng từ <code>highly</code> để bổ nghĩa cho chủ ngữ chỉ vật <code>presentation</code> (mang tính thú vị) → chọn tính từ đuôi <code>-ing</code> là <code>interesting</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">interesting</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bài thuyết trình hội nghị rất thú vị đối với khán giả.</em>"
       },
       {
         "question": "The supervisor is ______ about the potential safety risks.",
         "options": {
-          "A": "concern",
-          "B": "concerned",
+          "A": "concerned",
+          "B": "concern",
           "C": "concerning",
           "D": "concernment"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. concerned</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ chỉ cảm xúc lo lắng của con người: 'be concerned about/with something' -> chọn tính từ phân từ đuôi '-ed' là 'concerned'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">concerned</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát lo lắng về các rủi ro an toàn tiềm ẩn.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. concerned</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ chỉ cảm xúc lo lắng của con người: <code>be concerned about/with something</code> → chọn tính từ phân từ đuôi <code>-ed</code> là <code>concerned</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">concerned</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát lo lắng về các rủi ro an toàn tiềm ẩn.</em>"
       },
       {
         "question": "The hotel rooms are ______ and have beautiful city views.",
         "options": {
           "A": "space",
-          "B": "spacious",
+          "B": "spaciousness",
           "C": "spaciously",
-          "D": "spaciousness"
+          "D": "spacious"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. spacious</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be 'are' bổ nghĩa cho chủ ngữ 'rooms' nên chỗ trống cần điền một tính từ. 'spacious' là tính từ chỉ sự rộng rãi.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">spacious</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các phòng khách sạn rất rộng rãi và có tầm nhìn đẹp ra thành phố.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. spacious</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be <code>are</code> bổ nghĩa cho chủ ngữ <code>rooms</code> nên chỗ trống cần điền một tính từ. <code>spacious</code> là tính từ chỉ sự rộng rãi.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">spacious</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các phòng khách sạn rất rộng rãi và có tầm nhìn đẹp ra thành phố.</em>"
       },
       {
         "question": "The accounting department must ensure that all figures are ______.",
         "options": {
           "A": "accuracy",
-          "B": "accurate",
-          "C": "accurately",
+          "B": "accurately",
+          "C": "accurate",
           "D": "accurateness"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. accurate</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết 'are' làm vị ngữ bổ nghĩa cho chủ ngữ 'figures' nên chỗ trống cần điền một tính từ. 'accurate' là tính từ chỉ sự chính xác.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">accurate</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận kế toán phải đảm bảo rằng tất cả các số liệu đều chính xác.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. accurate</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết <code>are</code> làm vị ngữ bổ nghĩa cho chủ ngữ <code>figures</code> nên chỗ trống cần điền một tính từ. <code>accurate</code> là tính từ chỉ sự chính xác.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">accurate</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận kế toán phải đảm bảo rằng tất cả các số liệu đều chính xác.</em>"
       },
       {
         "question": "The marketing director is ______ to attend the regional meeting.",
         "options": {
-          "A": "unable",
-          "B": "unablely",
+          "A": "unablely",
+          "B": "unable",
           "C": "inability",
           "D": "unabler"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. unable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc: 'be unable to-V' (không thể làm gì) -> chọn tính từ 'unable'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">unable</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị không thể tham dự cuộc họp khu vực.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. unable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc: <code>be unable to-V</code> (không thể làm gì) → chọn tính từ <code>unable</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">unable</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị không thể tham dự cuộc họp khu vực.</em>"
       },
       {
         "question": "The new manager proved to be very ______ in solving team conflicts.",
         "options": {
           "A": "skill",
-          "B": "skilled",
-          "C": "skilly",
+          "B": "skilly",
+          "C": "skilled",
           "D": "skillfulness"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. skilled</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết 'proved to be' và trạng từ 'very' bổ nghĩa cho người nên cần tính từ. 'skilled' là tính từ ở dạng phân từ chỉ sự lành nghề, khéo léo.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">skilled</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý mới tỏ ra rất khéo léo trong việc giải quyết các xung đột nội bộ.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. skilled</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ liên kết <code>proved to be</code> và trạng từ <code>very</code> bổ nghĩa cho người nên cần tính từ. <code>skilled</code> là tính từ ở dạng phân từ chỉ sự lành nghề, khéo léo.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">skilled</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý mới tỏ ra rất khéo léo trong việc giải quyết các xung đột nội bộ.</em>"
       },
       {
         "question": "The company made a ______ decision to expand into Asian markets.",
@@ -2032,18 +2032,18 @@ const toeicReadingData = [
           "D": "strategist"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. strategic</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'decision' bổ nghĩa cho danh từ nên cần điền một tính từ. 'strategic' là tính từ chỉ mang tính chiến lược.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">strategic</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đã đưa ra một quyết định mang tính chiến lược để mở rộng sang các thị trường châu Á.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. strategic</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>decision</code> bổ nghĩa cho danh từ nên cần điền một tính từ. <code>strategic</code> là tính từ chỉ mang tính chiến lược.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">strategic</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đã đưa ra một quyết định mang tính chiến lược để mở rộng sang các thị trường châu Á.</em>"
       },
       {
         "question": "All employee records are kept in a ______ location.",
         "options": {
           "A": "securely",
           "B": "security",
-          "C": "secure",
-          "D": "securities"
+          "C": "securities",
+          "D": "secure"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. secure</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'location' và sau mạo từ 'a' để bổ nghĩa nên chỗ trống cần điền tính từ. 'secure' là tính từ chỉ sự an toàn, bảo mật.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">secure</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả hồ sơ nhân viên được lưu giữ ở một địa điểm an toàn.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. secure</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>location</code> và sau mạo từ <code>a</code> để bổ nghĩa nên chỗ trống cần điền tính từ. <code>secure</code> là tính từ chỉ sự an toàn, bảo mật.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">secure</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả hồ sơ nhân viên được lưu giữ ở một địa điểm an toàn.</em>"
       },
       {
         "question": "Mr. Vance is ______ that our sales will increase next quarter.",
@@ -2054,51 +2054,51 @@ const toeicReadingData = [
           "D": "optimism"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. optimistic</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be 'is' bổ nghĩa cho chủ ngữ người nên chỗ trống cần điền một tính từ. 'optimistic' là tính từ chỉ sự lạc quan.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">optimistic</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Vance lạc quan rằng doanh số bán hàng của chúng ta sẽ tăng trong quý tới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. optimistic</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ to be <code>is</code> bổ nghĩa cho chủ ngữ người nên chỗ trống cần điền một tính từ. <code>optimistic</code> là tính từ chỉ sự lạc quan.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">optimistic</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Vance lạc quan rằng doanh số bán hàng của chúng ta sẽ tăng trong quý tới.</em>"
       },
       {
         "question": "The new safety procedures are ______ to all factory employees.",
         "options": {
-          "A": "applicable",
+          "A": "applicably",
           "B": "apply",
           "C": "application",
-          "D": "applicably"
+          "D": "applicable"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. applicable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: 'be applicable to someone/something' (có thể áp dụng/thích hợp đối với ai/cái gì) -> chọn tính từ 'applicable'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">applicable</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các quy trình an toàn mới có thể áp dụng cho tất cả nhân viên nhà máy.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. applicable</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: <code>be applicable to someone/something</code> (có thể áp dụng/thích hợp đối với ai/cái gì) → chọn tính từ <code>applicable</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">applicable</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các quy trình an toàn mới có thể áp dụng cho tất cả nhân viên nhà máy.</em>"
       },
       {
         "question": "The database update has made data retrieval much ______.",
         "options": {
-          "A": "faster",
-          "B": "fastest",
+          "A": "fastest",
+          "B": "faster",
           "C": "fastly",
           "D": "fastness"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. faster</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh hơn đứng sau động từ make làm tân ngữ bổ ngữ: 'make something + tính từ so sánh hơn' -> chọn 'faster'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">faster</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bản cập nhật cơ sở dữ liệu đã làm cho việc truy xuất dữ liệu nhanh hơn nhiều.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. faster</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc so sánh hơn đứng sau động từ make làm tân ngữ bổ ngữ: 'make something + tính từ so sánh hơn' → chọn <code>faster</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">faster</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bản cập nhật cơ sở dữ liệu đã làm cho việc truy xuất dữ liệu nhanh hơn nhiều.</em>"
       },
       {
         "question": "We are ______ to the volunteers who helped organize the exhibition.",
         "options": {
-          "A": "gratitude",
-          "B": "grateful",
+          "A": "grateful",
+          "B": "gratitude",
           "C": "gratefully",
           "D": "grated"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. grateful</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: 'be grateful to someone' (biết ơn/cảm kích ai đó) -> chọn tính từ 'grateful'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">grateful</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi rất biết ơn các tình nguyện viên đã giúp tổ chức buổi triển lãm.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. grateful</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc đi kèm giới từ: <code>be grateful to someone</code> (biết ơn/cảm kích ai đó) → chọn tính từ <code>grateful</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">grateful</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi rất biết ơn các tình nguyện viên đã giúp tổ chức buổi triển lãm.</em>"
       },
       {
         "question": "It is ______ that all participants sign the attendance sheet.",
         "options": {
-          "A": "imperative",
+          "A": "imperativeness",
           "B": "imperatively",
-          "C": "imperativeness",
+          "C": "imperative",
           "D": "emperor"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. imperative</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chủ ngữ giả với tính từ giả định: 'It is imperative that + S + V-bare' (Thật sự cấp bách/bắt buộc rằng...) -> chọn tính từ 'imperative'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">imperative</strong>.<br><br><strong>Dịch câu:</strong><br><em>Việc tất cả những người tham gia ký vào tờ điểm danh là điều bắt buộc.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. imperative</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chủ ngữ giả với tính từ giả định: 'It is imperative that + S + V-bare' (Thật sự cấp bách/bắt buộc rằng...) → chọn tính từ <code>imperative</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">imperative</strong>.<br><br><strong>Dịch câu:</strong><br><em>Việc tất cả những người tham gia ký vào tờ điểm danh là điều bắt buộc.</em>"
       }
     ]
   },
@@ -2108,28 +2108,28 @@ const toeicReadingData = [
     "slides": [
       {
         "slide_index": 84,
-        "title": "PHẦN 04:",
+        "title": "PHẦN 04: TRẠNG TỪ (ADVERBS)",
         "is_html": true,
-        "html_content": "<div style=\"text-align: center; margin-top: 30px; padding: 10px;\"><h2 class=\"hl-vocab\" style=\"font-size: 2rem; font-family: var(--font-heading); margin-bottom: 16px;\">TRẠNG TỪ (ADVERBS)</h2><p style=\"font-size: 1.1rem; color: var(--text-secondary); max-width: 550px; margin: 0 auto; line-height: 1.6;\">Tìm hiểu về định nghĩa, cách thành lập, vị trí của trạng từ trong câu và vai trò bổ nghĩa cho động từ, tính từ, trạng từ khác để tối ưu hóa điểm số TOEIC.</p></div>"
+        "html_content": "<div style=\"text-align: center; margin-top: 15px; padding: 24px 16px;\">\n    <div style=\"width: 68px; height: 68px; border-radius: 20px; background: linear-gradient(135deg, rgba(0, 242, 254, 0.2), rgba(168, 85, 247, 0.2)); border: 1px solid rgba(0, 242, 254, 0.4); display: inline-flex; align-items: center; justify-content: center; font-size: 2rem; color: var(--color-cyan); margin-bottom: 18px; box-shadow: 0 8px 25px rgba(0, 242, 254, 0.22);\">\n        <i class=\"fa-solid fa-gauge-high\"></i>\n    </div>\n    <h2 class=\"hl-vocab\" style=\"font-size: 2.2rem; font-family: var(--font-heading); margin-bottom: 14px; letter-spacing: 0.02em;\">TRẠNG TỪ (ADVERBS)</h2>\n    <p style=\"font-size: 1.12rem; color: var(--text-secondary); max-width: 620px; margin: 0 auto 24px auto; line-height: 1.75; text-align: center !important;\">Tìm hiểu về định nghĩa, cách thành lập trạng từ đuôi -ly, các vị trí vàng bổ nghĩa cho động từ, tính từ, trạng từ khác và các trường hợp trạng từ đặc biệt thường gặp trong đề thi TOEIC.</p>\n    <div style=\"display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;\">\n        <span class=\"pos-tag\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i> Quy tắc Adjective + -ly</span>\n        <span class=\"pos-tag tag-purple\"><i class=\"fa-solid fa-location-crosshairs\"></i> 3 Vị trí vàng bổ nghĩa</span>\n        <span class=\"pos-tag tag-gold\"><i class=\"fa-solid fa-triangle-exclamation\"></i> Bẫy trạng từ không đuôi -ly</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 85,
         "title": "I. KHÁI NIỆM",
         "is_html": true,
-        "html_content": "<strong>Trạng từ</strong> là từ dùng để <strong>bổ nghĩa cho động từ, tính từ, trạng từ khác hoặc cho cả câu</strong>, nhằm diễn tả: cách thức, mức độ, thời gian, tần suất, nơi chốn. Trong <strong>TOEIC READING PART 05</strong>, trạng từ <strong>KHÔNG được kiểm tra theo nghĩa</strong>, mà chủ yếu được kiểm tra thông qua:<br>– <strong>HẬU TỐ của</strong><strong> từ</strong><br>– <strong>VỊ TRÍ trong câu</strong><br>– <strong>PHÂN BIỆT với TÍNH</strong><strong> TỪ</strong>"
+        "html_content": "<div class=\"slide-callout\">\n    <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-book-open\"></i> Định nghĩa</span>\n    <div style=\"font-size: 1.1rem; margin-top: 4px;\">\n        <strong class=\"hl-cyan\">Trạng từ (Adverbs)</strong> là từ dùng để <strong class=\"hl-yellow\">bổ nghĩa cho động từ, tính từ, trạng từ khác hoặc cho cả câu</strong>, nhằm diễn tả: cách thức, mức độ, thời gian, tần suất, nơi chốn. Trong <strong class=\"hl-cyan\">TOEIC READING PART 05</strong>, trạng từ <strong class=\"hl-red\">không được kiểm tra theo nghĩa</strong>, mà chủ yếu kiểm tra qua <strong>3 yếu tố then chốt</strong>:\n    </div>\n</div>\n<div class=\"slide-grid-3\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-cyan);\">\n        <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-tag\"></i> 1. HẬU TỐ -LY</span>\n        <div style=\"font-size: 0.98rem; font-weight: 600; margin-top: 4px;\">Quy tắc thành lập: <code>Adj + -ly → Adv</code></div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-purple);\">\n        <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-location-dot\"></i> 2. VỊ TRÍ BỔ NGHĨA</span>\n        <div style=\"font-size: 0.98rem; font-weight: 600; margin-top: 4px;\">Đứng sau V/O, đứng trước Adj, đứng trước Adv khác...</div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-pink);\">\n        <span class=\"slide-badge-pink\"><i class=\"fa-solid fa-scale-balanced\"></i> 3. PHÂN BIỆT VỚI TÍNH TỪ</span>\n        <div style=\"font-size: 0.98rem; font-weight: 600; margin-top: 4px;\">Bẫy từ đuôi <code>-ly</code> là tính từ và trạng từ không có đuôi <code>-ly</code></div>\n    </div>\n</div>\n<div class=\"slide-callout callout-green\" style=\"margin-top: 14px;\">\n    <i class=\"fa-solid fa-wand-magic-sparkles\" style=\"color: var(--color-gold);\"></i> <strong>Chiến thuật:</strong> Trạng từ là thành phần phụ (có thể lược bỏ mà câu vẫn đúng ngữ pháp). Nhìn trước nhìn sau chỗ trống để xác định từ loại được bổ nghĩa!\n</div>"
       },
       {
         "slide_index": 86,
         "title": "II. NHẬN DẠNG",
         "is_html": true,
-        "html_content": "<strong><span class=\"hl-orange\">1. Nhận dạng TRẠNG TỪ qua HẬU TỐ của từ</span></strong><br>Phần lớn trạng từ trong tiếng Anh được tạo bằng cách: <strong><span class=\"hl-red\">adjective + –ly</span></strong><br><strong>Ví dụ:</strong><br>clear → <strong><span class=\"hl-red\">clearly\t\t\t\t</span></strong>careful → <strong><span class=\"hl-red\">carefully</span></strong><br>quick → <strong><span class=\"hl-red\">quickly</span></strong>\t\t\tpeaceful → <strong><span class=\"hl-red\">peacefully</span></strong>"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 1. Nhận dạng TRẠNG TỪ qua HẬU TỐ của từ</div>\n<div class=\"slide-callout callout-purple\">\n    <div style=\"font-size: 1.1rem; margin-bottom: 6px;\">\n        Phần lớn trạng từ chỉ cách thức trong tiếng Anh được tạo thành theo công thức:\n    </div>\n    <div style=\"margin-top: 8px;\">\n        <span class=\"hl-box\" style=\"font-size: 1.15rem;\">Tính từ (Adjective) + –ly → Trạng từ (Adverb)</span>\n    </div>\n</div>\n<div class=\"slide-grid-3\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-cyan);\">\n        <div>clear → <strong class=\"hl-cyan\">clear<span class=\"suffix-highlight\">ly</span></strong></div>\n        <div style=\"font-size: 0.88rem; color: var(--text-secondary); margin-top: 4px;\">rõ ràng</div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-purple);\">\n        <div>careful → <strong class=\"hl-purple\">careful<span class=\"suffix-highlight\">ly</span></strong></div>\n        <div style=\"font-size: 0.88rem; color: var(--text-secondary); margin-top: 4px;\">cẩn thận</div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-pink);\">\n        <div>quick → <strong class=\"txt-pink\">quick<span class=\"suffix-highlight\">ly</span></strong></div>\n        <div style=\"font-size: 0.88rem; color: var(--text-secondary); margin-top: 4px;\">nhanh chóng</div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-cyan);\">\n        <div>peaceful → <strong class=\"hl-cyan\">peaceful<span class=\"suffix-highlight\">ly</span></strong></div>\n        <div style=\"font-size: 0.88rem; color: var(--text-secondary); margin-top: 4px;\">yên bình, hòa bình</div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-purple);\">\n        <div>fluent → <strong class=\"hl-purple\">fluent<span class=\"suffix-highlight\">ly</span></strong></div>\n        <div style=\"font-size: 0.88rem; color: var(--text-secondary); margin-top: 4px;\">lưu loát, trôi chảy</div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-pink);\">\n        <div>efficient → <strong class=\"txt-pink\">efficient<span class=\"suffix-highlight\">ly</span></strong></div>\n        <div style=\"font-size: 0.88rem; color: var(--text-secondary); margin-top: 4px;\">hiệu quả, năng suất</div>\n    </div>\n</div>"
       },
       {
         "slide_index": 87,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The technician adjusted the machine ____ to avoid overheating.<br>careful",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-bookmark\"></i> 1. Nhận dạng trạng từ qua HẬU TỐ -LY</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau tân ngữ <code>the machine</code> để bổ nghĩa cho động từ hành động <code>adjusted</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S + V + O + ADV</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The technician <span class=\"hl-cyan\">adjusted</span> the machine <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> to avoid overheating.</div>\n</div>",
         "options": {
           "A": "careful",
           "B": "carefully",
@@ -2137,20 +2137,20 @@ const toeicReadingData = [
           "D": "caring"
         },
         "correct_answer": "B",
-        "explanation_html": "Cần trạng từ (Adv) đứng sau tân ngữ để bổ nghĩa cho động từ hành động \"explained\". Trạng từ thường kết thúc bằng đuôi \"-ly\" -> \"carefully\"."
+        "explanation_html": "Cần <strong>trạng từ (Adv)</strong> đứng sau tân ngữ <code>the machine</code> để bổ nghĩa cho động từ hành động <code>adjusted</code> <em>(điều chỉnh)</em>. Hậu tố <code>-ly</code> là dấu hiệu của trạng từ → chọn <strong class=\"hl-vocab\">carefully</strong> <em>(một cách cẩn thận)</em>."
       },
       {
         "slide_index": 88,
         "title": "2. Nhận dạng TRẠNG TỪ qua VỊ TRÍ trong câu",
         "is_html": true,
-        "html_content": "<strong>2.1 Trạng từ đứng sau ĐỘNG TỪ</strong><br>Dấu hiệu nhận diện: Chỗ trống đứng <strong>sau động từ</strong> hoặc <strong>sau tân ngữ</strong>.<br><strong>Cấu trúc:</strong><br>S + V + <span class=\"hl-red\">adv</span>.<br>S + V + O + <span class=\"hl-red\">adv</span>."
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 2. Nhận dạng trạng từ qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout\">\n    <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.1. Trạng từ bổ nghĩa cho ĐỘNG TỪ</span>\n    <div style=\"margin-top: 10px; font-weight: 700; color: var(--color-cyan);\"><i class=\"fa-solid fa-magnifying-glass\"></i> Dấu hiệu nhận diện:</div>\n    <div style=\"margin-top: 6px;\">Chỗ trống đứng <strong>sau động từ nội động từ</strong> hoặc đứng <strong>sau tân ngữ</strong> của ngoại động từ:</div>\n    <div class=\"slide-grid-2\" style=\"margin-top: 10px;\">\n        <div class=\"slide-card-premium\">\n            <span class=\"slide-badge-purple\">Nội động từ (không có tân ngữ)</span>\n            <div style=\"margin-top: 8px;\"><span class=\"hl-box\">S + V + ADV</span></div>\n        </div>\n        <div class=\"slide-card-premium\">\n            <span class=\"slide-badge-cyan\">Ngoại động từ (có tân ngữ)</span>\n            <div style=\"margin-top: 8px;\"><span class=\"hl-box\">S + V + O + ADV</span></div>\n        </div>\n    </div>\n    <div style=\"margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--border-color); font-size: 0.95rem; color: var(--color-error);\">\n        <i class=\"fa-solid fa-circle-exclamation\"></i> <strong>Lưu ý vàng:</strong> Trạng từ <strong>KHÔNG ĐƯỢC</strong> đứng chen vào giữa Động từ và Tân ngữ (<em>KHÔNG dùng: S + V + [Adv] + O</em>).\n    </div>\n</div>"
       },
       {
         "slide_index": 89,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The assistant organized the meeting files ____ before the presentation began.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.1. Trạng từ bổ nghĩa cho ĐỘNG TỪ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau tân ngữ <code>the meeting files</code> để bổ nghĩa cho động từ <code>organized</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S + V + O + ADV</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The assistant <span class=\"hl-cyan\">organized</span> <span class=\"hl-purple\">the meeting files</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> before the presentation began.</div>\n</div>",
         "options": {
           "A": "neat",
           "B": "neatly",
@@ -2158,20 +2158,20 @@ const toeicReadingData = [
           "D": "neaten"
         },
         "correct_answer": "B",
-        "explanation_html": "Cần trạng từ để bổ nghĩa cho động từ hành động \"organized\" (sắp xếp). Trạng từ tận cùng bằng \"-ly\" -> \"neatly\" (ngăn nắp)."
+        "explanation_html": "Cần <strong>trạng từ</strong> đứng sau tân ngữ <code>the meeting files</code> để bổ nghĩa cho hành động <code>organized</code> <em>(sắp xếp)</em>. Hậu tố <code>-ly</code> biểu thị trạng từ → chọn <strong class=\"hl-vocab\">neatly</strong> <em>(một cách ngăn nắp, gọn gàng)</em>."
       },
       {
         "slide_index": 90,
         "title": "2. Nhận dạng TRẠNG TỪ qua VỊ TRÍ trong câu",
         "is_html": true,
-        "html_content": "<strong>2.2 Trạng từ đứng trước TÍNH TỪ</strong><br>Dấu hiệu nhận diện: Chỗ trống đứng <strong>trước tính từ</strong>.<br><strong>Cấu trúc:</strong><br>S + linking verb + <span class=\"hl-red\">adv </span>+ adj.<br>(từ hạn định) +<span class=\"hl-red\"> adv </span>+ adj + noun"
+        "html_content": "<div class=\"suffix-header-badge badge-purple\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 2. Nhận dạng trạng từ qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout callout-purple\">\n    <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i> 2.2. Trạng từ bổ nghĩa cho TÍNH TỪ</span>\n    <div style=\"margin-top: 10px; font-weight: 700; color: var(--color-purple);\"><i class=\"fa-solid fa-magnifying-glass\"></i> Dấu hiệu nhận diện:</div>\n    <div style=\"margin-top: 6px;\">Chỗ trống đứng ngay <strong>trước tính từ</strong> để bổ nghĩa mức độ cho tính từ đó:</div>\n    <div class=\"slide-grid-2\" style=\"margin-top: 10px;\">\n        <div class=\"slide-card-premium\">\n            <span class=\"slide-badge-cyan\">Sau động từ liên kết</span>\n            <div style=\"margin-top: 8px;\"><span class=\"hl-box\">S + linking verb + ADV + ADJ</span></div>\n        </div>\n        <div class=\"slide-card-premium\">\n            <span class=\"slide-badge-purple\">Trong cụm danh từ</span>\n            <div style=\"margin-top: 8px;\"><span class=\"hl-box\">determiner + ADV + ADJ + noun</span></div>\n        </div>\n    </div>\n</div>"
       },
       {
         "slide_index": 91,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The new software is ____ effective for small businesses.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.2. Trạng từ bổ nghĩa cho TÍNH TỪ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau to be <code>is</code> và đứng ngay trước tính từ <code>effective</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">is + ADV + ADJ</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The new software is <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"txt-pink\" style=\"font-weight:700;\">effective</span> for small businesses.</div>\n</div>",
         "options": {
           "A": "extreme",
           "B": "extremely",
@@ -2179,20 +2179,20 @@ const toeicReadingData = [
           "D": "extremeness"
         },
         "correct_answer": "B",
-        "explanation_html": "Cần trạng từ (Adv) đứng trước tính từ \"effective\" để bổ nghĩa cho tính từ đó. Đuôi \"-ly\" biểu thị trạng từ -> \"extremely\" (cực kỳ)."
+        "explanation_html": "Cần <strong>trạng từ (Adv)</strong> đứng trước tính từ <code>effective</code> để bổ nghĩa mức độ cho tính từ đó. Đuôi <code>-ly</code> biểu thị trạng từ → chọn <strong class=\"hl-vocab\">extremely</strong> <em>(vô cùng, cực kỳ)</em>."
       },
       {
         "slide_index": 92,
         "title": "2. Nhận dạng TRẠNG TỪ qua VỊ TRÍ trong câu",
         "is_html": true,
-        "html_content": "<strong>2.3 Trạng từ đứng trước TRẠNG TỪ</strong><br>Dấu hiệu nhận diện: Chỗ trống đứng <strong>gần một trạng từ khác</strong>.<br><strong>Cấu trúc: </strong>adv (mức độ) + adv (cách thức)<br><strong>Ví dụ: </strong><span class=\"hl-red\">very quickly, extremely efficiently, quite smoothly, pretty convenient, …</span>"
+        "html_content": "<div class=\"suffix-header-badge badge-pink\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> 2. Nhận dạng trạng từ qua VỊ TRÍ TRONG CÂU</div>\n<div class=\"slide-callout callout-pink\">\n    <span class=\"slide-badge-pink\"><i class=\"fa-solid fa-bolt\"></i> 2.3. Trạng từ bổ nghĩa cho TRẠNG TỪ KHÁC</span>\n    <div style=\"margin-top: 10px; font-weight: 700; color: var(--color-pink);\"><i class=\"fa-solid fa-magnifying-glass\"></i> Dấu hiệu nhận diện:</div>\n    <div style=\"margin-top: 6px;\">Chỗ trống đứng ngay <strong>trước một trạng từ chỉ cách thức khác</strong> để nhấn mạnh mức độ:</div>\n    <div style=\"margin-top: 12px;\"><span class=\"hl-box\">ADV (mức độ) + ADV (cách thức)</span></div>\n    <div class=\"pos-tag-group\" style=\"margin-top: 12px;\">\n        <span class=\"pos-tag tag-pink\">very quickly</span>\n        <span class=\"pos-tag tag-pink\">extremely efficiently</span>\n        <span class=\"pos-tag tag-pink\">quite smoothly</span>\n        <span class=\"pos-tag tag-pink\">remarkably well</span>\n        <span class=\"pos-tag tag-pink\">fairly easily</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 93,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>EXAMPLE: </strong><br>The technician repaired the network system ____ quickly after identifying the problem.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-pink\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-location-crosshairs\"></i> 2.3. Trạng từ bổ nghĩa cho TRẠNG TỪ KHÁC</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng ngay trước trạng từ cách thức <code>quickly</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">ADV (mức độ) + ADV (cách thức)</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The technician repaired the network system <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-cyan\" style=\"font-weight:700;\">quickly</span> after identifying the problem.</div>\n</div>",
         "options": {
           "A": "remarkable",
           "B": "remarkably",
@@ -2200,37 +2200,37 @@ const toeicReadingData = [
           "D": "remarking"
         },
         "correct_answer": "B",
-        "explanation_html": "Cần trạng từ để bổ nghĩa cho một trạng từ khác đứng sau nó (\"quickly\"). Trạng từ kết thúc bằng \"-ly\" -> \"remarkably\" (một cách đáng kể)."
+        "explanation_html": "Cần <strong>trạng từ chỉ mức độ</strong> đứng trước để bổ nghĩa cho một trạng từ khác phía sau (<code>quickly</code>). Trạng từ tận cùng bằng <code>-ly</code> → chọn <strong class=\"hl-vocab\">remarkably</strong> <em>(một cách đáng kể, vượt trội)</em>."
       },
       {
         "slide_index": 94,
-        "title": "III. CÁC LƯU Ý QUAN TRỌNG",
+        "title": "LƯU Ý 01: TRẠNG TỪ KHÔNG CÓ ĐUÔI –LY (TẦN SUẤT & THỜI GIAN)",
         "is_html": true,
-        "html_content": "<strong><span class=\"hl-orange\">LƯU Ý 01: Một số trạng từ KHÔNG có hậu tố –LY</span></strong><br>Không phải tất cả trạng từ đều có <strong><span class=\"hl-red\">–ly</span></strong>. Một số trạng từ không có hậu tố <strong><span class=\"hl-red\">–ly </span></strong>nhưng vẫn là trạng từ. Ví dụ như:<br><strong>Trạng từ chỉ tần suất</strong>: always, usually, often, sometimes, rarely, never, ..<br><strong>Trạng từ chỉ thời gian: </strong>Thời gian: now, today, yesterday, soon, recently, later, …"
+        "html_content": "<div class=\"suffix-header-badge badge-gold\"><i class=\"fa-solid fa-triangle-exclamation\" style=\"margin-right: 6px;\"></i> LƯU Ý 01: Một số trạng từ KHÔNG có hậu tố –LY</div>\n<div class=\"slide-callout callout-gold\">\n    <div style=\"font-size: 1.05rem;\">\n        Không phải tất cả trạng từ đều tận cùng bằng <code>-ly</code>. Dưới đây là 2 nhóm trạng từ không đuôi <code>-ly</code> rất hay gặp:\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-cyan);\">\n        <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-clock-rotate-left\"></i> TRẠNG TỪ CHỈ TẦN SUẤT</span>\n        <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n            <span class=\"pos-tag\">always</span>\n            <span class=\"pos-tag\">usually</span>\n            <span class=\"pos-tag\">often</span>\n            <span class=\"pos-tag tag-purple\">sometimes</span>\n            <span class=\"pos-tag tag-gold\">rarely</span>\n            <span class=\"pos-tag tag-gold\">seldom</span>\n            <span class=\"pos-tag tag-pink\">never</span>\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-purple);\">\n        <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-calendar-day\"></i> TRẠNG TỪ CHỈ THỜI GIAN</span>\n        <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n            <span class=\"pos-tag tag-purple\">now</span>\n            <span class=\"pos-tag tag-purple\">today</span>\n            <span class=\"pos-tag tag-purple\">yesterday</span>\n            <span class=\"pos-tag tag-pink\">soon</span>\n            <span class=\"pos-tag tag-gold\">recently</span>\n            <span class=\"pos-tag tag-cyan\">later</span>\n            <span class=\"pos-tag\">already / yet</span>\n        </div>\n    </div>\n</div>"
       },
       {
         "slide_index": 95,
-        "title": "III. CÁC LƯU Ý QUAN TRỌNG",
+        "title": "LƯU Ý 01: TRẠNG TỪ KHÔNG CÓ ĐUÔI –LY (NƠI CHỐN & MỨC ĐỘ)",
         "is_html": true,
-        "html_content": "<strong><span class=\"hl-orange\">LƯU Ý 01: Một số trạng từ KHÔNG có hậu tố –LY</span></strong><br>Không phải tất cả trạng từ đều có <strong><span class=\"hl-red\">–ly</span></strong>. Một số trạng từ không có hậu tố <strong><span class=\"hl-red\">–ly </span></strong>nhưng vẫn là trạng từ. Ví dụ như:<br><strong>Trạng từ chỉ nơi chốn</strong>: here, there, everywhere, abroad, upstairs, downstairs, …<br><strong>Trạng từ chỉ mức độ: </strong>very, quite, rather, too, enough, almost, nearly, …"
+        "html_content": "<div class=\"suffix-header-badge badge-gold\"><i class=\"fa-solid fa-triangle-exclamation\" style=\"margin-right: 6px;\"></i> LƯU Ý 01: Một số trạng từ KHÔNG có hậu tố –LY (tiếp theo)</div>\n<div class=\"slide-callout callout-gold\">\n    <div style=\"font-size: 1.05rem;\">\n        Tiếp tục ghi nhớ 2 nhóm trạng từ không có đuôi <code>-ly</code> nhưng đóng vai trò ngữ pháp cực kỳ quan trọng:\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-pink);\">\n        <span class=\"slide-badge-pink\"><i class=\"fa-solid fa-map-location-dot\"></i> TRẠNG TỪ CHỈ NƠI CHỐN</span>\n        <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n            <span class=\"pos-tag tag-pink\">here</span>\n            <span class=\"pos-tag tag-pink\">there</span>\n            <span class=\"pos-tag tag-pink\">everywhere</span>\n            <span class=\"pos-tag tag-purple\">abroad</span>\n            <span class=\"pos-tag\">upstairs</span>\n            <span class=\"pos-tag\">downstairs</span>\n            <span class=\"pos-tag tag-gold\">nearby</span>\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-gold);\">\n        <span class=\"slide-badge-gold\" style=\"color: var(--color-gold);\"><i class=\"fa-solid fa-sliders\"></i> TRẠNG TỪ CHỈ MỨC ĐỘ</span>\n        <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n            <span class=\"pos-tag tag-gold\">very</span>\n            <span class=\"pos-tag tag-gold\">quite</span>\n            <span class=\"pos-tag tag-gold\">rather</span>\n            <span class=\"pos-tag tag-purple\">too</span>\n            <span class=\"pos-tag tag-cyan\">enough</span>\n            <span class=\"pos-tag tag-pink\">almost</span>\n            <span class=\"pos-tag tag-pink\">nearly</span>\n        </div>\n    </div>\n</div>"
       },
       {
         "slide_index": 96,
-        "title": "LƯU Ý 02: Một số trạng từ có hai dạng nhưng nghĩa khác nhau",
+        "title": "LƯU Ý 02: TRẠNG TỪ CÓ 2 DẠNG NHƯNG NGHĨA KHÁC NHAU",
         "is_html": true,
-        "html_content": "<strong>hard</strong> → chăm chỉ\t\t\t<strong><span class=\"hl-red\">hardly</span></strong> → hầu như không<br><strong>late</strong> → muộn\t\t\t\t<strong><span class=\"hl-red\">lately</span></strong> → gần đây<br><strong>high</strong> → cao\t\t\t\t<strong><span class=\"hl-red\">highly</span></strong> → rất / đánh giá cao<br><strong>near</strong> → gần\t\t\t\t<strong><span class=\"hl-red\">nearly</span></strong> → gần như<br><strong>close</strong> → gần\t\t\t\t<strong><span class=\"hl-red\">closely</span></strong> → chặt chẽ"
+        "html_content": "<div class=\"suffix-header-badge badge-purple\"><i class=\"fa-solid fa-tags\" style=\"margin-right: 6px;\"></i> LƯU Ý 02: Trạng từ có hai dạng nhưng nghĩa hoàn toàn khác nhau</div>\n<div class=\"slide-callout callout-purple\">\n    <div style=\"font-size: 1.05rem;\">\n        Cần phân biệt rõ các cặp từ sau để tránh bẫy ngữ nghĩa trong phần thi TOEIC:\n    </div>\n</div>\n<div class=\"slide-grid-3\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-cyan);\">\n        <div><strong class=\"hl-cyan\">hard</strong> ⟷ <strong class=\"hl-purple\">hardly</strong></div>\n        <div style=\"font-size: 0.88rem; color: var(--text-secondary); margin-top: 4px;\">chăm chỉ ⟷ hầu như không</div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-purple);\">\n        <div><strong class=\"hl-cyan\">late</strong> ⟷ <strong class=\"hl-purple\">lately</strong></div>\n        <div style=\"font-size: 0.88rem; color: var(--text-secondary); margin-top: 4px;\">muộn, trễ ⟷ gần đây</div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-pink);\">\n        <div><strong class=\"hl-cyan\">high</strong> ⟷ <strong class=\"hl-purple\">highly</strong></div>\n        <div style=\"font-size: 0.88rem; color: var(--text-secondary); margin-top: 4px;\">vị trí cao ⟷ rất, đánh giá cao</div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-gold);\">\n        <div><strong class=\"hl-cyan\">near</strong> ⟷ <strong class=\"hl-purple\">nearly</strong></div>\n        <div style=\"font-size: 0.88rem; color: var(--text-secondary); margin-top: 4px;\">khoảng cách gần ⟷ gần như, xấp xỉ</div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-cyan);\">\n        <div><strong class=\"hl-cyan\">close</strong> ⟷ <strong class=\"hl-purple\">closely</strong></div>\n        <div style=\"font-size: 0.88rem; color: var(--text-secondary); margin-top: 4px;\">gần sát ⟷ chặt chẽ, tỉ mỉ</div>\n    </div>\n</div>"
       },
       {
         "slide_index": 97,
-        "title": "LƯU Ý 03: Một số từ vừa là TÍNH TỪ vừa là TRẠNG TỪ",
+        "title": "LƯU Ý 03: TỪ VỪA LÀ TÍNH TỪ VỪA LÀ TRẠNG TỪ",
         "is_html": true,
-        "html_content": "Một số từ <strong>giữ nguyên hình thức khi làm tính từ và trạng từ</strong>, không cần thêm <strong><span class=\"hl-red\">–ly</span></strong>. Ví dụ: fast, hard, late, early, far, …<br>He drives a <strong>fast</strong> car.<br>→ <strong>fast</strong> = <strong>tính từ</strong> (bổ nghĩa cho danh từ car)<br>He drives <strong>fast</strong>.<br>→ <strong>fast</strong> = <strong>trạng từ</strong> (bổ nghĩa cho động từ drives)"
+        "html_content": "<div class=\"suffix-header-badge badge-gold\"><i class=\"fa-solid fa-shuffle\" style=\"margin-right: 6px;\"></i> LƯU Ý 03: Một số từ vừa là TÍNH TỪ vừa là TRẠNG TỪ</div>\n<div class=\"slide-callout callout-gold\">\n    <div style=\"font-size: 1.05rem;\">\n        Một số từ <strong>giữ nguyên hình thức khi làm tính từ và trạng từ</strong>, tuyệt đối không thêm đuôi <code>-ly</code>:\n    </div>\n    <div class=\"pos-tag-group\" style=\"margin-top: 10px;\">\n        <span class=\"pos-tag tag-gold\">fast</span>\n        <span class=\"pos-tag tag-gold\">hard</span>\n        <span class=\"pos-tag tag-gold\">late</span>\n        <span class=\"pos-tag tag-gold\">early</span>\n        <span class=\"pos-tag tag-gold\">far</span>\n        <span class=\"pos-tag tag-gold\">daily</span>\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-cyan);\">\n        <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-tag\"></i> Đóng vai trò là TÍNH TỪ</span>\n        <div style=\"font-size: 0.95rem; margin-top: 8px; color: var(--text-secondary);\">\n            He drives a <strong class=\"hl-cyan\">fast</strong> car.<br>\n            <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ fast đứng trước bổ nghĩa cho danh từ car.</span>\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-purple);\">\n        <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-person-running\"></i> Đóng vai trò là TRẠNG TỪ</span>\n        <div style=\"font-size: 0.95rem; margin-top: 8px; color: var(--text-secondary);\">\n            He drives <strong class=\"hl-purple\">fast</strong>.<br>\n            <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ fast đứng sau bổ nghĩa cho động từ drives.</span>\n        </div>\n    </div>\n</div>"
       },
       {
         "slide_index": 98,
-        "title": "LƯU Ý 04: Phân biệt TÍNH TỪ với TRẠNG TỪ",
+        "title": "LƯU Ý 04: PHÂN BIỆT TÍNH TỪ VỚI TRẠNG TỪ",
         "is_html": true,
-        "html_content": "📌 <strong>Quy tắc cơ bản</strong><br>Sau <strong>động từ liên kết</strong> → dùng <strong>tính từ</strong><br>Sau <strong>động từ hành động</strong> → dùng <strong>trạng từ</strong><br><strong>Ví dụ</strong><br>The instructions are <strong>clear</strong>.<br>→ clear = <strong>tính từ</strong><br>The technician explained the instructions <strong>clearly</strong>.<br>→ clearly = <strong>trạng từ</strong>"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-scale-balanced\" style=\"margin-right: 6px;\"></i> LƯU Ý 04: Phân biệt TÍNH TỪ với TRẠNG TỪ</div>\n<div class=\"slide-callout\">\n    <div style=\"font-size: 1.05rem;\">\n        📌 <strong>Quy tắc phản xạ nhanh:</strong> Nhìn vào động từ trước chỗ trống:\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-cyan);\">\n        <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-link\"></i> Sau ĐỘNG TỪ LIÊN KẾT → Dùng TÍNH TỪ</span>\n        <div style=\"margin-top: 10px; padding: 10px 14px; background: rgba(0, 242, 254, 0.05); border-radius: 8px; font-size: 0.95rem;\">\n            The instructions are <strong class=\"hl-cyan\">clear</strong>.<br>\n            <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ clear = tính từ bổ nghĩa cho chủ ngữ</span>\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-purple);\">\n        <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-person-running\"></i> Sau ĐỘNG TỪ HÀNH ĐỘNG → Dùng TRẠNG TỪ</span>\n        <div style=\"margin-top: 10px; padding: 10px 14px; background: rgba(168, 85, 247, 0.05); border-radius: 8px; font-size: 0.95rem;\">\n            The technician explained the instructions <strong class=\"hl-purple\">clearly</strong>.<br>\n            <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ clearly = trạng từ bổ nghĩa cho hành động explained</span>\n        </div>\n    </div>\n</div>"
       }
     ],
     "questions": [
@@ -2243,7 +2243,7 @@ const toeicReadingData = [
           "D": "caring"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. carefully</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước động từ hành động 'reviewed' để bổ nghĩa cho động từ đó nên cần điền một trạng từ. 'carefully' là trạng từ chỉ sự cẩn thận.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">carefully</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã xem xét bản thảo của hợp đồng một cách cẩn thận.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. carefully</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước động từ hành động <code>reviewed</code> để bổ nghĩa cho động từ đó nên cần điền một trạng từ. <code>carefully</code> là trạng từ chỉ sự cẩn thận.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">carefully</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã xem xét bản thảo của hợp đồng một cách cẩn thận.</em>"
       },
       {
         "question": "The marketing team completed the project ______ ahead of schedule.",
@@ -2254,7 +2254,7 @@ const toeicReadingData = [
           "D": "succeed"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. successfully</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống bổ nghĩa cho hành động 'completed' ở vế trước nên cần điền một trạng từ. 'successfully' là trạng từ chỉ sự thành công.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">successfully</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm tiếp thị đã hoàn thành dự án một cách thành công trước thời hạn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. successfully</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống bổ nghĩa cho hành động <code>completed</code> ở vế trước nên cần điền một trạng từ. <code>successfully</code> là trạng từ chỉ sự thành công.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">successfully</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm tiếp thị đã hoàn thành dự án một cách thành công trước thời hạn.</em>"
       },
       {
         "question": "The new software program runs ______ on the updated operating system.",
@@ -2265,7 +2265,7 @@ const toeicReadingData = [
           "D": "smoothly"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. smoothly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động 'runs' để bổ nghĩa cho hành động đó nên vị trí trống cần điền trạng từ. 'smoothly' là trạng từ chỉ sự trơn tru, mượt mà.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">smoothly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chương trình phần mềm mới chạy một cách trơn tru trên hệ điều hành đã được cập nhật.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. smoothly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động <code>runs</code> để bổ nghĩa cho hành động đó nên vị trí trống cần điền trạng từ. <code>smoothly</code> là trạng từ chỉ sự trơn tru, mượt mà.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">smoothly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chương trình phần mềm mới chạy một cách trơn tru trên hệ điều hành đã được cập nhật.</em>"
       },
       {
         "question": "Mr. Chang was ______ pleased with the quarterly sales results.",
@@ -2276,7 +2276,7 @@ const toeicReadingData = [
           "D": "extremist"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. extremely</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước tính từ 'pleased' để bổ nghĩa cho tính từ đó nên cần điền trạng từ chỉ mức độ. 'extremely' là trạng từ chỉ mức độ cực kỳ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">extremely</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Chang cực kỳ hài lòng với các kết quả doanh số hàng quý.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. extremely</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống đứng trước tính từ <code>pleased</code> để bổ nghĩa cho tính từ đó nên cần điền trạng từ chỉ mức độ. <code>extremely</code> là trạng từ chỉ mức độ cực kỳ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">extremely</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Chang cực kỳ hài lòng với các kết quả doanh số hàng quý.</em>"
       },
       {
         "question": "The safety regulations must be ______ followed by all employees.",
@@ -2287,7 +2287,7 @@ const toeicReadingData = [
           "D": "strictly"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. strictly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ bị động 'must be' và động từ phân từ 2 'followed' để bổ nghĩa cho hành động bị động nên cần điền trạng từ. 'strictly' là trạng từ chỉ sự nghiêm ngặt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">strictly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các quy định an toàn phải được tuân thủ một cách nghiêm ngặt bởi tất cả nhân viên.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. strictly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ bị động <code>must be</code> và động từ phân từ 2 <code>followed</code> để bổ nghĩa cho hành động bị động nên cần điền trạng từ. <code>strictly</code> là trạng từ chỉ sự nghiêm ngặt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">strictly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các quy định an toàn phải được tuân thủ một cách nghiêm ngặt bởi tất cả nhân viên.</em>"
       },
       {
         "question": "The company ______ announced the launch of its new product line.",
@@ -2298,7 +2298,7 @@ const toeicReadingData = [
           "D": "recentness"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. recently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ hành động 'announced' để chỉ thời gian xảy ra hành động nên cần điền trạng từ. 'recently' là trạng từ chỉ sự gần đây.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">recently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty gần đây đã thông báo về việc ra mắt dòng sản phẩm mới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. recently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ hành động <code>announced</code> để chỉ thời gian xảy ra hành động nên cần điền trạng từ. <code>recently</code> là trạng từ chỉ sự gần đây.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">recently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty gần đây đã thông báo về việc ra mắt dòng sản phẩm mới.</em>"
       },
       {
         "question": "The budget was ______ estimated because of incomplete data.",
@@ -2309,7 +2309,7 @@ const toeicReadingData = [
           "D": "accurately"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. inaccurately</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa động từ 'was' và phân từ 2 'estimated' để bổ nghĩa cho hành động nên cần điền một trạng từ. 'inaccurately' là trạng từ chỉ sự không chính xác.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">inaccurately</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ngân sách đã được ước tính một cách không chính xác vì dữ liệu không đầy đủ.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. inaccurately</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa động từ <code>was</code> và phân từ 2 <code>estimated</code> để bổ nghĩa cho hành động nên cần điền một trạng từ. <code>inaccurately</code> là trạng từ chỉ sự không chính xác.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">inaccurately</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ngân sách đã được ước tính một cách không chính xác vì dữ liệu không đầy đủ.</em>"
       },
       {
         "question": "Our technician will check the server network ______ to prevent issues.",
@@ -2320,7 +2320,7 @@ const toeicReadingData = [
           "D": "regulate"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. regularly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng cuối câu để bổ nghĩa cho hành động 'check' nên vị trí trống cần điền trạng từ chỉ tần suất. 'regularly' là trạng từ chỉ sự thường xuyên.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">regularly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên của chúng tôi sẽ kiểm tra mạng máy chủ một cách thường xuyên để ngăn ngừa sự cố.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. regularly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng cuối câu để bổ nghĩa cho hành động <code>check</code> nên vị trí trống cần điền trạng từ chỉ tần suất. <code>regularly</code> là trạng từ chỉ sự thường xuyên.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">regularly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên của chúng tôi sẽ kiểm tra mạng máy chủ một cách thường xuyên để ngăn ngừa sự cố.</em>"
       },
       {
         "question": "The financial report was ______ detailed and easy to understand.",
@@ -2331,7 +2331,7 @@ const toeicReadingData = [
           "D": "remarked"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. remarkably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước tính từ 'detailed' để bổ nghĩa cho tính từ đó nên cần điền trạng từ. 'remarkably' là trạng từ chỉ mức độ đáng kể, đặc biệt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">remarkably</strong>.<br><br><strong>Dịch câu:</strong><br><em>Báo cáo tài chính chi tiết một cách đáng ngạc nhiên và dễ hiểu.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. remarkably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước tính từ <code>detailed</code> để bổ nghĩa cho tính từ đó nên cần điền trạng từ. <code>remarkably</code> là trạng từ chỉ mức độ đáng kể, đặc biệt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">remarkably</strong>.<br><br><strong>Dịch câu:</strong><br><em>Báo cáo tài chính chi tiết một cách đáng ngạc nhiên và dễ hiểu.</em>"
       },
       {
         "question": "Please speak ______ during the seminar so everyone can hear you.",
@@ -2342,7 +2342,7 @@ const toeicReadingData = [
           "D": "clarify"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. clearly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động 'speak' để bổ nghĩa cho cách thức nói nên cần điền trạng từ. 'clearly' là trạng từ chỉ sự rõ ràng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">clearly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng nói một cách rõ ràng trong suốt buổi chuyên đề để mọi người có thể nghe thấy bạn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. clearly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động <code>speak</code> để bổ nghĩa cho cách thức nói nên cần điền trạng từ. <code>clearly</code> là trạng từ chỉ sự rõ ràng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">clearly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng nói một cách rõ ràng trong suốt buổi chuyên đề để mọi người có thể nghe thấy bạn.</em>"
       },
       {
         "question": "The price of raw materials has increased ______ over the past year.",
@@ -2353,7 +2353,7 @@ const toeicReadingData = [
           "D": "sharpen"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. sharply</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ chính 'has increased' để bổ nghĩa cho chiều hướng tăng nên cần điền một trạng từ. 'sharply' là trạng từ chỉ sự đột ngột/mạnh mẽ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">sharply</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giá nguyên liệu thô đã tăng một cách mạnh mẽ trong năm qua.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. sharply</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ chính <code>has increased</code> để bổ nghĩa cho chiều hướng tăng nên cần điền một trạng từ. <code>sharply</code> là trạng từ chỉ sự đột ngột/mạnh mẽ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">sharply</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giá nguyên liệu thô đã tăng một cách mạnh mẽ trong năm qua.</em>"
       },
       {
         "question": "We need to ______ change our marketing strategy to win clients.",
@@ -2364,7 +2364,7 @@ const toeicReadingData = [
           "D": "drastically"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. drastically</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chính 'change' để bổ nghĩa cho hành động thay đổi nên cần điền trạng từ. 'drastically' là trạng từ chỉ sự mạnh mẽ/quyết liệt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">drastically</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta cần thay đổi một cách quyết liệt chiến lược tiếp thị của mình để giành được khách hàng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. drastically</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chính <code>change</code> để bổ nghĩa cho hành động thay đổi nên cần điền trạng từ. <code>drastically</code> là trạng từ chỉ sự mạnh mẽ/quyết liệt.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">drastically</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng ta cần thay đổi một cách quyết liệt chiến lược tiếp thị của mình để giành được khách hàng.</em>"
       },
       {
         "question": "The proposal was ______ approved by all committee members.",
@@ -2375,7 +2375,7 @@ const toeicReadingData = [
           "D": "animated"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. unanimously</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa động từ 'was' và phân từ 2 'approved' để bổ nghĩa cho hành động được thông qua đồng thuận nên cần trạng từ. 'unanimously' là trạng từ chỉ sự nhất trí, đồng lòng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">unanimously</strong>.<br><br><strong>Dịch câu:</strong><br><em>Đề xuất đã được chấp thuận một cách nhất trí bởi tất cả các thành viên ủy ban.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. unanimously</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa động từ <code>was</code> và phân từ 2 <code>approved</code> để bổ nghĩa cho hành động được thông qua đồng thuận nên cần trạng từ. <code>unanimously</code> là trạng từ chỉ sự nhất trí, đồng lòng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">unanimously</strong>.<br><br><strong>Dịch câu:</strong><br><em>Đề xuất đã được chấp thuận một cách nhất trí bởi tất cả các thành viên ủy ban.</em>"
       },
       {
         "question": "The train schedule has been ______ updated due to track repair.",
@@ -2386,7 +2386,7 @@ const toeicReadingData = [
           "D": "temporal"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. temporarily</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ 'has been' và phân từ 2 'updated' để bổ nghĩa cho trạng thái hành động nên cần điền trạng từ. 'temporarily' là trạng từ chỉ sự tạm thời.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">temporarily</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lịch trình xe lửa đã được cập nhật một cách tạm thời do việc sửa chữa đường ray.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. temporarily</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ <code>has been</code> và phân từ 2 <code>updated</code> để bổ nghĩa cho trạng thái hành động nên cần điền trạng từ. <code>temporarily</code> là trạng từ chỉ sự tạm thời.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">temporarily</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lịch trình xe lửa đã được cập nhật một cách tạm thời do việc sửa chữa đường ray.</em>"
       },
       {
         "question": "The office building is ______ located near the subway station.",
@@ -2397,7 +2397,7 @@ const toeicReadingData = [
           "D": "conveniently"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. conveniently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa động từ 'is' và phân từ 2 'located' để tạo thành cụm chỉ vị trí nên cần trạng từ bổ nghĩa. 'conveniently' là trạng từ chỉ sự thuận tiện.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">conveniently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà văn phòng được tọa lạc một cách thuận tiện ở gần ga tàu điện ngầm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. conveniently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa động từ <code>is</code> và phân từ 2 <code>located</code> để tạo thành cụm chỉ vị trí nên cần trạng từ bổ nghĩa. <code>conveniently</code> là trạng từ chỉ sự thuận tiện.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">conveniently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà văn phòng được tọa lạc một cách thuận tiện ở gần ga tàu điện ngầm.</em>"
       },
       {
         "question": "The sales department met their monthly goal ______.",
@@ -2408,7 +2408,7 @@ const toeicReadingData = [
           "D": "ease"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. easily</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng cuối câu bổ nghĩa cho động từ hành động 'met' nên chỗ trống cần điền một trạng từ cách thức. 'easily' là trạng từ chỉ sự dễ dàng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">easily</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận bán hàng đã đạt được mục tiêu hàng tháng của họ một cách dễ dàng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. easily</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng cuối câu bổ nghĩa cho động từ hành động <code>met</code> nên chỗ trống cần điền một trạng từ cách thức. <code>easily</code> là trạng từ chỉ sự dễ dàng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">easily</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bộ phận bán hàng đã đạt được mục tiêu hàng tháng của họ một cách dễ dàng.</em>"
       },
       {
         "question": "The CEO was ______ involved in the contract negotiations.",
@@ -2419,7 +2419,7 @@ const toeicReadingData = [
           "D": "director"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. directly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa động từ 'was' và phân từ 2 'involved' để bổ nghĩa cho mức độ tham gia nên cần điền trạng từ. 'directly' là trạng từ chỉ sự trực tiếp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">directly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc điều hành đã tham gia một cách trực tiếp vào các cuộc đàm phán hợp đồng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. directly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa động từ <code>was</code> và phân từ 2 <code>involved</code> để bổ nghĩa cho mức độ tham gia nên cần điền trạng từ. <code>directly</code> là trạng từ chỉ sự trực tiếp.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">directly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc điều hành đã tham gia một cách trực tiếp vào các cuộc đàm phán hợp đồng.</em>"
       },
       {
         "question": "The client wants the project completed ______ by Friday afternoon.",
@@ -2430,7 +2430,7 @@ const toeicReadingData = [
           "D": "prefered"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. preferably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng bổ nghĩa cho cụm thời hạn ở cuối câu nhằm diễn tả sự ưu tiên nên cần điền trạng từ. 'preferably' là trạng từ chỉ trạng thái tốt nhất là / ưu tiên là.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">preferably</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng muốn dự án được hoàn thành tốt nhất là trước chiều thứ Sáu.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. preferably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng bổ nghĩa cho cụm thời hạn ở cuối câu nhằm diễn tả sự ưu tiên nên cần điền trạng từ. <code>preferably</code> là trạng từ chỉ trạng thái tốt nhất là / ưu tiên là.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">preferably</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng muốn dự án được hoàn thành tốt nhất là trước chiều thứ Sáu.</em>"
       },
       {
         "question": "The store manager handled the angry customer ______.",
@@ -2441,7 +2441,7 @@ const toeicReadingData = [
           "D": "politic"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. politely</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm động từ và tân ngữ 'handled the angry customer' để bổ nghĩa cho cách thức xử lý nên cần điền trạng từ. 'politely' là trạng từ chỉ sự lịch sự.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">politely</strong>.<br><br><strong>Dịch câu:</strong><br><em>Quản lý cửa hàng đã xử lý khách hàng giận dữ một cách lịch sự.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. politely</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm động từ và tân ngữ <code>handled the angry customer</code> để bổ nghĩa cho cách thức xử lý nên cần điền trạng từ. <code>politely</code> là trạng từ chỉ sự lịch sự.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">politely</strong>.<br><br><strong>Dịch câu:</strong><br><em>Quản lý cửa hàng đã xử lý khách hàng giận dữ một cách lịch sự.</em>"
       },
       {
         "question": "The new security system operates ______ twenty-four hours a day.",
@@ -2452,7 +2452,7 @@ const toeicReadingData = [
           "D": "continuously"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. continuously</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động 'operates' để bổ nghĩa chỉ hoạt động không ngừng nghỉ nên cần điền trạng từ. 'continuously' là trạng từ chỉ sự liên tục.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">continuously</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hệ thống an ninh mới hoạt động một cách liên tục hai mươi tư giờ một ngày.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. continuously</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động <code>operates</code> để bổ nghĩa chỉ hoạt động không ngừng nghỉ nên cần điền trạng từ. <code>continuously</code> là trạng từ chỉ sự liên tục.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">continuously</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hệ thống an ninh mới hoạt động một cách liên tục hai mươi tư giờ một ngày.</em>"
       }
     ],
     "homework": [
@@ -2460,34 +2460,34 @@ const toeicReadingData = [
         "question": "The accountant ______ double-checked the financial statement.",
         "options": {
           "A": "thorough",
-          "B": "thoroughly",
-          "C": "thoroughness",
+          "B": "thoroughness",
+          "C": "thoroughly",
           "D": "through"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. thoroughly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chính 'double-checked' để bổ nghĩa cho hành động nên vị trí trống cần điền một trạng từ. 'thoroughly' là trạng từ chỉ sự kỹ lưỡng, kỹ càng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">thoroughly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kế toán đã kiểm tra lại một cách kỹ lưỡng báo cáo tài chính.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. thoroughly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chính <code>double-checked</code> để bổ nghĩa cho hành động nên vị trí trống cần điền một trạng từ. <code>thoroughly</code> là trạng từ chỉ sự kỹ lưỡng, kỹ càng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">thoroughly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kế toán đã kiểm tra lại một cách kỹ lưỡng báo cáo tài chính.</em>"
       },
       {
         "question": "The marketing director spoke ______ during the conference.",
         "options": {
-          "A": "eloquent",
-          "B": "eloquently",
+          "A": "eloquently",
+          "B": "eloquent",
           "C": "eloquence",
           "D": "eloquential"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. eloquently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động 'spoke' để bổ nghĩa cho cách thức diễn thuyết nên cần điền một trạng từ. 'eloquently' là trạng từ chỉ sự hùng biện, lưu loát.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">eloquently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã phát biểu một cách lưu loát trong suốt hội nghị.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. eloquently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động <code>spoke</code> để bổ nghĩa cho cách thức diễn thuyết nên cần điền một trạng từ. <code>eloquently</code> là trạng từ chỉ sự hùng biện, lưu loát.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">eloquently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã phát biểu một cách lưu loát trong suốt hội nghị.</em>"
       },
       {
         "question": "Our sales figures have increased ______ since the campaign started.",
         "options": {
           "A": "substantial",
-          "B": "substantially",
+          "B": "substantiate",
           "C": "substance",
-          "D": "substantiate"
+          "D": "substantially"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. substantially</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ chính 'have increased' để bổ nghĩa cho mức độ gia tăng nên cần điền trạng từ. 'substantially' là trạng từ chỉ mức độ đáng kể, nhiều.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">substantially</strong>.<br><br><strong>Dịch câu:</strong><br><em>Số liệu doanh thu của chúng tôi đã tăng một cách đáng kể kể từ khi chiến dịch bắt đầu.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. substantially</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ chính <code>have increased</code> để bổ nghĩa cho mức độ gia tăng nên cần điền trạng từ. <code>substantially</code> là trạng từ chỉ mức độ đáng kể, nhiều.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">substantially</strong>.<br><br><strong>Dịch câu:</strong><br><em>Số liệu doanh thu của chúng tôi đã tăng một cách đáng kể kể từ khi chiến dịch bắt đầu.</em>"
       },
       {
         "question": "The laboratory test results will be ______ available online.",
@@ -2498,29 +2498,29 @@ const toeicReadingData = [
           "D": "shortened"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. shortly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước tính từ 'available' để chỉ thời gian ngắn sắp tới sẽ có kết quả nên cần điền trạng từ. 'shortly' là trạng từ chỉ thời gian sắp tới, sớm thôi.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">shortly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các kết quả kiểm nghiệm phòng thí nghiệm sẽ sớm có sẵn trực tuyến.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. shortly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước tính từ <code>available</code> để chỉ thời gian ngắn sắp tới sẽ có kết quả nên cần điền trạng từ. <code>shortly</code> là trạng từ chỉ thời gian sắp tới, sớm thôi.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">shortly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các kết quả kiểm nghiệm phòng thí nghiệm sẽ sớm có sẵn trực tuyến.</em>"
       },
       {
         "question": "The supervisor ______ inspects the safety equipment.",
         "options": {
-          "A": "periodic",
-          "B": "periodically",
+          "A": "periodically",
+          "B": "periodic",
           "C": "periodicity",
           "D": "periodical"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. periodically</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chính 'inspects' để chỉ tần suất thực hiện hành động nên cần điền trạng từ. 'periodically' là trạng từ chỉ sự định kỳ, theo chu kỳ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">periodically</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát kiểm tra thiết bị an toàn một cách định kỳ.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. periodically</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chính <code>inspects</code> để chỉ tần suất thực hiện hành động nên cần điền trạng từ. <code>periodically</code> là trạng từ chỉ sự định kỳ, theo chu kỳ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">periodically</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát kiểm tra thiết bị an toàn một cách định kỳ.</em>"
       },
       {
         "question": "The logistics team ______ dispatched the replacement parts.",
         "options": {
           "A": "prompt",
-          "B": "promptly",
-          "C": "promptness",
+          "B": "promptness",
+          "C": "promptly",
           "D": "prompter"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. promptly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ hành động 'dispatched' để bổ nghĩa cho tốc độ xử lý nên cần điền trạng từ. 'promptly' là trạng từ chỉ sự nhanh chóng, ngay lập tức.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">promptly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm hậu cần đã gửi đi các bộ phận thay thế một cách nhanh chóng.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. promptly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ hành động <code>dispatched</code> để bổ nghĩa cho tốc độ xử lý nên cần điền trạng từ. <code>promptly</code> là trạng từ chỉ sự nhanh chóng, ngay lập tức.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">promptly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm hậu cần đã gửi đi các bộ phận thay thế một cách nhanh chóng.</em>"
       },
       {
         "question": "The conference room was ______ decorated for the banquet.",
@@ -2531,29 +2531,29 @@ const toeicReadingData = [
           "D": "beautify"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. beautifully</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa động từ 'was' và phân từ 2 'decorated' để bổ nghĩa cho trạng thái trang trí nên cần điền trạng từ. 'beautifully' là trạng từ chỉ sự đẹp đẽ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">beautifully</strong>.<br><br><strong>Dịch câu:</strong><br><em>Phòng hội nghị đã được trang trí một cách đẹp mắt cho bữa tiệc.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. beautifully</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa động từ <code>was</code> và phân từ 2 <code>decorated</code> để bổ nghĩa cho trạng thái trang trí nên cần điền trạng từ. <code>beautifully</code> là trạng từ chỉ sự đẹp đẽ.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">beautifully</strong>.<br><br><strong>Dịch câu:</strong><br><em>Phòng hội nghị đã được trang trí một cách đẹp mắt cho bữa tiệc.</em>"
       },
       {
         "question": "The marketing team worked ______ to meet the tight deadline.",
         "options": {
           "A": "diligent",
-          "B": "diligently",
+          "B": "diligentness",
           "C": "diligence",
-          "D": "diligentness"
+          "D": "diligently"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. diligently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động 'worked' để bổ nghĩa cho tinh thần làm việc nên cần điền trạng từ. 'diligently' là trạng từ chỉ sự siêng năng, cần cù.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">diligently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm tiếp thị đã làm việc một cách siêng năng để kịp thời hạn chặt chẽ.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. diligently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ hành động <code>worked</code> để bổ nghĩa cho tinh thần làm việc nên cần điền trạng từ. <code>diligently</code> là trạng từ chỉ sự siêng năng, cần cù.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">diligently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm tiếp thị đã làm việc một cách siêng năng để kịp thời hạn chặt chẽ.</em>"
       },
       {
         "question": "We are ______ looking for a new customer service manager.",
         "options": {
           "A": "active",
-          "B": "actively",
-          "C": "activity",
+          "B": "activity",
+          "C": "actively",
           "D": "activation"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. actively</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm động từ tiếp diễn 'looking for' để nhấn mạnh tính chủ động tìm kiếm nên cần điền trạng từ. 'actively' là trạng từ chỉ sự tích cực, chủ động.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">actively</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đang chủ động tìm kiếm một quản lý dịch vụ khách hàng mới.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. actively</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm động từ tiếp diễn <code>looking for</code> để nhấn mạnh tính chủ động tìm kiếm nên cần điền trạng từ. <code>actively</code> là trạng từ chỉ sự tích cực, chủ động.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">actively</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đang chủ động tìm kiếm một quản lý dịch vụ khách hàng mới.</em>"
       },
       {
         "question": "The new manager communicates ______ with all team members.",
@@ -2564,73 +2564,73 @@ const toeicReadingData = [
           "D": "effect"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. effectively</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ chính 'communicates' (hoặc sau cụm từ) để bổ nghĩa cho cách thức giao tiếp nên cần điền trạng từ. 'effectively' là trạng từ chỉ sự hiệu quả.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">effectively</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý mới giao tiếp một cách hiệu quả với tất cả thành viên trong nhóm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. effectively</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ chính <code>communicates</code> (hoặc sau cụm từ) để bổ nghĩa cho cách thức giao tiếp nên cần điền trạng từ. <code>effectively</code> là trạng từ chỉ sự hiệu quả.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">effectively</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý mới giao tiếp một cách hiệu quả với tất cả thành viên trong nhóm.</em>"
       },
       {
         "question": "The printer is ______ out of order and needs to be repaired.",
         "options": {
-          "A": "current",
-          "B": "currently",
+          "A": "currently",
+          "B": "current",
           "C": "currency",
           "D": "currentness"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. currently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm giới từ 'out of order' và sau động từ to be 'is' để chỉ thời gian hiện tại nên cần điền trạng từ. 'currently' là trạng từ chỉ thời điểm hiện tại.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">currently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Máy in hiện đang bị hỏng và cần phải được sửa chữa.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. currently</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước cụm giới từ <code>out of order</code> và sau động từ to be <code>is</code> để chỉ thời gian hiện tại nên cần điền trạng từ. <code>currently</code> là trạng từ chỉ thời điểm hiện tại.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">currently</strong>.<br><br><strong>Dịch câu:</strong><br><em>Máy in hiện đang bị hỏng và cần phải được sửa chữa.</em>"
       },
       {
         "question": "The manager ______ agreed to sign the cooperation agreement.",
         "options": {
-          "A": "readily",
+          "A": "readying",
           "B": "ready",
           "C": "readiness",
-          "D": "readying"
+          "D": "readily"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. readily</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chính 'agreed' để bổ nghĩa cho thái độ đồng ý sẵn lòng nên cần điền trạng từ. 'readily' là trạng từ chỉ sự sẵn lòng, dễ dàng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">readily</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã sẵn lòng đồng ý ký vào thỏa thuận hợp tác.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. readily</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chính <code>agreed</code> để bổ nghĩa cho thái độ đồng ý sẵn lòng nên cần điền trạng từ. <code>readily</code> là trạng từ chỉ sự sẵn lòng, dễ dàng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">readily</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã sẵn lòng đồng ý ký vào thỏa thuận hợp tác.</em>"
       },
       {
         "question": "The security guards patrol the corporate facility ______.",
         "options": {
-          "A": "nightly",
-          "B": "night",
+          "A": "night",
+          "B": "nightly",
           "C": "nighttime",
           "D": "nightliness"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. nightly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng cuối câu bổ nghĩa cho hành động 'patrol' để diễn tả tần suất hàng đêm -> chọn trạng từ chỉ tần suất 'nightly' (hàng đêm).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">nightly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các nhân viên bảo vệ tuần tra cơ sở của tập đoàn hàng đêm.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. nightly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng cuối câu bổ nghĩa cho hành động <code>patrol</code> để diễn tả tần suất hàng đêm → chọn trạng từ chỉ tần suất <code>nightly</code> (hàng đêm).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">nightly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các nhân viên bảo vệ tuần tra cơ sở của tập đoàn hàng đêm.</em>"
       },
       {
         "question": "The marketing presentation was ______ received by the board.",
         "options": {
           "A": "favorable",
-          "B": "favorably",
+          "B": "favorite",
           "C": "favor",
-          "D": "favorite"
+          "D": "favorably"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. favorably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ 'was' và phân từ 2 'received' để bổ nghĩa cho phản ứng tích cực nên cần điền trạng từ. 'favorably' là trạng từ chỉ sự thuận lợi, tán thành.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">favorably</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bài thuyết trình tiếp thị đã được đón nhận một cách tán thành bởi ban giám đốc.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. favorably</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ <code>was</code> và phân từ 2 <code>received</code> để bổ nghĩa cho phản ứng tích cực nên cần điền trạng từ. <code>favorably</code> là trạng từ chỉ sự thuận lợi, tán thành.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">favorably</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bài thuyết trình tiếp thị đã được đón nhận một cách tán thành bởi ban giám đốc.</em>"
       },
       {
         "question": "The system administrator ______ backed up all database files.",
         "options": {
-          "A": "intentional",
-          "B": "intentionally",
+          "A": "intentionally",
+          "B": "intentional",
           "C": "intention",
           "D": "intend"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. intentionally</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chính 'backed up' để bổ nghĩa cho chủ ý hành động nên cần điền trạng từ. 'intentionally' là trạng từ chỉ sự cố ý, có chủ đích.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">intentionally</strong>.<br><br><strong>Dịch câu:</strong><br><em>Quản trị viên hệ thống đã sao lưu toàn bộ các tệp cơ sở dữ liệu một cách có chủ đích.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. intentionally</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước động từ chính <code>backed up</code> để bổ nghĩa cho chủ ý hành động nên cần điền trạng từ. <code>intentionally</code> là trạng từ chỉ sự cố ý, có chủ đích.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">intentionally</strong>.<br><br><strong>Dịch câu:</strong><br><em>Quản trị viên hệ thống đã sao lưu toàn bộ các tệp cơ sở dữ liệu một cách có chủ đích.</em>"
       },
       {
         "question": "The client expressed interest in our new product ______.",
         "options": {
           "A": "immediate",
-          "B": "immediately",
-          "C": "immediacy",
+          "B": "immediacy",
+          "C": "immediately",
           "D": "immediateness"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. immediately</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng cuối câu để bổ nghĩa cho hành động biểu lộ sự quan tâm ngay lập tức nên cần điền trạng từ. 'immediately' là trạng từ chỉ sự ngay lập tức.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">immediately</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng đã bày tỏ sự quan tâm đến sản phẩm mới của chúng tôi một cách ngay lập tức.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. immediately</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng cuối câu để bổ nghĩa cho hành động biểu lộ sự quan tâm ngay lập tức nên cần điền trạng từ. <code>immediately</code> là trạng từ chỉ sự ngay lập tức.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">immediately</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng đã bày tỏ sự quan tâm đến sản phẩm mới của chúng tôi một cách ngay lập tức.</em>"
       },
       {
         "question": "The technician checked the wiring ______ to ensure safety.",
@@ -2641,7 +2641,7 @@ const toeicReadingData = [
           "D": "through"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. thoroughly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tân ngữ 'the wiring' để bổ nghĩa cho hành động kiểm tra kỹ lưỡng nên cần điền trạng từ. 'thoroughly' là trạng từ chỉ sự kỹ lưỡng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">thoroughly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên đã kiểm tra hệ thống dây điện một cách kỹ lưỡng để đảm bảo an toàn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. thoroughly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau tân ngữ <code>the wiring</code> để bổ nghĩa cho hành động kiểm tra kỹ lưỡng nên cần điền trạng từ. <code>thoroughly</code> là trạng từ chỉ sự kỹ lưỡng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">thoroughly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên đã kiểm tra hệ thống dây điện một cách kỹ lưỡng để đảm bảo an toàn.</em>"
       },
       {
         "question": "The new policy will affect all employees ______ of their department.",
@@ -2652,29 +2652,29 @@ const toeicReadingData = [
           "D": "equalize"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. equally</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ và tân ngữ 'affect all employees' để bổ nghĩa cho cách thức ảnh hưởng công bằng nên cần điền trạng từ. 'equally' là trạng từ chỉ sự bình đẳng, như nhau.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">equally</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chính sách mới sẽ ảnh hưởng đến tất cả nhân viên một cách như nhau bất kể bộ phận của họ.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. equally</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ và tân ngữ <code>affect all employees</code> để bổ nghĩa cho cách thức ảnh hưởng công bằng nên cần điền trạng từ. <code>equally</code> là trạng từ chỉ sự bình đẳng, như nhau.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">equally</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chính sách mới sẽ ảnh hưởng đến tất cả nhân viên một cách như nhau bất kể bộ phận của họ.</em>"
       },
       {
-        "question": "The company has grew ______ since its expansion last year.",
+        "question": "The company has grown ______ since its expansion last year.",
         "options": {
           "A": "rapid",
-          "B": "rapidly",
+          "B": "rapidness",
           "C": "rapidity",
-          "D": "rapidness"
+          "D": "rapidly"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. rapidly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ chính 'has grew' (ở đây chuẩn ngữ pháp phân từ là grown) để bổ nghĩa cho tốc độ phát triển nhanh chóng nên cần điền trạng từ. 'rapidly' là trạng từ chỉ sự nhanh chóng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">rapidly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đã phát triển một cách nhanh chóng kể từ khi mở rộng vào năm ngoái.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. rapidly</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ chính <code>has grown</code> (ở đây chuẩn ngữ pháp phân từ là grown) để bổ nghĩa cho tốc độ phát triển nhanh chóng nên cần điền trạng từ. <code>rapidly</code> là trạng từ chỉ sự nhanh chóng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">rapidly</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty đã phát triển một cách nhanh chóng kể từ khi mở rộng vào năm ngoái.</em>"
       },
       {
         "question": "The training manual was ______ written for beginners.",
         "options": {
           "A": "specialize",
-          "B": "specially",
-          "C": "special",
+          "B": "special",
+          "C": "specially",
           "D": "specialty"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. specially</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ bị động 'was' và phân từ 2 'written' để chỉ mục đích đặc biệt nên cần điền trạng từ. 'specially' là trạng từ chỉ sự đặc biệt, dành riêng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">specially</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sách hướng dẫn đào tạo đã được viết một cách đặc biệt dành cho người mới bắt đầu.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. specially</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng giữa trợ động từ bị động <code>was</code> và phân từ 2 <code>written</code> để chỉ mục đích đặc biệt nên cần điền trạng từ. <code>specially</code> là trạng từ chỉ sự đặc biệt, dành riêng.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">specially</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sách hướng dẫn đào tạo đã được viết một cách đặc biệt dành cho người mới bắt đầu.</em>"
       }
     ]
   },

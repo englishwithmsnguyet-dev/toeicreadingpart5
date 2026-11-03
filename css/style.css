@@ -1945,6 +1945,17 @@ body.light-theme .suffix-header-badge.badge-green {
     color: #15803d;
 }
 
+.suffix-header-badge.badge-gold {
+    background: rgba(245, 158, 11, 0.14);
+    border-color: rgba(245, 158, 11, 0.35);
+    color: #f59e0b;
+}
+body.light-theme .suffix-header-badge.badge-gold {
+    background: rgba(180, 83, 9, 0.08);
+    border-color: rgba(180, 83, 9, 0.25);
+    color: #b45309;
+}
+
 .suffix-card.card-purple {
     border-left-color: #d946ef;
 }
@@ -1976,6 +1987,17 @@ body.light-theme .suffix-card.card-pink {
 }
 body.light-theme .suffix-card.card-green {
     border-left-color: #15803d;
+}
+
+.suffix-card.card-gold {
+    border-left-color: #f59e0b;
+}
+.suffix-card.card-gold:hover {
+    border-color: #f59e0b;
+    box-shadow: 0 4px 14px rgba(245, 158, 11, 0.15);
+}
+body.light-theme .suffix-card.card-gold {
+    border-left-color: #b45309;
 }
 
 .suffix-highlight {
