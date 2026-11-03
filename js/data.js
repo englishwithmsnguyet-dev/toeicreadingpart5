@@ -2684,46 +2684,46 @@ const toeicReadingData = [
     "slides": [
       {
         "slide_index": 99,
-        "title": "PHẦN 05:",
+        "title": "PHẦN 05: CÂU BỊ ĐỘNG (PASSIVE VOICE)",
         "is_html": true,
-        "html_content": "<div style=\"text-align: center; margin-top: 30px; padding: 10px;\"><h2 class=\"hl-vocab\" style=\"font-size: 2rem; font-family: var(--font-heading); margin-bottom: 16px;\">CÂU BỊ ĐỘNG (PASSIVE VOICE)</h2><p style=\"font-size: 1.1rem; color: var(--text-secondary); max-width: 550px; margin: 0 auto; line-height: 1.6;\">Tìm hiểu cấu trúc câu bị động ở các thì, cách chuyển đổi câu chủ động sang bị động, bị động đi kèm động từ khuyết thiếu và các trường hợp bị động đặc biệt trong đề thi.</p></div>"
+        "html_content": "<div style=\"text-align: center; margin-top: 15px; padding: 24px 16px;\">\n    <div style=\"width: 68px; height: 68px; border-radius: 20px; background: linear-gradient(135deg, rgba(0, 242, 254, 0.2), rgba(16, 185, 129, 0.2)); border: 1px solid rgba(0, 242, 254, 0.4); display: inline-flex; align-items: center; justify-content: center; font-size: 2rem; color: var(--color-cyan); margin-bottom: 18px; box-shadow: 0 8px 25px rgba(0, 242, 254, 0.22);\">\n        <i class=\"fa-solid fa-shield-halved\"></i>\n    </div>\n    <h2 class=\"hl-vocab\" style=\"font-size: 2.2rem; font-family: var(--font-heading); margin-bottom: 14px; letter-spacing: 0.02em;\">CÂU BỊ ĐỘNG (PASSIVE VOICE)</h2>\n    <p style=\"font-size: 1.12rem; color: var(--text-secondary); max-width: 620px; margin: 0 auto 24px auto; line-height: 1.75; text-align: center !important;\">Tìm hiểu cấu trúc câu bị động ở các thì, cách chuyển đổi câu chủ động sang bị động, bị động đi kèm động từ khuyết thiếu và các trường hợp bị động đặc biệt trong đề thi TOEIC.</p>\n    <div style=\"display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;\">\n        <span class=\"pos-tag\"><i class=\"fa-solid fa-gears\"></i> Cấu trúc to be + V₃/ed theo 12 thì</span>\n        <span class=\"pos-tag tag-purple\"><i class=\"fa-solid fa-bolt\"></i> Bị động với Modal Verbs</span>\n        <span class=\"pos-tag tag-gold\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i> 4 Dấu hiệu nhận diện nhanh</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 100,
         "title": "I. ĐỊNH NGHĨA",
         "is_html": true,
-        "html_content": "👉 Câu bị động dùng khi:<br><strong>Chủ ngữ </strong><strong>không thực hiện hành động</strong><br><strong>Chủ ngữ </strong><strong>nhận tác động từ hành động</strong><br>📌 Trong <strong>TOEIC</strong>:→ không hỏi lý thuyết→ yêu cầu <strong>chọn đúng dạng động từ (V</strong><strong>3</strong><strong>)</strong>"
+        "html_content": "<div class=\"slide-callout\">\n    <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-book-open\"></i> Định nghĩa cốt lõi</span>\n    <div style=\"font-size: 1.1rem; margin-top: 6px;\">\n        <strong class=\"hl-cyan\">Câu bị động (Passive Voice)</strong> được sử dụng khi:\n    </div>\n    <div class=\"slide-grid-2\" style=\"margin-top: 10px;\">\n        <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-cyan);\">\n            <i class=\"fa-solid fa-circle-check\" style=\"color: var(--color-cyan);\"></i> Chủ ngữ <strong>KHÔNG thực hiện</strong> hành động\n        </div>\n        <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-purple);\">\n            <i class=\"fa-solid fa-circle-check\" style=\"color: var(--color-purple);\"></i> Chủ ngữ <strong>NHẬN TÁC ĐỘNG</strong> từ hành động\n        </div>\n    </div>\n</div>\n<div class=\"slide-callout callout-gold\" style=\"margin-top: 14px;\">\n    <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-bullseye\"></i> Trọng tâm TOEIC READING PART 05</span>\n    <div style=\"font-size: 1.08rem; margin-top: 6px;\">\n        Đề thi <strong class=\"hl-red\">không yêu cầu viết lại câu</strong>, mà tập trung kiểm tra khả năng <span class=\"hl-box\"><i class=\"fa-solid fa-key\"></i> chọn đúng dạng động từ bị động (be + V₃/ed)</span> thông qua dấu hiệu nhận biết ngữ pháp.\n    </div>\n</div>"
       },
       {
         "slide_index": 101,
         "title": "LƯU Ý CHUNG",
         "is_html": true,
-        "html_content": "<strong><span class=\"hl-green\">LƯU Ý CHUNG:</span></strong><br>▪ <strong>Động từ chính</strong> trong câu bị động <strong>KHÔNG CHIA THEO THÌ</strong>, mà luôn ở dạng <strong>V3ed</strong>.<br>▪ <strong>Động từ tobe</strong> trong câu bị động <strong>PHẢI CHIA THEO THÌ</strong> và phải phù hợp với <strong>CHỦ TỪ</strong>.<br>▪ <strong>“by + O”</strong> được lược bỏ khi <strong>tác nhân không quan trọng, không xác định hoặc mang tính chung chung</strong> (people, someone, they, we, you, the police, the government, experts...); <strong><em>giữ lại khi cần nhấn mạnh người thực hiện</em></strong>."
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-star\" style=\"margin-right: 6px;\"></i> 3 NGUYÊN TẮC BẤT DI BẤT DỊCH TRONG CÂU BỊ ĐỘNG</div>\n<div class=\"slide-grid-3\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-cyan);\">\n        <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-lock\"></i> 1. ĐỘNG TỪ CHÍNH</span>\n        <div style=\"font-size: 0.95rem; margin-top: 8px; line-height: 1.6;\">\n            Động từ chính <strong>KHÔNG CHIA THEO THÌ</strong>, mà luôn luôn ở dạng quá khứ phân từ <strong class=\"hl-cyan\">V₃/ed</strong>.\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-purple);\">\n        <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-sliders\"></i> 2. ĐỘNG TỪ TO BE</span>\n        <div style=\"font-size: 0.95rem; margin-top: 8px; line-height: 1.6;\">\n            Động từ <code>to be</code> <strong class=\"hl-purple\">PHẢI CHIA THEO THÌ</strong> của câu và hòa hợp số ít/số nhiều với <strong>CHỦ NGỮ</strong>.\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-gold);\">\n        <span class=\"slide-badge-gold\" style=\"color: var(--color-gold);\"><i class=\"fa-solid fa-user-minus\"></i> 3. CỤM BY + O</span>\n        <div style=\"font-size: 0.95rem; margin-top: 8px; line-height: 1.6;\">\n            Được <strong>lược bỏ</strong> khi tác nhân không xác định hoặc chung chung <em>(someone, people, they...)</em>; <strong>giữ lại</strong> khi cần nhấn mạnh người thực hiện.\n        </div>\n    </div>\n</div>"
       },
       {
         "slide_index": 102,
-        "title": "CẤU TRÚC THEO CÁC THÌ (HT & QK)",
+        "title": "CẤU TRÚC THEO CÁC THÌ (HIỆN TẠI & QUÁ KHỨ)",
         "is_html": true,
-        "html_content": "<strong>🔵 Hiện tại đơn:</strong> S + am / is / are + V3ed + [by O].<br><strong>🔵 Hiện tại tiếp diễn:</strong> S + am / is / are + being + V3ed + [by O].<br><strong>🔵 Hiện tại hoàn thành:</strong> S + have / has + been + V3ed + [by O].<br><strong>🔵 Hiện tại hoàn thành tiếp diễn:</strong> S + have / has + been + being + V3ed + [by O].<br><strong>🔵 Quá khứ đơn:</strong> S + was / were + V3ed + [by O].<br><strong>🔵 Quá khứ tiếp diễn:</strong> S + was / were + being + V3ed + [by O].<br><strong>🔵 Quá khứ hoàn thành:</strong> S + had + been + V3ed + [by O].<br><strong>🔵 Quá khứ hoàn thành tiếp diễn:</strong> S + had + been + being + V3ed + [by O]."
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-clock\" style=\"margin-right: 6px;\"></i> CẤU TRÚC BỊ ĐỘNG: CÁC THÌ HIỆN TẠI & QUÁ KHỨ</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"tense-card\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-circle\" style=\"color: var(--color-cyan); font-size: 0.7rem;\"></i> Hiện tại đơn</span>\n            <span class=\"tense-formula\">am / is / are + V₃/ed</span>\n        </div>\n    </div>\n    <div class=\"tense-card tense-purple\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-circle\" style=\"color: var(--color-purple); font-size: 0.7rem;\"></i> Quá khứ đơn</span>\n            <span class=\"tense-formula\">was / were + V₃/ed</span>\n        </div>\n    </div>\n    <div class=\"tense-card\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-circle\" style=\"color: var(--color-cyan); font-size: 0.7rem;\"></i> Hiện tại tiếp diễn</span>\n            <span class=\"tense-formula\">am / is / are + being + V₃/ed</span>\n        </div>\n    </div>\n    <div class=\"tense-card tense-purple\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-circle\" style=\"color: var(--color-purple); font-size: 0.7rem;\"></i> Quá khứ tiếp diễn</span>\n            <span class=\"tense-formula\">was / were + being + V₃/ed</span>\n        </div>\n    </div>\n    <div class=\"tense-card\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-circle\" style=\"color: var(--color-cyan); font-size: 0.7rem;\"></i> Hiện tại hoàn thành</span>\n            <span class=\"tense-formula\">have / has + been + V₃/ed</span>\n        </div>\n    </div>\n    <div class=\"tense-card tense-purple\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-circle\" style=\"color: var(--color-purple); font-size: 0.7rem;\"></i> Quá khứ hoàn thành</span>\n            <span class=\"tense-formula\">had + been + V₃/ed</span>\n        </div>\n    </div>\n</div>"
       },
       {
         "slide_index": 103,
         "title": "CẤU TRÚC THEO CÁC THÌ (TƯƠNG LAI)",
         "is_html": true,
-        "html_content": "<strong>🔵 Tương lai đơn:</strong> S + will + be + V3ed + [by O].<br><strong>🔵 Tương lai gần:</strong> S + am / is / are + going to + be + V3ed + [by O].<br><strong>🔵 Tương lai tiếp diễn:</strong> S + will be + being + V3ed + [by O].<br><strong>🔵 Tương lai hoàn thành:</strong> S + will + have + been + V3ed + [by O].<br><strong>🔵 Tương lai hoàn thành tiếp diễn:</strong> S + will + have + been + being + V3ed + [by O]."
+        "html_content": "<div class=\"suffix-header-badge badge-purple\"><i class=\"fa-solid fa-forward\" style=\"margin-right: 6px;\"></i> CẤU TRÚC BỊ ĐỘNG: CÁC THÌ TƯƠNG LAI</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"tense-card tense-gold\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-circle\" style=\"color: var(--color-gold); font-size: 0.7rem;\"></i> Tương lai đơn</span>\n            <span class=\"tense-formula\">will + be + V₃/ed</span>\n        </div>\n    </div>\n    <div class=\"tense-card tense-pink\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-circle\" style=\"color: var(--color-pink); font-size: 0.7rem;\"></i> Tương lai gần (be going to)</span>\n            <span class=\"tense-formula\">am / is / are going to + be + V₃/ed</span>\n        </div>\n    </div>\n    <div class=\"tense-card tense-gold\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-circle\" style=\"color: var(--color-gold); font-size: 0.7rem;\"></i> Tương lai hoàn thành</span>\n            <span class=\"tense-formula\">will have been + V₃/ed</span>\n        </div>\n    </div>\n    <div class=\"tense-card tense-pink\">\n        <div class=\"tense-header\">\n            <span class=\"tense-name\"><i class=\"fa-solid fa-circle\" style=\"color: var(--color-pink); font-size: 0.7rem;\"></i> Dấu hiệu thời gian</span>\n            <span style=\"font-size: 0.95rem; color: var(--text-secondary);\">by tomorrow, by next month, next year</span>\n        </div>\n    </div>\n</div>"
       },
       {
         "slide_index": 104,
         "title": "CẤU TRÚC VỚI ĐỘNG TỪ KHIẾM KHUYẾT",
         "is_html": true,
-        "html_content": "<strong><span class=\"hl-cyan\">S + MODAL + BE + V</span></strong><strong><span class=\"hl-cyan\">3</span></strong><strong><span class=\"hl-cyan\">ed</span></strong><strong><span class=\"hl-cyan\"> + [by O].</span></strong><br><strong>Các modal thường gặp: </strong>must, should, can, may, have to<br><strong>EXAMPLE</strong><br>The form must <strong>be completed</strong> before submission.<br>The report should <strong>be revised</strong>."
+        "html_content": "<div class=\"suffix-header-badge badge-green\"><i class=\"fa-solid fa-bolt\" style=\"margin-right: 6px;\"></i> BỊ ĐỘNG VỚI ĐỘNG TỪ KHIẾM KHUYẾT (MODAL VERBS)</div>\n<div class=\"slide-callout callout-green\">\n    <div style=\"font-size: 1.15rem; font-weight: 700; color: var(--color-success); margin-bottom: 8px;\">\n        <span class=\"hl-box\" style=\"font-size: 1.2rem;\">S + MODAL VERB + BE + V₃/ed + [by O]</span>\n    </div>\n    <div style=\"margin-top: 10px;\">\n        <strong>Các Modal Verbs xuất hiện nhiều nhất trong đề thi TOEIC:</strong>\n    </div>\n    <div class=\"pos-tag-group\" style=\"margin-top: 8px;\">\n        <span class=\"pos-tag\">must (phải)</span>\n        <span class=\"pos-tag tag-purple\">should (nên)</span>\n        <span class=\"pos-tag tag-purple\">can / could (có thể)</span>\n        <span class=\"pos-tag tag-gold\">may / might (có thể)</span>\n        <span class=\"pos-tag tag-pink\">have to / has to (phải)</span>\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-cyan);\">\n        The form must <strong class=\"hl-cyan\">be completed</strong> before submission.<br>\n        <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ Đơn này phải được hoàn thành trước khi nộp.</span>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-purple);\">\n        The financial report should <strong class=\"hl-purple\">be revised</strong>.<br>\n        <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ Báo cáo tài chính nên được chỉnh sửa lại.</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 105,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>CHIẾN THUẬT LÀM BÀI</strong><br><strong><span class=\"hl-red\">🔵 </span></strong><strong><span class=\"hl-red\">DẤU HIỆU 01</span></strong><br><strong>… TO BE + ___ + BY + NGƯỜI</strong><br>👉 chắc chắn là bị động → chọn <strong>V</strong><strong>3</strong><strong>ed</strong><br><strong>EXAMPLE 01</strong><br>The final report is ____ by the department manager before publication.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i> DẤU HIỆU 01: TO BE + ___ + BY + TÁC NHÂN</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau to be <code>is</code> và ngay trước cụm <code>by the department manager</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S + is + V₃/ed + by O</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 01</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The final report <span class=\"hl-cyan\">is</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-purple\">by the department manager</span> before publication.</div>\n</div>",
         "options": {
           "A": "review",
           "B": "reviewed",
@@ -2731,14 +2731,14 @@ const toeicReadingData = [
           "D": "reviews"
         },
         "correct_answer": "B",
-        "explanation_html": "Dấu hiệu \"by + tác nhân\" chỉ cấu trúc bị động: be + V3/ed. Ta chọn động từ phân từ 2 -> \"reviewed\" (được xem xét)."
+        "explanation_html": "Dấu hiệu <code>by + tác nhân</code> chỉ cấu trúc bị động: <code>be + V₃/ed</code>. Sau động từ <code>is</code>, ta chọn quá khứ phân từ <strong class=\"hl-vocab\">reviewed</strong> <em>(được xem xét, duyệt lại)</em>."
       },
       {
         "slide_index": 106,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>CHIẾN THUẬT LÀM BÀI</strong><br><strong><span class=\"hl-red\">🔵 </span></strong><strong><span class=\"hl-red\">DẤU HIỆU 01</span></strong><br><strong>… TO BE + ___ + BY + NGƯỜI</strong><br>👉 chắc chắn là bị động → chọn <strong>V</strong><strong>3</strong><strong>ed</strong><br><strong>EXAMPLE 02</strong><br>All visitors must be ____ by a staff member during the tour.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-cyan\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i> DẤU HIỆU 01: TO BE + ___ + BY + TÁC NHÂN</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau <code>must be</code> và trước cụm <code>by a staff member</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">modal + be + V₃/ed</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 02</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">All visitors <span class=\"hl-cyan\">must be</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-purple\">by a staff member</span> during the tour.</div>\n</div>",
         "options": {
           "A": "guide",
           "B": "guiding",
@@ -2746,14 +2746,14 @@ const toeicReadingData = [
           "D": "guides"
         },
         "correct_answer": "C",
-        "explanation_html": "Cấu trúc bị động đi kèm động từ khuyết thiếu: modal + be + V3/ed. Chọn động từ phân từ 2 -> \"guided\" (được hướng dẫn)."
+        "explanation_html": "Cấu trúc bị động đi kèm động từ khuyết thiếu: <code>modal + be + V₃/ed</code>. Chọn dạng phân từ hai <strong class=\"hl-vocab\">guided</strong> <em>(được hướng dẫn)</em>."
       },
       {
         "slide_index": 107,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>CHIẾN THUẬT LÀM BÀI</strong><br><strong><span class=\"hl-red\">🔵 </span></strong><strong><span class=\"hl-red\">DẤU HIỆU 02</span></strong><br><strong>… TO BE + ___ + GIỚI TỪ / TRẠNG NGỮ</strong><br>👉 thường là bị động → chọn <strong>V</strong><strong>3</strong><strong>ed</strong><br><strong>EXAMPLE 01</strong><br>The documents are ____ to the head office every Friday.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i> DẤU HIỆU 02: TO BE + ___ + GIỚI TỪ / TRẠNG NGỮ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau to be <code>are</code> và ngay trước cụm giới từ <code>to the head office</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">S + to be + V₃/ed + Prep</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 01</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The documents <span class=\"hl-cyan\">are</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-purple\">to the head office</span> every Friday.</div>\n</div>",
         "options": {
           "A": "send",
           "B": "sending",
@@ -2761,14 +2761,14 @@ const toeicReadingData = [
           "D": "sends"
         },
         "correct_answer": "C",
-        "explanation_html": "Cấu trúc bị động ở hiện tại đơn: are + V3. Động từ bất quy tắc của \"send\" ở dạng V3 là \"sent\" (được gửi đi)."
+        "explanation_html": "Cấu trúc bị động ở hiện tại đơn: <code>are + V₃</code>. Động từ bất quy tắc của <code>send</code> ở dạng quá khứ phân từ là <strong class=\"hl-vocab\">sent</strong> <em>(được gửi đi)</em>."
       },
       {
         "slide_index": 108,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>CHIẾN THUẬT LÀM BÀI</strong><br><strong><span class=\"hl-red\">🔵 </span></strong><strong><span class=\"hl-red\">DẤU HIỆU 02</span></strong><br><strong>… TO BE + ___ + GIỚI TỪ / TRẠNG NGỮ</strong><br>👉 thường là bị động → chọn <strong>V</strong><strong>3</strong><strong>ed</strong><br><strong>EXAMPLE 02</strong><br>The equipment was ____ in the laboratory before use.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i> DẤU HIỆU 02: TO BE + ___ + GIỚI TỪ / TRẠNG NGỮ</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau to be <code>was</code> và trước cụm giới từ nơi chốn <code>in the laboratory</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">was + V₃/ed + Prep</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 02</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The equipment <span class=\"hl-cyan\">was</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-purple\">in the laboratory</span> before use.</div>\n</div>",
         "options": {
           "A": "test",
           "B": "testing",
@@ -2776,14 +2776,14 @@ const toeicReadingData = [
           "D": "tests"
         },
         "correct_answer": "C",
-        "explanation_html": "Cấu trúc bị động ở quá khứ đơn: was + V3/ed. Ta chọn động từ phân từ 2 -> \"tested\" (được kiểm tra)."
+        "explanation_html": "Cấu trúc bị động ở quá khứ đơn: <code>was + V₃/ed</code>. Sau <code>was</code> ta chọn động từ phân từ hai <strong class=\"hl-vocab\">tested</strong> <em>(được thử nghiệm, kiểm tra)</em>."
       },
       {
         "slide_index": 109,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>CHIẾN THUẬT LÀM BÀI</strong><br><strong><span class=\"hl-red\">🔵 </span></strong><strong><span class=\"hl-red\">DẤU HIỆU 03</span></strong><br><strong>… HAVE / HAS BEEN + ____</strong><br>👉 gần như chắc chắn là bị động → chọn <strong>V</strong><strong>3</strong><strong>ed</strong><br><strong>EXAMPLE 01</strong>",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-pink\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i> DẤU HIỆU 03: HAVE / HAS BEEN + ____</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Phía trước có <code>has been</code>, câu mang nghĩa bị động (ngân sách được duyệt).</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">has been + V₃/ed</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 01</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The project budget <span class=\"hl-cyan\">has been</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-purple\">by the executive committee</span>.</div>\n</div>",
         "options": {
           "A": "approve",
           "B": "approving",
@@ -2791,14 +2791,14 @@ const toeicReadingData = [
           "D": "approves"
         },
         "correct_answer": "C",
-        "explanation_html": "Cấu trúc bị động ở thì hiện tại hoàn thành: has/have been + V3/ed. Ta chọn động từ phân từ 2 -> \"approved\" (được phê duyệt)."
+        "explanation_html": "Cấu trúc bị động ở thì hiện tại hoàn thành: <code>has/have been + V₃/ed</code>. Sau <code>has been</code> ta chọn dạng phân từ hai <strong class=\"hl-vocab\">approved</strong> <em>(đã được phê duyệt)</em>."
       },
       {
         "slide_index": 110,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>CHIẾN THUẬT LÀM BÀI</strong><br><strong><span class=\"hl-red\">🔵 </span></strong><strong><span class=\"hl-red\">DẤU HIỆU 03</span></strong><br><strong>… HAVE / HAS BEEN + ____</strong><br>👉 gần như chắc chắn là bị động → chọn <strong>V</strong><strong>3</strong><strong>ed</strong><br><strong>EXAMPLE 02</strong><br>The new safety guidelines have been ____ across all departments this month.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-pink\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i> DẤU HIỆU 03: HAVE / HAS BEEN + ____</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau <code>have been</code> và trước cụm giới từ <code>across all departments</code>.</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">have been + V₃/ed</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 02</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The new safety guidelines <span class=\"hl-cyan\">have been</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> across all departments this month.</div>\n</div>",
         "options": {
           "A": "implement",
           "B": "implemented",
@@ -2806,14 +2806,14 @@ const toeicReadingData = [
           "D": "implements"
         },
         "correct_answer": "B",
-        "explanation_html": "Cấu trúc bị động ở thì hiện tại hoàn thành: have been + V3/ed. Ta chọn động từ phân từ 2 -> \"implemented\" (được áp dụng)."
+        "explanation_html": "Cấu trúc bị động ở thì hiện tại hoàn thành: <code>have been + V₃/ed</code>. Chọn dạng phân từ hai <strong class=\"hl-vocab\">implemented</strong> <em>(được triển khai, áp dụng)</em>."
       },
       {
         "slide_index": 111,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>CHIẾN THUẬT LÀM BÀI</strong><br><strong><span class=\"hl-red\">🔵 </span></strong><strong><span class=\"hl-red\">DẤU HIỆU 04</span></strong><br><strong>… MODAL + ___ + (KHÔNG có TÂN NGỮ phía sau)</strong><br>👉 thường là bị động → chọn <strong>V</strong><strong>3</strong><strong>ed</strong><br><strong>EXAMPLE 01</strong><br>All applications must ____ before the deadline.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-gold\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i> DẤU HIỆU 04: MODAL VERB + BỊ ĐỘNG</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau <code>must</code> và <strong>KHÔNG có tân ngữ</strong> phía sau (chỉ có cụm giới từ <code>before the deadline</code>).</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">must + be + V₃/ed</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 01</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">All applications <span class=\"hl-cyan\">must</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> before the deadline.</div>\n</div>",
         "options": {
           "A": "submit",
           "B": "be submitted",
@@ -2821,14 +2821,14 @@ const toeicReadingData = [
           "D": "submitting"
         },
         "correct_answer": "B",
-        "explanation_html": "Cấu trúc bị động hoàn chỉnh đi kèm động từ khuyết thiếu \"must\": must + be + V3/ed. Ta chọn -> \"be submitted\" (phải được nộp)."
+        "explanation_html": "Cấu trúc bị động hoàn chỉnh đi kèm động từ khuyết thiếu <code>must</code>: <code>must + be + V₃/ed</code>. Chủ ngữ <code>All applications</code> <em>(tất cả đơn ứng tuyển)</em> nhận tác động: chọn <strong class=\"hl-vocab\">be submitted</strong> <em>(phải được nộp)</em>."
       },
       {
         "slide_index": 112,
         "title": "VÍ DỤ LUYỆN TẬP",
         "is_example": true,
         "is_multi": false,
-        "question_html": "<strong>CHIẾN THUẬT LÀM BÀI</strong><br><strong><span class=\"hl-red\">🔵 </span></strong><strong><span class=\"hl-red\">DẤU HIỆU 04</span></strong><br><strong>… MODAL + ___ + (KHÔNG có TÂN NGỮ phía sau)</strong><br>👉 thường là bị động → chọn <strong>V</strong><strong>3</strong><strong>ed</strong><br><strong>EXAMPLE 02</strong><br>The safety regulations should ____ at all times.",
+        "question_html": "<div class=\"slide-callout\" style=\"margin-top: 0; margin-bottom: 16px; padding: 14px 18px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-gold\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-wand-magic-sparkles\"></i> DẤU HIỆU 04: MODAL VERB + BỊ ĐỘNG</span></div>\n    <div style=\"font-size: 1.02rem; margin-bottom: 6px;\"><i class=\"fa-solid fa-magnifying-glass\" style=\"color: var(--color-cyan); width: 20px;\"></i> <strong>Dấu hiệu nhận diện:</strong> Chỗ trống đứng sau <code>should</code> và theo sau là trạng từ <code>at all times</code> (không có tân ngữ).</div>\n    <div style=\"font-size: 1.02rem;\"><i class=\"fa-solid fa-gears\" style=\"color: var(--color-purple); width: 20px;\"></i> <strong>Cấu trúc:</strong> <span class=\"hl-box\">should + be + V₃/ed</span></div>\n</div>\n<div style=\"padding: 16px 20px; background: rgba(0, 242, 254, 0.04); border: 1px solid rgba(0, 242, 254, 0.18); border-left: 4px solid var(--color-cyan); border-radius: 14px;\">\n    <div style=\"margin-bottom: 8px;\"><span class=\"slide-badge-purple\" style=\"margin-bottom: 0;\"><i class=\"fa-solid fa-pen-to-square\"></i> EXAMPLE 02</span></div>\n    <div style=\"font-size: 1.22rem; font-weight: 700; color: var(--text-primary); line-height: 1.6;\">The safety regulations <span class=\"hl-cyan\">should</span> <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> at all times.</div>\n</div>",
         "options": {
           "A": "follow",
           "B": "following",
@@ -2836,28 +2836,28 @@ const toeicReadingData = [
           "D": "be followed"
         },
         "correct_answer": "D",
-        "explanation_html": "Cấu trúc bị động đi kèm động từ khuyết thiếu \"should\": should + be + V3/ed -> \"be followed\" (nên được tuân thủ)."
+        "explanation_html": "Cấu trúc bị động đi kèm động từ khuyết thiếu <code>should</code>: <code>should + be + V₃/ed</code>. Chọn phương án bị động hoàn chỉnh <strong class=\"hl-vocab\">be followed</strong> <em>(nên được tuân thủ)</em>."
       },
       {
         "slide_index": 113,
-        "title": "LƯU Ý QUAN TRỌNG",
+        "title": "LƯU Ý QUAN TRỌNG: QUY TẮC NHẬN DIỆN NHANH",
         "is_html": true,
-        "html_content": "<strong>🔴 </strong><strong>QUY TẮC NHẬN DIỆN NHANH</strong><br>👉 <strong>Nếu sau chỗ trống là TÂN NGỮ (danh từ KHÔNG có giới từ)</strong><br>→ ❌ <strong>KHÔNG dùng bị động</strong><br>→ ✔ dùng <strong>động từ CHỦ ĐỘNG</strong><br><strong>🔵 </strong><strong>CẤU TRÚC TƯƠNG ỨNG</strong><br>Chủ động: <strong>S + V + O</strong><br>Bị động: <strong>S + tobe + V</strong><strong>3</strong><strong>ed</strong> <em>(không có O trực tiếp phía sau)</em>"
+        "html_content": "<div class=\"suffix-header-badge badge-gold\"><i class=\"fa-solid fa-bolt\" style=\"margin-right: 6px;\"></i> BÍ QUYẾT PHÂN BIỆT CHỦ ĐỘNG VS BỊ ĐỘNG</div>\n<div class=\"slide-callout callout-gold\">\n    <div style=\"font-size: 1.08rem;\">\n        <i class=\"fa-solid fa-key\" style=\"color: var(--color-gold);\"></i> <strong>Quy tắc 3 giây:</strong> Nhìn ngay vào thành phần <strong>ngay sau chỗ trống</strong>:\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-cyan);\">\n        <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-arrow-right\"></i> SAU CHỖ TRỐNG CÓ TÂN NGỮ (NOUN)</span>\n        <div style=\"font-size: 0.95rem; margin-top: 8px; color: var(--text-secondary); line-height: 1.6;\">\n            Nếu phía sau là một cụm danh từ (không có giới từ đi kèm) → <strong class=\"hl-cyan\">BẮT BUỘC CHỌN CHỦ ĐỘNG</strong>.\n        </div>\n        <div style=\"margin-top: 10px; padding: 8px 12px; background: rgba(0, 242, 254, 0.05); border-radius: 8px; font-size: 0.95rem;\">\n            <code>S + V (chủ động) + O (tân ngữ)</code>\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 4px solid var(--color-purple);\">\n        <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-ban\"></i> SAU CHỖ TRỐNG KHÔNG CÓ TÂN NGỮ</span>\n        <div style=\"font-size: 0.95rem; margin-top: 8px; color: var(--text-secondary); line-height: 1.6;\">\n            Nếu phía sau là <strong>Giới từ, Trạng từ hoặc Dấu chấm câu</strong> → <strong class=\"hl-purple\">ƯU TIÊN CHỌN BỊ ĐỘNG</strong>.\n        </div>\n        <div style=\"margin-top: 10px; padding: 8px 12px; background: rgba(168, 85, 247, 0.05); border-radius: 8px; font-size: 0.95rem;\">\n            <code>S + to be + V₃/ed + (prep / adv)</code>\n        </div>\n    </div>\n</div>"
       },
       {
         "slide_index": 114,
-        "title": "LƯU Ý QUAN TRỌNG",
+        "title": "CÁCH KIỂM TRA TÂN NGỮ NHANH",
         "is_html": true,
-        "html_content": "<strong>🔍 </strong><strong>CÁCH KIỂM TRA NHANH</strong><br>👉 Sau chỗ trống:<br><strong>✔ Nếu là:</strong><br>noun<br>a / an / the + noun<br>my / this / some + noun<br><strong>→ CÂU CHỦ ĐỘNG</strong>"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-magnifying-glass\" style=\"margin-right: 6px;\"></i> NHẬN BIẾT NHANH TÂN NGỮ PHÍA SAU CHỖ TRỐNG</div>\n<div class=\"slide-callout\">\n    <div style=\"font-size: 1.05rem; margin-bottom: 10px;\">\n        Các hình thức biểu hiện của một <strong>Tân ngữ (Direct Object)</strong> đứng sau chỗ trống:\n    </div>\n    <div class=\"pos-tag-group\">\n        <span class=\"pos-tag\">Danh từ đơn / số nhiều: candidates, reports</span>\n        <span class=\"pos-tag tag-purple\">Mạo từ + Noun: a contract, the policy</span>\n        <span class=\"pos-tag tag-pink\">Tính từ sở hữu + Noun: their proposal, its data</span>\n        <span class=\"pos-tag tag-gold\">Từ chỉ định + Noun: this system, those files</span>\n    </div>\n</div>\n<div class=\"slide-callout callout-green\" style=\"margin-top: 14px;\">\n    <i class=\"fa-solid fa-circle-check\" style=\"color: var(--color-success);\"></i> <strong>Kết luận:</strong> Thấy xuất hiện 1 trong các dạng trên ngay sau chỗ trống → <strong class=\"hl-green\">100% dùng ĐỘNG TỪ CHỦ ĐỘNG</strong>, loại ngay các phương án có <code>be + V₃/ed</code>!\n</div>"
       },
       {
         "slide_index": 115,
-        "title": "VÍ DỤ LUYỆN TẬP",
+        "title": "VÍ DỤ TỔNG KẾT: CHỦ ĐỘNG VS BỊ ĐỘNG",
         "is_example": true,
         "is_multi": true,
         "questions": [
           {
-            "question_html": "1. The marketing team ____ a new strategy to increase sales this quarter.",
+            "question_html": "1. The marketing team <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-cyan\" style=\"font-weight:700;\">a new strategy</span> to increase sales this quarter.",
             "options": {
               "A": "develops",
               "B": "is developed",
@@ -2865,10 +2865,10 @@ const toeicReadingData = [
               "D": "developing"
             },
             "correct_answer": "A",
-            "explanation_html": "Chủ ngữ \"The marketing team\" thực hiện hành động một cách chủ động (chia số ít ở hiện tại đơn)."
+            "explanation_html": "Sau chỗ trống là cụm danh từ tân ngữ trực tiếp <code>a new strategy</code> (không có giới từ) → Câu mang nghĩa <strong>chủ động</strong>. Chủ ngữ số ít <code>The marketing team</code> chia động từ chủ động ở hiện tại đơn → chọn <strong class=\"hl-vocab\">develops</strong>."
           },
           {
-            "question_html": "2. The final proposal was ____ to the board for approval.",
+            "question_html": "2. The final proposal was <span class=\"blank-space\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class=\"hl-purple\" style=\"font-weight:700;\">to the board</span> for approval.",
             "options": {
               "A": "submit",
               "B": "submitting",
@@ -2876,7 +2876,7 @@ const toeicReadingData = [
               "D": "submits"
             },
             "correct_answer": "C",
-            "explanation_html": "Cấu trúc bị động ở quá khứ đơn: was + V3/ed (bản đề xuất được nộp)."
+            "explanation_html": "Sau chỗ trống là giới từ <code>to</code> (không có tân ngữ danh từ trực tiếp), kết hợp phía trước có to be <code>was</code> → Cấu trúc <strong>bị động</strong>: <code>was + V₃/ed</code> → chọn <strong class=\"hl-vocab\">submitted</strong> <em>(được nộp lên ban giám đốc)</em>."
           }
         ]
       }
@@ -2891,7 +2891,7 @@ const toeicReadingData = [
           "D": "reviewing"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will be reviewed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ chỉ thời gian tương lai 'tomorrow' kết hợp với ngữ cảnh bị động (hợp đồng được xem xét) yêu cầu chia bị động ở Tương lai đơn: 'will be + V3/ed' -> chọn 'will be reviewed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be reviewed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hợp đồng cuối cùng sẽ được xem xét bởi bộ phận pháp lý vào ngày mai.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will be reviewed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Trạng từ chỉ thời gian tương lai <code>tomorrow</code> kết hợp với ngữ cảnh bị động (hợp đồng được xem xét) yêu cầu chia bị động ở Tương lai đơn: 'will be + V3/ed' → chọn <code>will be reviewed</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be reviewed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hợp đồng cuối cùng sẽ được xem xét bởi bộ phận pháp lý vào ngày mai.</em>"
       },
       {
         "question": "All employee records ______ in the secure database.",
@@ -2902,7 +2902,7 @@ const toeicReadingData = [
           "D": "are stored"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. are stored</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều 'All employee records' (tất cả hồ sơ nhân viên) nhận hành động lưu trữ ở Hiện tại đơn nên chia cấu trúc bị động: 'are + V3/ed' -> chọn 'are stored'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are stored</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả hồ sơ nhân viên được lưu trữ trong cơ sở dữ liệu bảo mật.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. are stored</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều <code>All employee records</code> (tất cả hồ sơ nhân viên) nhận hành động lưu trữ ở Hiện tại đơn nên chia cấu trúc bị động: 'are + V3/ed' → chọn <code>are stored</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are stored</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả hồ sơ nhân viên được lưu trữ trong cơ sở dữ liệu bảo mật.</em>"
       },
       {
         "question": "The promotional video ______ by the marketing team yesterday.",
@@ -2913,7 +2913,7 @@ const toeicReadingData = [
           "D": "is creating"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. was created</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu quá khứ 'yesterday' kết hợp với chủ ngữ chỉ vật số ít 'The promotional video' (video quảng cáo được tạo ra) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was created'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was created</strong>.<br><br><strong>Dịch câu:</strong><br><em>Video quảng cáo đã được tạo ra bởi nhóm tiếp thị vào ngày hôm qua.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. was created</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu quá khứ <code>yesterday</code> kết hợp với chủ ngữ chỉ vật số ít <code>The promotional video</code> (video quảng cáo được tạo ra) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' → chọn <code>was created</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was created</strong>.<br><br><strong>Dịch câu:</strong><br><em>Video quảng cáo đã được tạo ra bởi nhóm tiếp thị vào ngày hôm qua.</em>"
       },
       {
         "question": "The server network ______ by the IT department at the moment.",
@@ -2924,7 +2924,7 @@ const toeicReadingData = [
           "D": "updated"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. is being updated</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'at the moment' kết hợp với chủ ngữ chỉ vật số ít 'The server network' (mạng máy chủ đang được cập nhật) yêu cầu chia bị động ở Hiện tại tiếp diễn: 'is being + V3/ed' -> chọn 'is being updated'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is being updated</strong>.<br><br><strong>Dịch câu:</strong><br><em>Mạng máy chủ đang được cập nhật bởi bộ phận công nghệ thông tin vào lúc này.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. is being updated</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu <code>at the moment</code> kết hợp với chủ ngữ chỉ vật số ít <code>The server network</code> (mạng máy chủ đang được cập nhật) yêu cầu chia bị động ở Hiện tại tiếp diễn: 'is being + V3/ed' → chọn <code>is being updated</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is being updated</strong>.<br><br><strong>Dịch câu:</strong><br><em>Mạng máy chủ đang được cập nhật bởi bộ phận công nghệ thông tin vào lúc này.</em>"
       },
       {
         "question": "The project proposals ______ by the evaluation committee already.",
@@ -2935,7 +2935,7 @@ const toeicReadingData = [
           "D": "are approving"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. have been approved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'already' kết hợp bị động của chủ ngữ số nhiều 'proposals' (các đề xuất đã được phê duyệt) yêu cầu chia bị động ở Hiện tại hoàn thành: 'have been + V3/ed' -> chọn 'have been approved'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">have been approved</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các đề xuất dự án đã được phê duyệt bởi ủy ban đánh giá rồi.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. have been approved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu <code>already</code> kết hợp bị động của chủ ngữ số nhiều <code>proposals</code> (các đề xuất đã được phê duyệt) yêu cầu chia bị động ở Hiện tại hoàn thành: 'have been + V3/ed' → chọn <code>have been approved</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">have been approved</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các đề xuất dự án đã được phê duyệt bởi ủy ban đánh giá rồi.</em>"
       },
       {
         "question": "Please make sure that the door ______ locked before you leave.",
@@ -2946,7 +2946,7 @@ const toeicReadingData = [
           "D": "be"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. is</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chỉ trạng thái bị động ở Hiện tại đơn đứng sau liên từ 'that': 'the door is locked' (cửa được khóa) -> chọn động từ to be 'is'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng đảm bảo rằng cửa được khóa trước khi bạn rời đi.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. is</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chỉ trạng thái bị động ở Hiện tại đơn đứng sau liên từ <code>that</code>: <code>the door is locked</code> (cửa được khóa) → chọn động từ to be <code>is</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng đảm bảo rằng cửa được khóa trước khi bạn rời đi.</em>"
       },
       {
         "question": "The building safety inspection must ______ by Friday afternoon.",
@@ -2957,7 +2957,7 @@ const toeicReadingData = [
           "D": "conducted"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. be conducted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu 'must' ở thể bị động (cuộc kiểm tra an toàn phải được tiến hành) yêu cầu cấu trúc: 'modal + be + V3/ed' -> chọn 'be conducted'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be conducted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cuộc kiểm tra an toàn tòa nhà phải được tiến hành trước chiều thứ Sáu.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. be conducted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu <code>must</code> ở thể bị động (cuộc kiểm tra an toàn phải được tiến hành) yêu cầu cấu trúc: 'modal + be + V3/ed' → chọn <code>be conducted</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be conducted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Cuộc kiểm tra an toàn tòa nhà phải được tiến hành trước chiều thứ Sáu.</em>"
       },
       {
         "question": "A new marketing director ______ by the board last week.",
@@ -2968,7 +2968,7 @@ const toeicReadingData = [
           "D": "is appointing"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. was appointed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'last week' kết hợp với chủ ngữ chỉ người số ít nhận tác động 'A new marketing director' (giám đốc tiếp thị mới được bổ nhiệm) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was appointed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was appointed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một giám đốc tiếp thị mới đã được bổ nhiệm bởi ban giám đốc vào tuần trước.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. was appointed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu <code>last week</code> kết hợp với chủ ngữ chỉ người số ít nhận tác động <code>A new marketing director</code> (giám đốc tiếp thị mới được bổ nhiệm) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' → chọn <code>was appointed</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was appointed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một giám đốc tiếp thị mới đã được bổ nhiệm bởi ban giám đốc vào tuần trước.</em>"
       },
       {
         "question": "The annual financial report ______ to all shareholders next week.",
@@ -2979,7 +2979,7 @@ const toeicReadingData = [
           "D": "will be distributed"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. will be distributed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu tương lai 'next week' kết hợp với chủ ngữ chỉ vật 'report' (báo cáo được phân phát) yêu cầu bị động ở Tương lai đơn: 'will be + V3/ed' -> chọn 'will be distributed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be distributed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Báo cáo tài chính thường niên sẽ được phân phát tới tất cả cổ đông vào tuần tới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. will be distributed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu tương lai <code>next week</code> kết hợp với chủ ngữ chỉ vật <code>report</code> (báo cáo được phân phát) yêu cầu bị động ở Tương lai đơn: 'will be + V3/ed' → chọn <code>will be distributed</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be distributed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Báo cáo tài chính thường niên sẽ được phân phát tới tất cả cổ đông vào tuần tới.</em>"
       },
       {
         "question": "The office computers ______ by the technician when the electricity cut out.",
@@ -2990,7 +2990,7 @@ const toeicReadingData = [
           "D": "were repairing"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. were being repaired</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả hành động đang được thực hiện ở dạng bị động trong quá khứ thì hành động khác xen vào ('when the electricity cut out') nên chia bị động ở Quá khứ tiếp diễn -> chọn 'were being repaired'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">were being repaired</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các máy tính văn phòng đang được sửa chữa bởi kỹ thuật viên thì mất điện.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. were being repaired</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Diễn tả hành động đang được thực hiện ở dạng bị động trong quá khứ thì hành động khác xen vào (<code>when the electricity cut out</code>) nên chia bị động ở Quá khứ tiếp diễn → chọn <code>were being repaired</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">were being repaired</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các máy tính văn phòng đang được sửa chữa bởi kỹ thuật viên thì mất điện.</em>"
       },
       {
         "question": "The meeting room ______ for the banquet before the guests arrived.",
@@ -3001,7 +3001,7 @@ const toeicReadingData = [
           "D": "is prepared"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. had been prepared</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Hành động bị động xảy ra trước một hành động quá khứ khác ('before the guests arrived') yêu cầu chia bị động ở Quá khứ hoàn thành: 'had been + V3/ed' -> chọn 'had been prepared'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">had been prepared</strong>.<br><br><strong>Dịch câu:</strong><br><em>Phòng họp đã được chuẩn bị cho bữa tiệc trước khi các khách mời đến.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. had been prepared</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Hành động bị động xảy ra trước một hành động quá khứ khác (<code>before the guests arrived</code>) yêu cầu chia bị động ở Quá khứ hoàn thành: 'had been + V3/ed' → chọn <code>had been prepared</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">had been prepared</strong>.<br><br><strong>Dịch câu:</strong><br><em>Phòng họp đã được chuẩn bị cho bữa tiệc trước khi các khách mời đến.</em>"
       },
       {
         "question": "All applications should ______ directly to the HR director.",
@@ -3012,7 +3012,7 @@ const toeicReadingData = [
           "D": "be sent"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. be sent</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu 'should' ở thể bị động (các hồ sơ nên được gửi đi) yêu cầu cấu trúc: 'should + be + V3/ed' -> chọn 'be sent'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be sent</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả hồ sơ ứng tuyển nên được gửi trực tiếp đến giám đốc nhân sự.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. be sent</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu <code>should</code> ở thể bị động (các hồ sơ nên được gửi đi) yêu cầu cấu trúc: 'should + be + V3/ed' → chọn <code>be sent</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be sent</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả hồ sơ ứng tuyển nên được gửi trực tiếp đến giám đốc nhân sự.</em>"
       },
       {
         "question": "The shipment ______ to the warehouse by the logistics company yesterday.",
@@ -3023,7 +3023,7 @@ const toeicReadingData = [
           "D": "delivering"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. was delivered</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu quá khứ 'yesterday' kết hợp với chủ ngữ chỉ vật số ít 'The shipment' (lô hàng được giao) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was delivered'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was delivered</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lô hàng đã được giao đến kho bởi công ty hậu cần vào ngày hôm qua.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. was delivered</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu quá khứ <code>yesterday</code> kết hợp với chủ ngữ chỉ vật số ít <code>The shipment</code> (lô hàng được giao) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' → chọn <code>was delivered</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was delivered</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lô hàng đã được giao đến kho bởi công ty hậu cần vào ngày hôm qua.</em>"
       },
       {
         "question": "The database security measures ______ to protect user information.",
@@ -3034,7 +3034,7 @@ const toeicReadingData = [
           "D": "design"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. are designed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều 'The database security measures' (các biện pháp an ninh cơ sở dữ liệu) nhận hành động thiết kế ở hiện tại đơn nên chia bị động: 'are + V3/ed' -> chọn 'are designed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are designed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các biện pháp an ninh cơ sở dữ liệu được thiết kế để bảo vệ thông tin người dùng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. are designed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều <code>The database security measures</code> (các biện pháp an ninh cơ sở dữ liệu) nhận hành động thiết kế ở hiện tại đơn nên chia bị động: 'are + V3/ed' → chọn <code>are designed</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are designed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các biện pháp an ninh cơ sở dữ liệu được thiết kế để bảo vệ thông tin người dùng.</em>"
       },
       {
         "question": "The marketing strategy ______ by the director at the next meeting.",
@@ -3045,7 +3045,7 @@ const toeicReadingData = [
           "D": "presenting"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. will be presented</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu tương lai 'at the next meeting' kết hợp với chủ ngữ chỉ vật 'strategy' (chiến lược được trình bày) yêu cầu bị động ở Tương lai đơn -> chọn 'will be presented'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be presented</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chiến lược tiếp thị sẽ được trình bày bởi giám đốc tại cuộc họp tiếp theo.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. will be presented</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu tương lai <code>at the next meeting</code> kết hợp với chủ ngữ chỉ vật <code>strategy</code> (chiến lược được trình bày) yêu cầu bị động ở Tương lai đơn → chọn <code>will be presented</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be presented</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chiến lược tiếp thị sẽ được trình bày bởi giám đốc tại cuộc họp tiếp theo.</em>"
       },
       {
         "question": "All customer complaints ______ by our service department within 24 hours.",
@@ -3056,7 +3056,7 @@ const toeicReadingData = [
           "D": "handled"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. are handled</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều 'All customer complaints' (các khiếu nại của khách hàng) nhận hành động xử lý làm quy tắc thường lệ ở Hiện tại đơn nên chia bị động: 'are + V3/ed' -> chọn 'are handled'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are handled</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả các khiếu nại của khách hàng được xử lý bởi bộ phận dịch vụ của chúng tôi trong vòng hai mươi tư giờ.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. are handled</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều <code>All customer complaints</code> (các khiếu nại của khách hàng) nhận hành động xử lý làm quy tắc thường lệ ở Hiện tại đơn nên chia bị động: 'are + V3/ed' → chọn <code>are handled</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are handled</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả các khiếu nại của khách hàng được xử lý bởi bộ phận dịch vụ của chúng tôi trong vòng hai mươi tư giờ.</em>"
       },
       {
         "question": "The building renovation project ______ by the end of the year.",
@@ -3067,7 +3067,7 @@ const toeicReadingData = [
           "D": "will have been completed"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. will have been completed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc 'By the end of + thời gian tương lai' kết hợp bị động của chủ ngữ chỉ vật 'project' (dự án được hoàn thành) yêu cầu chia bị động ở Tương lai hoàn thành: 'will have been + V3/ed' -> chọn 'will have been completed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will have been completed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Dự án cải tạo tòa nhà sẽ được hoàn thành trước cuối năm nay.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. will have been completed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc 'By the end of + thời gian tương lai' kết hợp bị động của chủ ngữ chỉ vật <code>project</code> (dự án được hoàn thành) yêu cầu chia bị động ở Tương lai hoàn thành: 'will have been + V3/ed' → chọn <code>will have been completed</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will have been completed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Dự án cải tạo tòa nhà sẽ được hoàn thành trước cuối năm nay.</em>"
       },
       {
         "question": "The supervisor requested that the budget ______ by the board.",
@@ -3078,7 +3078,7 @@ const toeicReadingData = [
           "D": "approved"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. be approved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc câu giả định ở thể bị động sau động từ 'requested': 'request + that + S + be + V3/ed' -> chọn 'be approved'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be approved</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã yêu cầu rằng ngân sách phải được phê duyệt bởi ban giám đốc.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. be approved</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc câu giả định ở thể bị động sau động từ <code>requested</code>: 'request + that + S + be + V3/ed' → chọn <code>be approved</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be approved</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã yêu cầu rằng ngân sách phải được phê duyệt bởi ban giám đốc.</em>"
       },
       {
         "question": "The conference schedule ______ because of travel disruptions.",
@@ -3089,7 +3089,7 @@ const toeicReadingData = [
           "D": "altering"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. was altered</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số ít 'The conference schedule' (lịch trình hội nghị được thay đổi) và sự việc xảy ra trong quá khứ nên chia bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was altered'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was altered</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lịch trình hội nghị đã được thay đổi vì sự gián đoạn đi lại.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. was altered</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số ít <code>The conference schedule</code> (lịch trình hội nghị được thay đổi) và sự việc xảy ra trong quá khứ nên chia bị động ở Quá khứ đơn: 'was + V3/ed' → chọn <code>was altered</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was altered</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lịch trình hội nghị đã được thay đổi vì sự gián đoạn đi lại.</em>"
       },
       {
         "question": "The employee safety training session ______ every six months.",
@@ -3100,31 +3100,31 @@ const toeicReadingData = [
           "D": "is conducted"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. is conducted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm chỉ tần suất 'every six months' kết hợp với chủ ngữ chỉ vật số ít 'session' (buổi đào tạo được tiến hành) ở Hiện tại đơn yêu cầu chia bị động: 'is + V3/ed' -> chọn 'is conducted'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is conducted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Buổi đào tạo an toàn cho nhân viên được tiến hành sáu tháng một lần.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. is conducted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm chỉ tần suất <code>every six months</code> kết hợp với chủ ngữ chỉ vật số ít <code>session</code> (buổi đào tạo được tiến hành) ở Hiện tại đơn yêu cầu chia bị động: 'is + V3/ed' → chọn <code>is conducted</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is conducted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Buổi đào tạo an toàn cho nhân viên được tiến hành sáu tháng một lần.</em>"
       }
     ],
     "homework": [
       {
-        "question": "A detail safety guidelines guide ______ to all workers last week.",
+        "question": "A detailed safety guide ______ to all workers last week.",
         "options": {
-          "A": "issued",
-          "B": "was issued",
+          "A": "was issued",
+          "B": "issued",
           "C": "has issued",
           "D": "is issuing"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. was issued</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu thời gian quá khứ 'last week' kết hợp bị động của chủ ngữ số ít 'guide' (hướng dẫn được phát hành) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was issued'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was issued</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một cuốn hướng dẫn chi tiết về các chỉ dẫn an toàn đã được phát hành cho tất cả công nhân vào tuần trước.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. was issued</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu thời gian quá khứ <code>last week</code> kết hợp bị động của chủ ngữ số ít <code>guide</code> (hướng dẫn được phát hành) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' → chọn <code>was issued</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was issued</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một cuốn hướng dẫn chi tiết về các chỉ dẫn an toàn đã được phát hành cho tất cả công nhân vào tuần trước.</em>"
       },
       {
         "question": "The new office equipment ______ to the headquarters yesterday afternoon.",
         "options": {
           "A": "delivered",
-          "B": "was delivered",
-          "C": "is delivering",
+          "B": "is delivering",
+          "C": "was delivered",
           "D": "deliver"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. was delivered</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'yesterday afternoon' kết hợp bị động của chủ ngữ số ít 'equipment' (thiết bị được giao) yêu cầu bị động ở Quá khứ đơn -> chọn 'was delivered'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was delivered</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thiết bị văn phòng mới đã được giao đến trụ sở chính vào chiều hôm qua.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. was delivered</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu <code>yesterday afternoon</code> kết hợp bị động của chủ ngữ số ít <code>equipment</code> (thiết bị được giao) yêu cầu bị động ở Quá khứ đơn → chọn <code>was delivered</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was delivered</strong>.<br><br><strong>Dịch câu:</strong><br><em>Thiết bị văn phòng mới đã được giao đến trụ sở chính vào chiều hôm qua.</em>"
       },
       {
         "question": "All company software programs ______ by the IT department tonight.",
@@ -3135,18 +3135,18 @@ const toeicReadingData = [
           "D": "are updating"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will be updated</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu thời gian tương lai 'tonight' kết hợp bị động của chủ ngữ số nhiều 'programs' (các phần mềm được cập nhật) yêu cầu bị động ở Tương lai đơn -> chọn 'will be updated'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be updated</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả các chương trình phần mềm của công ty sẽ được cập nhật bởi bộ phận công nghệ thông tin vào tối nay.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will be updated</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu thời gian tương lai <code>tonight</code> kết hợp bị động của chủ ngữ số nhiều <code>programs</code> (các phần mềm được cập nhật) yêu cầu bị động ở Tương lai đơn → chọn <code>will be updated</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be updated</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả các chương trình phần mềm của công ty sẽ được cập nhật bởi bộ phận công nghệ thông tin vào tối nay.</em>"
       },
       {
         "question": "The database server ______ at the moment, so some services are offline.",
         "options": {
           "A": "restores",
           "B": "is restoring",
-          "C": "is being restored",
-          "D": "restored"
+          "C": "restored",
+          "D": "is being restored"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. is being restored</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'at the moment' kết hợp bị động của chủ ngữ số ít 'server' (máy chủ đang được khôi phục) yêu cầu bị động ở Hiện tại tiếp diễn: 'is being + V3/ed' -> chọn 'is being restored'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is being restored</strong>.<br><br><strong>Dịch câu:</strong><br><em>Máy chủ cơ sở dữ liệu đang được khôi phục vào lúc này, vì vậy một số dịch vụ đang ngoại tuyến.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. is being restored</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu <code>at the moment</code> kết hợp bị động của chủ ngữ số ít <code>server</code> (máy chủ đang được khôi phục) yêu cầu bị động ở Hiện tại tiếp diễn: 'is being + V3/ed' → chọn <code>is being restored</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is being restored</strong>.<br><br><strong>Dịch câu:</strong><br><em>Máy chủ cơ sở dữ liệu đang được khôi phục vào lúc này, vì vậy một số dịch vụ đang ngoại tuyến.</em>"
       },
       {
         "question": "The quarterly financial audits ______ by an external agency.",
@@ -3157,73 +3157,73 @@ const toeicReadingData = [
           "D": "conducted"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. are conducted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều 'The quarterly financial audits' (các kỳ kiểm toán tài chính hàng quý) nhận hành động tiến hành như một quy luật thường lệ nên chia bị động ở Hiện tại đơn -> chọn 'are conducted'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are conducted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các kỳ kiểm toán tài chính hàng quý được tiến hành bởi một đại lý bên ngoài.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. are conducted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều <code>The quarterly financial audits</code> (các kỳ kiểm toán tài chính hàng quý) nhận hành động tiến hành như một quy luật thường lệ nên chia bị động ở Hiện tại đơn → chọn <code>are conducted</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">are conducted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các kỳ kiểm toán tài chính hàng quý được tiến hành bởi một đại lý bên ngoài.</em>"
       },
       {
         "question": "The client accounts ______ by our accounting team already.",
         "options": {
-          "A": "have verified",
-          "B": "have been verified",
+          "A": "have been verified",
+          "B": "have verified",
           "C": "verified",
           "D": "are verifying"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. have been verified</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'already' kết hợp bị động của chủ ngữ số nhiều 'accounts' (các tài khoản đã được xác minh) yêu cầu bị động ở Hiện tại hoàn thành: 'have been + V3/ed' -> chọn 'have been verified'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">have been verified</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các tài khoản khách hàng đã được xác minh bởi nhóm kế toán của chúng tôi rồi.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. have been verified</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu <code>already</code> kết hợp bị động của chủ ngữ số nhiều <code>accounts</code> (các tài khoản đã được xác minh) yêu cầu bị động ở Hiện tại hoàn thành: 'have been + V3/ed' → chọn <code>have been verified</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">have been verified</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các tài khoản khách hàng đã được xác minh bởi nhóm kế toán của chúng tôi rồi.</em>"
       },
       {
         "question": "All trash and recyclable items must ______ in the designated bins.",
         "options": {
           "A": "place",
-          "B": "be placed",
+          "B": "placed",
           "C": "placing",
-          "D": "placed"
+          "D": "be placed"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. be placed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu 'must' ở thể bị động (rác phải được đặt) yêu cầu cấu trúc: 'must + be + V3/ed' -> chọn 'be placed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be placed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả rác và các mặt hàng có thể tái chế phải được đặt trong các thùng được chỉ định.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. be placed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu <code>must</code> ở thể bị động (rác phải được đặt) yêu cầu cấu trúc: 'must + be + V3/ed' → chọn <code>be placed</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be placed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tất cả rác và các mặt hàng có thể tái chế phải được đặt trong các thùng được chỉ định.</em>"
       },
       {
         "question": "The corporate tax forms ______ by the accountant before next week's deadline.",
         "options": {
           "A": "will file",
-          "B": "will be filed",
-          "C": "filed",
+          "B": "filed",
+          "C": "will be filed",
           "D": "files"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will be filed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm chỉ thời hạn trong tương lai 'before next week's deadline' kết hợp bị động của chủ ngữ số nhiều 'forms' (các biểu mẫu thuế được nộp) yêu cầu bị động ở Tương lai đơn -> chọn 'will be filed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be filed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các biểu mẫu thuế doanh nghiệp sẽ được nộp bởi kế toán trước thời hạn của tuần tới.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. will be filed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cụm chỉ thời hạn trong tương lai <code>before next week</code>s deadline' kết hợp bị động của chủ ngữ số nhiều <code>forms</code> (các biểu mẫu thuế được nộp) yêu cầu bị động ở Tương lai đơn → chọn <code>will be filed</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be filed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các biểu mẫu thuế doanh nghiệp sẽ được nộp bởi kế toán trước thời hạn của tuần tới.</em>"
       },
       {
         "question": "A press release ______ to the media outlets yesterday evening.",
         "options": {
-          "A": "sent",
-          "B": "was sent",
+          "A": "was sent",
+          "B": "sent",
           "C": "has sent",
           "D": "is sending"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. was sent</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu quá khứ 'yesterday evening' kết hợp bị động của chủ ngữ số ít 'press release' (thông cáo báo chí được gửi đi) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was sent'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was sent</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một thông cáo báo chí đã được gửi đến các phương tiện truyền thông vào tối hôm qua.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. was sent</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu quá khứ <code>yesterday evening</code> kết hợp bị động của chủ ngữ số ít <code>press release</code> (thông cáo báo chí được gửi đi) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' → chọn <code>was sent</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was sent</strong>.<br><br><strong>Dịch câu:</strong><br><em>Một thông cáo báo chí đã được gửi đến các phương tiện truyền thông vào tối hôm qua.</em>"
       },
       {
         "question": "Our marketing budget ______ by 10 percent due to poor sales.",
         "options": {
           "A": "reduced",
-          "B": "was reduced",
+          "B": "is reducing",
           "C": "has reducing",
-          "D": "is reducing"
+          "D": "was reduced"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. was reduced</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số ít 'marketing budget' (ngân sách tiếp thị bị cắt giảm) trong quá khứ nên chia bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was reduced'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was reduced</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ngân sách tiếp thị của chúng tôi đã bị giảm mười phần trăm do doanh số bán hàng kém.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. was reduced</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số ít <code>marketing budget</code> (ngân sách tiếp thị bị cắt giảm) trong quá khứ nên chia bị động ở Quá khứ đơn: 'was + V3/ed' → chọn <code>was reduced</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was reduced</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ngân sách tiếp thị của chúng tôi đã bị giảm mười phần trăm do doanh số bán hàng kém.</em>"
       },
       {
         "question": "The conference presentation files ______ to the organizer already.",
         "options": {
           "A": "have uploaded",
-          "B": "have been uploaded",
-          "C": "uploaded",
+          "B": "uploaded",
+          "C": "have been uploaded",
           "D": "are uploading"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. have been uploaded</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'already' kết hợp bị động của chủ ngữ số nhiều 'files' (các tệp thuyết trình đã được tải lên) yêu cầu bị động ở Hiện tại hoàn thành -> chọn 'have been uploaded'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">have been uploaded</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các tệp trình bày hội nghị đã được tải lên ban tổ chức rồi.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. have been uploaded</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu <code>already</code> kết hợp bị động của chủ ngữ số nhiều <code>files</code> (các tệp thuyết trình đã được tải lên) yêu cầu bị động ở Hiện tại hoàn thành → chọn <code>have been uploaded</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">have been uploaded</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các tệp trình bày hội nghị đã được tải lên ban tổ chức rồi.</em>"
       },
       {
         "question": "The new employee policy handbook should ______ by all staff members.",
@@ -3234,40 +3234,40 @@ const toeicReadingData = [
           "D": "reads"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. be read</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu 'should' ở thể bị động (sổ tay chính sách nên được đọc) yêu cầu cấu trúc: 'should + be + V3/ed' -> chọn 'be read' (phát âm là red).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be read</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sổ tay chính sách nhân viên mới nên được đọc bởi tất cả các thành viên nhân viên.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. be read</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau động từ khuyết thiếu <code>should</code> ở thể bị động (sổ tay chính sách nên được đọc) yêu cầu cấu trúc: 'should + be + V3/ed' → chọn <code>be read</code> (phát âm là red).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be read</strong>.<br><br><strong>Dịch câu:</strong><br><em>Sổ tay chính sách nhân viên mới nên được đọc bởi tất cả các thành viên nhân viên.</em>"
       },
       {
         "question": "The company office building ______ by security guards at night.",
         "options": {
-          "A": "is patrolled",
+          "A": "patrolled",
           "B": "patrols",
-          "C": "patrolled",
+          "C": "is patrolled",
           "D": "is patrolling"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. is patrolled</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số ít 'office building' (tòa nhà văn phòng được tuần tra) như một quy luật thường lệ nên chia bị động ở Hiện tại đơn -> chọn 'is patrolled'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is patrolled</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà văn phòng công ty được tuần tra bởi các nhân viên bảo vệ vào ban đêm.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. is patrolled</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số ít <code>office building</code> (tòa nhà văn phòng được tuần tra) như một quy luật thường lệ nên chia bị động ở Hiện tại đơn → chọn <code>is patrolled</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is patrolled</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà văn phòng công ty được tuần tra bởi các nhân viên bảo vệ vào ban đêm.</em>"
       },
       {
         "question": "By this time tomorrow, the final report ______ to the executive board.",
         "options": {
-          "A": "will submit",
-          "B": "will have been submitted",
+          "A": "will have been submitted",
+          "B": "will submit",
           "C": "submitted",
           "D": "has submitted"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will have been submitted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc 'By this time + mốc thời gian tương lai' kết hợp bị động của chủ ngữ chỉ vật 'report' (báo cáo được nộp) yêu cầu chia bị động ở Tương lai hoàn thành -> chọn 'will have been submitted'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will have been submitted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tính đến thời điểm này ngày mai, báo cáo cuối cùng sẽ đã được nộp lên ban điều hành.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. will have been submitted</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc 'By this time + mốc thời gian tương lai' kết hợp bị động của chủ ngữ chỉ vật <code>report</code> (báo cáo được nộp) yêu cầu chia bị động ở Tương lai hoàn thành → chọn <code>will have been submitted</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will have been submitted</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tính đến thời điểm này ngày mai, báo cáo cuối cùng sẽ đã được nộp lên ban điều hành.</em>"
       },
       {
         "question": "The safety regulations ______ to prevent workplace accidents.",
         "options": {
           "A": "created",
-          "B": "were created",
+          "B": "are creating",
           "C": "have created",
-          "D": "are creating"
+          "D": "were created"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. were created</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều 'The safety regulations' (các quy định an toàn được tạo ra) trong quá khứ nên chia bị động ở Quá khứ đơn: 'were + V3/ed' -> chọn 'were created'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">were created</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các quy định an toàn đã được tạo ra để ngăn ngừa tai nạn tại nơi làm việc.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. were created</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chủ ngữ chỉ vật số nhiều <code>The safety regulations</code> (các quy định an toàn được tạo ra) trong quá khứ nên chia bị động ở Quá khứ đơn: 'were + V3/ed' → chọn <code>were created</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">were created</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các quy định an toàn đã được tạo ra để ngăn ngừa tai nạn tại nơi làm việc.</em>"
       },
       {
         "question": "The manager requested that the promotional material ______ immediately.",
@@ -3278,18 +3278,18 @@ const toeicReadingData = [
           "D": "printed"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. be printed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giả định ở dạng bị động sau động từ 'requested': 'request + that + S + be + V3/ed' -> chọn 'be printed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be printed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã yêu cầu các tài liệu quảng cáo phải được in ngay lập tức.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. be printed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc giả định ở dạng bị động sau động từ <code>requested</code>: 'request + that + S + be + V3/ed' → chọn <code>be printed</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">be printed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã yêu cầu các tài liệu quảng cáo phải được in ngay lập tức.</em>"
       },
       {
         "question": "The new online store system ______ by our development team now.",
         "options": {
           "A": "tests",
           "B": "is testing",
-          "C": "is being tested",
-          "D": "tested"
+          "C": "tested",
+          "D": "is being tested"
         },
-        "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. is being tested</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu thời gian 'now' kết hợp bị động của chủ ngữ số ít 'system' (hệ thống cửa hàng trực tuyến đang được thử nghiệm) yêu cầu bị động ở Hiện tại tiếp diễn -> chọn 'is being tested'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is being tested</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hệ thống cửa hàng trực tuyến mới đang được thử nghiệm bởi nhóm phát triển của chúng tôi bây giờ.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. is being tested</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu thời gian <code>now</code> kết hợp bị động của chủ ngữ số ít <code>system</code> (hệ thống cửa hàng trực tuyến đang được thử nghiệm) yêu cầu bị động ở Hiện tại tiếp diễn → chọn <code>is being tested</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is being tested</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hệ thống cửa hàng trực tuyến mới đang được thử nghiệm bởi nhóm phát triển của chúng tôi bây giờ.</em>"
       },
       {
         "question": "The construction of the new warehouse ______ by the end of next month.",
@@ -3300,29 +3300,29 @@ const toeicReadingData = [
           "D": "finishes"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will be finished</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Mốc thời gian tương lai 'by the end of next month' kết hợp bị động của chủ ngữ chỉ vật 'construction' (việc xây dựng được hoàn thành) yêu cầu bị động ở Tương lai đơn -> chọn 'will be finished'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be finished</strong>.<br><br><strong>Dịch câu:</strong><br><em>Việc xây dựng nhà kho mới sẽ được hoàn thành trước cuối tháng tới.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. will be finished</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Mốc thời gian tương lai <code>by the end of next month</code> kết hợp bị động của chủ ngữ chỉ vật <code>construction</code> (việc xây dựng được hoàn thành) yêu cầu bị động ở Tương lai đơn → chọn <code>will be finished</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">will be finished</strong>.<br><br><strong>Dịch câu:</strong><br><em>Việc xây dựng nhà kho mới sẽ được hoàn thành trước cuối tháng tới.</em>"
       },
       {
         "question": "The employee contract ______ by both parties last week.",
         "options": {
-          "A": "signed",
-          "B": "was signed",
+          "A": "was signed",
+          "B": "signed",
           "C": "has signed",
           "D": "is signing"
         },
-        "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. was signed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu 'last week' kết hợp bị động của chủ ngữ số ít 'contract' (hợp đồng được ký kết) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' -> chọn 'was signed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was signed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hợp đồng lao động đã được ký kết bởi cả hai bên vào tuần trước.</em>"
+        "answer": "A",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. was signed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Dấu hiệu <code>last week</code> kết hợp bị động của chủ ngữ số ít <code>contract</code> (hợp đồng được ký kết) yêu cầu bị động ở Quá khứ đơn: 'was + V3/ed' → chọn <code>was signed</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">was signed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hợp đồng lao động đã được ký kết bởi cả hai bên vào tuần trước.</em>"
       },
       {
         "question": "Please ensure that the chemical waste ______ in the proper container.",
         "options": {
-          "A": "is disposed",
+          "A": "disposing",
           "B": "disposes",
-          "C": "disposing",
+          "C": "is disposed",
           "D": "disposed"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. is disposed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau liên từ 'that' làm bị động chỉ quy tắc của chủ ngữ số ít 'waste' (chất thải hóa học được xử lý) ở Hiện tại đơn nên chia: 'is + V3/ed' -> chọn 'is disposed'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is disposed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng đảm bảo rằng chất thải hóa học được xử lý trong thùng chứa thích hợp.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. is disposed</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau liên từ <code>that</code> làm bị động chỉ quy tắc của chủ ngữ số ít <code>waste</code> (chất thải hóa học được xử lý) ở Hiện tại đơn nên chia: 'is + V3/ed' → chọn <code>is disposed</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">is disposed</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng đảm bảo rằng chất thải hóa học được xử lý trong thùng chứa thích hợp.</em>"
       }
     ]
   },
@@ -3332,75 +3332,75 @@ const toeicReadingData = [
     "slides": [
       {
         "slide_index": 116,
-        "title": "PHẦN 06:",
+        "title": "PHẦN 06: MỆNH ĐỀ QUAN HỆ (RELATIVE CLAUSES)",
         "is_html": true,
-        "html_content": "<div style=\"text-align: center; margin-top: 30px; padding: 10px;\"><h2 class=\"hl-vocab\" style=\"font-size: 2rem; font-family: var(--font-heading); margin-bottom: 16px;\">MỆNH ĐỀ QUAN HỆ (RELATIVE CLAUSES)</h2><p style=\"font-size: 1.1rem; color: var(--text-secondary); max-width: 550px; margin: 0 auto; line-height: 1.6;\">Tìm hiểu cách sử dụng đại từ quan hệ (who, whom, which, that, whose), trạng từ quan hệ (where, when, why) và các dạng rút gọn mệnh đề quan hệ chủ động, bị động.</p></div>"
+        "html_content": "<div style=\"text-align: center; margin-top: 15px; padding: 24px 16px;\">\n    <div style=\"width: 68px; height: 68px; border-radius: 20px; background: linear-gradient(135deg, rgba(168, 85, 247, 0.2), rgba(0, 242, 254, 0.2)); border: 1px solid rgba(168, 85, 247, 0.4); display: inline-flex; align-items: center; justify-content: center; font-size: 2rem; color: var(--color-purple); margin-bottom: 18px; box-shadow: 0 8px 25px rgba(168, 85, 247, 0.22);\">\n        <i class=\"fa-solid fa-circle-nodes\"></i>\n    </div>\n    <h2 class=\"hl-vocab\" style=\"font-size: 2.2rem; font-family: var(--font-heading); margin-bottom: 14px; letter-spacing: 0.02em;\">MỆNH ĐỀ QUAN HỆ (RELATIVE CLAUSES)</h2>\n    <p style=\"font-size: 1.12rem; color: var(--text-secondary); max-width: 620px; margin: 0 auto 24px auto; line-height: 1.75; text-align: center !important;\">Tìm hiểu cách sử dụng đại từ quan hệ (who, whom, which, that, whose), trạng từ quan hệ (where, when, why) và các dạng rút gọn mệnh đề quan hệ chủ động, bị động trong đề thi TOEIC.</p>\n    <div style=\"display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;\">\n        <span class=\"pos-tag\"><i class=\"fa-solid fa-link\"></i> 5 Đại từ quan hệ cốt lõi</span>\n        <span class=\"pos-tag tag-purple\"><i class=\"fa-solid fa-map-pin\"></i> 3 Trạng từ quan hệ thời gian, nơi chốn, lý do</span>\n        <span class=\"pos-tag tag-gold\"><i class=\"fa-solid fa-scissors\"></i> Kỹ thuật rút gọn V-ing & V₃/ed</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 117,
         "title": "I. ĐỊNH NGHĨA",
         "is_html": true,
-        "html_content": "Mệnh đề quan hệ là mệnh đề phụ, đứng sau danh từ/đại từ để <strong>bổ sung thông tin và xác định rõ đối tượng</strong>.<br>👉 Được nối bằng:<br><em>Đại từ quan hệ: </em><em><strong>who, whom, whose, which, that</strong></em><em> </em><br><em>Trạng từ quan hệ: </em><em><strong>where, when, why</strong></em><em> </em><br>📌 Trong TOEIC: → chỉ cần nhận diện để <strong>chọn đúng đáp án</strong>"
+        "html_content": "<div class=\"slide-callout\">\n    <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-book-open\"></i> Định nghĩa</span>\n    <div style=\"font-size: 1.1rem; margin-top: 4px;\">\n        <strong class=\"hl-cyan\">Mệnh đề quan hệ (Relative Clause)</strong> là mệnh đề phụ đứng sau một danh từ hoặc đại từ để <strong class=\"hl-yellow\">bổ sung thông tin và xác định rõ đối tượng</strong> đó. Mệnh đề quan hệ được kết nối với mệnh đề chính thông qua:\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-cyan);\">\n        <span class=\"slide-badge-cyan\"><i class=\"fa-solid fa-user-group\"></i> ĐẠI TỪ QUAN HỆ</span>\n        <div class=\"pos-tag-group\" style=\"margin-top: 8px;\">\n            <span class=\"pos-tag\">who</span>\n            <span class=\"pos-tag\">whom</span>\n            <span class=\"pos-tag tag-purple\">which</span>\n            <span class=\"pos-tag tag-gold\">that</span>\n            <span class=\"pos-tag tag-pink\">whose</span>\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-purple);\">\n        <span class=\"slide-badge-purple\"><i class=\"fa-solid fa-compass\"></i> TRẠNG TỪ QUAN HỆ</span>\n        <div class=\"pos-tag-group\" style=\"margin-top: 8px;\">\n            <span class=\"pos-tag tag-purple\">where (nơi chốn)</span>\n            <span class=\"pos-tag tag-purple\">when (thời gian)</span>\n            <span class=\"pos-tag tag-purple\">why (lý do)</span>\n        </div>\n    </div>\n</div>\n<div class=\"slide-callout callout-green\" style=\"margin-top: 14px;\">\n    <i class=\"fa-solid fa-lightbulb\" style=\"color: var(--color-gold);\"></i> <strong>Chiến thuật TOEIC:</strong> Nhìn danh từ đứng ngay trước chỗ trống (người hay vật) và cấu trúc phía sau (thiếu S, thiếu O hay là danh từ sở hữu) để chọn từ nối chính xác!\n</div>"
       },
       {
         "slide_index": 118,
-        "title": "II. ĐẠI TỪ QUAN HỆ",
+        "title": "II. ĐẠI TỪ QUAN HỆ: 1. WHO",
         "is_html": true,
-        "html_content": "<strong>1. </strong><strong>WHO (CHỦ NGỮ – NGƯỜI)</strong><br>👉 dùng khi mệnh đề sau <strong>thiếu chủ ngữ</strong><br><strong>Cấu trúc: </strong><strong>Noun [người] + who + V…</strong><br><strong>EXAMPLE</strong><br>The man <strong>who is sitting by the fire</strong> is my father.<br>The boy <strong>who helped me</strong> is very kind."
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-user\" style=\"margin-right: 6px;\"></i> 1. WHO (Chủ ngữ – Chỉ người)</div>\n<div class=\"slide-callout\">\n    <div style=\"font-size: 1.05rem; margin-bottom: 8px;\">\n        Đại từ quan hệ <code>WHO</code> thay thế cho danh từ chỉ người và đóng vai trò làm <strong>CHỦ NGỮ</strong> trong mệnh đề quan hệ:\n    </div>\n    <div style=\"margin-top: 10px;\"><span class=\"hl-box\">Noun [người] + WHO + V + O...</span></div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-cyan);\">\n        The man <strong class=\"hl-cyan\">who is sitting</strong> by the door is the manager.<br>\n        <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ who làm chủ ngữ cho động từ is sitting.</span>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-purple);\">\n        The technician <strong class=\"hl-purple\">who helped me</strong> was very friendly.<br>\n        <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ who làm chủ ngữ cho động từ helped.</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 119,
-        "title": "2. WHOM (TÂN NGỮ – NGƯỜI)",
+        "title": "2. WHOM (TÂN NGỮ – CHỈ NGƯỜI)",
         "is_html": true,
-        "html_content": "👉 dùng khi mệnh đề sau <strong>đã có chủ ngữ</strong><br><strong>Cấu trúc: </strong><strong>Noun [người] + whom + S + V…</strong><br><strong>EXAMPLE</strong><br>The woman <strong>whom you saw yesterday</strong> is my aunt.<br>The boy <strong>whom we are looking for</strong> is Tom.<br>📌 TOEIC: thường thay bằng <strong>that</strong>"
+        "html_content": "<div class=\"suffix-header-badge badge-purple\"><i class=\"fa-solid fa-user-check\" style=\"margin-right: 6px;\"></i> 2. WHOM (Tân ngữ – Chỉ người)</div>\n<div class=\"slide-callout callout-purple\">\n    <div style=\"font-size: 1.05rem; margin-bottom: 8px;\">\n        Đại từ quan hệ <code>WHOM</code> thay thế cho danh từ chỉ người và đóng vai trò làm <strong>TÂN NGỮ</strong> (mệnh đề sau đã có chủ ngữ S + V):\n    </div>\n    <div style=\"margin-top: 10px;\"><span class=\"hl-box\">Noun [người] + WHOM + S + V...</span></div>\n    <div style=\"margin-top: 10px; font-size: 0.95rem; color: var(--text-secondary);\">\n        📌 <strong>Lưu ý:</strong> WHOM có thể đứng trực tiếp sau giới từ: <code>preposition + WHOM</code> <em>(to whom, with whom, for whom...)</em>.\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-purple);\">\n        The client <strong class=\"hl-purple\">whom we met yesterday</strong> signed the contract.<br>\n        <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ whom làm tân ngữ cho động từ met.</span>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-cyan);\">\n        The director, <strong class=\"hl-cyan\">with whom I spoke</strong>, agreed to the proposal.<br>\n        <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ with whom: giới từ đi liền trước whom.</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 120,
         "title": "3. WHICH (VẬT)",
         "is_html": true,
-        "html_content": "👉 dùng cho vật → làm <strong>S hoặc O</strong><br><strong>EXAMPLE</strong><br>The book <strong>which I like best</strong> is interesting.<br>The hat <strong>which is red</strong> is mine.<br>📌 có thể lược bỏ khi là <strong>tân ngữ</strong><br>✔ The book (which) I like …"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-box\" style=\"margin-right: 6px;\"></i> 3. WHICH (Chủ ngữ / Tân ngữ – Chỉ vật)</div>\n<div class=\"slide-callout\">\n    <div style=\"font-size: 1.05rem; margin-bottom: 8px;\">\n        Đại từ quan hệ <code>WHICH</code> thay thế cho danh từ chỉ vật/sự việc, có thể làm <strong>Chủ ngữ</strong> hoặc <strong>Tân ngữ</strong>:\n    </div>\n    <div style=\"margin-top: 10px;\"><span class=\"hl-box\">Noun [vật] + WHICH + V / (S + V)</span></div>\n    <div style=\"margin-top: 10px; font-size: 0.95rem; color: var(--text-secondary);\">\n        📌 <code>, which + V</code>: Có thể thay thế cho <strong>cả mệnh đề đứng trước</strong> khi có dấu phẩy.\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-cyan);\">\n        The report <strong class=\"hl-cyan\">which was published</strong> contains important data.<br>\n        <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ which làm chủ ngữ (+ was published).</span>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-purple);\">\n        The printer <strong class=\"hl-purple\">which we purchased</strong> works very well.<br>\n        <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ which làm tân ngữ (+ we purchased).</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 121,
         "title": "4. THAT (THAY THẾ WHO, WHOM, WHICH)",
         "is_html": true,
-        "html_content": "👉 dùng cho <strong>người + vật</strong><br><strong>EXAMPLE</strong><br>The person <strong>that I met yesterday</strong> is my boss.<br>The book <strong>that I like best</strong> is interesting.<br><strong>📌 </strong><strong>Lưu ý quan trọng:</strong> <strong><span class=\"hl-red\">KHÔNG dùng THAT khi</span></strong>:<br>sau dấu phẩy (,)<br>sau giới từ"
+        "html_content": "<div class=\"suffix-header-badge badge-gold\"><i class=\"fa-solid fa-arrows-split-up-and-left\" style=\"margin-right: 6px;\"></i> 4. THAT (Đại từ quan hệ đa năng)</div>\n<div class=\"slide-callout callout-gold\">\n    <div style=\"font-size: 1.05rem; margin-bottom: 8px;\">\n        <code>THAT</code> có thể thay thế cho cả <strong>người và vật</strong> (thay cho who, whom, which) trong <em>Mệnh đề quan hệ xác định</em>.\n    </div>\n    <div style=\"margin-top: 8px;\"><span class=\"hl-box\">Noun [người/vật] + THAT + V / (S + V)</span></div>\n</div>\n<div class=\"slide-callout callout-red\" style=\"margin-top: 14px;\">\n    <span class=\"slide-badge-pink\"><i class=\"fa-solid fa-ban\"></i> 2 TRƯỜNG HỢP CẤM DÙNG THAT TRONG TOEIC</span>\n    <div class=\"slide-grid-2\" style=\"margin-top: 10px;\">\n        <div class=\"slide-card-premium\">\n            <strong class=\"hl-red\">❌ 1. KHÔNG dùng sau dấu phẩy (,)</strong>\n            <div style=\"font-size: 0.88rem; color: var(--text-muted); margin-top: 4px;\">Mệnh đề quan hệ không xác định không dùng that.</div>\n        </div>\n        <div class=\"slide-card-premium\">\n            <strong class=\"hl-red\">❌ 2. KHÔNG dùng sau giới từ</strong>\n            <div style=\"font-size: 0.88rem; color: var(--text-muted); margin-top: 4px;\">Phải dùng <em>in which, with whom</em>, không dùng <em>in that</em>.</div>\n        </div>\n    </div>\n</div>"
       },
       {
         "slide_index": 122,
-        "title": "4. THAT (THAY THẾ WHO, WHOM, WHICH)",
+        "title": "BẢNG TỔNG HỢP ĐẠI TỪ QUAN HỆ",
         "is_html": true,
-        "html_content": "👉 dùng cho <strong>người + vật</strong><br><strong>EXAMPLE</strong><br>The person <strong>that I met yesterday</strong> is my boss.<br>The book <strong>that I like best</strong> is interesting.<br><strong>📌 </strong><strong>Lưu ý quan trọng:</strong> <strong><span class=\"hl-red\">KHÔNG dùng THAT khi</span></strong>:<br>sau dấu phẩy (,)<br>sau giới từ"
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-table\" style=\"margin-right: 6px;\"></i> BẢNG TỔNG HỢP ĐẠI TỪ QUAN HỆ TRỌNG TÂM</div>\n<div class=\"verb-pattern-grid\" style=\"margin-top: 14px;\">\n    <div class=\"verb-pattern-item\"><div class=\"verb-phrase\"><span class=\"hl-core\">WHO</span></div><div class=\"verb-meaning\">Người • Làm Chủ ngữ (<code>+ V</code>)</div></div>\n    <div class=\"verb-pattern-item theme-purple\"><div class=\"verb-phrase\"><span class=\"hl-core-purple\">WHOM</span></div><div class=\"verb-meaning\">Người • Làm Tân ngữ (<code>+ S + V</code> hoặc <code>prep + whom</code>)</div></div>\n    <div class=\"verb-pattern-item theme-pink\"><div class=\"verb-phrase\"><span class=\"hl-core-pink\">WHICH</span></div><div class=\"verb-meaning\">Vật • Làm Chủ ngữ hoặc Tân ngữ (<code>+ V / S + V</code>)</div></div>\n    <div class=\"verb-pattern-item theme-orange\"><div class=\"verb-phrase\"><span class=\"hl-vocab\">THAT</span></div><div class=\"verb-meaning\">Người/Vật • Không đi sau dấu phẩy và giới từ</div></div>\n    <div class=\"verb-pattern-item\"><div class=\"verb-phrase\"><span class=\"hl-core\">WHOSE</span></div><div class=\"verb-meaning\">Sở hữu • Đi liền trước danh từ (<code>whose + noun</code>)</div></div>\n</div>"
       },
       {
         "slide_index": 123,
-        "title": "📌 TRƯỜNG HỢP DÙNG THAT",
+        "title": "CÁC TRƯỜNG HỢP NÊN DÙNG THAT",
         "is_html": true,
-        "html_content": "<strong>✔ 1. Sau so sánh nhất</strong><br>👉 the best / the most / the largest...<br><strong>✔ 2. Sau Cụm chỉ tính duy nhất / thứ tự</strong><br>👉 the first / the last / the only<br><strong>✔ 3. Sau đại từ bất định</strong><br>👉 something, anything, everything, nothing, all...<br><strong>✔ 4. Khi danh từ gồm cả người + vật</strong><br>👉  the people and documents, the employees and equipment"
+        "html_content": "<div class=\"suffix-header-badge badge-gold\"><i class=\"fa-solid fa-star\" style=\"margin-right: 6px;\"></i> 4 TRƯỜNG HỢP ĐẶC BIỆT ƯU TIÊN DÙNG THAT</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-cyan);\">\n        <strong class=\"hl-cyan\">1. Sau So sánh nhất</strong>\n        <div style=\"font-size: 0.9rem; margin-top: 4px; color: var(--text-secondary);\">\n            the best, the most efficient, the largest...\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-purple);\">\n        <strong class=\"hl-purple\">2. Sau Từ chỉ thứ tự / duy nhất</strong>\n        <div style=\"font-size: 0.9rem; margin-top: 4px; color: var(--text-secondary);\">\n            the first, the last, the only, the second...\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-pink);\">\n        <strong class=\"txt-pink\">3. Sau Đại từ bất định</strong>\n        <div style=\"font-size: 0.9rem; margin-top: 4px; color: var(--text-secondary);\">\n            something, anything, everything, nothing, all...\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-gold);\">\n        <strong style=\"color: var(--color-gold);\">4. Tiền ngữ gồm cả Người + Vật</strong>\n        <div style=\"font-size: 0.9rem; margin-top: 4px; color: var(--text-secondary);\">\n            the employees and equipment, the people and cars...\n        </div>\n    </div>\n</div>"
       },
       {
         "slide_index": 124,
         "title": "5. WHOSE (SỞ HỮU)",
         "is_html": true,
-        "html_content": "👉 noun + whose + noun<br><strong>EXAMPLE</strong><br>The boy <strong>whose bicycle you borrowed</strong> is Tom.<br>The boy <strong>whose parents died in that car accident </strong>was sent to live with his aunt."
+        "html_content": "<div class=\"suffix-header-badge badge-pink\"><i class=\"fa-solid fa-key\" style=\"margin-right: 6px;\"></i> 5. WHOSE (Đại từ chỉ sở hữu)</div>\n<div class=\"slide-callout callout-pink\">\n    <div style=\"font-size: 1.05rem; margin-bottom: 8px;\">\n        Đại từ quan hệ <code>WHOSE</code> dùng để chỉ quan hệ sở hữu cho cả <strong>người và vật</strong>:\n    </div>\n    <div style=\"margin-top: 8px;\"><span class=\"hl-box\">Noun [người/vật] + WHOSE + Noun + V...</span></div>\n    <div style=\"margin-top: 10px; font-size: 0.95rem; color: var(--text-secondary);\">\n        📌 <strong>Dấu hiệu vàng:</strong> Sau <code>whose</code> luôn là một <strong>DANH TỪ KHÔNG CÓ MẠO TỪ</strong> (không có a, an, the, my, his... phía trước).\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-pink);\">\n        The employee <strong class=\"txt-pink\">whose project was approved</strong> received a bonus.<br>\n        <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ whose project = dự án của nhân viên đó.</span>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-cyan);\">\n        The company <strong class=\"hl-cyan\">whose headquarters are in Tokyo</strong> expands globally.<br>\n        <span style=\"font-size: 0.85rem; color: var(--text-muted);\">→ whose headquarters = trụ sở của công ty đó.</span>\n    </div>\n</div>"
       },
       {
         "slide_index": 125,
         "title": "III. TRẠNG TỪ QUAN HỆ",
         "is_html": true,
-        "html_content": "<strong>1. </strong><strong>WHEN (THỜI GIAN) </strong>👉 = on / in / at which<br><strong>EX: </strong>I remember <strong>the day </strong><strong>when we met</strong>.<br><strong>2. </strong><strong>WHERE (NƠI CHỐN) </strong>👉 = in / at which<br><strong>EX: </strong>That is <strong>the house </strong><strong>where we used to live</strong>.<br><strong>3. </strong><strong>WHY (LÝ DO) </strong>👉 = for which<br><strong>EX: </strong>Tell me <strong>the reason </strong><strong>why you are late</strong>."
+        "html_content": "<div class=\"suffix-header-badge\"><i class=\"fa-solid fa-compass\" style=\"margin-right: 6px;\"></i> TRẠNG TỪ QUAN HỆ (WHEN, WHERE, WHY)</div>\n<div class=\"slide-grid-3\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-cyan);\">\n        <span class=\"slide-badge-cyan\">1. WHEN (Thời gian)</span>\n        <div style=\"font-size: 0.95rem; margin-top: 8px; font-family: monospace;\">= on / in / at which</div>\n        <div style=\"font-size: 0.88rem; color: var(--text-secondary); margin-top: 8px;\">\n            I remember the day <strong class=\"hl-cyan\">when</strong> we first met.\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-purple);\">\n        <span class=\"slide-badge-purple\">2. WHERE (Nơi chốn)</span>\n        <div style=\"font-size: 0.95rem; margin-top: 8px; font-family: monospace;\">= in / at which</div>\n        <div style=\"font-size: 0.88rem; color: var(--text-secondary); margin-top: 8px;\">\n            This is the office <strong class=\"hl-purple\">where</strong> we work.\n        </div>\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-top: 3px solid var(--color-gold);\">\n        <span class=\"slide-badge-gold\" style=\"color: var(--color-gold);\">3. WHY (Lý do)</span>\n        <div style=\"font-size: 0.95rem; margin-top: 8px; font-family: monospace;\">= for which</div>\n        <div style=\"font-size: 0.88rem; color: var(--text-secondary); margin-top: 8px;\">\n            Tell me the reason <strong style=\"color: var(--color-gold);\">why</strong> you were late.\n        </div>\n    </div>\n</div>"
       },
       {
         "slide_index": 126,
-        "title": "IV. RÚT GỌN ĐẠI TỪ QUAN HỆ",
+        "title": "IV. RÚT GỌN MỆNH ĐỀ QUAN HỆ: CHỦ ĐỘNG",
         "is_html": true,
-        "html_content": "<strong>1. DẠNG CHỦ ĐỘNG (V</strong><strong>ing</strong><strong>) 👉 Danh từ tự thực hiện hành động</strong><br>👉 <strong>Bỏ đại từ quan hệ, giữ V</strong><strong>ing</strong><br><strong>✔ EXAMPLE</strong><br>The girl <strong>who sits </strong>next to Peter is my neighbor’s daughter.<br>→ The girl <strong>sitting</strong> next to Peter is my neighbor’s daughter.t"
+        "html_content": "<div class=\"suffix-header-badge badge-green\"><i class=\"fa-solid fa-scissors\" style=\"margin-right: 6px;\"></i> RÚT GỌN MỆNH ĐỀ QUAN HỆ: DẠNG CHỦ ĐỘNG (V-ing)</div>\n<div class=\"slide-callout callout-green\">\n    <div style=\"font-size: 1.05rem; margin-bottom: 8px;\">\n        Khi đại từ quan hệ đóng vai trò là <strong>CHỦ NGỮ</strong> và động từ ở thể <strong>CHỦ ĐỘNG</strong> (danh từ tự thực hiện hành động):\n    </div>\n    <div style=\"margin-top: 8px;\"><span class=\"hl-box\">Noun + V-ing + (O)...</span></div>\n    <div style=\"margin-top: 8px; font-size: 0.95rem; color: var(--text-secondary);\">\n        👉 <strong>Cách làm:</strong> Lược bỏ đại từ quan hệ (who, which, that) và trợ động từ to be (nếu có), chuyển động từ chính về dạng <strong class=\"hl-green\">V-ing</strong>.\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-cyan);\">\n        The girl <span class=\"hl-cyan\">who sits</span> next to Peter is my neighbor.<br>\n        <i class=\"fa-solid fa-arrow-down\" style=\"color: var(--color-cyan); margin: 6px 0;\"></i><br>\n        → The girl <strong class=\"hl-cyan\">sitting</strong> next to Peter is my neighbor.\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-purple);\">\n        The technician <span class=\"hl-purple\">who repaired</span> the network left.<br>\n        <i class=\"fa-solid fa-arrow-down\" style=\"color: var(--color-purple); margin: 6px 0;\"></i><br>\n        → The technician <strong class=\"hl-purple\">repairing</strong> the network left.\n    </div>\n</div>"
       },
       {
         "slide_index": 127,
-        "title": "IV. RÚT GỌN ĐẠI TỪ QUAN HỆ",
+        "title": "IV. RÚT GỌN MỆNH ĐỀ QUAN HỆ: BỊ ĐỘNG",
         "is_html": true,
-        "html_content": "<strong>2. DẠNG BỊ ĐỘNG (V</strong><strong>3</strong><strong>ed</strong><strong>) 👉 Danh từ chịu tác động của hành động</strong><br>👉 <strong>Bỏ đại từ quan hệ, giữ V</strong><strong>3</strong><strong>ed</strong><br><strong>✔ EXAMPLE</strong><br>The book <strong>which is written </strong>by Hemingway is famous.<br>→ The book <strong>written</strong> by Hemingway is famous"
+        "html_content": "<div class=\"suffix-header-badge badge-pink\"><i class=\"fa-solid fa-scissors\" style=\"margin-right: 6px;\"></i> RÚT GỌN MỆNH ĐỀ QUAN HỆ: DẠNG BỊ ĐỘNG (V₃/ed)</div>\n<div class=\"slide-callout callout-pink\">\n    <div style=\"font-size: 1.05rem; margin-bottom: 8px;\">\n        Khi đại từ quan hệ đóng vai trò là <strong>CHỦ NGỮ</strong> và động từ ở thể <strong>BỊ ĐỘNG</strong> (danh từ chịu tác động của hành động):\n    </div>\n    <div style=\"margin-top: 8px;\"><span class=\"hl-box\">Noun + V₃/ed + [by O / Prep]...</span></div>\n    <div style=\"margin-top: 8px; font-size: 0.95rem; color: var(--text-secondary);\">\n        👉 <strong>Cách làm:</strong> Lược bỏ đại từ quan hệ (who, which, that) và động từ to be, chỉ giữ lại quá khứ phân từ <strong class=\"txt-pink\">V₃/ed</strong>.\n    </div>\n</div>\n<div class=\"slide-grid-2\" style=\"margin-top: 14px;\">\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-purple);\">\n        The report <span class=\"hl-purple\">which was submitted</span> yesterday is approved.<br>\n        <i class=\"fa-solid fa-arrow-down\" style=\"color: var(--color-purple); margin: 6px 0;\"></i><br>\n        → The report <strong class=\"hl-purple\">submitted</strong> yesterday is approved.\n    </div>\n    <div class=\"slide-card-premium\" style=\"border-left: 3px solid var(--color-pink);\">\n        The chemical solutions <span class=\"txt-pink\">which were tested</span> are safe.<br>\n        <i class=\"fa-solid fa-arrow-down\" style=\"color: var(--color-pink); margin: 6px 0;\"></i><br>\n        → The chemical solutions <strong class=\"txt-pink\">tested</strong> are safe.\n    </div>\n</div>"
       }
     ],
     "questions": [
@@ -3413,7 +3413,7 @@ const toeicReadingData = [
           "D": "whose"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. who</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống làm chủ ngữ cho động từ 'designed' trong mệnh đề quan hệ và đứng sau danh từ chỉ người 'The employee' nên ta dùng đại từ quan hệ 'who'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">who</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên người mà đã thiết kế trang web mới là một kỹ sư phần mềm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. who</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Chỗ trống làm chủ ngữ cho động từ <code>designed</code> trong mệnh đề quan hệ và đứng sau danh từ chỉ người <code>The employee</code> nên ta dùng đại từ quan hệ <code>who</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">who</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhân viên người mà đã thiết kế trang web mới là một kỹ sư phần mềm.</em>"
       },
       {
         "question": "The company ______ we signed the contract with is based in London.",
@@ -3424,7 +3424,7 @@ const toeicReadingData = [
           "D": "whose"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đóng vai trò làm tân ngữ của giới từ 'with' (hoặc đứng làm tân ngữ trực tiếp cho động từ 'signed' chỉ vật) đứng sau danh từ chỉ vật 'The company' nên dùng đại từ quan hệ 'which'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty mà chúng tôi đã ký hợp đồng với tọa lạc ở Luân Đôn.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đóng vai trò làm tân ngữ của giới từ <code>with</code> (hoặc đứng làm tân ngữ trực tiếp cho động từ <code>signed</code> chỉ vật) đứng sau danh từ chỉ vật <code>The company</code> nên dùng đại từ quan hệ <code>which</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty mà chúng tôi đã ký hợp đồng với tọa lạc ở Luân Đôn.</em>"
       },
       {
         "question": "Mr. Vance, ______ proposal was approved, is the marketing director.",
@@ -3435,7 +3435,7 @@ const toeicReadingData = [
           "D": "which"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whose</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'proposal' (bản đề xuất) để chỉ sự sở hữu (bản đề xuất của ông ấy) nên ta dùng đại từ quan hệ sở hữu 'whose'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whose</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Vance, người có bản đề xuất được chấp thuận, là giám đốc tiếp thị.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whose</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>proposal</code> (bản đề xuất) để chỉ sự sở hữu (bản đề xuất của ông ấy) nên ta dùng đại từ quan hệ sở hữu <code>whose</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whose</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ông Vance, người có bản đề xuất được chấp thuận, là giám đốc tiếp thị.</em>"
       },
       {
         "question": "The candidate ______ the manager interviewed yesterday was highly qualified.",
@@ -3446,7 +3446,7 @@ const toeicReadingData = [
           "D": "what"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng làm tân ngữ bổ nghĩa cho danh từ chỉ người 'The candidate' và trước chủ ngữ của mệnh đề quan hệ 'the manager' nên ta dùng đại từ quan hệ 'whom' (hoặc who/that). Trong các phương án, chọn 'whom'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ứng viên người mà người quản lý đã phỏng vấn ngày hôm qua có trình độ rất cao.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng làm tân ngữ bổ nghĩa cho danh từ chỉ người <code>The candidate</code> và trước chủ ngữ của mệnh đề quan hệ <code>the manager</code> nên ta dùng đại từ quan hệ <code>whom</code> (hoặc who/that). Trong các phương án, chọn <code>whom</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ứng viên người mà người quản lý đã phỏng vấn ngày hôm qua có trình độ rất cao.</em>"
       },
       {
         "question": "The office building ______ I work is located near the central station.",
@@ -3457,7 +3457,7 @@ const toeicReadingData = [
           "D": "why"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. where</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho cụm trạng ngữ chỉ nơi chốn (in/at the office building) đứng sau danh từ địa điểm nên ta dùng trạng từ quan hệ 'where'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">where</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà văn phòng nơi tôi làm việc được tọa lạc gần ga trung tâm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. where</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho cụm trạng ngữ chỉ nơi chốn (in/at the office building) đứng sau danh từ địa điểm nên ta dùng trạng từ quan hệ <code>where</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">where</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà văn phòng nơi tôi làm việc được tọa lạc gần ga trung tâm.</em>"
       },
       {
         "question": "We will never forget the day ______ our company went public.",
@@ -3468,7 +3468,7 @@ const toeicReadingData = [
           "D": "when"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. when</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho trạng ngữ chỉ thời gian (on that day) đứng sau danh từ thời gian 'the day' nên dùng trạng từ quan hệ 'when'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">when</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi sẽ không bao giờ quên ngày mà công ty chúng tôi lên sàn chứng khoán.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. when</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho trạng ngữ chỉ thời gian (on that day) đứng sau danh từ thời gian <code>the day</code> nên dùng trạng từ quan hệ <code>when</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">when</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi sẽ không bao giờ quên ngày mà công ty chúng tôi lên sàn chứng khoán.</em>"
       },
       {
         "question": "The reason ______ the shipment was delayed remains unclear.",
@@ -3479,7 +3479,7 @@ const toeicReadingData = [
           "D": "when"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. why</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ lý do 'The reason' để chỉ nguyên nhân của sự việc ở mệnh đề sau nên dùng trạng từ quan hệ 'why'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">why</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lý do tại sao lô hàng bị trì hoãn vẫn chưa rõ ràng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. why</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ lý do <code>The reason</code> để chỉ nguyên nhân của sự việc ở mệnh đề sau nên dùng trạng từ quan hệ <code>why</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">why</strong>.<br><br><strong>Dịch câu:</strong><br><em>Lý do tại sao lô hàng bị trì hoãn vẫn chưa rõ ràng.</em>"
       },
       {
         "question": "The manager invited the clients, all of ______ were very impressed.",
@@ -3490,7 +3490,7 @@ const toeicReadingData = [
           "D": "whose"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm định lượng kết hợp giới từ 'all of' để thay thế cho danh từ chỉ người 'the clients' làm tân ngữ nên bắt buộc dùng 'whom'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã mời các khách hàng, tất cả họ đều rất bị ấn tượng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm định lượng kết hợp giới từ <code>all of</code> để thay thế cho danh từ chỉ người <code>the clients</code> làm tân ngữ nên bắt buộc dùng <code>whom</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã mời các khách hàng, tất cả họ đều rất bị ấn tượng.</em>"
       },
       {
         "question": "The products ______ are manufactured in this factory are for export only.",
@@ -3501,7 +3501,7 @@ const toeicReadingData = [
           "D": "that"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ vật số nhiều 'The products' làm chủ ngữ cho động từ 'are manufactured' nên ta dùng đại từ quan hệ 'that' (hoặc which). Trong các phương án, chọn 'that'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">that</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các sản phẩm mà được sản xuất trong nhà máy này chỉ dành cho xuất khẩu.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ vật số nhiều <code>The products</code> làm chủ ngữ cho động từ <code>are manufactured</code> nên ta dùng đại từ quan hệ <code>that</code> (hoặc which). Trong các phương án, chọn <code>that</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">that</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các sản phẩm mà được sản xuất trong nhà máy này chỉ dành cho xuất khẩu.</em>"
       },
       {
         "question": "We have database files, many of ______ are extremely confidential.",
@@ -3512,7 +3512,7 @@ const toeicReadingData = [
           "D": "whose"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm định lượng kết hợp giới từ 'many of' để thay thế cho danh từ chỉ vật 'database files' nên bắt buộc dùng 'which'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi có các tệp cơ sở dữ liệu, nhiều tệp trong số đó cực kỳ bảo mật.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm định lượng kết hợp giới từ <code>many of</code> để thay thế cho danh từ chỉ vật <code>database files</code> nên bắt buộc dùng <code>which</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi có các tệp cơ sở dữ liệu, nhiều tệp trong số đó cực kỳ bảo mật.</em>"
       },
       {
         "question": "The supervisor wants to speak with the technician ______ repaired the server.",
@@ -3523,7 +3523,7 @@ const toeicReadingData = [
           "D": "whose"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. who</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ người 'the technician' và làm chủ ngữ cho động từ 'repaired' nên dùng đại từ quan hệ 'who'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">who</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát muốn nói chuyện với kỹ thuật viên người mà đã sửa chữa máy chủ.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. who</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ người <code>the technician</code> và làm chủ ngữ cho động từ <code>repaired</code> nên dùng đại từ quan hệ <code>who</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">who</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát muốn nói chuyện với kỹ thuật viên người mà đã sửa chữa máy chủ.</em>"
       },
       {
         "question": "The presentations ______ by the interns were surprisingly professional.",
@@ -3534,7 +3534,7 @@ const toeicReadingData = [
           "D": "gave"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. given</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng bị động (which were given by the interns) -> rút gọn còn động từ phân từ 2 'given'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">given</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các bài thuyết trình được trình bày bởi các thực tập sinh chuyên nghiệp một cách ngạc nhiên.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. given</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng bị động (which were given by the interns) → rút gọn còn động từ phân từ 2 <code>given</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">given</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các bài thuyết trình được trình bày bởi các thực tập sinh chuyên nghiệp một cách ngạc nhiên.</em>"
       },
       {
         "question": "The representative ______ our products at the exhibition is Mr. Davis.",
@@ -3545,7 +3545,7 @@ const toeicReadingData = [
           "D": "presented"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. presenting</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng chủ động (who is presenting / who presents our products) -> rút gọn thành dạng động từ đuôi '-ing' là 'presenting'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">presenting</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người đại diện giới thiệu các sản phẩm của chúng tôi tại buổi triển lãm là ông Davis.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. presenting</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng chủ động (who is presenting / who presents our products) → rút gọn thành dạng động từ đuôi <code>-ing</code> là <code>presenting</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">presenting</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người đại diện giới thiệu các sản phẩm của chúng tôi tại buổi triển lãm là ông Davis.</em>"
       },
       {
         "question": "The conference ______ was scheduled for next week has been postponed.",
@@ -3556,7 +3556,7 @@ const toeicReadingData = [
           "D": "which"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ vật 'The conference' làm chủ ngữ cho động từ 'was scheduled' nên dùng đại từ quan hệ 'which' (hoặc that).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hội nghị mà được lên lịch vào tuần tới đã bị hoãn lại.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ vật <code>The conference</code> làm chủ ngữ cho động từ <code>was scheduled</code> nên dùng đại từ quan hệ <code>which</code> (hoặc that).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hội nghị mà được lên lịch vào tuần tới đã bị hoãn lại.</em>"
       },
       {
         "question": "We visited the laboratory ______ new chemicals are being tested.",
@@ -3567,7 +3567,7 @@ const toeicReadingData = [
           "D": "whose"
         },
         "answer": "C",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. where</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho cụm trạng ngữ chỉ nơi chốn (in the laboratory) đứng sau danh từ nơi chốn nên dùng trạng từ quan hệ 'where'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">where</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đã đến thăm phòng thí nghiệm nơi các chất hóa học mới đang được thử nghiệm.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. where</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho cụm trạng ngữ chỉ nơi chốn (in the laboratory) đứng sau danh từ nơi chốn nên dùng trạng từ quan hệ <code>where</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">where</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi đã đến thăm phòng thí nghiệm nơi các chất hóa học mới đang được thử nghiệm.</em>"
       },
       {
         "question": "The employee ______ parking permit had expired was fined.",
@@ -3578,7 +3578,7 @@ const toeicReadingData = [
           "D": "which"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whose</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'parking permit' (giấy phép đỗ xe) để chỉ sự sở hữu của người nhân viên đứng trước nên dùng đại từ quan hệ 'whose'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whose</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người nhân viên có giấy phép đỗ xe đã hết hạn đã bị phạt.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whose</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>parking permit</code> (giấy phép đỗ xe) để chỉ sự sở hữu của người nhân viên đứng trước nên dùng đại từ quan hệ <code>whose</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whose</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người nhân viên có giấy phép đỗ xe đã hết hạn đã bị phạt.</em>"
       },
       {
         "question": "The marketing strategies ______ by the consultant were very effective.",
@@ -3589,7 +3589,7 @@ const toeicReadingData = [
           "D": "suggested"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. suggested</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng bị động (which were suggested by the consultant) -> rút gọn còn động từ phân từ 2 'suggested'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">suggested</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các chiến lược tiếp thị được đề xuất bởi cố vấn đã rất hiệu quả.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. suggested</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng bị động (which were suggested by the consultant) → rút gọn còn động từ phân từ 2 <code>suggested</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">suggested</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các chiến lược tiếp thị được đề xuất bởi cố vấn đã rất hiệu quả.</em>"
       },
       {
         "question": "The building in ______ the exhibition is held is currently under renovation.",
@@ -3600,7 +3600,7 @@ const toeicReadingData = [
           "D": "that"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ 'in' để thay thế cho danh từ chỉ vật 'the building' nên bắt buộc dùng 'which'. (Lưu ý không dùng that hoặc where ngay sau giới từ).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà nơi triển lãm được tổ chức hiện đang được cải tạo.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ <code>in</code> để thay thế cho danh từ chỉ vật <code>the building</code> nên bắt buộc dùng <code>which</code>. (Lưu ý không dùng that hoặc where ngay sau giới từ).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà nơi triển lãm được tổ chức hiện đang được cải tạo.</em>"
       },
       {
         "question": "Do you know the woman ______ our department head is talking to?",
@@ -3611,7 +3611,7 @@ const toeicReadingData = [
           "D": "whom"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng làm tân ngữ bổ nghĩa cho danh từ chỉ người 'the woman' (là tân ngữ của giới từ to ở cuối mệnh đề quan hệ) nên dùng đại từ quan hệ 'whom' (hoặc who/that).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bạn có biết người phụ nữ mà trưởng bộ phận của chúng ta đang nói chuyện cùng không?</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng làm tân ngữ bổ nghĩa cho danh từ chỉ người <code>the woman</code> (là tân ngữ của giới từ to ở cuối mệnh đề quan hệ) nên dùng đại từ quan hệ <code>whom</code> (hoặc who/that).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bạn có biết người phụ nữ mà trưởng bộ phận của chúng ta đang nói chuyện cùng không?</em>"
       },
       {
         "question": "The customer ______ wallet was found in the lobby has been contacted.",
@@ -3622,20 +3622,20 @@ const toeicReadingData = [
           "D": "which"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whose</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ chỉ vật sở hữu 'wallet' (ví tiền) đứng sau danh từ chỉ người nên dùng đại từ quan hệ 'whose'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whose</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng có chiếc ví được tìm thấy ở sảnh đã được liên hệ.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whose</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ chỉ vật sở hữu <code>wallet</code> (ví tiền) đứng sau danh từ chỉ người nên dùng đại từ quan hệ <code>whose</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whose</strong>.<br><br><strong>Dịch câu:</strong><br><em>Khách hàng có chiếc ví được tìm thấy ở sảnh đã được liên hệ.</em>"
       }
     ],
     "homework": [
       {
         "question": "The computer system ______ controls the assembly line needs an update.",
         "options": {
-          "A": "which",
+          "A": "whom",
           "B": "who",
-          "C": "whom",
+          "C": "which",
           "D": "whose"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ vật 'The computer system' làm chủ ngữ cho động từ 'controls' nên dùng đại từ quan hệ 'which' (hoặc that).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hệ thống máy tính mà điều khiển dây chuyền lắp ráp cần có một bản cập nhật.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ vật <code>The computer system</code> làm chủ ngữ cho động từ <code>controls</code> nên dùng đại từ quan hệ <code>which</code> (hoặc that).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hệ thống máy tính mà điều khiển dây chuyền lắp ráp cần có một bản cập nhật.</em>"
       },
       {
         "question": "The technician ______ the company hired last week has already fixed the error.",
@@ -3646,29 +3646,29 @@ const toeicReadingData = [
           "D": "what"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng làm tân ngữ bổ nghĩa cho danh từ chỉ người 'The technician' đứng sau chủ ngữ 'the company' của mệnh đề quan hệ nên ta dùng đại từ quan hệ 'whom' (hoặc who/that).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên người mà công ty thuê tuần trước đã sửa xong lỗi rồi.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng làm tân ngữ bổ nghĩa cho danh từ chỉ người <code>The technician</code> đứng sau chủ ngữ <code>the company</code> của mệnh đề quan hệ nên ta dùng đại từ quan hệ <code>whom</code> (hoặc who/that).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Kỹ thuật viên người mà công ty thuê tuần trước đã sửa xong lỗi rồi.</em>"
       },
       {
         "question": "The supervisor called a meeting of the staff, many of ______ were absent.",
         "options": {
-          "A": "whom",
+          "A": "whose",
           "B": "who",
           "C": "which",
-          "D": "whose"
+          "D": "whom"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm định lượng kết hợp giới từ 'many of' để thay thế cho danh từ chỉ người 'the staff' nên bắt buộc dùng đại từ quan hệ 'whom'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã gọi một cuộc họp nhân viên, nhiều người trong số họ đã vắng mặt.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm định lượng kết hợp giới từ <code>many of</code> để thay thế cho danh từ chỉ người <code>the staff</code> nên bắt buộc dùng đại từ quan hệ <code>whom</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người giám sát đã gọi một cuộc họp nhân viên, nhiều người trong số họ đã vắng mặt.</em>"
       },
       {
         "question": "The design team is working on a project ______ details are kept secret.",
         "options": {
-          "A": "whose",
-          "B": "which",
+          "A": "which",
+          "B": "whose",
           "C": "who",
           "D": "that"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whose</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'details' (các chi tiết) chỉ sự sở hữu của danh từ chỉ vật 'project' đứng trước nên dùng đại từ quan hệ sở hữu 'whose'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whose</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm thiết kế đang làm việc trên một dự án mà các chi tiết của nó được giữ bí mật.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. whose</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>details</code> (các chi tiết) chỉ sự sở hữu của danh từ chỉ vật <code>project</code> đứng trước nên dùng đại từ quan hệ sở hữu <code>whose</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whose</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhóm thiết kế đang làm việc trên một dự án mà các chi tiết của nó được giữ bí mật.</em>"
       },
       {
         "question": "The restaurant ______ we had the business lunch is famous for its seafood.",
@@ -3679,62 +3679,62 @@ const toeicReadingData = [
           "D": "why"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. where</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho cụm trạng ngữ chỉ nơi chốn (at/in the restaurant) đứng sau danh từ nơi chốn nên dùng trạng từ quan hệ 'where'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">where</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhà hàng nơi chúng tôi có bữa trưa công việc nổi tiếng với hải sản.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. where</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho cụm trạng ngữ chỉ nơi chốn (at/in the restaurant) đứng sau danh từ nơi chốn nên dùng trạng từ quan hệ <code>where</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">where</strong>.<br><br><strong>Dịch câu:</strong><br><em>Nhà hàng nơi chúng tôi có bữa trưa công việc nổi tiếng với hải sản.</em>"
       },
       {
         "question": "The system administrator fixed the server issue, ______ saved us hours of work.",
         "options": {
-          "A": "which",
+          "A": "that",
           "B": "who",
-          "C": "that",
+          "C": "which",
           "D": "whom"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau dấu phẩy để thay thế cho toàn bộ mệnh đề đứng trước (việc sửa máy chủ cứu chúng ta hàng giờ làm việc) làm chủ ngữ nên dùng đại từ quan hệ 'which'. (Lưu ý không dùng that sau dấu phẩy).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Quản trị viên hệ thống đã sửa lỗi máy chủ, điều này đã giúp chúng tôi tiết kiệm hàng giờ làm việc.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau dấu phẩy để thay thế cho toàn bộ mệnh đề đứng trước (việc sửa máy chủ cứu chúng ta hàng giờ làm việc) làm chủ ngữ nên dùng đại từ quan hệ <code>which</code>. (Lưu ý không dùng that sau dấu phẩy).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Quản trị viên hệ thống đã sửa lỗi máy chủ, điều này đã giúp chúng tôi tiết kiệm hàng giờ làm việc.</em>"
       },
       {
         "question": "Please tell me the time ______ the shipment will arrive at the warehouse.",
         "options": {
-          "A": "when",
-          "B": "where",
+          "A": "where",
+          "B": "when",
           "C": "which",
           "D": "whose"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. when</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho trạng ngữ chỉ thời gian (at that time) đứng sau danh từ thời gian 'the time' nên dùng trạng từ quan hệ 'when'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">when</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng cho tôi biết thời gian khi lô hàng sẽ đến kho.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. when</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Thay thế cho trạng ngữ chỉ thời gian (at that time) đứng sau danh từ thời gian <code>the time</code> nên dùng trạng từ quan hệ <code>when</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">when</strong>.<br><br><strong>Dịch câu:</strong><br><em>Vui lòng cho tôi biết thời gian khi lô hàng sẽ đến kho.</em>"
       },
       {
         "question": "The applicant ______ resume was submitted yesterday is highly qualified.",
         "options": {
-          "A": "whose",
+          "A": "which",
           "B": "who",
           "C": "whom",
-          "D": "which"
+          "D": "whose"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whose</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'resume' (sơ yếu lý lịch) để chỉ sự sở hữu của danh từ người đứng trước nên dùng đại từ quan hệ 'whose'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whose</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ứng viên có sơ yếu lý lịch được nộp ngày hôm qua có trình độ rất cao.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. whose</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>resume</code> (sơ yếu lý lịch) để chỉ sự sở hữu của danh từ người đứng trước nên dùng đại từ quan hệ <code>whose</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whose</strong>.<br><br><strong>Dịch câu:</strong><br><em>Ứng viên có sơ yếu lý lịch được nộp ngày hôm qua có trình độ rất cao.</em>"
       },
       {
         "question": "The chemical solutions ______ by the scientists are dangerous.",
         "options": {
-          "A": "tested",
+          "A": "testing",
           "B": "test",
-          "C": "testing",
+          "C": "tested",
           "D": "tests"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. tested</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng bị động (which were tested by the scientists) -> rút gọn còn động từ phân từ 2 'tested'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">tested</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các dung dịch hóa chất được thử nghiệm bởi các nhà khoa học rất nguy hiểm.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. tested</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng bị động (which were tested by the scientists) → rút gọn còn động từ phân từ 2 <code>tested</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">tested</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các dung dịch hóa chất được thử nghiệm bởi các nhà khoa học rất nguy hiểm.</em>"
       },
       {
         "question": "The people ______ in the lobby are waiting for the job interview.",
         "options": {
-          "A": "waiting",
-          "B": "wait",
+          "A": "wait",
+          "B": "waiting",
           "C": "waited",
           "D": "waits"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. waiting</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng chủ động (who are waiting in the lobby) -> rút gọn thành dạng động từ đuôi '-ing' là 'waiting'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">waiting</strong>.<br><br><strong>Dịch câu:</strong><br><em>Những người đang đợi ở sảnh đang chờ cuộc phỏng vấn xin việc.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. waiting</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng chủ động (who are waiting in the lobby) → rút gọn thành dạng động từ đuôi <code>-ing</code> là <code>waiting</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">waiting</strong>.<br><br><strong>Dịch câu:</strong><br><em>Những người đang đợi ở sảnh đang chờ cuộc phỏng vấn xin việc.</em>"
       },
       {
         "question": "The target ______ the sales department set was extremely high.",
@@ -3745,40 +3745,40 @@ const toeicReadingData = [
           "D": "whose"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ vật 'The target' làm tân ngữ cho động từ 'set' nên dùng đại từ quan hệ 'that' (hoặc which).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">that</strong>.<br><br><strong>Dịch câu:</strong><br><em>Mục tiêu mà bộ phận bán hàng đặt ra là cực kỳ cao.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ vật <code>The target</code> làm tân ngữ cho động từ <code>set</code> nên dùng đại từ quan hệ <code>that</code> (hoặc which).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">that</strong>.<br><br><strong>Dịch câu:</strong><br><em>Mục tiêu mà bộ phận bán hàng đặt ra là cực kỳ cao.</em>"
       },
       {
         "question": "The company has a large warehouse in ______ raw materials are stored.",
         "options": {
-          "A": "which",
+          "A": "whom",
           "B": "where",
           "C": "that",
-          "D": "whom"
+          "D": "which"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ 'in' để thay thế cho danh từ chỉ vật 'warehouse' làm trạng ngữ nơi chốn nên dùng đại từ quan hệ 'which'. (Lưu ý không dùng that hoặc where ngay sau giới từ).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty có một kho hàng lớn nơi nguyên liệu thô được lưu trữ.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau giới từ <code>in</code> để thay thế cho danh từ chỉ vật <code>warehouse</code> làm trạng ngữ nơi chốn nên dùng đại từ quan hệ <code>which</code>. (Lưu ý không dùng that hoặc where ngay sau giới từ).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty có một kho hàng lớn nơi nguyên liệu thô được lưu trữ.</em>"
       },
       {
         "question": "The manager congratulated the employee ______ project won the award.",
+        "options": {
+          "A": "who",
+          "B": "whose",
+          "C": "whom",
+          "D": "which"
+        },
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. whose</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ <code>project</code> để chỉ sự sở hữu của người nhân viên đứng trước nên dùng đại từ quan hệ <code>whose</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whose</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã chúc mừng người nhân viên có dự án giành được giải thưởng.</em>"
+      },
+      {
+        "question": "We cannot identify the source of the problem ______ is affecting our network.",
         "options": {
           "A": "whose",
           "B": "who",
           "C": "whom",
           "D": "which"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whose</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng trước danh từ 'project' để chỉ sự sở hữu của người nhân viên đứng trước nên dùng đại từ quan hệ 'whose'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whose</strong>.<br><br><strong>Dịch câu:</strong><br><em>Người quản lý đã chúc mừng người nhân viên có dự án giành được giải thưởng.</em>"
-      },
-      {
-        "question": "We cannot identify the source of the problem ______ is affecting our network.",
-        "options": {
-          "A": "which",
-          "B": "who",
-          "C": "whom",
-          "D": "whose"
-        },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ vật 'the problem' làm chủ ngữ cho động từ 'is affecting' nên dùng đại từ quan hệ 'which' (hoặc that).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi không thể xác định nguồn gốc của vấn đề đang ảnh hưởng đến mạng của chúng tôi.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ vật <code>the problem</code> làm chủ ngữ cho động từ <code>is affecting</code> nên dùng đại từ quan hệ <code>which</code> (hoặc that).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Chúng tôi không thể xác định nguồn gốc của vấn đề đang ảnh hưởng đến mạng của chúng tôi.</em>"
       },
       {
         "question": "The executive director, ______ we met yesterday, was very friendly.",
@@ -3789,29 +3789,29 @@ const toeicReadingData = [
           "D": "whose"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng làm tân ngữ bổ nghĩa cho danh từ chỉ người 'The executive director' sau dấu phẩy nên dùng đại từ quan hệ 'whom' (hoặc who).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc điều hành, người mà chúng tôi đã gặp ngày hôm qua, rất thân thiện.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. whom</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng làm tân ngữ bổ nghĩa cho danh từ chỉ người <code>The executive director</code> sau dấu phẩy nên dùng đại từ quan hệ <code>whom</code> (hoặc who).<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">whom</strong>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc điều hành, người mà chúng tôi đã gặp ngày hôm qua, rất thân thiện.</em>"
       },
       {
         "question": "The office building has several conference rooms, all of ______ have projectors.",
         "options": {
-          "A": "which",
+          "A": "who",
           "B": "whom",
-          "C": "who",
+          "C": "which",
           "D": "whose"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm định lượng kết hợp giới từ 'all of' để thay thế cho danh từ chỉ vật số nhiều 'conference rooms' nên dùng 'which'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà văn phòng có vài phòng hội nghị, tất cả các phòng đó đều có máy chiếu.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. which</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau cụm định lượng kết hợp giới từ <code>all of</code> để thay thế cho danh từ chỉ vật số nhiều <code>conference rooms</code> nên dùng <code>which</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">which</strong>.<br><br><strong>Dịch câu:</strong><br><em>Tòa nhà văn phòng có vài phòng hội nghị, tất cả các phòng đó đều có máy chiếu.</em>"
       },
       {
         "question": "This is the reason ______ the company decided to change its brand logo.",
         "options": {
-          "A": "why",
-          "B": "which",
+          "A": "which",
+          "B": "why",
           "C": "where",
           "D": "when"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. why</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ lý do 'the reason' để dẫn dắt mệnh đề chỉ nguyên nhân nên dùng trạng từ quan hệ 'why'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">why</strong>.<br><br><strong>Dịch câu:</strong><br><em>Đây là lý do tại sao công ty quyết định thay đổi logo thương hiệu của mình.</em>"
+        "answer": "B",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. why</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ lý do <code>the reason</code> để dẫn dắt mệnh đề chỉ nguyên nhân nên dùng trạng từ quan hệ <code>why</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">why</strong>.<br><br><strong>Dịch câu:</strong><br><em>Đây là lý do tại sao công ty quyết định thay đổi logo thương hiệu của mình.</em>"
       },
       {
         "question": "The candidates ______ for the training program must attend the orientation.",
@@ -3822,29 +3822,29 @@ const toeicReadingData = [
           "D": "selects"
         },
         "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. selected</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng bị động (who are selected for the program) -> rút gọn còn động từ phân từ 2 'selected'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">selected</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các ứng viên được chọn cho chương trình đào tạo phải tham dự buổi định hướng.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. selected</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng bị động (who are selected for the program) → rút gọn còn động từ phân từ 2 <code>selected</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">selected</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các ứng viên được chọn cho chương trình đào tạo phải tham dự buổi định hướng.</em>"
       },
       {
         "question": "The legal firm is looking for an attorney ______ specializes in corporate law.",
         "options": {
-          "A": "who",
+          "A": "whose",
           "B": "whom",
           "C": "which",
-          "D": "whose"
+          "D": "who"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. who</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ người 'an attorney' làm chủ ngữ cho động từ 'specializes' nên dùng đại từ quan hệ 'who'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">who</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty luật đang tìm kiếm một luật sư người mà chuyên về luật doanh nghiệp.</em>"
+        "answer": "D",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. who</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Đứng sau danh từ chỉ người <code>an attorney</code> làm chủ ngữ cho động từ <code>specializes</code> nên dùng đại từ quan hệ <code>who</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">who</strong>.<br><br><strong>Dịch câu:</strong><br><em>Công ty luật đang tìm kiếm một luật sư người mà chuyên về luật doanh nghiệp.</em>"
       },
       {
         "question": "The documents ______ by the secretary are ready for the manager's signature.",
         "options": {
-          "A": "prepared",
+          "A": "preparing",
           "B": "prepare",
-          "C": "preparing",
+          "C": "prepared",
           "D": "prepares"
         },
-        "answer": "A",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. prepared</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng bị động (which were prepared by the secretary) -> rút gọn còn động từ phân từ 2 'prepared'.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">prepared</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các tài liệu được chuẩn bị bởi thư ký đã sẵn sàng cho chữ ký của người quản lý.</em>"
+        "answer": "C",
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. prepared</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc rút gọn mệnh đề quan hệ ở dạng bị động (which were prepared by the secretary) → rút gọn còn động từ phân từ 2 <code>prepared</code>.<br>- Do đó, ta chọn phương án <strong class=\"hl-vocab\">prepared</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các tài liệu được chuẩn bị bởi thư ký đã sẵn sàng cho chữ ký của người quản lý.</em>"
       }
     ]
   },
