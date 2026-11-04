@@ -1081,7 +1081,7 @@
    * NGÂN HÀNG CÂU HỎI TRẮC NGHIỆM VSTEP CHUẨN THỰC CHIẾN
    * Phân chia chính xác theo 4 chuyên đề thực tế của Cô Nguyệt.
    */
-  const EXAM_QUIZ_QUESTIONS = [,
+  const EXAM_QUIZ_QUESTIONS = [
 {
   "id": "toeic-q1",
   "category": "toeic-grammar",
@@ -1285,7 +1285,7 @@
   ],
   "answer": 2,
   "explain": "Đại từ phản thân 'herself' đứng cuối mệnh đề để nhấn mạnh chính chủ ngữ tự mình làm hành động đó: 'Đích thân tổng giám đốc đã đi thanh tra cơ sở sản xuất mới'."
-}
+  },
   {
     "id": "bm-off-1",
     "category": "benefit-matrix",
