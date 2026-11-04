@@ -10,6 +10,7 @@
     
     <!-- Custom Style Sheet -->
     <link rel="stylesheet" href="css/style.css?v=8">
+    <link rel="stylesheet" href="flower_garden.css">
 </head>
 <body>
 
@@ -32,10 +33,16 @@
         <!-- Sidebar Navigation -->
         <aside class="sidebar" id="sidebar">
             <div class="sidebar-header">
-                <div class="sidebar-logo">
-                    <div class="logo-icon">N</div>
-                    <span>TOEIC READING</span>
-                </div>
+                <a href="https://www.facebook.com/nguyetpham28" target="_blank" rel="noopener noreferrer" class="sidebar-brand-box" title="Ghé thăm Facebook: English with Miss Nguyet" style="text-decoration: none; display: flex; align-items: center; gap: 12px; width: 100%;">
+                    <div class="sidebar-avatar-wrap" style="position: relative; flex-shrink: 0;">
+                        <img src="miss_nguyet.jpg" alt="Miss Nguyet" style="width: 44px; height: 44px; border-radius: 50%; object-fit: cover; object-position: center 20%; border: 2px solid #6366f1; box-shadow: 0 0 10px rgba(99, 102, 241, 0.4); display: block;">
+                        <span style="position: absolute; bottom: 1px; right: 1px; width: 10px; height: 10px; border-radius: 50%; background: #10b981; border: 2px solid #fff;"></span>
+                    </div>
+                    <div style="display: flex; flex-direction: column; text-align: left; overflow: hidden;">
+                        <div style="font-size: 0.95rem; font-weight: 800; color: #ffffff; white-space: nowrap;">TOEIC READING</div>
+                        <div style="font-size: 0.72rem; font-weight: 700; color: #a5b4fc; letter-spacing: 0.04em; text-transform: uppercase; white-space: nowrap;">ENGLISH WITH MISS NGUYET</div>
+                    </div>
+                </a>
                 <button class="toggle-sidebar-btn" id="toggleSidebarBtn">
                     <i class="fa-solid fa-angles-left" id="toggleIcon"></i>
                 </button>
@@ -145,6 +152,75 @@
                             </a>
                         </div>
                     </div>
+                
+                    <!-- CHẬU HOA MAY MẮN TOEIC -->
+                    <div class="home-card garden-container" id="garden-container" style="margin-top: 24px; background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(12px); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 20px;">
+                        <div class="garden-header-row">
+                            <h3 id="garden-title-heading">🍀 Chậu Cây May Mắn Của <span class="garden-student-name-tag" id="garden-student-name" title="Bấm để đổi tên học viên của bạn">Bạn <i class="fa-solid fa-pen-to-square edit-name-pen-icon"></i></span></h3>
+                            <div class="garden-header-actions">
+                                <button class="btn btn-secondary btn-small btn-switch-seed" id="btn-open-seed-modal" title="Chọn hạt giống hoa">
+                                    <span id="btn-seed-icon">🌻</span> Đổi Hoa
+                                </button>
+                                <div class="garden-water-pill" id="garden-water-pill" title="Giọt Nước Nỗ Lực">
+                                    <span class="water-pill-icon">💧</span>
+                                    <span class="water-pill-count" id="garden-water-count">35</span>
+                                    <button class="water-pill-add-btn" id="btn-open-earn-water" title="Kiếm thêm nước tưới">+</button>
+                                </div>
+                                <div class="garden-sun-pill" id="garden-sun-pill" title="Tia Nắng Nỗ Lực">
+                                    <span class="sun-pill-icon">☀️</span>
+                                    <span class="sun-pill-count" id="garden-sun-count">35</span>
+                                    <button class="sun-pill-add-btn" id="btn-open-earn-sun" title="Kiếm thêm tia nắng hoặc quy đổi">+</button>
+                                </div>
+                                <button class="btn btn-secondary btn-small" id="btn-open-flower-basket" title="Xem giỏ hoa & kho thông điệp ôn thi">
+                                    <span id="header-basket-icon">🍀</span> <span id="garden-harvest-count">0</span>
+                                </button>
+                            </div>
+                        </div>
+                        <p class="garden-subtitle" id="garden-subtitle">Tích lũy nước & nắng nỗ lực mỗi ngày để vun trồng Cây May Mắn & đón nhận thông điệp ôn thi TOEIC! 🍀✨</p>
+
+                        <!-- Garden Stage -->
+                        <div class="garden-stage" id="garden-stage" title="Bấm vào cây để truyền yêu thương!">
+                            <div class="garden-weather-glow" id="garden-weather-glow"></div>
+                            <div class="garden-floating-particles" id="garden-floating-particles"></div>
+                            <div class="garden-sun-rays" id="garden-sun-rays">☀️</div>
+                            <div class="garden-watering-can" id="garden-watering-can">
+                                <span class="watering-can-emoji">🪴</span>
+                                <div class="water-drops"><span>💧</span><span>💧</span><span>💧</span></div>
+                            </div>
+                            <div class="garden-pot-wrapper" id="garden-pot-wrapper"></div>
+                        </div>
+
+                        <!-- Flower Info & Growth Progress -->
+                        <div class="garden-info-panel">
+                            <div class="garden-flower-name-row">
+                                <span class="garden-flower-name" id="garden-flower-name">🍀 Cỏ 4 Lá May Mắn</span>
+                                <span class="garden-stage-badge" id="garden-stage-badge">🌱 Đang Nảy Mầm</span>
+                            </div>
+                            <div class="garden-progress-wrapper">
+                                <div class="garden-progress-bar">
+                                    <div class="garden-progress-fill" id="garden-progress-fill" style="width: 0%;"></div>
+                                </div>
+                                <span class="garden-progress-text" id="garden-progress-text">0%</span>
+                            </div>
+                        </div>
+
+                        <!-- Action Buttons -->
+                        <div class="garden-actions-row">
+                            <button class="btn btn-primary garden-btn garden-btn-water" id="btn-water-flower">
+                                <span class="action-icon">💧</span> Tưới Nước (-5💧)
+                            </button>
+                            <button class="btn btn-accent garden-btn garden-btn-sun" id="btn-sun-flower">
+                                <span class="action-icon">☀️</span> Tắm Nắng (-5☀️)
+                            </button>
+                            <button class="btn btn-primary garden-btn garden-btn-harvest-cta pulse-glow" id="btn-harvest-flower" style="display: none;">
+                                <span class="action-icon">🍀</span> THU HOẠCH & NHẬN THÔNG ĐIỆP TOEIC! ✨
+                            </button>
+                            <button class="btn btn-secondary btn-small garden-btn garden-btn-quiz" id="btn-quiz-flower" title="Làm câu hỏi trắc nghiệm ôn thi">
+                                <span class="action-icon">🎯</span> Đố Vui Ôn Thi TOEIC <span class="action-gain-tag">+10💧 & +10☀️</span>
+                            </button>
+                        </div>
+                    </div>
+
                 </section>
 
                 <!-- 2. Chapter Dashboard View -->
@@ -360,5 +436,8 @@
     
     <!-- Application Logic JS -->
     <script src="js/app.js?v=8"></script>
+    <!-- Flower Garden for TOEIC -->
+    <script src="flower_definitions.js"></script>
+    <script src="flower_garden.js"></script>
 </body>
 </html>
