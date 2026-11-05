@@ -357,7 +357,15 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function isThuTrangStudent(name) {
-        return normalizeVietnameseName(name) === 'pham thi thu trang';
+        const norm = normalizeVietnameseName(name);
+        return norm === 'pham thi thu trang' || norm === 'thu trang';
+    }
+
+    function isCatyOrNhiStudent(name) {
+        const norm = normalizeVietnameseName(name);
+        if (!norm) return false;
+        const words = norm.split(' ');
+        return norm === 'caty' || norm === 'nhi' || words.includes('caty') || words.includes('nhi');
     }
 
     function getMaxDefaultUnlockedChapter() {
@@ -366,6 +374,14 @@ document.addEventListener('DOMContentLoaded', () => {
             return 2;
         }
         return 13;
+    }
+
+    function getMaxDefaultUnlockedTest() {
+        const currentStudent = localStorage.getItem('studentName') || '';
+        if (isCatyOrNhiStudent(currentStudent)) {
+            return 9;
+        }
+        return 0;
     }
 
     function updateLockStatusInSidebar() {
@@ -377,9 +393,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const lockIcon = item.querySelector('.lock-badge');
             if (lockIcon) lockIcon.remove();
             
-            // Get the raw text ignoring icon if present
-            const textNode = Array.from(item.childNodes).find(n => n.nodeType === Node.TEXT_NODE && n.textContent.trim().length > 0);
-            const titleText = textNode ? textNode.textContent.trim() : item.textContent.trim();
+            const titleText = item.getAttribute('data-title') || item.textContent.trim();
+            item.setAttribute('data-title', titleText);
 
             if (chId > maxUnlocked) {
                 const isUnlocked = localStorage.getItem(`chapter_${chId}_unlocked`) === 'true';
@@ -402,33 +417,35 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
+        const maxUnlockedTest = getMaxDefaultUnlockedTest();
         document.querySelectorAll('.test-item').forEach(item => {
             const testId = parseInt(item.getAttribute('data-test-id'));
-            const isUnlocked = localStorage.getItem(`test_${testId}_unlocked`) === 'true';
             const lockIcon = item.querySelector('.lock-badge');
             if (lockIcon) lockIcon.remove();
             
-            // Re-render based on structure: icon + text + (optional) lock
-            const textNode = Array.from(item.childNodes).find(n => n.nodeType === Node.TEXT_NODE && n.textContent.trim().length > 0);
-            const titleText = textNode ? textNode.textContent.trim() : item.textContent.trim();
+            const titleText = item.getAttribute('data-title') || item.textContent.trim();
+            item.setAttribute('data-title', titleText);
             const prefixIcon = testId <= 4 ? '<i class="fa-solid fa-square-poll-horizontal"></i>' : '<i class="fa-solid fa-file-signature"></i>';
             
-            if (!isUnlocked) {
-                item.innerHTML = `<span style="display: flex; align-items: center; gap: 8px;">${prefixIcon} ${titleText}</span> <span class="lock-badge" style="color: var(--color-gold); margin-left: auto; font-size: 0.85rem; padding-left: 8px;"><i class="fa-solid fa-lock"></i></span>`;
-                item.style.display = 'flex';
-                item.style.alignItems = 'center';
-                item.style.justifyContent = 'space-between';
+            if (testId > maxUnlockedTest) {
+                const isUnlocked = localStorage.getItem(`test_${testId}_unlocked`) === 'true';
+                if (!isUnlocked) {
+                    item.innerHTML = `<span style="display: flex; align-items: center; gap: 8px;">${prefixIcon} ${titleText}</span> <span class="lock-badge" style="color: var(--color-gold); margin-left: auto; font-size: 0.85rem; padding-left: 8px;"><i class="fa-solid fa-lock"></i></span>`;
+                } else {
+                    item.innerHTML = `<span style="display: flex; align-items: center; gap: 8px;">${prefixIcon} ${titleText}</span> <span class="lock-badge" style="color: var(--color-success); margin-left: auto; font-size: 0.85rem; padding-left: 8px;"><i class="fa-solid fa-lock-open"></i></span>`;
+                }
             } else {
-                item.innerHTML = `<span style="display: flex; align-items: center; gap: 8px;">${prefixIcon} ${titleText}</span> <span class="lock-badge" style="color: var(--color-success); margin-left: auto; font-size: 0.85rem; padding-left: 8px;"><i class="fa-solid fa-lock-open"></i></span>`;
-                item.style.display = 'flex';
-                item.style.alignItems = 'center';
-                item.style.justifyContent = 'space-between';
+                item.innerHTML = `<span style="display: flex; align-items: center; gap: 8px;">${prefixIcon} ${titleText}</span>`;
             }
+            item.style.display = 'flex';
+            item.style.alignItems = 'center';
+            item.style.justifyContent = 'space-between';
         });
     }
 
     function showTestView(testId) {
-        const isUnlocked = localStorage.getItem(`test_${testId}_unlocked`) === 'true';
+        const maxUnlockedTest = getMaxDefaultUnlockedTest();
+        const isUnlocked = testId <= maxUnlockedTest || localStorage.getItem(`test_${testId}_unlocked`) === 'true';
         if (!isUnlocked) {
             pendingTestId = testId;
             const testName = testId <= 4 ? `BÀI ÔN TẬP 0${testId}` : `ETS 2026 - TEST 0${testId - 4}`;
@@ -1254,6 +1271,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
             updateLockStatusInSidebar();
+            if (window.FlowerGarden && typeof window.FlowerGarden.checkAccountChange === 'function') {
+                window.FlowerGarden.checkAccountChange();
+            }
 
             nameInputError.style.display = 'none';
             nameEntryOverlay.style.opacity = '0';
@@ -1329,6 +1349,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 pendingTestId = null;
             }
             updateLockStatusInSidebar();
+            if (window.FlowerGarden && typeof window.FlowerGarden.checkAccountChange === 'function') {
+                window.FlowerGarden.checkAccountChange();
+            }
         } else {
             passwordError.style.display = 'block';
             chapterPasswordInput.classList.add('shake');
