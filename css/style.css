@@ -985,11 +985,10 @@ body.light-theme .quiz-card {
 .slide-body span.blank-space,
 span.blank-space {
     display: inline-block;
-    min-width: 68px;
     letter-spacing: 2px;
     font-weight: 700;
-    border-bottom: 2.5px dashed var(--color-cyan);
-    padding: 0 10px;
+    border-bottom: none;
+    padding: 0 4px;
     margin: 0 4px;
     color: var(--color-cyan);
     text-shadow: 0 0 5px rgba(0, 242, 254, 0.2);
@@ -999,7 +998,7 @@ body.light-theme .question-text span.blank-space,
 body.light-theme .example-question-text span.blank-space,
 body.light-theme .slide-body span.blank-space,
 body.light-theme span.blank-space {
-    border-bottom-color: var(--color-blue);
+    border-bottom: none;
     color: var(--color-blue);
     text-shadow: none;
 }
