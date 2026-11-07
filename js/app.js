@@ -371,7 +371,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function getMaxDefaultUnlockedChapter() {
         const currentStudent = localStorage.getItem('studentName') || '';
         if (isThuTrangStudent(currentStudent)) {
-            return 2;
+            return 4;
         }
         return 13;
     }
@@ -1260,13 +1260,13 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
             localStorage.setItem('studentName', name);
             if (isThuTrangStudent(name)) {
-                for (let i = 3; i <= 13; i++) {
+                for (let i = 5; i <= 13; i++) {
                     localStorage.removeItem(`chapter_${i}_unlocked`);
                 }
                 for (let t = 1; t <= 9; t++) {
                     localStorage.removeItem(`test_${t}_unlocked`);
                 }
-                if ((currentChapter !== null && (currentChapter + 1) > 2) || currentTestIndex !== null) {
+                if ((currentChapter !== null && (currentChapter + 1) > 4) || currentTestIndex !== null) {
                     showHomeView();
                 }
             }
