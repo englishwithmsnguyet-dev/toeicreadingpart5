@@ -4603,15 +4603,15 @@ const toeicReadingData = [
         "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. to shut off</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Phân biệt <strong>Remember to V</strong> vs <strong>Remember V-ing</strong>:<br>  + <em>Remember + to-V</em>: Nhớ phải làm gì (nhiệm vụ, bổn phận trong tương lai hoặc chưa làm).<br>  + <em>Remember + V-ing</em>: Nhớ đã làm gì trong quá khứ.<br>- Câu mang tính chất lời nhắc nhở thực hiện hành động trước khi rời đi (<code>before leaving</code>) → chọn <strong>to shut off</strong>.<br><br><strong>Dịch câu:</strong><br><em>Xin vui lòng nhớ tắt tất cả các thiết bị điều hòa không khí và khóa phòng hội nghị trước khi rời khỏi tòa nhà.</em>"
       },
       {
-        "question": "The software update will eliminate the need ______ paper invoices manually, saving hundreds of labor hours.",
+        "question": "The annual technology conference provides junior engineers with a valuable opportunity ______ from industry leaders.",
         "options": {
-          "A": "processing",
-          "B": "processed",
-          "C": "for process",
-          "D": "to process"
+          "A": "learn",
+          "B": "learned",
+          "C": "learning",
+          "D": "to learn"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. to process</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc danh từ đi với động từ nguyên mẫu: <strong>the need / ability / opportunity / effort + to-infinitive</strong> (nhu cầu/khả năng/cơ hội để làm gì).<br>- Đi sau danh từ <code>the need</code> cần động từ nguyên mẫu có <code>to</code> → chọn <strong>to process</strong>.<br><br><strong>Dịch câu:</strong><br><em>Bản cập nhật phần mềm sẽ loại bỏ sự cần thiết phải xử lý hóa đơn giấy theo cách thủ công, giúp tiết kiệm hàng trăm giờ lao động.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. to learn</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc danh từ chỉ cơ hội đi với to-V: <strong>opportunity + to-infinitive</strong> (cơ hội để làm gì).<br>- Đi sau cụm danh từ <code>a valuable opportunity</code> cần động từ nguyên mẫu có <code>to</code> → chọn <strong class=\"hl-vocab\">to learn</strong>.<br><br><strong>Dịch câu:</strong><br><em>Hội nghị công nghệ thường niên mang lại cho các kỹ sư trẻ cơ hội quý giá để học hỏi từ các chuyên gia hàng đầu trong ngành.</em>"
       },
       {
         "question": "Due to unexpected supply chain disruptions, the manufacturer had no choice but ______ production at the plant.",
@@ -5177,15 +5177,15 @@ const toeicReadingData = [
         "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. Once</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Liên từ chỉ thời gian mang tính điều kiện: <strong>Once + S + have/has V3ed, S + V</strong> mang nghĩa 'Một khi... / Ngay sau khi... đã hoàn thành'.<br>- Ngữ cảnh: Một khi các tập tin dự án mật đã được mã hóa an toàn, chúng mới có thể được tải lên kho lưu trữ đám mây → chọn <strong>Once</strong>.<br>- Các phương án còn lại trái ngược về mặt logic:<br>  + <em>Until</em>: Cho đến tận khi (thường đi với mệnh đề chính phủ định).<br>  + <em>Unless</em>: Trừ khi / Nếu không.<br>  + <em>While</em>: Trong khi (chỉ 2 hành động song song).<br><br><strong>Dịch câu:</strong><br><em>Một khi tất cả các tập tin dự án mật đã được mã hóa an toàn, chúng có thể được tải lên kho lưu trữ đám mây.</em>"
       },
       {
-        "question": "The newly appointed executive director is respected ______ for her visionary leadership ______ for her integrity.",
+        "question": "The newly appointed executive director is respected not only for her visionary leadership ______ for her exceptional integrity.",
         "options": {
-          "A": "both - or",
-          "B": "neither - or",
-          "C": "either - and",
-          "D": "not only - but also"
+          "A": "as well",
+          "B": "along with",
+          "C": "together with",
+          "D": "but also"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. not only - but also</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ tương quan (Correlative Conjunctions): Cặp từ cố định <strong>not only A but also B</strong> (không những A mà còn B).<br>- Cấu trúc này đảm bảo tính song hành hoàn hảo giữa hai cụm giới từ: <em>for her visionary leadership</em> và <em>for her integrity</em>.<br>- Các phương án ghép sai cặp từ:<br>  + B sai vì <code>neither</code> phải đi với <code>nor</code>.<br>  + C sai vì <code>either</code> phải đi với <code>or</code>.<br>  + D sai vì <code>both</code> phải đi với <code>and</code>.<br><br><strong>Dịch câu:</strong><br><em>Vị giám đốc điều hành mới được bổ nhiệm được kính trọng không chỉ vì khả năng lãnh đạo có tầm nhìn mà còn vì sự chính trực của bà.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. but also</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ tương quan song hành: <strong>not only A but also B</strong> (không những A mà còn B).<br>- Phía trước đã có <code>not only for her visionary leadership</code> → chỗ trống bắt buộc điền <strong class=\"hl-vocab\">but also</strong> để hoàn thiện cặp liên từ tương quan.<br><br><strong>Dịch câu:</strong><br><em>Vị giám đốc điều hành mới được bổ nhiệm được kính trọng không chỉ vì khả năng lãnh đạo có tầm nhìn mà còn vì sự chính trực xuất sắc của bà.</em>"
       },
       {
         "question": "The shipment of electronic sensors cannot be released from customs ______ the importer provides the certificate of origin.",
@@ -5265,15 +5265,15 @@ const toeicReadingData = [
         "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. yet</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bẫy liên từ đẳng lập đa nghĩa: <strong>Yet</strong> khi đóng vai trò liên từ đẳng lập nối hai tính từ mang nghĩa 'nhưng / tuy vậy mà lại' (tương đương <em>but</em>).<br>- <code>concise yet informative</code> là cách diễn đạt phổ biến và học thuật trong TOEIC (ngắn gọn nhưng lại chứa đựng nhiều thông tin hữu ích).<br>- Các liên từ <em>or</em> (hoặc), <em>so</em> (cho nên), <em>for</em> (bởi vì) không dùng để nối hai tính từ đối lập tinh tế như thế này.<br><br><strong>Dịch câu:</strong><br><em>Các trang trình bày ngắn gọn nhưng vẫn đầy đủ thông tin, giúp khách hàng dễ dàng hiểu được bản đề xuất phức tạp.</em>"
       },
       {
-        "question": "The marketing director proposed ______ reducing print advertising expenditures ______ reallocating funds to digital media.",
+        "question": "The marketing director proposed ______ reducing print advertising expenditures but also reallocating funds to digital media.",
         "options": {
-          "A": "neither - and",
-          "B": "not only - but also",
-          "C": "both - or",
-          "D": "either - but"
+          "A": "both",
+          "B": "not only",
+          "C": "either",
+          "D": "neither"
         },
         "answer": "B",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. not only - but also</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ tương quan song hành: Cặp từ đúng ngữ pháp duy nhất là <strong>not only... but also...</strong> (không những... mà còn...).<br>- Hai vế được nối đều là cụm danh động từ: <em>reducing...</em> và <em>reallocating...</em>.<br>- Các lựa chọn A, C, D đều ghép sai cặp liên từ tương quan.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã đề xuất không chỉ cắt giảm chi tiêu cho quảng cáo in ấn mà còn tái phân bổ ngân sách sang truyền thông kỹ thuật số.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">B. not only</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ tương quan song hành: <strong>not only A but also B</strong> (không những A mà còn B).<br>- Phía sau vế thứ nhất có cụm liên từ <code>but also</code> kết hợp song hành hai danh động từ <em>(reducing... but also reallocating...)</em> → vị trí chỗ trống bắt buộc điền <strong class=\"hl-vocab\">not only</strong>.<br>- Các phương án khác không phù hợp:<br>  + A. <code>both</code> đi với <code>and</code>.<br>  + C. <code>either</code> đi với <code>or</code>.<br>  + D. <code>neither</code> đi với <code>nor</code>.<br><br><strong>Dịch câu:</strong><br><em>Giám đốc tiếp thị đã đề xuất không chỉ cắt giảm chi tiêu cho quảng cáo in ấn mà còn tái phân bổ ngân sách sang truyền thông kỹ thuật số.</em>"
       },
       {
         "question": "______ all laboratory test results have been officially verified, the pharmaceutical firm cannot apply for regulatory approval.",
@@ -5287,15 +5287,15 @@ const toeicReadingData = [
         "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">C. Until</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bẫy liên từ thời gian kết hợp phủ định: <strong>Until + S + V, S + cannot / will not + V</strong> mang nghĩa 'Cho đến tận khi... thì mới có thể...'.<br>- Ngữ cảnh: Cho đến khi tất cả kết quả thử nghiệm trong phòng lab được kiểm chứng chính thức, công ty dược phẩm không thể nộp đơn xin cấp phép từ cơ quan quản lý → chọn <strong>Until</strong>.<br>- Các liên từ <em>As soon as</em> (ngay khi), <em>Because</em> (bởi vì), <em>While</em> (trong khi) nếu đưa vào sẽ tạo thành câu phản logic.<br><br><strong>Dịch câu:</strong><br><em>Cho đến khi tất cả các kết quả xét nghiệm trong phòng thí nghiệm được xác minh chính thức, công ty dược phẩm không thể nộp đơn xin phê duyệt theo quy định.</em>"
       },
       {
-        "question": "Candidates must possess ______ a bachelor's degree in accounting ______ a minimum of three years of auditing experience.",
+        "question": "Candidates must possess ______ a bachelor's degree in accounting and a minimum of three years of auditing experience.",
         "options": {
-          "A": "neither - or",
-          "B": "both - or",
-          "C": "not only - or",
-          "D": "both - and"
+          "A": "either",
+          "B": "neither",
+          "C": "whether",
+          "D": "both"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. both - and</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cặp liên từ tương quan đúng: <strong>both A and B</strong> (cả A và B).<br>- Yêu cầu công việc đòi hỏi ứng viên phải có cả hai điều kiện: bằng cử nhân kế toán VÀ tối thiểu ba năm kinh nghiệm kiểm toán → chọn <strong>both - and</strong>.<br>- Các phương án A, B, C đều ghép sai cặp từ nối.<br><br><strong>Dịch câu:</strong><br><em>Các ứng viên phải có cả bằng cử nhân kế toán và tối thiểu ba năm kinh nghiệm kiểm toán.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. both</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc liên từ tương quan: <strong>both A and B</strong> (cả A và B).<br>- Quan sát thấy phía sau chỗ trống có liên từ <code>and</code> kết nối hai điều kiện song hành <em>(a bachelor's degree... and a minimum of three years...)</em> → vị trí chỗ trống cần điền <strong class=\"hl-vocab\">both</strong>.<br>- Các phương án khác đi với liên từ khác:<br>  + A. <code>either</code> đi với <code>or</code>.<br>  + B. <code>neither</code> đi với <code>nor</code>.<br>  + C. <code>whether</code> đi với <code>or</code>.<br><br><strong>Dịch câu:</strong><br><em>Các ứng viên phải có cả bằng cử nhân kế toán và tối thiểu ba năm kinh nghiệm kiểm toán.</em>"
       },
       {
         "question": "The customer care hotline received hundreds of calls ______ the mobile banking application encountered a technical outage.",
@@ -5309,15 +5309,15 @@ const toeicReadingData = [
         "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">A. when</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Bẫy phân biệt Liên từ vs Giới từ: Phía sau chỗ trống là mệnh đề có chủ ngữ và vị ngữ hoàn chỉnh (<em>the mobile banking application encountered a technical outage</em>).<br>- Do đó ta bắt buộc phải chọn một liên từ chỉ thời gian/sự kiện là <strong>when</strong> (khi/vào lúc).<br>- Các phương án <strong>during</strong>, <strong>despite</strong>, và <strong>because of</strong> đều là giới từ, chỉ đi kèm danh từ/cụm danh từ nên loại.<br><br><strong>Dịch câu:</strong><br><em>Đường dây nóng chăm sóc khách hàng đã nhận được hàng trăm cuộc gọi khi ứng dụng ngân hàng di động gặp sự cố ngừng hoạt động kỹ thuật.</em>"
       },
       {
-        "question": "The revised corporate security guidelines are ______ rigorous ______ external auditors commended our compliance efforts.",
+        "question": "The revised corporate security guidelines are so rigorous ______ external auditors commended our compliance efforts.",
         "options": {
-          "A": "neither - nor",
-          "B": "as - as",
-          "C": "such - that",
-          "D": "so - that"
+          "A": "which",
+          "B": "whether",
+          "C": "because",
+          "D": "that"
         },
         "answer": "D",
-        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. so - that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chỉ kết quả: Phân biệt <strong>so... that</strong> và <strong>such... that</strong>:<br>  + <code>so + Adjective / Adverb + that + clause</code>.<br>  + <code>such + (a/an) + Adj + Noun + that + clause</code>.<br>- Ở đây sau chỗ trống thứ nhất là tính từ đơn <strong>rigorous</strong> (nghiêm ngặt), không có danh từ theo sau → bắt buộc dùng cấu trúc <strong>so... that</strong>.<br>- Do đó chọn phương án <strong>so - that</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các hướng dẫn an ninh doanh nghiệp sửa đổi nghiêm ngặt đến mức mà các kiểm toán viên bên ngoài đã khen ngợi nỗ lực tuân thủ của chúng tôi.</em>"
+        "explanation": "<strong>Đáp án đúng: <span class=\"hl-green\">D. that</span></strong><br><br><strong>Giải thích chi tiết:</strong><br>- Cấu trúc chỉ kết quả: <strong>so + Adjective + that + clause</strong> (quá... đến nỗi mà...).<br>- Phía trước có <code>so rigorous</code> (tính từ) và phía sau là một mệnh đề hoàn chỉnh <em>(external auditors commended...)</em> → chỗ trống cần liên từ <strong class=\"hl-vocab\">that</strong>.<br><br><strong>Dịch câu:</strong><br><em>Các hướng dẫn an ninh doanh nghiệp sửa đổi nghiêm ngặt đến mức mà các kiểm toán viên bên ngoài đã khen ngợi nỗ lực tuân thủ của chúng tôi.</em>"
       },
       {
         "question": "The senior management team held an emergency meeting ______ review the quarterly revenue deficit.",
